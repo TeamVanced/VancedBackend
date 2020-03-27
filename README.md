@@ -4,9 +4,9 @@
 https://vanced.app/api/v1
 
 ## paths:
-/
-/download/:version
-/changelog/:version
+/ /n
+/download/:version /n
+/changelog/:version /n
 
 ## / 
 Gives a json array with all versions (15+) sorted from newest to oldest
