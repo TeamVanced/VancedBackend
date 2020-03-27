@@ -15,7 +15,7 @@ Example request:
 get https://vanced.app/api/v1/ 
 
 Example Response
-```json
+```yaml
 {
 "versions":[ "15.05.54", "14.21.54" ]
 }
@@ -50,7 +50,7 @@ Example request
 Get https://vanced.app/api/v1/downloads?version=15.05.54&arch=x86&theme=dark&language=de&variant=nonroot
 
 Example Response
-```json
+```yaml
 {
 "base": "https://vanced.app/downloads/15.05.54/nonroot/darkbase.apk",
 "lang": "https://vanced.app/downloads/15.05.54/nonroot/split_config.de.apk",
@@ -67,6 +67,4 @@ Example Response
 
 are the nonroot and root split language configs the same?
 
-no
-
-all splits different
+no, all splits different
