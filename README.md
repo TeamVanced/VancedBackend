@@ -17,7 +17,7 @@ get https://vanced.app/api/v1/
 Example Response
 ```json
 {
-“versions”:[ “15.05.54”, “14.21.54” ]
+"versions":[ "15.05.54", "14.21.54" ]
 }
 ```
 
