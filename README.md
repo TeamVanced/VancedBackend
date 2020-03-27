@@ -4,9 +4,9 @@
 https://vanced.app/api/v1
 
 ## paths:
-/ /n
-/download/:version /n
-/changelog/:version /n
+/
+/download/:version
+/changelog/:version
 
 ## / 
 Gives a json array with all versions (15+) sorted from newest to oldest
@@ -56,7 +56,8 @@ Example Response
 "lang": "https://vanced.app/downloads/15.05.54/nonroot/split_config.de.apk",
 "lang_en": "https://vanced.app/downloads/15.05.54/nonroot/split_config.en.apk",
 "arch": "https://vanced.app/downloads/15.05.54/nonroot/config.x86.apk" 
-}```
+}
+```
 
 
 
