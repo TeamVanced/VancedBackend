@@ -15,9 +15,10 @@ Example request:
 get https://vanced.app/api/v1/ 
 
 Example Response
+```javascript
 {
 “versions”:[ “15.05.54”, “14.21.54” ]
-}
+}```
 
 
 
