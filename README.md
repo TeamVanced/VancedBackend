@@ -65,7 +65,7 @@ Example response:
 Gives an array with all MicroG versions(most likely just one, we don't update it often)
 
 Example request:
-`get https://vanced.app/api/v1/microg
+`get https://vanced.app/api/v1/microg`
 
 Example response:
 ```yaml
