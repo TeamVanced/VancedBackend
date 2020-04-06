@@ -61,6 +61,19 @@ Example response:
 }
 ```
 
+## /microg
+Gives an array with all MicroG versions(most likely just one, we don't update it often)
+
+Example request:
+`get https://vanced.app/api/v1/microg
+
+Example response:
+```yaml
+{
+"versions":[ "0.2.6.17455", "older.version", "older.version" ]
+}
+```
+
 ## download/microg
 ### query strings
 version: a version number (if left out latest)
@@ -97,18 +110,7 @@ Example response:
 **notes**:
 The Vanced YouTube client always used /changelog/:version so if the 'app' query string is undefined(most cases) it will still display the correct changelog
 
-## /microg
-Gives an array with all MicroG versions(most likely just one, we don't update it often)
 
-Example request:
-`get https://vanced.app/api/v1/microg
-
-Example response:
-```yaml
-{
-"versions":[ "0.2.6.17455", "older.version", "older.version" ]
-}
-```
 
 
 
