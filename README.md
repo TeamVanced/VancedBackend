@@ -49,7 +49,7 @@ lang_en: The English split config file, **always included**\
 arch: The arch split config file from the corresponding arch query string
 
 Example request:
-`get https://vanced.app/api/v1/downloads?version=15.05.54&arch=x86&theme=dark&language=de&variant=nonroot`
+`get https://vanced.app/api/v1/download?version=15.05.54&arch=x86&theme=dark&language=de&variant=nonroot`
 
 Example response:
 ```yaml
@@ -74,14 +74,14 @@ Example response:
 }
 ```
 
-## download/microg
+## /download/microg
 ### query strings
 version: a version number (if left out latest)
 **Defaulted values:**\
 version=latest
 
 Example request:
-`get https://vanced.app/api/v1/downloads/microg?version=0.2.6.17455`
+`get https://vanced.app/api/v1/download/microg?version=0.2.6.17455`
 
 Example response:
 ```yaml
