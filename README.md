@@ -7,6 +7,8 @@ https://vanced.app/api/v1
 /\
 /download\
 /changelog/:version
+/microg
+
 ## / 
 Gives a json array with all versions (15+) sorted from newest to oldest
 
@@ -46,7 +48,6 @@ lang: The language config download link from the corresponding language query st
 lang_en: The English split config file, **always included**\
 arch: The arch split config file from the corresponding arch query string
 
-
 Example request:
 `get https://vanced.app/api/v1/downloads?version=15.05.54&arch=x86&theme=dark&language=de&variant=nonroot`
 
@@ -59,6 +60,23 @@ Example response:
 "arch": "https://vanced.app/downloads/15.05.54/nonroot/config.x86.apk" 
 }
 ```
+
+## download/microg
+### query strings
+version: a version number (if left out latest)
+**Defaulted values:**\
+version=latest
+
+Example request:
+`get https://vanced.app/api/v1/downloads/microg?version=0.2.6.17455`
+
+Example response:
+```yaml
+{
+"app": "https://vanced.app/downloads/microg/MicroG-0.2.6.17455.apk",
+}
+```
+
 
 ## /changelog/:version
 Gives seperate changelogs for the YouTube client, website and installer.
@@ -78,3 +96,20 @@ Example response:
 ```
 **notes**:
 The Vanced YouTube client always used /changelog/:version so if the 'app' query string is undefined(most cases) it will still display the correct changelog
+
+## /microg
+Gives an array with all MicroG versions(most likely just one, we don't update it often)
+
+Example request:
+`get https://vanced.app/api/v1/microg
+
+Example response:
+```yaml
+{
+"versions":[ "0.2.6.17455", "older.version", "older.version" ]
+}
+```
+
+
+
+
