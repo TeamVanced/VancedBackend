@@ -1,0 +1,1 @@
+//data for MicroG, the versions as IDs, includes download link, changelog and works with(vanced versions)
