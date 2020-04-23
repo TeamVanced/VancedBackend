@@ -13,7 +13,7 @@ https://vanced.app/api/v1
 Gives a json array with all versions (15+) sorted from newest to oldest
 
 Example request:\
-`get https://vanced.app/api/v1/`
+`get https://vanced.app/api/v1/versions`
 
 Example Response:
 ```yaml
