@@ -4,12 +4,12 @@
 https://vanced.app/api/v1
 
 ## paths:
-/\
+/versions\
 /download\
 /changelog/:version
 /microg
 
-## / 
+## /versions
 Gives a json array with all versions (15+) sorted from newest to oldest
 
 Example request:\
