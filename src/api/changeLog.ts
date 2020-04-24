@@ -6,6 +6,7 @@ export const router = express.Router();
 router.post('/:id', async (req, res) => {
     const entry = await database.vanced.findOne({ version: req.body.version });
     if (!entry) return res.status(404).json({ message: `Version ${req.body.version} not found!` });
+    return;
 });
 
 router.get('/:id', async (req, res) => {
@@ -18,4 +19,5 @@ router.get('/:id', async (req, res) => {
     if (req.query.app == 'installer') {
         res.json();
     }
+    return;
 });

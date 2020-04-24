@@ -42,6 +42,14 @@
         "@types/marked": "^0.7.4",
         "@types/mongoose": "^5.7.12",
         "@types/node": "^13.13.2",
+        "@typescript-eslint/eslint-plugin": "^2.27.0",
+        "@typescript-eslint/parser": "^2.27.0",
+        "eslint": "^6.8.0",
+        "eslint-config-prettier": "^6.10.1",
+        "eslint-plugin-prettier": "^3.1.2",
+        "husky": "^4.2.3",
+        "precise-commits": "^1.0.2",
+        "prettier": "^2.0.4",
         "typescript": "^3.8.3"
     }
 }
