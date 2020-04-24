@@ -1,22 +1,47 @@
 {
-  "name": "vancedbackend",
-  "version": "1.0.0",
-  "description": "The backend for both the Vanced API and website.",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "MrDodojo",
-  "license": "AGPL-3.0",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "dompurify": "^2.0.9",
-    "ejs": "^3.0.2",
-    "express": "^4.17.1",
-    "jsdom": "^16.2.2",
-    "marked": "^1.0.0",
-    "method-override": "^3.0.0",
-    "mongoose": "^5.9.10"
-  }
+    "name": "vancedbackend",
+    "version": "1.0.0",
+    "author": "MrDodojo",
+    "license": "AGPL-3.0",
+    "description": "The backend for both the Vanced API and website.",
+    "main": "dist/server.js",
+    "scripts": {
+        "start": "npm run build && node .",
+        "test": "tsc -p tsconfig.test.json && npm run lint",
+        "lint": "eslint ./src/**/*.ts",
+        "clean": "rm -rf dist/*",
+        "reinstall": "npm run cleanCache && npm run deleteModules && npm run deleteLock && npm run installModules",
+        "build": "tsc",
+        "cleanCache": "npm cache clean --force",
+        "deleteModules": "rm -rf node_modules/*",
+        "deleteLock": "rm yarn.lock",
+        "installModules": "yarn install"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "precise-commits && npm run lint"
+        }
+    },
+    "eslintIgnore": [
+        "dist",
+        ".vscode"
+    ],
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "dompurify": "^2.0.9",
+        "ejs": "^3.0.2",
+        "express": "^4.17.1",
+        "marked": "^1.0.0",
+        "method-override": "^3.0.0",
+        "mongoose": "^5.9.10"
+    },
+    "devDependencies": {
+        "@types/dompurify": "^2.0.1",
+        "@types/express": "^4.17.6",
+        "@types/jsdom": "^16.2.1",
+        "@types/marked": "^0.7.4",
+        "@types/mongoose": "^5.7.12",
+        "@types/node": "^13.13.2",
+        "typescript": "^3.8.3"
+    }
 }
