@@ -1,0 +1,6 @@
+{
+  "version": "1.2.0",
+  "versionCode": 12,
+  "url": "https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk",
+  "changelog": "- Moved installation indicators to the app\n- Added the ability to swipe down to refresh\n- Improved json parsing\n- Added the ability to download multiple Vanced languages\n- Fixed crashes related to Theme and Json parsing\n- Implemented firebase services (Analytics & Notifications)"
+}

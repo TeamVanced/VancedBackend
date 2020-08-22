@@ -1,0 +1,6 @@
+{
+  "version": "0.2.11.202414-vanced",
+  "versionCode": 202414022,
+  "changelog": "-Updated to upstream microg\n-Fixed chromecast issue\n-Improved background notifcation",
+  "url": "https://github.com/YTVanced/VancedMicroG/releases/latest/download/microg.apk"
+}
