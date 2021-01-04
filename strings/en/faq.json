@@ -1,5 +1,6 @@
 {
-	"faq": [{
+	"faq": [
+		{
 			"title": "What is Vanced",
 			"description": "YouTube Vanced is a modified version of Google's YouTube app that adds features and tweaks to make your YouTube experience better!\n\nSuch things include:\n\nBackground playback\nCustom themes (normal dark, OLED black, bright pink, or sky blue)\n(Most) ads are gone\nOverride max resolution\nAnd much, much more!\nFor a full list, check out the \"features\" drop-down in the XDA thread. The link to that (and other general info) can be found in the here(https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)"
 		},
@@ -9,7 +10,7 @@
 		},
 		{
 			"title": "App auto updates",
-			"description": "No, it will not. Be sure to join the Discord or Telegram channel to be alerted when a update is pushed. Developers have no plans to add an auto updater/checker to the app.\n            links to\n            discord: http://discord.gg/wYrRPgv\n            telegram: https://t.me/Vanced\n\nYou can also download the Vanced Manager app to get notifications when a new update is pushed out."
+			"description": "No, it will not. Be sure to join the Discord or Telegram channel to be alerted when a update is pushed. Developers have no plans to add an auto updater/checker to the app.\nlinks to\ndiscord: http://discord.gg/wYrRPgv\ntelegram: https://t.me/Vanced\n\nYou can also download the Vanced Manager app to get notifications when a new update is pushed out."
 		},
 		{
 			"title": "Video Download",
@@ -29,11 +30,11 @@
 		},
 		{
 			"title": "Accessibility Seek buttons",
-			"description": "Use the inbuilt accessibility settings to change the accessibility controls. Open settings in \"Youtube Vanced\" app and tap on accessibility. It will open this setting as shown in picture above.\n            \n            If you still can't find the options,\n\nHead to device settings > accessibility and find \"accessibility menu\" then disable it\n\nAlso, if that still doesn't work, disable sound amplifier, switch access, live caption if you have them enabled as well."
+			"description": "Use the inbuilt accessibility settings to change the accessibility controls. Open settings in \"Youtube Vanced\" app and tap on accessibility. It will open this setting as shown in picture above.\nIf you still can't find the options, Head to device settings > accessibility and find \"accessibility menu\" then disable it.\nAlso, if that still doesn't work, disable sound amplifier, switch access, live caption if you have them enabled as well."
 		},
 		{
 			"title": "Why Split apks",
-			"description": "First of all, what are split apks and how do we benefit from them:\n\n1.  What are split apks?\nIt's a zip file which contains the base apk, config apk for your device architecture and language apk.\n\nFor example, a typical normal apk has both 32 bit and 64 bit support file, lots of language files and a base apk. So if your device is only 32 bit for example and you only want english language file, why would you want an extra files which you don't even need and will result in taking huge space in your storage.\n\n> Advantages:\n  • size of split apk is almost half of normal apk\n  • a split apk only has those files which are relevant for your device and architecture\n\n> Disadvantages:\n  Difficult to newbies or non-technical people\n\n2. Why split?\n\nGoogle only distributes the YouTube APKs after version 14.54 in split APKs now , so in order to install Vanced, we have to use SAI (Split APK Installer).\nPreviously, they provides normal apk making it easy to install apps on every device.\n\n3. why dev's don't patch apks and make apk from it?\n\nIt's not like that they can't. It's about increased time in doing this. Converting from apks to apk adds time which they can use that in other ways(both personal and vanced bugs/updates). So please don't ask how to get normal apk. Use old version if you are really lazy or official YT app from play store directly."
+			"description": "First of all, what are split apks and how do we benefit from them:\n\n1. What are split apks?\nIt's a zip file which contains the base apk, config apk for your device architecture and language apk.\n\nFor example, a typical normal apk has both 32 bit and 64 bit support file, lots of language files and a base apk. So if your device is only 32 bit for example and you only want english language file, why would you want an extra files which you don't even need and will result in taking huge space in your storage.\n\n**Advantages**:\n• size of split apk is almost half of normal apk\n• a split apk only has those files which are relevant for your device and architecture\n\n**Disadvantages:**\nDifficult to newbies or non-technical people\n\n2. Why split?\nGoogle only distributes the YouTube APKs after version 14.54 in split APKs now , so in order to install Vanced, we have to use SAI (Split APK Installer).\nPreviously, they provides normal apk making it easy to install apps on every device.\n\n3. why dev's don't patch apks and make apk from it?\nIt's not like that they can't. It's about increased time in doing this. Converting from apks to apk adds time which they can use that in other ways(both personal and vanced bugs/updates). So please don't ask how to get normal apk. Use old version if you are really lazy or official YT app from play store directly."
 		},
 		{
 			"title": "App Splash color",
@@ -73,7 +74,7 @@
 		},
 		{
 			"title": "App Drawer",
-			"description": "If YT Vanced app is not visible in your app drawer, follow these steps:\n\n• Install regular YouTube app from the Google Play Store\n\n• Open the app until your front page shows up \(not sure if this is necessary. Just reconstructing what's been working for others all the time\).\n\n• Go to Settings > Apps > YouTube. It should show \"Uninstall\" on the top left. DO NOT Uninstall! Just see if it says that there!\n\n• Reboot\n\n• Go to Settings > Apps > YouTube. Now it should say \"Disable\" or \"Deactivate\". DO NOT Uninstall! Just see if it says that there!\n\n• In the same menu; tap on the three dot menu button on the upper right corner and tap on \"Remove/Uninstall Updates\".\n\nNow the YT Vanced app should show in your launcher.\n\nOR\n\nFollow this link(https://forum.xda-developers.com/showpost.php?p=75068670&postcount=299) if above solution didn't work for you."
+			"description": "If YT Vanced app is not visible in your app drawer, follow these steps:\n\n• Install regular YouTube app from the Google Play Store\n\n• Open the app until your front page shows up (not sure if this is necessary. Just reconstructing what's been working for others all the time).\n\n• Go to Settings > Apps > YouTube. It should show \"Uninstall\" on the top left. DO NOT Uninstall! Just see if it says that there!\n\n• Reboot\n\n• Go to Settings > Apps > YouTube. Now it should say \"Disable\" or \"Deactivate\". DO NOT Uninstall! Just see if it says that there!\n\n• In the same menu; tap on the three dot menu button on the upper right corner and tap on \"Remove/Uninstall Updates\".\n\nNow the YT Vanced app should show in your launcher.\n\nOR\n\n[Follow this link](https://forum.xda-developers.com/showpost.php?p=75068670&postcount=299) if above solution didn't work for you."
 		},
 		{
 			"title": "Videos Not Playing",
@@ -81,7 +82,13 @@
 		},
 		{
 			"title": "480p issue due to Covid-19 Pandamic",
-			"description": "It's NOT vanced bug/issue. It's youtube doing due to lockdown in various countries to limit data usage and huge traffic. So that every user can browse/surf on internet without much issues.\n\nHowever, YouTube has lifted this cap now. So you can ignore whatever being said below. If you still have 480p as maximum while the video resolution showing on desktop is higher, you can use below workaround as a temporary fix until Google removes the cap in your region/on your network.\n\nNow if you are looking for any WORKAROUNDS to Bypass this, \n\n1) You can try with VPN if you are lucky. YouTube applied this in most countries so you have to pick your new region wisely.\n\n2) Watch on desktop mode [www(dot)youtube(dot)com]\n\n3) Since the 480p restriction is only for mobile devices and not tablets we can change the model of the device in YouTube Vanced to overcome the restriction.\n\na) Open YouTube Vanced\n\nb) Enable additional options by going to Settings -> Vanced Settings -> Tap on the About section till you get a message saying hidden Menu is visible\n\nc) Go to Codec override -> Override model and enter the model number of any tab e.g. \"SM-T865\" and device to \"Samsung\"\n\nd) Restart the app and the 480p limit should be gone now\n\ne) Enjoy\n\n\nPLEASE NOTE: \n\n• Anything happens on YouTube, happens on YouTube vanced since everything is controlled by YouTube servers."
+			"description": "It's NOT vanced bug/issue. It's youtube doing due to lockdown in various countries to limit data usage and huge traffic. So that every user can browse/surf on internet without much issues.\n\nHowever, YouTube has lifted this cap now. So you can ignore whatever being said below. If you still have 480p as maximum while the video resolution showing on desktop is higher, you can use below workaround as a temporary fix until Google removes the cap in your region/on your network.\n\nPLEASE NOTE: \n\n• Anything happens on YouTube, happens on YouTube vanced since everything is controlled by YouTube servers.",
+			"fields": [
+				{
+					"title": "Workarounds",
+					"content": "1) You can try with VPN if you are lucky. YouTube applied this in most countries so you have to pick your new region wisely.\n\n2) Watch on desktop mode [www(dot)youtube(dot)com]\n\n3) Since the 480p restriction is only for mobile devices and not tablets we can change the model of the device in YouTube Vanced to overcome the restriction.\n\na) Open YouTube Vanced\n\nb) Enable additional options by going to Settings -> Vanced Settings -> Tap on the About section till you get a message saying hidden Menu is visible\n\nc) Go to Codec override -> Override model and enter the model number of any tab e.g. \"SM-T865\" and device to \"Samsung\"\n\nd) Restart the app and the 480p limit should be gone now\n\ne) Enjoy"
+				}
+			]
 		},
 		{
 			"title": "How to hide Vanced microG notification",

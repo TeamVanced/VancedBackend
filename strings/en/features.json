@@ -1,5 +1,5 @@
 {
-    "Vanced": [
+    "features": [
     	{
 			"title": "YouTube",
 			"description": "YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking, true amoled dark mode and a lot more. Use the handy Vanced Manager to install YouTube Vanced with ease."
@@ -32,7 +32,7 @@
 
         {
         	"title": "Difference between Root and Non-Root",
-        	"description": "- Root: \nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google assistant through the modded vanced app.\n- Non-Root:\n- However, if you have a device that is difficult to root or you don’t want to root your daily driver on the first hand, you should opt for the non-root variant. \n- It can be installed on a rooted device as well. Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account. \n- Moreover, you have to manually set Vanced as the default app for opening YouTube links. \n- However, the non-root variant is simply easier to live with, so our recommendation is to stick with the non-root variant unless you really need to replace the stock YouTube app on your phone. "
+        	"description": "- Root: \nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google assistant through the modded vanced app.\n- Non-Root:\n- However, if you have a device that is difficult to root or you don’t want to root your daily driver on the first hand, you should opt for the non-root variant. \n- It can be installed on a rooted device as well. Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account. \n- Moreover, you have to manually set Vanced as the default app for opening YouTube links. \n- However, the non-root variant is simply easier to live with, so our recommendation is to stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
         }
     ]
 }
