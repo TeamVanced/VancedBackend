@@ -1,5 +1,6 @@
 {
-	"faq": [{
+	"faq": [
+		{
 			"title": "What is Vanced",
 			"description": "YouTube Vanced is a modified version of Google's YouTube app that adds features and tweaks to make your YouTube experience better!\n\nSuch things include:\n\nBackground playback\nCustom themes (normal dark, OLED black, bright pink, or sky blue)\n(Most) ads are gone\nOverride max resolution\nAnd much, much more!\nFor a full list, check out the \"features\" drop-down in the XDA thread. The link to that (and other general info) can be found in the here(https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)"
 		},
@@ -73,7 +74,7 @@
 		},
 		{
 			"title": "App Drawer",
-			"description": "If YT Vanced app is not visible in your app drawer, follow these steps:\n\n• Install regular YouTube app from the Google Play Store\n\n• Open the app until your front page shows up \(not sure if this is necessary. Just reconstructing what's been working for others all the time\).\n\n• Go to Settings > Apps > YouTube. It should show \"Uninstall\" on the top left. DO NOT Uninstall! Just see if it says that there!\n\n• Reboot\n\n• Go to Settings > Apps > YouTube. Now it should say \"Disable\" or \"Deactivate\". DO NOT Uninstall! Just see if it says that there!\n\n• In the same menu; tap on the three dot menu button on the upper right corner and tap on \"Remove/Uninstall Updates\".\n\nNow the YT Vanced app should show in your launcher.\n\nOR\n\nFollow this link(https://forum.xda-developers.com/showpost.php?p=75068670&postcount=299) if above solution didn't work for you."
+			"description": "If YT Vanced app is not visible in your app drawer, follow these steps:\n\n• Install regular YouTube app from the Google Play Store\n\n• Open the app until your front page shows up (not sure if this is necessary. Just reconstructing what's been working for others all the time).\n\n• Go to Settings > Apps > YouTube. It should show \"Uninstall\" on the top left. DO NOT Uninstall! Just see if it says that there!\n\n• Reboot\n\n• Go to Settings > Apps > YouTube. Now it should say \"Disable\" or \"Deactivate\". DO NOT Uninstall! Just see if it says that there!\n\n• In the same menu; tap on the three dot menu button on the upper right corner and tap on \"Remove/Uninstall Updates\".\n\nNow the YT Vanced app should show in your launcher.\n\nOR\n\n[Follow this link](https://forum.xda-developers.com/showpost.php?p=75068670&postcount=299) if above solution didn't work for you."
 		},
 		{
 			"title": "Videos Not Playing",
@@ -81,7 +82,13 @@
 		},
 		{
 			"title": "480p issue due to Covid-19 Pandamic",
-			"description": "It's NOT vanced bug/issue. It's youtube doing due to lockdown in various countries to limit data usage and huge traffic. So that every user can browse/surf on internet without much issues.\n\nHowever, YouTube has lifted this cap now. So you can ignore whatever being said below. If you still have 480p as maximum while the video resolution showing on desktop is higher, you can use below workaround as a temporary fix until Google removes the cap in your region/on your network.\n\nNow if you are looking for any WORKAROUNDS to Bypass this, \n\n1) You can try with VPN if you are lucky. YouTube applied this in most countries so you have to pick your new region wisely.\n\n2) Watch on desktop mode [www(dot)youtube(dot)com]\n\n3) Since the 480p restriction is only for mobile devices and not tablets we can change the model of the device in YouTube Vanced to overcome the restriction.\n\na) Open YouTube Vanced\n\nb) Enable additional options by going to Settings -> Vanced Settings -> Tap on the About section till you get a message saying hidden Menu is visible\n\nc) Go to Codec override -> Override model and enter the model number of any tab e.g. \"SM-T865\" and device to \"Samsung\"\n\nd) Restart the app and the 480p limit should be gone now\n\ne) Enjoy\n\n\nPLEASE NOTE: \n\n• Anything happens on YouTube, happens on YouTube vanced since everything is controlled by YouTube servers."
+			"description": "It's NOT vanced bug/issue. It's youtube doing due to lockdown in various countries to limit data usage and huge traffic. So that every user can browse/surf on internet without much issues.\n\nHowever, YouTube has lifted this cap now. So you can ignore whatever being said below. If you still have 480p as maximum while the video resolution showing on desktop is higher, you can use below workaround as a temporary fix until Google removes the cap in your region/on your network.\n\nPLEASE NOTE: \n\n• Anything happens on YouTube, happens on YouTube vanced since everything is controlled by YouTube servers.",
+			"fields": [
+				{
+					"title": "Workarounds",
+					"content": "1) You can try with VPN if you are lucky. YouTube applied this in most countries so you have to pick your new region wisely.\n\n2) Watch on desktop mode [www(dot)youtube(dot)com]\n\n3) Since the 480p restriction is only for mobile devices and not tablets we can change the model of the device in YouTube Vanced to overcome the restriction.\n\na) Open YouTube Vanced\n\nb) Enable additional options by going to Settings -> Vanced Settings -> Tap on the About section till you get a message saying hidden Menu is visible\n\nc) Go to Codec override -> Override model and enter the model number of any tab e.g. \"SM-T865\" and device to \"Samsung\"\n\nd) Restart the app and the 480p limit should be gone now\n\ne) Enjoy"
+				}
+			]
 		},
 		{
 			"title": "How to hide Vanced microG notification",
