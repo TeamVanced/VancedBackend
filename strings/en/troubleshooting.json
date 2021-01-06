@@ -26,7 +26,7 @@
                 },
                 {
                     "title": "Huawei workaround 1",
-                    "content": "For those who updated microg to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microg.\n\n2. Download \"Vanced microg 0.2.12.203315 version\" from mediafire v15 link and install it. {Link for mediafire v15 here}\n\n3. You should be able to login now."
+                    "content": "For those who updated microg to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microg.\n\n2. Download \"Vanced microg 0.2.12.203315 version\" from mediafire v15 link and install it. {Link for mediafire v15 here - https://del.dog/Mediafireonlyv15}\n\n3. You should be able to login now."
                 },
                 {
                     "title": "Huawei workaround 2",
@@ -168,6 +168,14 @@
                 {
                     "title": "INSTALL_FAILED_VERSION_DOWNGRADE",
                     "content": "Uninstall stock yt updates. Make sure Stock YouTube version is lower than vanced version you are installing now."
+                },
+                {
+                    "title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
+                    "content": "Just uninstall any vanced app that you have installed from any other source then install vanced.  Otherwise uninstall "vanced microG" > reboot device > then install vanced microG first then Vanced. If error still comes, use SAI to install the vanced split apks manually. These apk files are located in "android/data/com.vanced.manager/files/vanced/nonroot/""
+                },
+                {
+                    "title": "INSTALL_PARSE_FAILED_NOT_APK",
+                    "content": "Change the language of your phone from Indonesian to English then install vanced. After installing, you can change language back to Indonesian. If your device ain't using Indonesian language, then make sure language is properly selected in Vanced manager which you wanna install with YouTube Vanced."
                 },
                 {
                     "title": "INSTALL_FAILED_NO_MATCHING_ABIS",
