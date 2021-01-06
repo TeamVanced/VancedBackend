@@ -1,1 +1,5 @@
-.idea
+*
+
+!strings/*
+!changelog/*
+!README.md
