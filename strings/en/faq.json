@@ -11,7 +11,7 @@
 		{
 			"title": "Will the app auto-update?",
 			"description": "No, it will not. Join the Discord/Telegram server or use Vanced Manager to be alerted when a update is pushed. Developers have no plans to add an auto updater/checker to the app.\nlinks to\ndiscord: http://discord.gg/wYrRPgv\ntelegram: https://t.me/Vanced"
-		}
+		},
 		{
 			"title": "Video Download",
 			"description": "Downloading videos is only available in these(https://support.google.com/youtube/answer/6141269) countries for free. Videos needing YouTube Premium will never get downloaded so if you see YT premium dialogue when downloading some videos, BUY YouTube PREMIUM FOR IT.\n\nNote this again, \"VANCED IS NOT YOUTUBE PREMIUM\". \n\nYou could use third-party apps like NewPipe, Videoder, Tubemate, SnapTube, or a Telegram bot to download videos if don't live in one of the supported countries. Please do not ask for links of these apps in group.\n\n⚠️⚠️Vanced will never add any sort of third party downloader to the app.⚠️ Not only it is a hassle for the developers to maintain, but it also gives Google one more reason to send a takedown notice, meaning that the development will be ceased for Vanced.\n\nNobody wants that, so downloading from other sources/YouTube videos from within the Vanced app will never be supported. Please don’t ask if the developers can add that feature. If you can’t download from the Vanced app, then use one of the alternative apps above.⚠️"
