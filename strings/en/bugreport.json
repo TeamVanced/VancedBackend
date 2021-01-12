@@ -1,38 +1,27 @@
 {
-    "bugreport": [
-        {
-            "title": "How to report bugs",
-            "description": "You can report bugs using our [GitHub issue tracker](https://github.com/YTVanced/Vanced)\n\n**Make sure to read README and check if your bug is already reported before reporting bugs!**",
-            "fields": [
-                {
-                    "title": "When will my bug be reviewed?",
-                    "content": "Your feedback will be reviewed as soon as possible."
-                }
-            ]
-        },
-        {
-            "title": "Report a regular bug",
-            "description":"Sometimes applying a modification can cause an unexpected bug.\nThat's where you help us with a logcat (a log of all processes on your system). This helps with identifying the issue. This requires a pc.",
-            "fields": [
-                {
-                    "title": "On your phone",
-                    "content": "1. Open your settings app and go to `About Phone/Phone Info` and click your build number 7 times.\n2. Now go back to the settings home page.\n3. You will either have a new tab called `Developer Options` in this menu or in the system menu.\n4. Open Developer Options and enable `USB-Debugging`."
-                },
-                {
-                    "title": "On your PC/Laptop",
-                    "content": "[Visit this website](https://developer.android.com/studio/releases/platform-tools) and download the files for your operating system.\n2. Extract this file.\n3. Open the extracted folder.\n4. `Shift + Rightclick` the background of the extracted folder and select `Run command prompt / powershell here`.\n5. Plug your phone into your PC, keep it open and grant USB-Debugging Permission.\n6. Type `adb devices`. If your phone is shown, proceed. If not, search up `[yourBrandHere] usb drivers` and install them.\n7. Type `adb logcat -c`, then `adb logcat *:W > logcat.txt`.\n8. Open your Vanced, reproduce your bug and then close the command prompt.\n9. Now you will have a new file `logcat.txt` in the folder. Open it, scan it quickly to remove personal info.\nPress `CTRL + A` then `CTRL + C`, open https://hastebin.com/, paste it and save. Use the output link for your bug report.\n"
-                }
-            ]
-        },
-        {
-            "title": "Report a theme bug",
-            "description": "Here's how to report theme-based bugs.\\nTo report bugs, you will need [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
-            "fields": [
-                {
-                    "title": "Getting started",
-                    "content": "After you have downloaded `Developer Assistant`, open Vanced and reproduce/find the bug, then open the layoutviewer by holding down your home button until the app launches.\nNow follow these steps:\n1. Make sure the bug you're experiencing is on the screen\n2. Tap on the element that you think is affected by the bug\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the output\n4. Use that screenshot for your bug report"
-                }
-            ]
-        }
-    ]
+	"bugreport": [{
+			"title": "How to report bugs",
+			"description": "You can report bugs using our [GitHub issue tracker](https://github.com/YTVanced/Vanced)\n\n**Make sure to read README and check if your bug is already reported before reporting bugs!**",
+			"fields": [{
+				"title": "When will my bug be reviewed?",
+				"content": "Your feedback will be reviewed as soon as possible."
+			}]
+		},
+		{
+			"title": "Reporting a regular bug",
+			"description": "Sometimes applying a modification can cause an unexpected bug.\nThat's where you help us with a logcat (a log of all processes on your system). This helps with identifying the issue. This requires a pc.",
+			"fields": [{
+				"title": "How do I make a logcat?",
+				"content": "Please watch and follow this video guide: https://youtu.be/ICLpwgsJJP0."
+			}]
+		},
+		{
+			"title": "Report a theme bug",
+			"description": "Here's how to report theme-based bugs.\\nTo report bugs, you will need [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [{
+				"title": "Getting started",
+				"content": "After you have downloaded `Developer Assistant`, open Vanced and reproduce/find the bug, then open the layoutviewer by holding down your home button until the app launches.\nNow follow these steps:\n1. Make sure the bug you're experiencing is on the screen\n2. Tap on the element that you think is affected by the bug\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the output\n4. Use that screenshot for your bug report"
+			}]
+		}
+	]
 }
