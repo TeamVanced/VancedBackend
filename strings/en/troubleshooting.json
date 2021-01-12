@@ -20,7 +20,7 @@
 				},
 				{
 					"title": "For users who are using Gsuite account on Non-Root version of vanced and facing connection issues frequently (errors like \"You are offline\", \"Please check your internet\", etc)",
-					"content": "•Log into your gsuite account admin console(http://admin.google.com/)\n\n• Search for device management\n\n• Go to setup and disable \"Mobile Management\"\n\n• That's it and it will get fixed."
+					"content": "•Log into your gsuite account admin console(https://admin.google.com/)\n\n• Search for device management\n\n• Go to setup and disable \"Mobile Management\"\n\n• That's it and it will get fixed."
 				},
 				{
 					"title": "Huawei workaround 1",
@@ -135,7 +135,7 @@
 				},
 				{
 					"title": "If you are having trouble downloading and installing vanced via manager, you can still use SAI/manual method to install vanced.",
-					"content": "• Use the MediaFire mirror to download the required files.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Use the AFH Mirror to download the required files.\n>http://androidfilehost.com/?w=files&flid=170196\n\nNOTES:\n\nA) Since we have all separate apk files on mediafire/afh now, you have to zip all \"base, architecture and language\" apk's & install it via SAI. All 3 apk are must.\nB) Manual installation can only be done either via root since it requires accessing root storage."
+					"content": "• Use the MediaFire mirror to download the required files.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Use the AFH Mirror to download the required files.\n>https://androidfilehost.com/?w=files&flid=170196\n\nNOTES:\n\nA) Since we have all separate apk files on mediafire/afh now, you have to zip all \"base, architecture and language\" apk's & install it via SAI. All 3 apk are must.\nB) Manual installation can only be done either via root since it requires accessing root storage."
 				}
 			]
 		},
