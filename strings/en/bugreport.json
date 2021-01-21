@@ -17,7 +17,7 @@
 		},
 		{
 			"title": "Report a theme bug",
-			"description": "Here's how to report theme-based bugs.\\nTo report bugs, you will need [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"description": "Here's how to report theme-based bugs.\nTo report bugs, you will need [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
 			"fields": [{
 				"title": "Getting started",
 				"content": "After you have downloaded `Developer Assistant`, open Vanced and reproduce/find the bug, then open the layoutviewer by holding down your home button until the app launches.\nNow follow these steps:\n1. Make sure the bug you're experiencing is on the screen\n2. Tap on the element that you think is affected by the bug\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the output\n4. Use that screenshot for your bug report"
