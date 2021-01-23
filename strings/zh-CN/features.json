@@ -1,0 +1,38 @@
+{
+    "features": [
+    	{
+			"title": "关于 Vanced",
+			"description": "YouTube Vanced 旨在成为 YouTube 的更好版本，它包括广告屏蔽、AMOLED 黑暗模式等酷炫功能。你可以使用 Vanced Manager 方便地安装 YouTube Vanced 和管理更新。"
+		},
+
+		{
+			"title": "关于 Vanced Music",
+			"description": "Vanced Music 和 Vanced 目的相同，只不过它的功能集中在 YouTube 音乐上。它的功能和 Vanced 相比相对较少，但是仍然包含了你可能迫切需要的特性，比如广告屏蔽、后台播放等。"
+		},
+
+        {
+        	"title": "YouTube Vanced 主要功能",
+			"description": " • AMOLED 深色模式\n • 屏蔽所有广告、允许后台播放，以及画中画模式播放（Android 8.0+）\n • 上下滑动控制亮度和音量，并可以设置触发阈值\n • 自动轮播功能\n • 评论区和迷你播放器样式可切换为平板设备上的版本（与旧版相似，目前有少量 bug）"
+        },
+
+        {
+        	"title": "个性化设置",
+        	"description": "- 可以强制覆盖解码器设置（如在较老的设备上使用 H264 或 VP9）\n- 强制开启 HDR 或关闭 60fps 以获得影院般的观看体验（各设备的详细配置请到 Discord 和 XDA 查看）\n- 强制选择更高或更低的分辨率，如启用 4K。它可以忽略 YouTube 对你设备的最高分辨率封锁。你也可以设置默认播放速度（0.25x~2x）\n- 移除主页和绝大部分界面广告、商品、社区、热播电影、置顶信息（如新冠疫情信息）、评论区等！"
+        },
+
+        {
+        	"title": "赞助信息屏蔽",
+        	"description": "- Vanced 可以跳过赞助者信息（YouTube 用户在视频中间宣传广告服务或产品的功能）。\n- 它还支持跳过其他类别，例如简介、其他信息和自我宣传。\n- 我们使用这些已知的 API。 您可以在这里找到有关其工作方式的更多信息。\n- 它还可以让您向 API 中添加自己的部分，并为整个社区做出贡献\n- 完全控制是否自动跳过细分类别或显示“跳过”按钮，或者不跳过它。\n- 根据播放时间轴中的类别，以特定颜色突出显示该片段。”"
+        },
+
+        {
+        	"title": "支持的平台",
+        	"description": "Vanced 目前只支持 Android 平台，并且我们目前不计划支持其他平台。"
+    	},
+
+        {
+        	"title": "Root 和非 Root 模式的区别",
+        	"description": "- Root 模式：\nRoot 模式会完全替换 YouTube 官方 App，因此你可以直接用 Vanced 打开 YouTube 链接，或者用 Google Assistant 唤起。\n- 未 Root 模式：\n- 如果您的设备未 Root，或者不想在常用设备上这么做，则可以选择非 Root 版本。它也可以安装在没有 Root 的设备上。\n由于非 Root 版本的程序包名称与 YouTube 不同，因此它们可以共存。请注意，您需要安装我们的配套应用（Vanced microG）才能使用您的 YouTube/Google 帐户登录。此外，您必须手动将 Vanced 设为打开 YouTube 链接的默认应用。 \n非 Root 版本更易于使用，因此，除非您确实需要替换手机上的现有 YouTube 应用，否则我们建议您使用非 Root 版本。"
+        }
+    ]
+}
