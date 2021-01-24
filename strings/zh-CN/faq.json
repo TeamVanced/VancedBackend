@@ -1,23 +1,23 @@
 {
 	"faq": [
 		{
-			"title": "What is Vanced",
-			"description": "YouTube Vanced is a modified version of YouTube with features and tweaks to make your YouTube experience better!\n\nSuch features include:\n\nBackground playback\nCustom themes (normal dark or OLED black)\nBlockers for most ads\nOverride max resolution\nAnd much more!\nFor a full list, check out the \"features\" drop-down in the XDA thread. The link to that (and other general info) is(https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)"
+			"title": "Vanced 是什么",
+			"description": "YouTube Vanced 是 YouTube 的修改版，具有一些优化后的功能，可以使您的 YouTube 体验更好！\n \n这些功能包括：\n\n后台播放\n自定义主题（正常的深色或 AMOLED 黑色）\n屏蔽大多数广告\n覆盖最大分辨率 \n还有更多！\n要查看完整列表，请查看 XDA 话题串中的“Features”下拉列表。话题（还包含以及其他常规信息）链接为 https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757 。"
 		},
 		{
-			"title": "Download Links",
-			"description": "You can download it from the official site or the mirrors. Links to our site & mirrors are below:\n\n• Official site(https://vancedapp.com/)\n\n• Mediafire(https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled)\n\n• Android File Host(https://androidfilehost.com/?w=files&flid=170196)\n\nIt is not advised to download from imposter or unverified sites. If it's not on our mirrors or XDA thread, then that mirror is unofficial. As such, we can't guarantee if it's malware/adware or not. Stick to the official sites and mirrors to ensure your safety."
+			"title": "在哪里下载 Vanced",
+			"description": "您可以从官方网站或镜像下载。以下是我们网站和镜像的链接：\n\n• 官方网站：https://vancedapp.com \n\n• Mediafire： https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled \n\n• Android File Host： https://androidfilehost.com/?w=files&flid=170196 \n\n不建议从冒名顶替者或未经验证的网站下载。 如果它不在我们的镜像或XDA线程上，则该镜像是非官方的。 我们无法保证它是否为恶意软件/广告软件。请始终使用官方站点和镜像，以确保您的安全。"
 		},
 		{
 			"title": "Will the app auto-update?",
-			"description": "No, it will not. Join the Discord/Telegram server or use Vanced Manager to be alerted when a update is pushed. Developers have no plans to add an auto updater/checker to the app.\nlinks to\ndiscord: https://discord.gg/wYrRPgv\ntelegram: https://t.me/Vanced"
+			"description": "不，不会。加入 Discord/Telegram，或使用 Vanced Manager 在更新推送时收到通知。我们不打算向应用程序添加自动更新程序/检查器。\n Discord： https://discord.gg/wYrRPgv \n Telegram: https://t.me/Vanced"
 		},
 		{
-			"title": "Video Download",
-			"description": "Downloading videos is only available in these(https://support.google.com/youtube/answer/6141269) countries for free. Videos needing YouTube Premium will never get downloaded so if you see YT premium dialogue when downloading some videos, BUY YouTube PREMIUM FOR IT.\n\nNote this again, \"VANCED IS NOT YOUTUBE PREMIUM\".\n\n⚠️⚠️Vanced will never add any sort of third party downloader to the app.⚠️ Not only it is a hassle for the developers to maintain, but it also gives Google one more reason to send a takedown notice, meaning that the development will be ceased for Vanced.\n\nNobody wants that, so downloading from other sources/YouTube videos from within the Vanced app will never be supported. Please don’t ask if the developers can add that feature. If you can’t download from the Vanced app, then purchase YouTube Premium.⚠️"
+			"title": "有关下载 YouTube 上的视频",
+			"description": "YouTube 仅在以下（https://support.google.com/youtube/answer/6141269）国家或地区支持免费下载视频。需要 YouTube Premium 的视频无法下载，因此，如果您在下载某些视频时看到 YT Premium 提示，请购买 YouTube PREMIUM。\n \n请再次注意，Vanced  不是 YouTube Premium！\ n \n⚠️⚠️Vanced 永远不会在应用程序中添加任何形式的第三方下载器。⚠️不仅维护开发人员很麻烦，而且 Google 将有更多理由发送警告，这意味着 Vanced 将停止开发。  \ n \ n没人希望这种事情发生，因此我们永远不会为 Vanced 应用程序加入其他来源的 YouTube 视频下载工具。请不要问开发人员是否可以添加该功能。如果您无法从 Vanced 应用下载，请购买 YouTube Premium。"
 		},
 		{
-			"title": "Swipe gesture issue",
+			"title": "有关滑动手势的问题",
 			"description": "If you have enabled \"old comments\" from youtube settings > vanced settings > layout, disable it and restart the app. If that doesnt work, try clearing the app data and cache. If that doesnt work, report on our github repo. Look up on previous issues before creating a new one."
 		},
 		{

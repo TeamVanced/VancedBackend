@@ -1,26 +1,26 @@
 {
 	"bugreport": [{
-			"title": "How to report bugs",
-			"description": "You can report bugs using our [GitHub issue tracker](https://github.com/YTVanced/Vanced)\n\n**Make sure to read README and check if your bug is already reported before reporting bugs!**",
+			"title": "如何反馈问题",
+			"description": "你可以在我们的 [GitHub 议题仓库](https://github.com/YTVanced/Vanced)反馈问题。\n\n**请先阅读 README 并确保你的问题没有人已经提过！**",
 			"fields": [{
-				"title": "When will my bug be reviewed?",
-				"content": "Your feedback will be reviewed as soon as possible."
+				"title": "我提的问题什么时候能收到回复",
+				"content": "我们会尽快查看并回复你的反馈！"
 			}]
 		},
 		{
-			"title": "Reporting a regular bug",
-			"description": "Sometimes applying a modification can cause an unexpected bug.\nThat's where you help us with a logcat (a log of all processes on your system). This helps with identifying the issue. This requires a pc.",
+			"title": "报告常规问题",
+			"description": "有时侯修改应用可能会导致意外错误。\n您可以通过 logcat（系统上所有进程的日志）来帮助我们确定问题。您首先需要一台电脑。",
 			"fields": [{
-				"title": "How do I make a logcat?",
-				"content": "Please watch and follow this video guide: https://youtu.be/ICLpwgsJJP0."
+				"title": "如何获取 logcat？",
+				"content": "请遵循这个视频进行操作：  https://youtu.be/ICLpwgsJJP0"
 			}]
 		},
 		{
-			"title": "Report a theme bug",
-			"description": "Here's how to report theme-based bugs.\nTo report bugs, you will need [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"title": "报告主题错误",
+			"description": "请用[“Developer Assistant”](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)反馈主题错误",
 			"fields": [{
-				"title": "Getting started",
-				"content": "After you have downloaded `Developer Assistant`, open Vanced and reproduce/find the bug, then open the layoutviewer by holding down your home button until the app launches.\nNow follow these steps:\n1. Make sure the bug you're experiencing is on the screen\n2. Tap on the element that you think is affected by the bug\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the output\n4. Use that screenshot for your bug report"
+				"title": "开始反馈",
+				"content": "下载“Developer Assistant”并将其设置为助理应用后，请确保可以在 Vanced 中复现 bug，然后长按 Home 键打开 layoutviewer。\n接下来请按照以下步骤操作：\n1. 确保屏幕上正在出现您遇到的 bug；\n2. 点击您认为受错误影响的元素；\n3. 转到“Element”和“Hierarchy”标签，然后将输出截图；\n4. 将该屏幕截图报告给我们。"
 			}]
 		}
 	]
