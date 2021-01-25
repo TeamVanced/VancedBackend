@@ -1,14 +1,14 @@
 {
 	"troubleshooting": [{
-			"title": "Basic troubleshooting",
-			"description": "A) Wipe data and cache of \n\n(I) Vanced/Vanced Music and microG for Non-Root Variant\n(II) Vanced/Vanced Music and Google Play Services for Root Variant\n\nB) Reinstall YouTube Vanced\n\nIMPORTANT NOTICE: Reboot between processes"
+			"title": "基本的故障排除",
+			"description": "A）清除\ n \ n（I）先进/高级音乐和microG（用于非根版本）的数据和缓存\ n（II）先进/高级音乐和Google Play服务（用于根型）\ n \ nB）重新安装YouTube Vanced \  n \ n重要通知：进程之间重新启动"
 		},
 		{
-			"title": "Login issues",
-			"description": "Below are some of the common errors with their screenshots so that you can get to know which solution you have to follow.",
+			"title": "登录问题",
+			"description": "以下是一些经常遇到的问题，您可以了解一下它们的解决方案。",
 			"fields": [{
-					"title": "If you're getting an error saying \"please check your internet connection\"",
-					"content": "Please follow this video guide: https://youtu.be/S5sTXRTrD5Y. Try clearing microG's app data too."
+					"title": "如果出现错误提示“请检查您的互联网连接”",
+					"content": "请查看这个视频： https://youtu.be/S5sTXRTrD5Y 。另外，您可以尝试清除 microG 的应用数据。"
 				},
 				{
 					"title": "If you are facing issues relating to login saying, \"You're offline, explore downloads\"",
