@@ -56,7 +56,7 @@
 				},
 				{
 			"title": "Installation failed because of the app conflicts with an already installed app. Uninstall the current version of the app and try again or INSTALL_FAILED_UPDATE_INCOMPATIBLE: Package com.vanced.android.youtube signatures do not match the previously installed version; ignoring!",
-			"description": "This happens to users with OneUI and Oxygen OS when they update their system from android 10 to android 11, some custom ROMs faced it too,\n\nHence we have 2 solutions available for you",
+			"description": "This happens to users with OneUI and Oxygen OS when they update their system from android 10 to android 11, some custom ROMs faced it too,\n\nHence we have 3 solutions available for you",
 			      "fields": [{
 					"title": "If you are not rooted, use ADB",
 					"content": "1). Install Android Debug Bridge; Guide - https://www.xda-developers.com/install-adb-windows-macos-linux/amp/. \n\n2) Unlock your phone. \n\n3) Enable Developer Mode (tap 10 times on Build number in Settings - About phone -Software information). \n\n4) Enable USB debugging in Settings - Developer options. \n\n5) Connect your phone to PC. \n\n6) Open Command Prompt (CMD) and change directory: \"cd C:/Windows/adb/\" and press Enter. \n\n7) As your phone is connected and CMD is open, in CMD run command \"adb devices\". There will be a prompt on your phone, something like \"Would you like to connect your phone to PC?\" Press Yes. \n\n8) Run cmd command \"adb uninstall com.vanced.android.youtube\". \n\n9) After this you may install Vanced Manager and install the latest version of YouTube Vanced"
