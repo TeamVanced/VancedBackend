@@ -1,0 +1,121 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+        "title_with_description": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "title",
+                "description"
+            ],
+            "additionalProperties": false
+        },
+        "title_with_fields": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "fields": {
+                    "type": "array",
+                    "items": {
+                        "oneOf": [
+                            {
+                                "type": "object",
+                                "properties": {
+                                    "title": {
+                                        "type": "string"
+                                    },
+                                    "content": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "title",
+                                    "content"
+                                ],
+                                "additionalProperties": false
+                            }
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "title",
+                "fields"
+            ],
+            "additionalProperties": false
+        },
+        "title_with_description_and_fields": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "fields": {
+                    "type": "array",
+                    "items": {
+                        "oneOf": [
+                            {
+                                "type": "object",
+                                "properties": {
+                                    "title": {
+                                        "type": "string"
+                                    },
+                                    "content": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "title",
+                                    "content"
+                                ],
+                                "additionalProperties": false
+                            }
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "title",
+                "description",
+                "fields"
+            ],
+            "additionalProperties": false
+        }
+    },
+    "type": "object",
+    "oneOf": [
+        {
+            "type": "object",
+            "properties": {
+                "masterkey": {
+                    "type": "array",
+                    "items": {
+                        "oneOf": [
+                            {
+                                "$ref": "#/definitions/title_with_description"
+                            },
+                            {
+                                "$ref": "#/definitions/title_with_fields"
+                            },
+                            {
+                                "$ref": "#/definitions/title_with_description_and_fields"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}
