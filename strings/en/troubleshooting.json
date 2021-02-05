@@ -68,9 +68,7 @@
 				{
 					"title": "If both of the above methods fail",
 					"content": "Apparently, doing a factory reset can fix this error. Do this at last resort." 
-				}
-			]
-		},
+				},
 				{
 					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
 					"content": "• Head to manager settings and clear downloaded files\\n\\n• Then clear manager app data then continue installing vanced."
