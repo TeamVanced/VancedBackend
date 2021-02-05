@@ -64,7 +64,7 @@
 				{
 					"title": "If you are rooted,",
 					"content": "1) Use root explorer and navigate to root storage. \n\n2) Then find this folder when you are installing YT Vanced  \"data/app/com.vanced.android.youtube-....\" or when you are installing YT Music \"com.vanced.android.apps.youtube.music-....\"  \n\n3) If you found such folders, just delete them then continue installing YT Vanced or YT music via Vanced Manager." 
-				}
+				},
 				{
 					"title": "If both of the above methods fail",
 					"content": "Apparently, doing a factory reset can fix this error. Do this at last resort." 
