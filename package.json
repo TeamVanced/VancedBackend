@@ -1,0 +1,25 @@
+{
+  "name": "vancedbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ajv": "^7.0.4"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YTVanced/VancedBackend.git"
+  },
+  "author": "xfileFIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YTVanced/VancedBackend/issues"
+  },
+  "homepage": "https://github.com/YTVanced/VancedBackend#readme"
+}
