@@ -18,7 +18,7 @@
 		},
 		{
 			"title": "Swipe gesture issue",
-			"description": "If you have enabled \"old comments\" from youtube settings > vanced settings > layout, disable it and restart the app. If that doesnt work, try clearing the app data and cache. If that doesnt work, report on our github repo. Look up on previous issues before creating a new one."
+			"description": "Here are ways to solve it:\n\n1. Disable the \"Old comment\" setting in YouTube settings > Vanced settings > Layout and restart the app.\n2. Try cleaning the app data\n3. Report this issue on our GitHub repo. Before creating a new thread, search the same issue in existing issues and make sure it's not reported by someone else before."
 		},
 		{
 			"title": "Captions not available",
