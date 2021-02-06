@@ -22,7 +22,7 @@
 		},
 		{
 			"title": "Captions not available",
-			"description": "For various issues like captions not available or info button missing, read this:\nNot every videos have subtitles, info buttons, etc. and this is not a bug from vanced. Please check on the official YouTube app and desktop site(www.youtube.com) for such issue before reporting. \n\nIt all depends on the video uploaders who don't include subtitles nor providing any information to be given with info button. Vanced has nothing to do with this. \n\nTL;DR: It's not a YouTube Vanced issue, please check the official YouTube app or desktop site for these things before reporting it as not every video has them."
+			"description": "TL;DR:\nIt's not a YouTube Vanced issue. Please make sure to check the official YouTube app and/or desktop site for these things before reporting it. Not every video has captions.\n\n---\nFor various issues like captions not available or info button missing, read this:\nNot every video has subtitles, info buttons, etc. and this is not a bug at all. Please check on the official YouTube app and desktop site(https://youtube.com) for such issues before reporting. \n\nIt's all depends on the video uploaders who don't include subtitles nor providing any information to be given with the info button. Vanced has nothing to do with it."
 		},
 		{
 			"title": "Donations",
