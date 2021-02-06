@@ -41,8 +41,8 @@
 			"description": "Vanced/YouTube changes the background color of the splash screen to the Android framework's color value to fit the background color with the device theme.\n\nYou can use third-party apps such as Substratum or Swift Installer to change the theme color."
 		},
 		{
-			"title": "Why redownload?",
-			"description": "The reason is pretty simple: sometimes a downloadeded file can be corrupted, trying to grab them and install will result in an infinite loop of failure. To avoid this, the manager redownloads files every time you press the button.\n\nHowever, the Non-Root installer can now use the already downloaded files to reinstall Vanced."
+			"title": "Why re-download?",
+			"description": "_The reason is pretty simple_\nSometimes a downloaded file can be corrupted and can cause an infinite loop of failure, and we can't know which file is causing it. So that's why files need to be downloaded again to have safe.\n\nHowever, the Non-Root installer can now use the already downloaded files to reinstall Vanced."
 		},
 		{
 			"title": "Microphone",
