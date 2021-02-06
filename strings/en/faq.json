@@ -2,15 +2,15 @@
 	"faq": [
 		{
 			"title": "What is Vanced",
-			"description": "YouTube Vanced is a modified version of YouTube with features and tweaks to make your YouTube experience better!\n\nSuch features include:\n\nBackground playback\nCustom themes (normal dark or OLED black)\nBlockers for most ads\nOverride max resolution\nAnd much more!\nFor a full list, check out the \"features\" drop-down in the XDA thread. The link to that (and other general info) is(https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)"
+			"description": "YouTube Vanced is a modified version of YouTube with features and tweaks to make your YouTube experience better!\n\nSuch features include:\n- Background playback\n- Custom themes (normal dark or OLED black)\n- Blockers for most ads\n- Override max resolution\n- ...and much more!\n\nFor a full list, check out the toggle list under the \"Features\" title in the XDA thread.\nHere is the link to the XDA thread (https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)"
 		},
 		{
 			"title": "Download Links",
-			"description": "You can download it from the official site or the mirrors. Links to our site & mirrors are below:\n\n• Official site - https://vancedapp.com\n\n• Mediafire - https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Android File Host - https://androidfilehost.com/?w=files&flid=170196\n\nIt is not advised to download from imposter or unverified sites. If it's not on our mirrors or XDA thread, then that mirror is unofficial. As such, we can't guarantee if it's malware/adware or not. Stick to the official sites and mirrors to ensure your safety."
+			"description": "You can download Vanced from the official site or the mirrors.\n\nLinks to our site & mirrors are below:\n- Official site - https://vancedapp.com\n- MediaFire - https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n- Android File Host - https://androidfilehost.com/?w=files&flid=170196\n\nIt is not advised to download Vanced from an imposter or an unverified site. The source that doesn't match with our mirrors will be considered unofficial and will not be supported. As such, we can't guarantee if it's a malware/adware included version or not. Stick to the official sites and mirrors to ensure your safety."
 		},
 		{
-			"title": "Will the app auto-update?",
-			"description": "No, it will not. Join the Discord/Telegram server or use Vanced Manager to be alerted when a update is pushed. Developers have no plans to add an auto updater/checker to the app.\nlinks to\ndiscord: https://discord.gg/wYrRPgv\ntelegram: https://t.me/Vanced"
+			"title": "Is Vanced auto-updated?",
+			"description": "No, it's simply not.\nJoin our official Discord/Telegram server or use the latest version of the Vanced Manager to get notified when there is a new version has published. Developers have no plans for adding an auto-updater/checker functionality to the app.\n\nHere are our official community servers:\n- Discord: https://discord.gg/wYrRPgv\n- Telegram: https://t.me/Vanced"
 		},
 		{
 			"title": "Video Download",
