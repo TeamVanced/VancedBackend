@@ -6,7 +6,7 @@
 		},
 		{
 			"title": "Where is the Download button?",
-			"description": "Ofcourse Google won't allow the modified version of its own apps to be on their store so don't look for it on Play Store, those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grap it from Github: <https://github.com/YTVanced/VancedManager/releases/latest>"
+			"description": "Of course Google won't allow the modified version of its own apps to be on their store so don't look for it on Play Store, those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from Github: <https://github.com/YTVanced/VancedManager/releases/latest>"
 		},
 		{
 			"title": "Does YouTube Vanced auto-update?",
@@ -14,11 +14,11 @@
 		},
 		{
 			"title": "Can Vanced download videos?",
-			"description": "Vanced doesn't include video downloading feature and never will.\n\nMany videos are available to download for free in selected coutries: <https://support.google.com/youtube/answer/6141269>. For the rest of the world, please pay for Premium or use 3rd party downloader.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted contents from their platform so don't ask for it!!!"
+			"description": "Vanced doesn't include video downloading feature and never will.\n\nMany videos are available to download for free in selected coutries: <https://support.google.com/youtube/answer/6141269>. For the rest of the world, please get YouTube Premium or use a 3rd party downloader.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted contents from their platform so don't ask for it!!!"
 		},
 		{
 			"title": "Swipe gesture doesn't work?",
-			"description": "If you have enabled \"old comments\" in Vanced settings > Layout settings, disable it and restart the app. If that doesnt work, try force stopping the app and clear its data."
+			"description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesnt work, force stop the app and clear its data."
 		},
 		{
 			"title": "Captions not available?",
@@ -26,7 +26,7 @@
 		},
 		{
 			"title": "Do you take donations?",
-			"description": "We DO NOT accept any sort of donations under any circumstances and any site or link or post that says \"donate for vanced\" is fake.\n\nBut if you want to support Vanced devs, you can download this Brave using this link: <https://brave.com/kev231> and Adguard using this link <https://adguard.com/en/welcome.html?aid=31141>"
+			"description": "We DO NOT accept any sort of donations under any circumstances and any sites or links or posts that says \"donate for vanced\" is fake.\n\nBut if you want to support Vanced developers, you can download Brave using this link: <https://brave.com/kev231> and Adguard using this link: <https://adguard.com/en/welcome.html?aid=31141>"
 		},
 		{
 			"title": "Make the player layout hide automaticall?y",
@@ -34,15 +34,15 @@
 		},
 		{
 			"title": "Why the split apks?",
-			"description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n\n2. Because it uses less storage, you don't have to install the language that you don't use.\n\n3. We can converts it to normal .apk file but we are lazy so...\n\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the Install button."
+			"description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n\n2. Because it uses less storage, you don't have to install the languages that you don't use.\n\n3. We can converts it to normal .apk file but we are lazy so...\n\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the Install button."
 		},
 		{
-			"title": "The splash colour in the startup screen is diffrent from the theme?",
-			"description": "The splash screen background color is taken from the Android framework color to make sure the splash colour changes according to the system theme. You can use Substratum/Swift themes to change the color."
+			"title": "The colour in the startup screen is diffrent from the theme?",
+			"description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use Substratum/Swift themes to change the colour."
 		},
 		{
-			"title": "Should I re-download the installtion files?",
-			"description": "Files can be corrupted because various reasons. To avoid this, you can choose to download it again to ensure you installation goes smoothly."
+			"title": "Should I redownload the installtion files?",
+			"description": "Files can be corrupted because of various reasons. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
 		},
 		{
 			"title": "The root version doesn't have Microphone permission?",
@@ -53,8 +53,8 @@
 			"description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
 		},
 		{
-			"title": "How to active Developer Options?",
-			"description": "In vanced settings, tap on the \"About\" section 6-7 times to unlock it. This only enables the additional video codec settings."
+			"title": "How to unlock Developer Options?",
+			"description": "In Vanced settings, tap on the \"About\" section 6-7 times to unlock it. This only enables the additional video codec settings."
 		},
 		{
 			"title": "Issues with microG?",
@@ -66,37 +66,37 @@
 		},
 		{
 			"title": "Apk Signing?",
-			"description": "You are reading this because you don't use Vanced Manager. Use it!\n\nVanced Manager can be found at the official site: <https://vancedapp.com> or Github: <https://github.com/YTVanced/VancedManager/releases/latest>."
+			"description": "You are reading this because you are not using Vanced Manager. Use it!\n\nVanced Manager can be found at the official site: <https://vancedapp.com> or Github: <https://github.com/YTVanced/VancedManager/releases/latest>."
 		},
 		{
 			"title": "YouTube Vanced is on Play Store?",
-			"description": "Again, DO NOT install any fake apps named \"YouTube Vanced\" or similar on the Play Store and any other store. This Vanced Guide is he only app will pulished on Play Store.\n\nIf you find any app with our app logo and name, report it to Google Play.\n\nOur app can only be found at <https://vancedapp.com>."
+			"description": "Again, DO NOT install any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores. This Vanced Guide is the only official app pulished on Play Store.\n\nIf you find any other app with our icon and name, report it to the store and give it bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
 		},
 		{
 			"title": "Vanced isn't showing up in app drawer?",
-			"description": "You are reading this because you don't use Vanced Manager. Use it!\n\nVanced Manager can be found at the official site: <https://vancedapp.com> or Github: <https://github.com/YTVanced/VancedManager/releases/latest>."
+			"description": "You are reading this because you are not using Vanced Manager. Use it!\n\nVanced Manager can be found at the official site: <https://vancedapp.com> or Github: <https://github.com/YTVanced/VancedManager/releases/latest>."
 		},
 		{
 			"title": "Video isn't playing?",
 			"description": "Try restarting the app. It might also because of your internet or your device."
 		},
 		{
-			"title": "The highest resolution setting is 480p?",
-			"description": "Due to COVID-19, Google is restricting data usage of several coutries so no 8K videos for you.",
+			"title": "All videos highest resolution is 480p?",
+			"description": "Due to the COVID-19, Google is restricting data usage of several coutries. This happens on the server and affect both Vanced and stock YouTube.",
 			"fields": [
 				{
-					"title": "Workarounds",
-					"content": "1) Connect to a VPN.\n\n2) Watch on web interface.n\n3) Since the 480p restriction is only for mobile devices and not tablets, you can change the model of the device in YouTube Vanced to overcome the restriction.\n\na) Open YouTube Vanced.\n\nb) Enable additional options by going to Settings -> Vanced Settings -> Tap on the About section till you get a message saying hidden Menu is visible.\n\nc) Go to Codec override > Override model and enter \"SM-T865\" and device to \"Samsung\".\n\nd) Restart the app and the 480p limit should be gone."
+					"title": "Workarounds:",
+					"content": "1) Connect to a VPN of a different region.\n\n2) Watch on web interface.n\n3) Since the 480p restriction is only for mobile devices and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\na) Open YouTube Vanced.\n\nb) Enable additional options by going to Settings -> Vanced Settings -> Tap on the About section till you get a message saying hidden Menu is visible.\n\nc) Go to Codec override and set model to \"SM-T865\" and device to \"Samsung\".\n\nd) Restart the app and the 480p limit should be gone."
 				}
 			]
 		},
 		{
-			"title": "Disable microG notification?",
-			"description": "To hide microG notifications, disable battery optimisation for microG and reboot your device.\n\nIf the notification still doesn't go away, disable microG notification by holding the notification and toggle it off."
+			"title": "Hide microG notification?",
+			"description": "To hide microG notification, disable battery optimisation for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notification by holding on the notification, toggle it off and tap Save."
 		},
 		{
 			"title": "Does higher resolution looks any better?",
-			"description": "Yes, but only if the video ratio is something like 18:9, 21:9, you can enable Stats for nerds in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on \"Max resolution\" then restart the app."
+			"description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable Stats for nerds in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on \"Max resolution\" then restart the app."
 		}
 	]
 }
