@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["./strings/en/*.json"],
+      "url": "./schemas/schema.json"
+    }
+  ]
+}
