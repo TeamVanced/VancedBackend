@@ -1,0 +1,14 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["./strings/*/*.json"],
+      "url": "./schemas/schema.json"
+    }
+  ],
+  "cSpell.words": [
+    "APKs",
+    "OLED",
+    "Vanced",
+    "adblocking"
+  ]
+}

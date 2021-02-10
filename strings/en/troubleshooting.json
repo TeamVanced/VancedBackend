@@ -12,27 +12,27 @@
 				},
 				{
 					"title": "If you are facing issues relating to login saying, \"You're offline, explore downloads\"",
-					"content": "1. Clear DATA of both Vanced microG and Google Play services\n2. UNINSTALL both \"Vanced microG\" and Vanced.\n\n3. Reboot if you want.\n\n4. Reinstall both APKs[microG and Vanced) but make sure you install microG before you install Vanced. Install via Vanced Manager or sai using files provided in #installation note in group\n\n5. Now login.\n\nNOTE: If you're still having issues with Vanced giving connection errors (even after installing microG first), receiving notifications, etc, make sure you disable battery optimization for the Vanced and microG app. \n\nInstructions to do so vary on your device manufacturer. You can folloe guides like https://dontkillmyapp.com or search it up."
+					"content": "1. Clear DATA of both Vanced microG and Google Play services\n2. UNINSTALL both \"Vanced microG\" and Vanced.\n\n3. Reboot if you want.\n\n4. Reinstall both APKs[microG and Vanced) but make sure you install microG before you install Vanced. Install via Vanced Manager or sai using files provided in #installation note in group\n\n5. Now login.\n\nNOTE: If you're still having issues with Vanced giving connection errors (even after installing microG first), receiving notifications, etc, make sure you disable battery optimization for the Vanced and microG app. \n\nInstructions to do so vary on your device manufacturer. You can follow guides like https://dontkillmyapp.com or search it up."
 				},
 				{
 					"title": "If Vanced logs out of your Google account",
-					"content": "It happens because your device OS' heavy battery optimization killing microg services/activities which are responsible for logins.\n\nTo fix this, disable battery optimization for microG using https://dontkillmyapp.com OR searching it up"
+					"content": "It happens because your device OS' heavy battery optimization killing microG services/activities which are responsible for logins.\n\nTo fix this, disable battery optimization for microG using https://dontkillmyapp.com OR searching it up"
 				},
 				{
 					"title": "For users who are using Gsuite account on Non-Root version of vanced and facing connection issues frequently (errors like \"You are offline\", \"Please check your internet\", etc)",
-					"content": "•Log into your gsuite account admin console(https://admin.google.com/)\n\n• Search for device management\n\n• Go to setup and disable \"Mobile Management\"\n\n• That's it and it will get fixed."
+					"content": "•Log into your Gsuite account admin console(https://admin.google.com/)\n\n• Search for device management\n\n• Go to setup and disable \"Mobile Management\"\n\n• That's it and it will get fixed."
 				},
 				{
 					"title": "Huawei workaround 1",
-					"content": "For those who updated microg to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microg.\n\n2. Download \"Vanced microg 0.2.12.203315 version\" from mediafire v15 link and install it. Link for mediafire v15 here - https://del.dog/Mediafireonlyv15\n\n3. You should be able to login now."
+					"content": "For those who updated microG to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microG.\n\n2. Download \"Vanced microG 0.2.12.203315 version\" from Mediafire v15 link and install it. Link for Mediafire v15 here - https://del.dog/Mediafireonlyv15\n\n3. You should be able to login now."
 				},
 				{
 					"title": "Huawei workaround 2",
-					"content": "1. Uninstall both vanced and microg if you already installed. Then reinstall only microg(latest available)\n\n2. Then open microg app settings\n\n3. Turn off both \"Google Cloud Messaging\" and \"Google device registration\".\n\n4. Add your account through microg itself.\n\n5. Then install Vanced."
+					"content": "1. Uninstall both vanced and microG if you already installed. Then reinstall only microG(latest available)\n\n2. Then open microG app settings\n\n3. Turn off both \"Google Cloud Messaging\" and \"Google device registration\".\n\n4. Add your account through microG itself.\n\n5. Then install Vanced."
 				},
 				{
 					"title": "Huawei workaround 3",
-					"content": "1. First install the old microG version (remove the current one installed but keep the apk for it - you need it later). \n\nmicrog_YouTube_Vanced_0.2.4-105_16052019_2.apk (get from the old files link on vancedapp.com site)\n\n2. Then open YouTube Vanced and try logging in again until it shows the error message. Try to reload it by tapping the error message. \n\n3. Now install the newer microG version again and restart vanced. It should be logged in again and everything should work again.\n\nNOTE: Now make sure u disable battery optimization for both microg and vanced using dontkillmyapp.com otherwise your device software might kill microg and you might have to repeat all above steps again to fix login."
+					"content": "1. First install the old microG version (remove the current one installed but keep the apk for it - you need it later). \n\nmicroG_YouTube_Vanced_0.2.4-105_16052019_2.apk (get from the old files link on vancedapp.com site)\n\n2. Then open YouTube Vanced and try logging in again until it shows the error message. Try to reload it by tapping the error message. \n\n3. Now install the newer microG version again and restart vanced. It should be logged in again and everything should work again.\n\nNOTE: Now make sure u disable battery optimization for both microG and vanced using dontkillmyapp.com otherwise your device software might kill microG and you might have to repeat all above steps again to fix login."
 				}
 			]
 		},
@@ -52,7 +52,7 @@
 					"content": "Install the stock yt from play store then update vanced over it using vanced manager."
 				},
 				{
-					"title": "If you face \"Error downloading Microg/Vanced\" or installation got stuck while installing microg/vanced app",
+					"title": "If you face \"Error downloading microG/Vanced\" or installation got stuck while installing microG/vanced app",
 					"content": "Clear manager app data then continue installing and DON'T SWITCH TO OTHER APPS UNTIL IT COMPLETES THE PROCESS."
 				}
 			]
@@ -83,7 +83,7 @@
 			"description": "For notification fix, a white background or Vanced not appearing under \"Google Cloud Messaging\", see below",
 			"fields": [{
 					"title": "For Non-Root",
-					"content": "1. Install Vanced microG first then YouTube Vanced.\n\n2. Login with your Google account\n\n3. \na) Disable battery optimization for microg(the guide dontkillmyapp.com is suggested).\n\nb)**Open \"Vanced microG\" additional settings then continue on with this guide:\n\ni) https://youtu.be/Q-5YFmFWVok"
+					"content": "1. Install Vanced microG first then YouTube Vanced.\n\n2. Login with your Google account\n\n3. \na) Disable battery optimization for microG(the guide dontkillmyapp.com is suggested).\n\nb)**Open \"Vanced microG\" additional settings then continue on with this guide:\n\ni) https://youtu.be/Q-5YFmFWVok"
 				},
 				{
 					"title": "If Vanced is not showing up under GCM or it shows up as unregistered",
@@ -100,7 +100,7 @@
 			"description": "If Vanced app is crashing/force closing on startup",
 			"fields": [{
 					"title": "Nonroot",
-					"content": "1) If the non-root Vanced app is force closing before installing MicroG, uninstall both Vanced app and MicroG. Then install MicroG first, then Vanced. The issue should be fixed.\n\n2) If the non-root Vanced app is force closing without installing microg, install microg. [If you don't want to login, don't login and only install microg apk as vanced has a dependency on microg for connecting with Google services]"
+					"content": "1) If the non-root Vanced app is force closing before installing MicroG, uninstall both Vanced app and MicroG. Then install MicroG first, then Vanced. The issue should be fixed.\n\n2) If the non-root Vanced app is force closing without installing microG, install microG. [If you don't want to login, don't login and only install microG apk as vanced has a dependency on microG for connecting with Google services]"
 				},
 				{
 					"title": "Root",
@@ -108,7 +108,7 @@
 				},
 				{
 					"title": "If Vanced crashes in the middle of playback (when playing in background mode)",
-					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, Emui, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide #bugreport on telegram or in discord with the details it requires and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
+					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide #bugreport on telegram or in discord with the details it requires and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
 				}
 			]
 		},
@@ -117,7 +117,7 @@
 			"description": "If the root version of YouTube Vanced/ YouTube Music Vanced is disappearing/uninstalling/reverting back to stock on reboot,\n\nWe have 2 solutions available for you",
 			"fields": [{
 					"title": "Solution 1",
-					"content": "Stick to the non-root version until the devs fix this."
+					"content": "Stick to the non-root version until the developers fix this."
 				},
 				{
 					"title": "Solution 2",
@@ -127,7 +127,7 @@
 		},
 		{
 			"title": "Advertisements in Vanced",
-			"description": "If you are seeing ads in YouTube Vanced or Vanced Music, read this by xfileFIN:\n\n> I need to get it myself to track it down. As simple layout hiding won't work for that.\nNot sure how they decide who gets them, it's all server side.\nWhat I do know is that I can't just hide the layout because the same layout is used for the actual videos as well. The code just decides whether or not it shows the ad badge.\nWell I could easily hide the ad badge but it would still show the actual ad video, just without labeling it as ad.\nI need to get the ad myself to track it down in the code since obfuscation makes it hard.\n\nThe home screen and search ads (added by Google) are region based and will not be shown if you’re not in the region it’s active in. Those advertisements are not added by vanced team in any way so if you point your finger at us, we would laugh at you. \n\nDevs already know that you are getting ads in your region. Please wait patiently for updates till all ads gets blocked. Until then, enjoy vanced and don't spam chat with same.\n\nThe temporary solution to fix it would be clearing data and cache of the app or waiting for future updates."
+			"description": "If you are seeing ads in YouTube Vanced or Vanced Music, read this by xfileFIN:\n\n> I need to get it myself to track it down. As simple layout hiding won't work for that.\nNot sure how they decide who gets them, it's all server side.\nWhat I do know is that I can't just hide the layout because the same layout is used for the actual videos as well. The code just decides whether or not it shows the ad badge.\nWell I could easily hide the ad badge but it would still show the actual ad video, just without labeling it as ad.\nI need to get the ad myself to track it down in the code since obfuscation makes it hard.\n\nThe home screen and search ads (added by Google) are region based and will not be shown if you’re not in the region it’s active in. Those advertisements are not added by vanced team in any way so if you point your finger at us, we would laugh at you. \n\nDevelopers already know that you are getting ads in your region. Please wait patiently for updates till all ads gets blocked. Until then, enjoy vanced and don't spam chat with same.\n\nThe temporary solution to fix it would be clearing data and cache of the app or waiting for future updates."
 		},
 		{
 			"title": "History",
@@ -147,7 +147,7 @@
 		},
 		{
 			"title": "Picture-in-Picture issues",
-			"description": "⚠️Please don't report PIP related issues.⚠️\n• Pip is controlled by system as Vanced uses android native pip. Blame ROM for any issues with your PIP.\nOther apps like MX Player, VLC, etc uses its own PIP instead of android native hence they will never face such issues which persist in apps using native.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in miui, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture\n\nOn latest V15.43.32, pip is stock yt bug so please wait for Google to fix it fully first."
+			"description": "⚠️Please don't report PIP related issues.⚠️\n• Pip is controlled by system as Vanced uses android native pip. Blame ROM for any issues with your PIP.\nOther apps like MX Player, VLC, etc uses its own PIP instead of android native hence they will never face such issues which persist in apps using native.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture\n\nOn latest V15.43.32, pip is stock yt bug so please wait for Google to fix it fully first."
 		},
 		{
 			"title": "App download issues",
@@ -199,11 +199,11 @@
 				},
 				{
 					"title": "INSTALL_FAILED_DUPLICATE_PERMISSION",
-					"content": "Uninstall microg > reboot > install vanced via sai > install microg\n\nIf microg doesn't install, install microg too via SAI."
+					"content": "Uninstall microG > reboot > install vanced via sai > install microG\n\nIf microG doesn't install, install microG too via SAI."
 				},
 				{
 					"title": "Unable to install the app because it conflicts with an already installed app with same package name",
-					"content": "Uninstall microg > reboot > install vanced via sai > install microg via apk package installer\nIf microg doesn't install, install microg too via SAI."
+					"content": "Uninstall microG > reboot > install vanced via sai > install microG via apk package installer\nIf microG doesn't install, install microG too via SAI."
 				},
 				{
 					"title": "APP IS INCOMPATIBLE WITH THIS DEVICE",
