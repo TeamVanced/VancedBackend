@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Jak zgłaszać błędy",
+			"description": "Możesz zgłaszać błędy używając naszego [trackera zgłoszeń GitHub](https://github. om/YTVanced/Vanced)\n\n**Upewnij się, że przeczytałeś README i sprawdź, czy błąd jest już zgłoszony przed zgłoszeniem!**",
+			"fields": [
+				{
+					"title": "Kiedy mój błąd zostanie zweryfikowany?",
+					"content": "Twoja opinia zostanie jak najszybciej zweryfikowana."
+				}
+			]
+		},
+		{
+			"title": "Zgłaszanie zwykłego błędu",
+			"description": "Czasami zastosowanie modyfikacji może spowodować nieoczekiwany błąd.\nTutaj pomagasz nam za pomocą logcat (dziennika wszystkich procesów w systemie). To pomaga w identyfikacji problemu. Wymaga to pc.",
+			"fields": [
+				{
+					"title": "Jak utworzyć logcat?",
+					"content": "Obejrzyj ten przewodnik wideo: https://youtu.be/ICLpwgsJP0."
+				}
+			]
+		},
+		{
+			"title": "Zgłoś błąd motywu",
+			"description": "Oto jak zgłaszać błędy oparte na motywach.\nAby zgłaszać błędy, będziesz potrzebował [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Pierwsze kroki",
+					"content": "Po pobraniu `Developer Assistant`, otwórz Vanced i odtwórz/znajsz błąd, następnie otwórz podgląd układu, przytrzymując przycisk domowy aż do uruchomienia aplikacji.\nTeraz, wykonaj następujące kroki:\n1. Upewnij się, że błąd, którego doświadczasz, jest na ekranie\n2. Dotknij elementu, który uważasz, że jest błędny\n3. Przejdź do zakładek `Element` i `Hierarchy` i zrób zrzut ekranu\n4. Użyj tego zrzutu ekranu do raportu o błędzie"
+				}
+			]
+		}
+	]
+}

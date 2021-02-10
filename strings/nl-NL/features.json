@@ -1,0 +1,32 @@
+{
+    "features": [
+        {
+            "title": "Vanced",
+            "description": "YouTube Vanced beoogt een betere versie van Youtube te zijn. Het blokkeert advertenties, heeft een amoled dark thema en nog veel meer. Gebruik Vanced Manager om YouTube Vanced eenvoudig te installeren."
+        },
+        {
+            "title": "Vanced Music",
+            "description": "Vanced Music heeft hetzelfde doel als YouTube Vanced, maar deze app richt zich op YouTube Music. Deze app heeft relatief minder functies in vergelijking met Vanced maar bevat nog steeds veel dingen die je verwacht, zoals advertenties blokkeren en afspelen op de achtergrond, en dit allemaal in Youtube Music!"
+        },
+        {
+            "title": "YouTube Vanced belangrijkste functies",
+            "description": "Een amoled black thema.\n- Blokkeert alle video advertenties en stelt je in staat om video's af te spelen op de achtergrond of met de Scherm-in-scherm (alleen op android 8.0 en hoger)\n- Veegbediening maakt het mogelijk om de helderheid en het volume te controleren met op-en-neer gebaren (met configureerbare padding).\n- Auto-herhaal functie om video's in loop te herhalen.\n- Commentaar/miniplayer lay-outs kunnen worden omgeschakeld naar de versies van de tablet die erg lijken op de oude versie (met enkele fouten)."
+        },
+        {
+            "title": "Aanpassingen",
+            "description": "- Laat je toe om Codec opties te overschrijven, zoals het forceren van H264 voor oude apparaten of VP9; hiermee kun je ook het afspelen in HDR forceren of 60fps uitschakelen als je de voorkeur geeft aan een filmervaring. (Aangepaste apparaat configuraties voor deze functies kan je vinden op onze discord of XDA)\n- Forceer de standaard videoresolutie zo hoog of laag als je wil en overschrijf zelfs je schermresolutie voor die scherpe 4k weergave te bekomen op elk apparaat. Het stelt je ook in staat om de standaard afspeelsnelheid te wijzigen naar elke waarde tussen 0.25x tot 2x (op voorwaarde dat je apparaat krachtig genoeg is)\n- Je kan startscherm advertenties, de meeste UI advertenties, advertenties voor aankoop van goederen, community berichten, aankoop van films, compacte banner info (zoals covid info), reacties, kortfilms, filmrubriek en nog veel meer in- of uitschakelen!"
+        },
+        {
+            "title": "SponsorBlock",
+            "description": "- Biedt de mogelijkheid om sponsor segmenten over te slaan (waarbij een youtuber een service of product in het midden van een video adverteert)\n- Het ondersteunt ook het overslaan van andere categorieën, zoals intro's, outro's en zelfpromotie\n- Gebruikt de hier gevonden API. Je kan meer informatie vinden over hoe het werkt\n- Het stelt je ook in staat om je eigen segmenten in te dienen bij de API en bij te dragen aan de bredere gemeenschap\n- Volledige controle over het automatisch overslaan van een segment categorie of het weergeven van een knop om wel/neiet over te slaan\n- Markeert het segment in de specifieke kleur op basis van de categorie in de tijdlijn van het afspelen."
+        },
+        {
+            "title": "Platforms",
+            "description": "De app bestaat momenteel alleen voor Android, er zijn geen plannen op dit moment om andere platforms te ondersteunen"
+        },
+        {
+            "title": "Verschil tussen Root en Non-Root",
+            "description": "- Root: \nDe root-variant van Vanced vervangt naadloos de officiële YouTube app. Hierdoor kan je YouTube links direct openen of opvragen met behulp van Google assistent in de Vanced app.\n- Non-Root:\n- Als je een apparaat hebt dat moeilijk te rooten is of als je je apparaat niet direct wil rooten, moet je kiezen voor de non-root variant. \n- Deze kan ook geïnstalleerd worden op een geroot apparaat. Aangezien de pakketnaam van de non-root versie verschilt van de standaard YouTube-app, kunnen ze naast elkaar functioneren. Merk op dat je een extra app (Vanced microG) moet installeren om in te kunnen loggen met je YouTube/Google-account. \n- Bovendien moet je handmatig Vanced instellen als de standaardapp voor het openen van YouTube links. \n- De non-root versie is gewoonweg eenvoudiger om mee te werken, daarom raden we je aan om deze te gebruiken, tenzij je de standaard YouTube app op jouw apparaat wil vervangen."
+        }
+    ]
+}

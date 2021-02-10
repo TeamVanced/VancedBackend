@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Kako prijaviti greške",
+			"description": "Možete prijaviti greške koristeći naš [GitHub issue tracker](https://github.com/YTVanced/Vanced)\n\n*Obavezno pročitajte README i provjerite je li vaša greška već prijavljena prije prijavljivanja grešaka!**",
+			"fields": [
+				{
+					"title": "Kada će moj greška biti pregledana?",
+					"content": "Vaše povratne informacije bit će pregledane u najkraćem mogućem roku."
+				}
+			]
+		},
+		{
+			"title": "Prijavljivanje redovite pogreške",
+			"description": "Ponekad primjena modifikacije može izazvati neočekivanu grešku.\nTu nam pomažete s logcat-om (zapisom svih procesa u vašem sustavu). To pomaže u identificiranju problema. Za to je potrebno računalo.",
+			"fields": [
+				{
+					"title": "Kako mogu izraditi logcat?",
+					"content": "Molimo pogledajte i slijedite ovaj video vodič: https://youtu.be/ICLpwgsJJP0."
+				}
+			]
+		},
+		{
+			"title": "Prijavi grešku u temi",
+			"description": "Evo kako prijaviti programske greške temeljene na temi.\nDa biste prijavili greške, trebat će vam [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Započnimo",
+					"content": "Nakon što preuzmete `Developer Assistant`, otvorite Vanced i reproducirajte/pronađite programsku grešku, a zatim otvorite preglednik izgleda držeći pritisnutu tipku početna dok se aplikacija ne pokrene.\nSada slijedite ove korake:\n1. Provjerite je li programska greška na ekranu\n2. Dodirnite element na koji mislite da na njega utječe greška\n3. Idite na kartice `Element` i` Hijerarhija` i snimite snimku zaslona\n4. Koristite tu snimku zaslona za svoje izvješće o greškama"
+				}
+			]
+		}
+	]
+}

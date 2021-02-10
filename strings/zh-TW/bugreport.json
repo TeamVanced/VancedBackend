@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "如何回報 bug",
+			"description": "您可以使用我們的 [Github issue tracker](https://github.com/YTVanced/Vanced) 報告錯誤\n\n**請務必閱讀 README 並檢查您的錯誤是否已經被報告過！**",
+			"fields": [
+				{
+					"title": "什麼時候會審查我回報的 bug？",
+					"content": "我們會盡快審查您回報的 bug。"
+				}
+			]
+		},
+		{
+			"title": "回報一般的 bug",
+			"description": "有時，應用修改可能會導致意外的錯誤。\n這就是您幫助我們使用 logcat（系統上所有程序的日誌）的地方。這有助於識別問題。這需要一台個人電腦。",
+			"fields": [
+				{
+					"title": "如何取得 logcat？",
+					"content": "請觀看並照著此影片說明步驟：https://youtu.be/ICLpwgsJJP0。"
+				}
+			]
+		},
+		{
+			"title": "回報主題 bug",
+			"description": "Here's how to report theme-based bugs.\nTo report bugs, you will need [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "開始使用",
+					"content": "After you have downloaded `Developer Assistant`, open Vanced and reproduce/find the bug, then open the layoutviewer by holding down your home button until the app launches.\nNow follow these steps:\n1. Make sure the bug you're experiencing is on the screen\n2. Tap on the element that you think is affected by the bug\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the output\n4. Use that screenshot for your bug report"
+				}
+			]
+		}
+	]
+}

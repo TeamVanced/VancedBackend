@@ -1,0 +1,273 @@
+{
+	"troubleshooting": [
+		{
+			"title": "일반적인 문제 해결 방법",
+			"description": "A) 아래 항목의 캐시와 앱 데이터를 지우십시오\n\n(I) 비루트 버전의 경우 Vanced/Vanced Music, microG\n(II) 루트 버전의 경우 Vanced/Vanced Music, Google Play 서비스\n\nB) YouTube Vanced를 재설치하십시오\n\n중요: 재설치 과정 도중 기기를 재시작하십시오"
+		},
+		{
+			"title": "로그인 문제",
+			"description": "아래의 흔한 오류에 관한 스크린샷들을 참고하여 어떤 해결책을 따를지 고르십시오.",
+			"fields": [
+				{
+					"title": "\"인터넷 연결을 확인해주세요\"와 같은 오류가 뜬다면",
+					"content": "이 동영상 가이드를 참고하십시오: https://youtu.be/S5sTXRTrD5Y. microG의 앱 데이터를 삭제하는 것도 시도해보십시오."
+				},
+				{
+					"title": "만약 로그인과 관련하여 \"오프라인 상태입니다, 다운로드한 콘텐츠를 탐색해보세요\"와 같은 문제가 발생한다면",
+					"content": "1. Vanced microG와 Google Play 서비스의 앱 데이터를 모두 지웁니다.\n2. \"Vanced microG\"와 Vanced를 모두 제거합니다.\n\n3. 원하는 경우 재부팅하니다.\n\n4. 두 앱[microG 및 Vanced)을 재설치합니다. 단 Vanced보다 microG를 먼저 설치합니다. Vanced Manager 또는 SAI와 제공된 파일을 이용하여 설치합니다.\n\n5. 이제 로그인하세요.\n\n참고: 여전히 Vanced에서 알림 수신 등의 연결 오류가 난다면 (심지어 microG를 먼저 깔았음에도), Vanced 및 microG 앱에 대한 배터리 사용량 최적화 기능을 중지시켜야 합니다.\n\n기능을 중지하는 방법은 제조사마다 천차만별이므로 https://dontkillmyapp.com 사이트의 도움말을 이용하거나 직접 검색하여 도움말을 찾아보시기 바랍니다."
+				},
+				{
+					"title": "Vanced의 Google 계정이 계속 로그아웃된다면",
+					"content": "이는 기기의 배터리 사용량 최적화 기능이 로그인을 구현하는 microG 서비스/활동을 중단시키기 때문에 발생합니다.\n\n이 현상을 고치려면, microG에 대한 배터리 사용량 최적화 기능을 https://dontkillmyapp.com 또는 검색을 통한 기타 해결 방법으로 꺼야 합니다."
+				},
+				{
+					"title": "비루트 버전의 Vanced에서 GSuite 계정을 이용하는데 연결 문제가 빈번하게 발생한다면 (\"오프라인 상태입니다\", \"인터넷 연결을 확인하세요\" 등의 오류)",
+					"content": "• GSuite 계정 관리 콘솔로 로그인합니다(https://admin.google.com/)\n\n• 디바이스 관리를 찾습니다\n\n• 설정에 가서 \"모바일 관리\"를 끕니다\n\n• 이렇게 하면 문제가 해결될 것입니다."
+				},
+				{
+					"title": "화웨이 해결책 1",
+					"content": "microG를 최신 버전으로 업데이트하고 로그인 문제를 겪는 이들을 위해\n\n1. 현재 설치한 Vanced microG를 제거합니다.\n\n2. 미디어파이어 v15 링크를 통하여 \"Vanced microG 0.2.12.203315 버전\"을 내려받고 설치하십시오. 링크 - https://del.dog/Mediafireonlyv15\n\n3. 이제 로그인이 정상적으로 될 겁니다."
+				},
+				{
+					"title": "화웨이 해결책 2",
+					"content": "1. Vanced와 microG 앱을 이미 설치한 경우 둘 다 지웁니다. 그 후 microG(최신 버전)만 재설치합니다\n\n2. microG 앱의 설정을 엽니다\n\n3. \"Google Cloud Messaging\" 및 \"Google device registration\" 설정을 끕니다.\n\n4. microG를 통해 사용자 계정을 추가합니다.\n\n5. 그 다음 Vanced를 설치합니다."
+				},
+				{
+					"title": "화웨이 해결책 3",
+					"content": "1. 먼저 구형 microG를 내려받습니다 (깔려 있는 microG는 지워야 하지만 APK 파일은 나중에 필요하니 남깁니다). \n\nmicrog_YouTube_Vanced_0.2.4-105_16052019_2.apk (vancedapp.com 사이트에서 구버전 파일 링크를 찾아보십시오)\n\n2. 이후 오류 메시지가 뜰 때까지 계속 로그인을 시도해보세요. 오류 메시지를 누르면 새로고침할 수 있습니다. \n\n3. 이제 새 microG 버전을 깔고 Vanced를 재시작하세요. 로그인이 정상적으로 된 후 모든 것이 정상적으로 작동될 것입니다.\n\nNOTE: 이제 dontkillmyapp.com을 사용하여 microG, Vanced에 대한 배터리 최적화 설정을 비활성화해야 합니다. 그렇지 않으면 기기의 소프트웨어가 microG를 중단시킬 수 있으며 로그인 문제를 고치기 위해 위의 모든 단계를 다시 반복해야 할 겁니다."
+				}
+			]
+		},
+		{
+			"title": "Vanced Manager",
+			"fields": [
+				{
+					"title": "Vanced Manager에서 로고가 뜬 이후로 들어가지지 않거나 충돌이 발생하는 문제에 대하여",
+					"content": "Manager의 앱 데이터 삭제 > 인터넷 끄기 > Manager 앱 열기 > 인터넷 켜기의 순서로 진행하십시오."
+				},
+				{
+					"title": "INSTALL_FAILED_INVALID_APK: 준비된 패키지 없음",
+					"content": "Play Store에서 YouTube를 설치한 다음 Vanced Manager에서 Vanced를 그 이상 버전으로 업데이트하십시오."
+				},
+				{
+					"title": "만약 Vanced Manager 최신 버전에서 \"잠시만 기다려주세요\" 화면에서 멈추는 현상이 일어난다면 이 조치를 취하십시오",
+					"content": "Play Store에서 YouTube를 설치한 다음 Vanced Manager에서 Vanced를 그 이상 버전으로 업데이트하십시오."
+				},
+				{
+					"title": "\"microG/Vanced 다운로드 시 오류\"나 microG/Vanced 설치 시 멈춤 현상이 발생한다면",
+					"content": "Manager 앱의 앱 데이터를 지운 다음 설치 과정을 진행하고 설치룰 마칠 때까지 절대 다른 앱으로 전환하지 마십시오."
+				},
+				{
+					"title": "설치하려는 앱이 이미 설치된 앱과 충돌하여 앱을 설치하지 못했습니다. 현재 설치된 앱을 제거한 다음 다시 설치하십시오. 또는\nINSTALL_FAILED_UPDATE_INCOMPATIBLE: com.vanced.android.youtube 패키지의 서명이 이전에 설치된 버전과 다릅니다! 등의 메시지가 뜨는 경우",
+					"description": "OneUI 및 Oxygen OS를 사용하는 사용자가 시스템을 안드로이드 10에서 11로 업데이트한 경우나 일부 커스텀 ROM을 사용하는 경우 발생하는 문제입니다,\n\n3가지 해결책이 있습니다",
+					"fields": [
+						{
+							"title": "루팅하지 않은 경우, ADB 사용하기",
+							"content": "1) 안드로이드 디버그 브리지(ADB)를 설치합니다. 도움말 - https://www.xda-developers.com/install-adb-windows-macos-linux/amp/. \n\n2) 폰의 잠금을 풉니다. \n\n3) 개발자 모드를 켭니다 (설정 - 기기 정보 - 소프트웨어 정보에서 빌드 번호를 10번 연타). \n\n4) 설정 - 개발자 옵션에서 USB 디버깅을 켭니다. \n\n5) 폰을 PC에 연결합니다. \n\n6) 명령 프롬프트(CMD)를 열고 경로를 바꿉니다: \"cd C:/Windows/adb/\"를 치고 Enter 키를 누릅니다.\n\n7) 폰이 연결된 상태고 CMD도 켜져 있다면, CMD에서 \"adb devices\" 명령어를 실행합니다. 그러면 폰에 창이 하나 뜰 겁니다, \"컴퓨터에 폰을 연결하시겠습니까?\"와 같은 창인데 '예'를 누릅니다. \n\n8) CMD 명령어 \"adb uninstall com.vanced.android.youtube\"를 실행합니다. \n\n9) 이후 Vanced Manager를 설치하고 최신 버전의 YouTube Vanced를 설치합니다"
+						},
+						{
+							"title": "루팅한 경우,",
+							"content": "1) 루트 탐색기를 이용하여 루트 저장소를 탐색합니다.\n\n2) YT Vanced를 깐 경우 \"data/app/com.vanced.android.youtube-....\"을 찾거나 YT Music을 깐 경우 \"com.vanced.android.apps.youtube.music-....\"을 찾습니다\n\n3) 찾았다면 이들을 지우고, Vanced Manager를 통하여 YT Vanced나 YT music을 설치합니다."
+						},
+						{
+							"title": "위 해결책이 모두 실패한 경우",
+							"content": "공장 초기화를 진행하면 오류가 해결될 수도 있습니다. 최후의 방법으로 사용하세요."
+						}
+					]
+				},
+				{
+					"title": "\"APK 파일이 유효하지 않기 때문에 작업이 실패했습니다\"와 같은 오류가 뜬다면",
+					"content": "• Manager 설정에 간 다음 다운로드한 파일을 지웁니다\\n\\n• 그 후 Manager 앱 데이터를 지우고 Vanced 설치를 계속합니다."
+				}
+			]
+		},
+		{
+			"title": "알림 문제 고치기",
+			"description": "알림 문제와 관련하여, \"Google 클라우드 메시징\"에서 화면이 뜨지 않거나 앱 목록에 Vanced 앱이 없는 경우, 아래 해결책을 참고하십시오",
+			"fields": [
+				{
+					"title": "비루트의 경우",
+					"content": "1. Vanced microG를 YouTube Vanced보다 먼저 설치합니다.\n\n2. Google 계정으로 로그인합니다\n\n3. \na) microG에 대한 배터리 사용량 최적화 기능을 끕니다(dontkillmyapp.com 사이트의 도움말을 보시길 추천드립니다).\n\nb)**\"Vanced microG\" 추가 설정을 열고 아래 설명 동영상을 따라하시기 바랍니다:\n\ni) https://youtu.be/Q-5YFmFWVok"
+				},
+				{
+					"title": "Vanced가 GCM에 보이지 않거나 인증되지 않았다고 표시된다면",
+					"content": "다음 중 하나를 시도해 보십시오:\n\n1. 계정 설정에서 Google 계정을 지웁니다. Vanced가 사용하는 계정은 파란 배경에 작은 g가 그려져 있는 로고로 표시됩니다.\n\n2. microG의 앱 데이터를 지우고 로그인합니다. \n\n혹은\n\n문제가 해결되지 않는다면 Vanced를 재설치하십시오."
+				},
+				{
+					"title": "루트의 경우",
+					"content": "YouTube 설정에서 \"예약된 알림 요약\"이 꺼져 있고 알림음이 잘 설정되어 있는지 확인합니다.\n\n모든 알림을 한 곳에서 추적하는 \"알림 관리자\" 앱을 사용해 볼 수 있습니다. 그러면 알림을 해제하는 경우 해당 앱에서 다시 접근할 수 있습니다."
+				}
+			]
+		},
+		{
+			"title": "강제 종료 문제",
+			"description": "Vanced 앱이 시작할 때 충돌하거나 강제 종료된다면",
+			"fields": [
+				{
+					"title": "비루트의 경우의 경우",
+					"content": "1) microG를 설치하기 전 실행한 비루트 Vanced 앱이 강제 종료되는 경우, Vanced 앱과 MicroG를 모두 제거합니다. 그 후 MicroG를 먼저 설치한 다음 Vanced를 설치하십시오. 문제가 해결될 겁니다.\n\n2) microG를 설치하지 않았는데 비루트 Vanced 앱이 강제 종료되는 경우, microG를 설치합니다. [Vanced는 Google 서비스와 연결하기 위해 microG에 의존하므로 로그인을 하고 싶지 않더라도 microG APK만 설치하고 로그인은 하지 마십시오]"
+				},
+				{
+					"title": "루트의 경우",
+					"content": "1) Vanced 루트 버전이 실행 시 강제 종료된다면, 기존 YouTube 앱 업데이트를 제거하십시오. 그래도 해결되지 않으면, 사용자 테마 오버레이를 비활성화하거나 제거하시기 바랍니다.\n정말 어떻게 해도 문제를 해결할 수 없다면 마지막 방법으로 커뮤니티나 스태프 쪽에 logcat을 전송하십시오.\n\n2) 루트 버전의 Vanced가 앱 사용 중에 꺼지거나 동영상 시청 중에 꺼진다면, logcat에서 아래와 같은 항목을 찾아보십시오:\n\n(a)- Unsatisfiedlinkerror: \n해결책:- 파일 관리자를 열어 루트 저장소로 갑니다.\n그 후 \"system/app/youtube/lib\" 폴더나 \"Data/app/com.google.android.youtube/lib\" 폴더를 열어서\n\narm64-v8a를 arm64로\n\narmeabi-v7a를 arm으로 이름을 바꿉니다.\n\n그럼 문제가 해결될 겁니다.\n\n만약 앞서 말한 경로에 \"arm\"과 \"arm64\"가 없으면 공식 YT APK에서 찾거나 친구에게 해당 파일을 전송해달라고 요청하십시오.\n\n(b)- Notehitelisted \"com.google.android.youtube\":\n해결책:- 여기(todo)의 화이트리스트를 확인하십시오\n\n로그를 얻는 방법을 모르겠다면, 버그 신고 노트를 참고하십시오"
+				},
+				{
+					"title": "백그라운드 재생 도중 Vanced가 강제 종료된다면",
+					"content": "이 문제는 MIUI, Emui, ColorOS 등의 제조사 UI의 배터리 사용량 최적화 기능으로만 발생합니다. 이 경우 Vanced 및 microG 앱에 대하여 배터리 최적화 기능을 비활성화하는 것을 추천드립니다.\n\n비활성화 방법은 기기 제조사마다 천차만별이므로, 비활성화 작업을 도와드릴 수는 없습니다. \"dontkillmyapp.com\" 사이트를 이용하거나, Google에서 \"[기기 제조사] [기기 모델] [안드로이드 버전] disable battery optimization\"으로 검색하여 보십시오.\n\n그럼에도 문제가 해결되지 않는 경우, 텔레그램이나 디스코드의 #bugreport 채널에 자세한 설명과 함께 관리자가 원인을 파악할 수 있도록 로그를 제출하여 주십시오. 로그의 경우 시스템 전체가 아닌 Vanced에 대한 로그만 긁어와주시길 바랍니다."
+				}
+			]
+		},
+		{
+			"title": "재시작 시 삭제됨",
+			"description": "루트 버전의 YouTube Vanced/YouTube Music Vanced가 재시작하면 사라지는/제거되는/기본 YouTube 앱으로 되돌려지는 현상이 나타난다면,\n\n2가지 해결책이 있습니다",
+			"fields": [
+				{
+					"title": "해결책 1",
+					"content": "오류가 해결될 때까지 비루트 버전을 이용합니다."
+				},
+				{
+					"title": "해결책 2",
+					"content": "필요 사항: \n\n2.1.0 이상의 Vanced Manager\nES 파일 탐색기나 루트 탐색기같은 루트 관리자\n1단계: /data/adb/service.d/로 간 다음 Music.sh, Vanced.sh를 고칩니다\n\n두 파일의 스크립트 모두 이와 비슷하게 생겼을 겁니다:\n\nwhile  [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\nStep 2: \"do sleep 1; done\"을 \"do sleep 2; done\"으로 값을 바꿉니다\n\nStep 3: 기기를 재시작합니다\n\n그래도 해결되지 않는 경우 지연 시간(sleep)을 더 길게 설정하고 재시도해보십시오\n\n——————————————————\n\n이렇게 해도 해결되지 않는 경우 기기가 루트 버전의 Vanced YouTube/Music APK를 마운트하는 데 시간이 오래 걸리는 것일 수도 있습니다.\n그럼 vanced.sh, music.sh를 수정하십시오, \n'while'과 'mount' 줄 사이에 아래와 같이 sleep 구문을 넣습니다:\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
+				}
+			]
+		},
+		{
+			"title": "Vanced 내 광고",
+			"description": "만약 YouTube Vanced나 Vanced Music에서 광고가 보인다면, 아래 xfileFIN의 글을 읽으십시오: \n\n> 광고를 직접 봐야 이에 대한 분석이 가능합니다. 간단히 레이아웃을 숨기는 것으로 광고를 차단할 수는 없습니다.\nYouTube 광고를 받는 대상을 결정하는 방법은 서버 측에서 일어나는 일이라 알 수 없습니다.\n알고 있는 사실은 광고와 실제 동영상이 같은 레이아웃을 공유하므로 단순히 레이아웃을 숨기는 방법으로 문제를 해결할 수 없다는 겁니다. 코드는 그냥 광고 배지가 달린 것을 구별해내는 기능만을 수행합니다.\n광고 배지를 숨기는 것은 쉽겠지만, 광고 동영상의 경우 광고 배지를 붙이지 않은 채 여전히 나올 수 있습니다.\n광고가 고의적으로 동영상과 구분이 힘들게 구현되었기 때문에 직접 광고를 보지 않는 한 광고를 분석해 나가기 어렵습니다.\n\n(Google이 추가한) 홈 화면 광고와 검색 광고는 이들이 활성화된 지역에 있지 않는 한 보이지 않습니다. 해당 광고는 Vanced 팀이 추가한 것이 아니므로 Vanced 팀을 지적하는 어이 없는 소리를 하지 마시길 바랍니다.\n\n개발자들은 당신이 있는 지역에서 일부 광고가 보인다는 것을 이미 잘 알고 있습니다. 모든 광고가 차단될 때까지 차분히 기다려 주십시오. 그 이전에는 Vanced를 즐기고, 같은 내용을 채팅으로 도배하지 마십시오.\n\n앱 데이터나 캐시를 삭제하면 일시적으로 광고 표시 현상이 해결될 수도 있으며 향후 업데이트를 기다릴 수도 있습니다."
+		},
+		{
+			"title": "기록",
+			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n> Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n> Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in (YouTube Settings-https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
+		},
+		{
+			"title": "앱 불러오기 문제",
+			"fields": [
+				{
+					"title": "시작 화면에서 Vanced가 멈춘다면",
+					"content": "1. 비행기 모드를 켭니다.\n2. YouTube Vanced를 실행합니다.\n\n3. 변경 내역 팝업을 닫습니다.\n4. 비행기 모드를 끕니다.\n5. Vanced를 재실행합니다.\n\nXDA의 rocco6victor님께 감사의 말씀을 드립니다."
+				},
+				{
+					"title": "Vanced에서 무한 로딩 현상이 발생한다면",
+					"content": "1. dontkillmyapp.com을 통해 YouTube Vanced와 microG 앱에 대한 배터리 사용량 최적화 기능을 끄고 기기를 재시작합니다.\n2. 문제가 해결되었을 겁니다."
+				}
+			]
+		},
+		{
+			"title": "PIP 문제",
+			"description": "⚠️PIP 관련 문제는 보고하지 마십시오.⚠️\n• Vanced에서는 안드로이드에서 제공하는 PIP를 이용하므로 PIP는 시스템에 의하여 제어됩니다. PIP 문제는 ROM의 문제로 인하여 발생하는 것입니다.\nMX Player, VLC 등의 앱은 안드로이드 제공 PIP 대신 자체 PIP를 사용하므로 안드로이드 제공 PIP를 사용하는 앱에서 나타나는 문제가 나타나지 않습니다.\n\n• PIP 기능은 안드로이드 8 이상에서만 지원됩니다.\n\n• PIP 기능을 켜려면, YouTube 앱 설정 > 일반 > PIP 모드 설정을 켜십시오.\n\n> MIUI에서는 우선 아래 설정이 켜져 있어야 PIP를 활성화할 수 있습니다:\n개인정보 보호->관리->특별한 앱 접근->PIP\n\n최신 15.43.32 버전에서는, YouTube 자체의 버그로 인하여 PIP 문제가 발생한 것이니 Google에서 이를 완전히 고치길 기다리십시오."
+		},
+		{
+			"title": "앱 다운로드 문제",
+			"fields": [
+				{
+					"title": "vancedapp.com에서 Vanced 파일을 내려받는 데 문제가 있거나 서버/지역 제한으로 인하여 사이트 자체를 열 수 없다면",
+					"content": "[여기에서](https://github.com/YTVanced/VancedManager/releases/) 새 Manager를 받을 수 있습니다\n\n참고: 위 링크에 들어간 다음 latest release > assets에서 \"manager.apk\"를 선택해야 합니다. ZIP 파일이나 기타 파일은 APK 파일이 아니므로 선택하지 마십시오."
+				},
+				{
+					"title": "Manager를 통하여 Vanced를 다운로드하거나 설치하는 데 문제가 발생한다면, Vanced를 깔기 위해 여전히 SAI/수동 설치 방법을 사용할 수 있습니다.",
+					"content": "• MediaFire 미러를 통하여 필요한 파일을 내려받습니다.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• AFH 미러를 통하여 필요한 파일을 내려받습니다.\n>https://androidfilehost.com/?w=files&flid=170196\n\n참고:\n\nA) 모든 분할 APK 파일이 mediafire/afh에 있는 관계로, \"기본, 아키텍처, 언어\" APK를 모두 압축하고 SAI로 설치해야 합니다. 반드시 세 종류의 APK 모두 압축해야 합니다.\nB) 수동 설치는 루트 저장소에 접근하는 방법이므로 루팅한 기기에서만 쓸 수 있는 방법입니다."
+				}
+			]
+		},
+		{
+			"title": "분리",
+			"description": "아래 방법들 중 아무거나 사용하여 마켓에서 YouTube 앱을 분리할 수 있습니다.",
+			"fields": [
+				{
+					"title": "해결책 1",
+					"content": "In case the detach methods listed above doesn't work for you, you can try the ones down below:\n\nUsing Titanium backup app(needs pro version)\n\n• Open titanium backup \n\n• Search for youtube and Click on it \n\n• Swipe left to access special features \n\n• Click on Attach to market \n\n• Then again go to special features \n\n• Click on 'detach from market' \n\n• Done"
+				},
+				{
+					"title": "해결책 2",
+					"content": "NOTE: Auto-Updates must be disabled in play store before doing this.\n\n1. Create \"Detach.txt\" in the following location /sdcard/ (equivalent to /storage/emulated/0/) write \"YouTube\" in that text file without quotes. You can also download the Detach.txt from Magisk module name Detach and remove the # in front of YouTube.\n\n2. Flash Detach module in Magisk manager.\n\n3. Flash Daily Job Scheduler (djs) in Magisk manager.\n\n4. Reboot\n\n5. Open Terminal and type \"su -c detach -t\" and set it to run once every hour.\n\n6. Done!\n\nPlay Store updates its database file on a random rhythm, sometimes several times a day. Once in a while (like once every two weeks), Play Store will show an update for Youtube, but it will go away when the script has run again by djs."
+				}
+			]
+		},
+		{
+			"title": "Fix For SAI/Vanced Manager errors",
+			"description": "Below are some known reasons you might face when you don't follow instructions, so read the appropriate cause with its solution and fix your problem.",
+			"fields": [
+				{
+					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
+					"content": "Uninstall stock yt updates. Make sure Stock YouTube version is lower than vanced version you are installing now."
+				},
+				{
+					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
+					"content": "Just uninstall any vanced app that you have installed from any other source then install vanced.  Otherwise uninstall \"vanced microG\" > reboot device > then install vanced microG first then Vanced. If error still comes, use SAI to install the vanced split apks manually. These apk files are located in \n\"android / data / com.vanced.manager / files / vanced / nonroot / \""
+				},
+				{
+					"title": "INSTALL_PARSE_FAILED_NOT_APK",
+					"content": "Change the language of your phone from Indonesian to English then install vanced. After installing, you can change language back to Indonesian. If your device isn't using Indonesian language, make sure language is properly selected in Vanced manager which you wanna install with YouTube Vanced."
+				},
+				{
+					"title": "INSTALL_FAILED_NO_MATCHING_ABIS",
+					"content": "Download legacy version instead of default"
+				},
+				{
+					"title": "INSTALL_FAILED_INVALID_APK: 분할 config.en이 여러 번 정의됨",
+					"content": "Try removing one split_config.en apk from apks file then install\n(Apks file is just a zip file so you can easily remove the apk from it)"
+				},
+				{
+					"title": "INSTALL_FAILED_DUPLICATE_PERMISSION",
+					"content": "Uninstall microg > reboot > install vanced via sai > install microg\n\nIf microg doesn't install, install microg too via SAI."
+				},
+				{
+					"title": "Unable to install the app because it conflicts with an already installed app with same package name",
+					"content": "Uninstall microg > reboot > install vanced via sai > install microg via apk package installer\nIf microg doesn't install, install microg too via SAI."
+				},
+				{
+					"title": "애플리케이션이 기기와 호환되지 않음",
+					"content": "공식 Vanced 미러에서 파일을 받을 때 기본 아키텍처를 받지 말고 구형 아키텍처를 받아 시도해보십시오."
+				},
+				{
+					"title": "INSTALL_PARSE_FAILED_NO_CERTIFICATES",
+					"content": "It seems like you didn't read instructions properly and installed vanced without disabling signature verification. or you tried some method which didn't give any positive result, so the solution to both is to disable signature verification using the best method/alternative to what you used before."
+				},
+				{
+					"title": "INSTALL_FAILED_INVALID_INSTALL_LOCATION",
+					"content": " 기기 설정 > 개발자 설정에서 \"외장 앱 강제 허용\" 설정을 끄고 SAI에서 Vanced 앱을 설치해 보십시오."
+				},
+				{
+					"title": "INSTALL_FAILED_USER_RESTRICTED: 사용자에 의해 설치가 중단됨",
+					"content": "Unknown sources install is protected per service in your MIUI devices Please go to your device settings and enable unknown sources for SAI and issue will get solved and you will be able go install Vanced."
+				},
+				{
+					"title": "INSTALL_FAILED_INTERNAL_ERROR: 권한 거부됨",
+					"content": "개발자 설정에서 MIUI 최적화 설정을 비활성화하십시오."
+				}
+			]
+		},
+		{
+			"title": "실시간 스트림 오류",
+			"description": "해결책: 이 설명 동영상을 참고하십시오 > https://youtu.be/R9asMVCQkAU. 또 외부의 광고 차단/VPN/프록시/커스텀 설정을 Vanced에서는 비활성화하여 주십시오. 오류를 피하려면 기존 설정을 그대로 유지하십시오."
+		},
+		{
+			"title": "화이트리스트",
+			"description": "YouTube Vanced 루트 버전에서 화이트리스트 작성이 유발하는 충돌 문제를 겪고 있다면, 이 링크(https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error)의 도움말을 참고하여서 문제가 해결되는지 확인하십시오.\n\n만약 위 링크로 문제가 해결되지 않았다면 ROM을 초기화하여 오류 해결을 시도해보거나 다른 ROM에서도 오류 현상이 나타나는지 확인해보십시오."
+		},
+		{
+			"title": "동영상 화면이 보이지 않는 문제 고치기",
+			"description": "해결책: YouTube Vanced의 앱 데이터를 지우고 재설치하면 문제가 해결될 수 있습니다. 문제가 해결되지 않는다면, 기기를 재부팅하고 문제가 해결되었는지 확인하십시오.\n\n그래도 문제가 남아 있다면, 기기의 ROM을 바꿔 보거나 공장 초기화를 시도해보십시오."
+		},
+		{
+			"title": "콘텐츠 제한",
+			"description": "검색 결과가 적게 나오는 문제를 해결하려면, 아래와 같이 하세요\n\n1. 설정 > 일반으로 갑니다\n\n2. \"제한 모드\"를 찾아 끕니다.\n\nGoogle에 반하는 국가에 있다면, VPN을 사용하십시오."
+		},
+		{
+			"title": "조회수 표시 방법 바꾸기",
+			"description": "crores/lakhs 단위로 표시되는 조회수를 일반적인 단위로 표시되게 하려면 이렇게 하세요:\n\n\n해결책:\n\n1. 기기 설정으로 갑니다\n\n2. 시스템 설정으로 갑니다\n\n3. 언어 설정으로 갑니다\n\n4. 한국어 언어를 추가합니다 (작동하지 않으면 English (US) 언어를 추가하십시오)\n\n5. 추가한 언어를 최상단에 둡니다.\n\n6. YouTube를 실행해 보면 오류가 해결되었음을 알 수 있습니다 ⚡\n\n텔레그렘 Vanced 그룹에서 해결책을 찾은 @ROG_OK님께 감사드립니다."
+		},
+		{
+			"title": "자막",
+			"description": "무작위 언어에 대한 자막이 나오는 문제가 발생하고 있다면, 자막 설정에서 자막 언어를 사용자의 언어로 바꿔주어야 합니다.\n\n자막 설정에 접근하려면, 기기 설정 > 접근성 > 자막으로 들어가거나\n\nYouTube 설정 > 자막으로 들어가십시오"
+		},
+		{
+			"title": "HDR 밝기 해결책",
+			"description": "밝기를 최대로 높이려면 스와이프 제스처를 사용하십시오"
+		},
+		{
+			"title": "설정 충돌 문제",
+			"description": "지문 인증을 끄고 설정할 것들을 설정한 다음 지문 인증을 다시 켜십시오. 이 이후부터는 기기를 재시작하지 않는 한 설정에서 충돌 문제가 발생하지 않을 겁니다."
+		}
+	]
+}

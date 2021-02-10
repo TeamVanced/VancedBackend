@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Wie man Fehler meldet",
+			"description": "Fehler können Sie bei unserer [GitHub Fehlerverfolgung](https://github.com/YTVanced/Vanced) melden\n\n**Stelle Sie sicher, dass sie die README lesen und prüfen, ob Ihr Fehler bereits bekannt ist, bevor Sie Fehler melden!**",
+			"fields": [
+				{
+					"title": "Wann wird mein Fehler überprüft?",
+					"content": "Ihr Feedback wird so bald wie möglich überprüft."
+				}
+			]
+		},
+		{
+			"title": "Regulären Fehler melden",
+			"description": "Manchmal können Modifikationen einen uneresrteten Fehler verursachen. Hier können sie uns mit einem Logcat (einem Log aller Prozesse auf Ihrem Gerät) helfen. Dies hilft bei der Identifizierung des Problems. Ein PC wird benötigt.",
+			"fields": [
+				{
+					"title": "Wie mache ich einen Logcat?",
+					"content": "Bitte sehen Sie sich diese Videoanleitung an: https://youtu.be/ICLpwgsJJP0."
+				}
+			]
+		},
+		{
+			"title": "Einen Fehler beim visuellen Thema melden",
+			"description": "So meldet man Fehler beim visuellen Thema.\nUm Fehler zu melden, brauchen Sie den [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Erste Schritte",
+					"content": "Nachdem Sie \"Developer Assistant\" heruntergeladen haben, öffnen Sie Vanced und finden/reproduzieren Sie den Fehler, dann öffnen Sie den Layout-Viewer indem sie den Home-Button drücken bis sich die App öffnet.\nNun folgen Sie diesen Schritten:\n1. Stellen Sie sicher, dass der Fehler auf dem Bildschirm zu sehen ist\n2. Tippen Sie auf das Element, von dem Sie vemuten, dass es vom Fehler betroffen ist\n3. Gehen sie auf die Tabs \"Element\" und \"Hierarchy\" und machen sie ein Bildschirmfoto\n4. Benutzen Sie dieses Foto für ihre Fehlermeldung"
+				}
+			]
+		}
+	]
+}

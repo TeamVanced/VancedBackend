@@ -1,0 +1,273 @@
+{
+	"troubleshooting": [
+		{
+			"title": "基本疑难解答",
+			"description": "一、清除下列应用的数据和缓存\n\n1. 对于非 Root 版，Vanced/Vanced Music 和 microG\n2. 对于 Root 版，Vanced/Vanced Music 和 Google Play 服务\n\n二、重新安装 YouTube Vanced\n\n重要提示：请在上述两步之间重启一次"
+		},
+		{
+			"title": "登录问题",
+			"description": "下面是一些常见的错误与对应的屏幕截图，以便您能够知道需要遵循哪个解决方案。",
+			"fields": [
+				{
+					"title": "如果您遇到错误：“请检查您的互联网连接”",
+					"content": "请遵循此视频指南：https://youtu.be/S5sTXRTrD5Y。同时尝试清除 microG 的应用数据。"
+				},
+				{
+					"title": "如果您面临与登录相关的问题：“您没有联网，请检查网络连接”",
+					"content": "1. 清除 Vanced microG 和 Google Play 服务的数据\n2. 卸载 Vanced microG 和 Vanced\n\n3. 可以重启一次。\n\n4. 重新安装 APKs（microG 和 Vanced），但请确保您在此之前安装了 microG。请使用群组中 #installation 标签下的文件，通过 Vanced Manager 或 SAI 安装。\n\n5. 登录。\n\n注意：如果您仍然遇到 Vanced 发生网络连接相关的问题（即使是在预先安装 microG 的情况下）、 接收通知等等，确保您已为 Vanced 和 microG 禁用电池优化。\n\n上述步骤可能因您的设备品牌不同而略有差异。您可以借鉴 https://dontkillmyapp.com 等教程，或自行搜索。"
+				},
+				{
+					"title": "如果 Vanced 退出了您的 Google 账户",
+					"content": "发生这种情况是因为您设备系统严格的后台管理杀死了 microG 负责登录的服务或活动。\n\n为了解决此问题，为 microG 禁用电池优化，参照 https://dontkillmyapp.com，或自行搜索。"
+				},
+				{
+					"title": "对于通过 Google 套件账户使用非 Root 版 Vanced，经常面临连接问题（比如“您没有联网”“请检查网络连接”等错误）的用户",
+					"content": "• 登入您的 Google 管理控制台（https://admin.google.com/）\n\n• 找到设备管理\n\n• 前往设置，并禁用“手机管理”\n\n• 设置完成，问题应该已得到解决"
+				},
+				{
+					"title": "针对华为的解决方案1",
+					"content": "对于那些将 microG 更新到最新版，却遇到登录问题的用户\n\n1. 卸载已安装的 Vanced microG\n\n2. 从 MediaFire 的 v15 文件夹下载“Vanced microG 0.2.12.203315 版本”并安装。MediaFire 的 v15 文件夹链接为 - https://del.dog/Mediafireonlyv15\n\n3. 您应该可以登录了"
+				},
+				{
+					"title": "针对华为的解决方案2",
+					"content": "1. 如果您已安装 Vanced 或 microG，将两者卸载。然后只安装 microG（最新可用版本）\n\n2. 然后打开 microG 应用设置\n\n3. 关闭“Google Cloud Messaging”和“Google device registration”。\n\n4. 通过 Vanced 添加账户\n\n5. 然后安装 Vanced。"
+				},
+				{
+					"title": "针对华为的解决方案3",
+					"content": "1. 安装旧版本 microG (移除当前已安装的版本并保留apk - 您以后需要它)。 \n\nmicrog_YouTube_Vanced_0.2.4-105_16052019_2.apk (从vancedapp.com上的旧文件链接中获取)\n\n2。 打开 YouTube Vanced并重新登录，直到其显示错误消息。试着点击错误消息以重新载入。 \n\n现在重新安装新版本的microG并重新启动。重新登录后程序应该正常运行。\n\n注意：请确保针对您的设备依照dontkillmyapp.com的指示对microG和YouTube Vanced禁用了电量优化，否则您的系统可能会杀死microG，导致您必须再次重复以上所有步骤来修复登录。"
+				}
+			]
+		},
+		{
+			"title": "Vanced Manager",
+			"fields": [
+				{
+					"title": "对于 Vanced Manager 卡在启动屏或崩溃问题",
+					"content": "清除 Manager 应用数据 > 关闭网络连接 > 打开 Manager 应用 > 开启网络连接。"
+				},
+				{
+					"title": "INSTALL_FAILED_INVALID_APK：无软件包",
+					"content": "从 Play 商店中安装官方 YouTube，然后在 Vanced manager 中覆盖安装 Vanced。"
+				},
+				{
+					"title": "如果最新版 Vanced Manager 卡在“请耐心等待”界面，按此操作",
+					"content": "从 Play 商店中安装官方 YouTube，然后在 Vanced manager 中覆盖安装 Vanced。"
+				},
+				{
+					"title": "如果您在安装 microG 或 Vanced 应用时遇到“microG/Vanced 下载失败”，或者安装卡住的问题",
+					"content": "清除 manager 的应用数据，然后继续安装。不要在安装过程中切换至其他应用。"
+				},
+				{
+					"title": "安装失败，因为应用程序与已安装的应用程序冲突。 卸载当前版本的应用，然后重试。\nINSTALL_FAILED_UPDATE_INCOMPATIBLE: Package com.vanced.android.youtube signatures do not match the previously installed version; ignoring!",
+					"description": "OneUI 和 OxygenOS 的用户在将系统从 Android 10 更新到 Android 11 时会遇到此问题，有些定制系统也会发生此问题，\n\n因此我们为您提供了三个解决方案",
+					"fields": [
+						{
+							"title": "如果您尚未 root，请使用 ADB",
+							"content": "1) 安装Android调试工具(ADB)；指南 - https://www.xda-developers.com/install-adb-windows-macos-linux/amp/\n\n2) 解锁您的手机。 \n\n3) 启用开发者模式 (在设置 - 关于手机-版本号上点击10次)。 \n\n4) 在设置中启用 USB 调试-开发者选项。 \n\n5) 将您的手机连接到 PC。 \n\n6) 打开命令提示符 (CMD) 并更改目录：“cd C:/Windows/adb/” 并按Enter。 \n\n7) 确保您的手机已连接并且已打开CMD，CMD 运行命令“adb devices”。 您的手机上将会有一个提示功能，比如“您想要将手机连接到PC吗？” 选择“是”。 \n\n8) 运行cmd 命令\"adb uninstall com.vanced.android.youtube\"。 \n\n9) 之后，您可以正常安装Vanced Manager 并安装最新版本的 YouTube Vanced。"
+						},
+						{
+							"title": "如果您已 Root，",
+							"content": "1) 使用 root 文件浏览器并转到根目录。 \n\n2) 找出YouTube Vanced或YouTube Music的安装目录，一般为 \"data/app/com.vanced.android.youtube-....\" 或\"data/app/com.vanced.android.apps.youtube.music-....\"\n\n3) 如果您发现了这些文件夹，只需删除它们就可以继续通过 Vanced Manager 安装 YouTube Vanced 或 YouTube Music。"
+						},
+						{
+							"title": "如果上述两种方法都失败了",
+							"content": "显然，重置系统可以解决此问题。仅无计可施时用之。"
+						}
+					]
+				},
+				{
+					"title": "如果您遇到如“因为 APK 文件无效/损坏导致操作失败”的问题",
+					"content": "• 前往 Manager 设置，并清除已下载的文件\\n\\n• 然后清除 Manager 应用数据，并继续安装 Vanced。"
+				}
+			]
+		},
+		{
+			"title": "通知修复",
+			"description": "关于通知问题，即 Vanced 不显示在”Google Cloud Messaging”列表中，见下",
+			"fields": [
+				{
+					"title": "对于非 Root 版",
+					"content": "1. 先后安装 Vanced microG 和 YouTube Vanced\n\n2. 用您的 Google 账户登录\n\n3. 为 microG 禁用电池优化（建议参照 dontkillmyapp.com 指南）\n4. 打开 Vanced microG 高级设置，并按此指南操作：https://youtu.be/Q-5YFmFWVok"
+				},
+				{
+					"title": "如果 Vanced 不出现在 Google Cloud Messaging 列表中，或显示未注册",
+					"content": "尝试下列方法之一：\n\n1. 从账户设置中移除您的 Google 账户。Vanced 使用的账户为旧版蓝底“g”字图标。\n\n2. 清除 microG 的数据并登录。\n\n或\n\n若以上方法无效，重新安装 Vanced。"
+				},
+				{
+					"title": "对于 Root 版",
+					"content": "请确保已在YouTube设置中关闭了“Scheduled Digest”选项且正确设置了通知提示音。\n\n您也可以尝试使用“通知管理器”应用来跟踪您的所有通知，如果您忽略了一些通知， 您可以从该应用再次访问相同的通知。"
+				}
+			]
+		},
+		{
+			"title": "闪退问题",
+			"description": "如果 Vanced 应用启动时崩溃或闪退",
+			"fields": [
+				{
+					"title": "非 Root",
+					"content": "1) 如果非root Vanced应用程序在安装MicroG之前被强制关闭，卸载Vanced应用程序和 MicroG。 然后先安装 MicroG，然后安装Vanced以修复此问题。\n\n2) 如果非root Vanced应用程序被强制关闭而MicroG未安装，安装MicroG。 [如果您不需要登录功能，可以仅安装MicroG apk作为连接Google服务的依赖]"
+				},
+				{
+					"title": "Root",
+					"content": "1) 如果 root 版本的 Vanced 在打开应用程序时被强制关闭，卸载原版的YouTube 应用更新。 如果无效，检查您是否使用了Substratum主题并禁用/卸载针对YouTube的Substratum/Swift主题叠加层。\n如果仍无效，请向社区/Vanced开发人员提供错误日志。\n\n2) 如果 root 版本的 Vanced 在使用中被强制关闭，当它处于前台/活跃状态或播放视频时， 抓取并查找错误日志：\n\n(a) - 链接错误(Unsatisfiedlinkerror)： \n解决方案： 打开文件管理器，转到根目录。\n然后打开\"system/app/youtube/lib\" 或 \"data/app/com.google.android.youtube/lib\" 并重命名 \n\narm64-v8a 为arm64\n\narmeabi-v7a 为 arm\n\n检查错误是否修复。\n\n如果“arm\"和\"arm64”都没有出现在上面的目录中。 尝试从官方的 YouTube apk 获取这两个文件，或询问您的朋友，并将取得的文件放置在对应目录\n\n(b) - 关注白名单(Notehitelisted \"com.google.android.youtube\")：\n解决方案： 检查白名单(#Todo)\n\n如果你不知道如何获取日志，请检查本页提示：bugreport"
+				},
+				{
+					"title": "如果 Vanced 在播放时崩溃（当在后台模式下播放时）",
+					"content": "由于这个问题是因MIUI、Emui、ColorOS等深度定制ROM的激进的电池优化策略造成的，建议您同时为Vanced 和 MicroG 应用禁用电池优化。 \n\n由于禁用电池优化的方式在不同厂商的设备上各不相同，因此我们无法完全帮助您禁用它。 您可以尝试到类似dontkillmyapp.com的网站上寻求帮助, 或者使用 Google 搜索“[厂商] [手机型号] [Android 版本] 禁用电池优化”。\n\n如果您仍然有这个问题，欢迎通过Telegram或Discord提供 #bugreport及设备的详细信息，以便开发者分析错误原因。 此外，请确保仅采集Vanced而非整个系统的日志。"
+				}
+			]
+		},
+		{
+			"title": "重启时卸载",
+			"description": "如果重启后，Root 版 YouTube Vanced 或 YouTube Music Vanced 消失、被卸载或回退至出场版本，\n\n我们为您准备了两个解决方法",
+			"fields": [
+				{
+					"title": "解决方法 1",
+					"content": "使用非 Root 版本，直到开发者修复此问题。"
+				},
+				{
+					"title": "解决方法 2",
+					"content": "要求：\n\nVanced Manager 2.1.0 或更新\n一个 Root 文件管理器，如 ES 文件管理器或 Root Browser\n\n步骤 1：前往 /data/adb/service.d/，并编辑 Music.sh 和/或 Vanced.sh\n\n它们都应包含如下代码：\n\nwhile  [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\n步骤 2：将“do sleep 1; done”改成“do sleep 2; done”\n\n步骤 3：重启设备\n\n如果这无法解决问题，增加“do”和“done”之间的睡眠时间。\n\n——————————————————\n\n如果这也无效，也许您的设备在挂载 Root 版 Vanced YouTube 或 Music APK 之前需要更多时间。\n修改 vanced.sh 和/或 music.sh，\n在“while”和“mount”之间加入一行新的睡眠代码，如下：\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
+				}
+			]
+		},
+		{
+			"title": "Vanced 中的广告",
+			"description": "如果您在YouTube Vanced 或Vanced Music中看到广告， 查看以下由xfileFIN编写的声明：\n\n> 我需要自己来追踪它。 简单地隐藏布局针对这种广告通常无效。\n广告由YouTube服务器分发，我不知道他们是如何决定广告内容的。\n我不能仅仅隐藏布局，因为视频也使用同样的布局。 代码只是决定它是否显示为广告。\n我尽管可以轻松隐藏广告栏，但它仍然会显示实际广告视频，而不会将它标记为广告。\n我需要亲自找到广告以在代码中追踪它，因为单单混淆它们只会越发麻烦。\n\n主屏幕和搜索广告 (由Google添加) 基于特定区域，如果您不在一个地区内活跃，将不会显示。 这些广告不会由我们的团队以任何方式添加，所以如果你怀疑我们加了私货，我们大概会取笑你。 \n\n开发者已经知道您正在获取有针对性的广告。请耐心等待更新，直到所有广告被屏蔽。 在此之前，好好享受Vanced，不要总是以同样的问题骚扰开发人员。\n\n临时解决方案是清除应用数据和缓存或等待未来更新。"
+		},
+		{
+			"title": "历史记录",
+			"description": "如果您发现Vanced无法记录视频观看/搜索结果的问题，例如： 历史记录不可用等，建议如下：\n\n• 对于已经root的用户，无论您使用哪种版本(非root或root版)\n\n> 请确保*s.youtube.com在您的AdBlocker白名单上\n\n⚠️给Adaway用户的提示： 如果白名单无法使用。 点击\"host sources\"，取消勾选\"stevenblack\"并应用，重启。\n\n• 对于非Root用户：\n\n> 请确保您使用 v14.10.53 或更高版本的应用。 如果历史记录仍然没有更新，那么您需要将您的账户合并(YouTube Settings-https://www.youtube.com/account_advanced) 才能使历史记录正常。 (合并过程将清除当前历史。)\n\n⚠️给正在使用VPN屏蔽广告的Adaway用户的提示：确保 *s.youtube.com在允许的白名单内并保存更改。"
+		},
+		{
+			"title": "应用加载问题",
+			"fields": [
+				{
+					"title": "如果 Vanced 卡在启动屏",
+					"content": "1. 开启飞行模式\n2. 打开 YouTube Vanced\n\n3. 在更新日志对话框中点击关闭\n4. 关闭飞行模式\n5. 重新打开 Vanced\n\n感谢 XDA 的 rocco6victor"
+				},
+				{
+					"title": "如果 Vanced 一直无限加载",
+					"content": "1. 按 dontkilmyapp.com 的提示为YouTube Vanced 和 microG 应用程序禁用电池优化，然后重启您的设备。\n2. 现在应用应该可以正常使用了。"
+				}
+			]
+		},
+		{
+			"title": "画中画模式问题",
+			"description": "⚠️请不要报告画中画模式的相关问题。⚠️\n• 画中画模式受系统控制，因为 Vanced 使用 Android 原生画中画功能。您的画中画问题应归结于系统。\n其他应用，如MX Player、VLC 等使用其自己的画中画模式而不是 Android 自带的，因此这些应用永远不会碰到原生画中画模式的问题。\n\n• 画中画模式仅适用于 Android 8 及以上。\n\n• 若要启用画中画模式，请打开 YouTube 应用设置 > 常规 > 画中画\n\n> 要在 MIUI 中启用画中画模式，请确保此设置开启：\n隐私保护→管理→特殊应用程序权限→画中画\n\n在最新的 v15.43.32 中，画中画在官方 YouTube 中就存在问题，所以请等候 Google 将其修复。"
+		},
+		{
+			"title": "应用下载问题",
+			"fields": [
+				{
+					"title": "如果您无法从 vancedapp.com 下载 Vanced 文件，或因为服务/地区限制无法打开网站",
+					"content": "您可以从[这里](https://github.com/YTVanced/VancedManager/releases/)下载最新版 Manager\n\n注意：您应在 Latest release > Assests 中选择“manager.apk”。不要选择 ZIP 文件或其他文件，因为这些不是安装包。"
+				},
+				{
+					"title": "如果您无法通过 Manager 下载并安装 Vanced，您仍可以使用 SAI 或手动安装 Vanced。",
+					"content": "• 使用 MediaFire 下载站下载所需文件。\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• 使用 AFH 下载站下载所需文件。\n>https://androidfilehost.com/?w=files&flid=170196\n\n注意：\n\n一、因为我们在 MediaFire 和 AFH 上提供单独的 APK 文件，您必须将所有“基础、架构和语言”APK 压缩为 ZIP 文件，并在 SAI 中安装。 三个 APK 都不可或缺。\n二、手动安装只能通过 Root 权限完成，因为它需要访问 Root 存储。"
+				}
+			]
+		},
+		{
+			"title": "分离",
+			"description": "您可以使用下面的任何一种方法将YouTube应用从Play商店中分离出来。",
+			"fields": [
+				{
+					"title": "方法1",
+					"content": "如果上面列出的分离方法不适用于您。 您可以尝试下面的功能：\n\n使用钛备份Titanium Backup app(需要专业版)\n\n• 打开钛备份 \n\n• 搜索youtube并点击它 \n\n• 向左滑动以访问特殊功能 \n\n• 点击添加到Play商店 \n\n• 然后再转到特殊功能 \n\n• 点击“从Play商店分离” \n\n• 完成"
+				},
+				{
+					"title": "方法2",
+					"content": "注意：在这么做之前，必须禁用Play商店自动更新。\n\n1. 在/sdcard目录创建“detach.txt\"并写入“YouTube”，无需引号。 您也可以从 Magisk 模块仓库下载Detach模块，安装后删除\"detach.txt\"中 YouTube 前面的 # 。\n\n2. 在 Magisk 管理器中安装Detach模块。\n\n3. 安装Magisk 模块Daily Job Scheduler (djs) 。\n\n4. 重启\n\n5. 打开终端并输入\"su -c detach -t\"并设置其每小时运行一次。\n\n6. 完成\n\nPlay Store不定期更新数据库文件，有时高达每天几次。 在一定时间内(大约每两周一次)，Play Store将显示YouTube的更新。但当步骤5中的脚本再次由 djs 运行时，它将会消失。"
+				}
+			]
+		},
+		{
+			"title": "修复SAI/Vanced Manager错误",
+			"description": "如果您不按指示行事，您可能会面临以下错误，所以请阅读错误对应的原因及解决方案，以解决您的问题。",
+			"fields": [
+				{
+					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
+					"content": "卸载官方 YouTube 更新。确保官方 YouTube 版本低于您正在安装的 Vanced 版本。"
+				},
+				{
+					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
+					"content": "卸载您从任何其他来源安装的 Vanced 应用，并重新安装 Vanced。或者卸载 Vanced microG > 重启设备 > 然后先后安装 Vanced microG 和 vanced。如果错误仍旧出现，使用 SAI 手动安装 Vanced 的 Splt APK。这些 APKs 文件 存放在\n“Android / data / com.vanced.manager / files / vanced / nonroot /”"
+				},
+				{
+					"title": "INSTALL_PARSE_FAILED_NOT_APK",
+					"content": "将您手机的语言从印度尼西亚语更改为英语，然后安装 Vanced。安装完毕后，您可以将语言更改回印度尼西亚语。如果您的设备没有使用印度尼西亚语，请确保您在 Vanced Manager 中选择了正确的语言。"
+				},
+				{
+					"title": "INSTALL_FAILED_NO_MATCHING_ABIS",
+					"content": "下载兼容版，而不是默认版本。"
+				},
+				{
+					"title": "INSTALL_FAILED_INVALID_APK：split_config.en 被多次定义",
+					"content": "尝试从 APKS 中移除 split_config.en.apk 并重新安装\n（APKS 文件就是一个 ZIP 文件，所以从中移除 APK 十分容易）"
+				},
+				{
+					"title": "INSTALL_FAILED_DUPLICATE_PERMISSION",
+					"content": "卸载 microG > 重启 > 用 SAI 安装 Vanced > 安装 microG\n\n如果无法安装 microG，也用 SAI 安装 microG。"
+				},
+				{
+					"title": "因为应用与相同包名的已安装应用冲突，导致无法安装",
+					"content": "卸载 microG > 重启 > 用 SAI 安装 Vanced > 用软件包安装程序安装 microG\n\n如果无法安装 microG，也用 SAI 安装 microG。"
+				},
+				{
+					"title": "应用不与此设备兼容",
+					"content": "从官方下载站下载 Vanced 安装包时，下载兼容版架构对应的文件，而不是默认架构。"
+				},
+				{
+					"title": "INSTALL_PARSE_FILED_NO_CERTIFICATES",
+					"content": "您似乎没有正确阅读说明，并试图在没有禁用签名验证的情况下安装。 或者您尝试了一些效果不佳的方法， 这两种情况的解决办法都是换用最佳方案来禁用签名验证。"
+				},
+				{
+					"title": "INSTALL_FAILED_INVALID_INSTALL_LOCATION",
+					"content": "请前往您设备的设置 > 开发者选项并关闭“强制允许将应用写入外部存储设备”，然后在 SAI 中安装 Vanced 应用。"
+				},
+				{
+					"title": "INSTALL_FAILED_USER_RESTTRICTED：安装被用户取消",
+					"content": "您的 MIUI 设备不允许此服务安装未知来源应用。请前往您设备的设置，并为 SAI 启用安装未知来源应用，问题就会迎刃而解，您就可以继续安装 Vanced 了。"
+				},
+				{
+					"title": "INSTALL_FAILED_INTERNAL_ERROR：权限被拒绝",
+					"content": "在您设备的开发者选项中禁用 MIUI 优化。"
+				}
+			]
+		},
+		{
+			"title": "直播问题",
+			"description": "解决方案：观看此教程 > https://youtu.be/R9asMVCQkAU。此外，禁用您的外部广告拦截、VPN、代理或 Vanced 中的自定义设置。如果您不想碰到任何问题，请保持默认设置。"
+		},
+		{
+			"title": "加入白名单",
+			"description": "如果您的YouTube Vanced(Root版本)因白名单问题崩溃，您可以尝试指南(https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error)并尝试是否能解决问题。\n\n 如果仍无效，请双清并重刷 ROM 来解决这个问题，或使用另一个ROM，观察问题是否复现。"
+		},
+		{
+			"title": "视频黑屏修复",
+			"description": "解决方法：清除 YouTube Vanced的数据并重新安装应该可以修复此问题。如果不行，尝试重启，并检查黑屏问题是否得以解决。\n\n如果问题持续存在，请重置您的设备或更换 ROM。"
+		},
+		{
+			"title": "内容限制",
+			"description": "在英语中为“restricted mode”\n在阿拉伯语中为“وضع تقييد المحتوى”\n\n以解决搜索结果较少的问题，按此操作\n\n1. 前往设置 > 常规\n\n2. 找到受限模式并将其关闭。\n\n若您处于为 Google 所背弃的国度之中，请使用 VPN。"
+		},
+		{
+			"title": "查看计数更改",
+			"description": "为了将观看次数从万或亿更为 millions，按此操作：\n\n解决方案：\n\n1. 前往设置（手机设置）\n\n2. 前往系统\n\n3. 前往语言偏好设置\n\n4. 添加语言 English (US)\n\n5. 将此项拖动至您现在设置的语言之上。\n\n6. 前往 YouTube 并享受 ⚡\n\n感谢 Telegram Vanced 群组的 @ROG_OK 找到此方法。"
+		},
+		{
+			"title": "字幕",
+			"description": "如果您在英语视频上面临不同语言的随机字幕等问题，这里是您必须做的；\n在您的字幕设置中将字幕语言设置为您所在区域的语言。\n\n若要访问字幕设置，请前往设备设置 > 无障碍 > 字幕\n\n或\n\nYouTube 设置 > 字幕"
+		},
+		{
+			"title": "HDR 亮度问题",
+			"description": "用滑动功能将亮度调至最大值"
+		},
+		{
+			"title": "设置崩溃",
+			"description": "关闭指纹，并在设置中进设置，完成后，将其重新开启。除非您重启您的设备，设置将不会再次崩溃。"
+		}
+	]
+}

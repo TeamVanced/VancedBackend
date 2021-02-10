@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Hogyan jelentse a hibákat",
+			"description": "Hibákat a [GitHub hibakövető] használatával tud jelenteni. (https://github.com/YTVanced/Vanced)\n\n**Kérjük győződjön meg róla, hogy elolvasta a README részt, és ellenőrizze hogy jelentették-e már a hibát, mielőtt jelentené nekünk!**",
+			"fields": [
+				{
+					"title": "Mikor lesz a jelentett hiba felülvizsgálva?",
+					"content": "A visszajelzését felülvizsgáljuk, amilyen gyorsan csak tudjuk."
+				}
+			]
+		},
+		{
+			"title": "Szabályos hibajelentés",
+			"description": "Néhányszor egy módosítás alkalmazása váratlan hibát okozhat.\nEz az, ahol segíthet nekünk egy logcat segítségével (egy napló, minden folyamattal a rendszerében). Ez segíteni fog nekünk azonosítani a hibát. A művelet számítógépet igényel.",
+			"fields": [
+				{
+					"title": "Hogyan tudok logcat-et készíteni?",
+					"content": "Kérjük nézze meg és kövesse ezt a videós útmutatót:\nhttps://youtu.be/ICLpwgsJJP0."
+				}
+			]
+		},
+		{
+			"title": "Téma hiba jelentése",
+			"description": "Így tud jelenteni téma alapú hibákat.\nHogy jelentsen egy ilyen hibát, használnia kell a [Developer Assistant] alkalmazást.\n(https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Első lépések",
+					"content": "After you have downloaded `Developer Assistant`, open Vanced and reproduce/find the bug, then open the layoutviewer by holding down your home button until the app launches.\nNow follow these steps:\n1. Make sure the bug you're experiencing is on the screen\n2. Tap on the element that you think is affected by the bug\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the output\n4. Use that screenshot for your bug report"
+				}
+			]
+		}
+	]
+}

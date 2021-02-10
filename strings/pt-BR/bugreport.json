@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Como relatar erros",
+			"description": "Você pode relatar erros usando nosso [gerenciador de problemas do GitHub](https://github. om/YTVanced/Vanced)\n\n**Certifique-se de ler README e verifique se seu bug já foi reportado antes de relatar erros!**",
+			"fields": [
+				{
+					"title": "Quando meu bug será revisado?",
+					"content": "Seu feedback será revisado o mais rápido possível."
+				}
+			]
+		},
+		{
+			"title": "Reportando um erro normal",
+			"description": "Às vezes aplicar uma modificação pode causar um erro inesperado.\nÉ aqui que você nos ajuda com um logcat (um log de todos os processos no seu sistema). Isso ajuda a identificar o problema. Isto requer um pc.",
+			"fields": [
+				{
+					"title": "Como faço um logcat?",
+					"content": "Por favor, assista e siga este guia em vídeo: https://youtu.be/ICLpwgsJP0."
+				}
+			]
+		},
+		{
+			"title": "Reportar um bug no tema",
+			"description": "Veja como relatar bugs baseados em temas.\nPara relatar bugs, você precisará do [Assistente do Desenvolvedor](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Como começar",
+					"content": "Depois de baixar o `Assistente do Desenvolvedor`, abra o Vanced e reproduzir/encontrar o bug, depois abra o layoutviewer segurando o botão de início até que o aplicativo seja iniciado.\nAgora siga esses passos:\n1. Certifique-se de que o bug que está encontrando está na tela\n2. Toque no elemento que você acha que é afetado pelo bug\n3. Vá para as abas `Elemento` e `Hierarquia` e capture a tela\n4. Use essa captura de tela para o seu relatório de bug"
+				}
+			]
+		}
+	]
+}

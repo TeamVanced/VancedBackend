@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Как да докладвам за грешки",
+			"description": "Може да докладвате за грешки, като използвате [GitHub Issue tracker] (https://github.com/YTVanced/Vanced)\n\n** Не забравяйте да прочетете README файла, както и да проверете дали вашата грешка вече не е докладвана, преди да докладвате за грешки! **",
+			"fields": [
+				{
+					"title": "Кога докладваната от мен грешка ще бъде разгледана?",
+					"content": "Докладваната от вас грешка ще бъде разгледана възможно най-скоро."
+				}
+			]
+		},
+		{
+			"title": "Докладване на редовна грешка",
+			"description": "Понякога прилагането на модификация може да доведе до неочаквана грешка.\nЕто къде ни помагате с logcat (дневник на всички процеси във вашата система). Това помага при идентифицирането на проблема. Изисква се компютър.",
+			"fields": [
+				{
+					"title": "Как да изпълня logcat?",
+					"content": "Моля изгледайте и следвайте инструкциите в това видео ръководство: https://youtu.be/ICLpwgsJJP0"
+				}
+			]
+		},
+		{
+			"title": "Докладване за грешка в темата",
+			"description": "За да докладвате за грешки свързани с темата, ще ви е необходимо приложението [Developer Assistant] (https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Първи стъпки",
+					"content": "After you have downloaded `Developer Assistant`, open Vanced and reproduce/find the bug, then open the layoutviewer by holding down your home button until the app launches.\nNow follow these steps:\n1. Make sure the bug you're experiencing is on the screen\n2. Tap on the element that you think is affected by the bug\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the output\n4. Use that screenshot for your bug report"
+				}
+			]
+		}
+	]
+}

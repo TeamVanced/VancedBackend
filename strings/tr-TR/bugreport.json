@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Nasıl hata bildiririm",
+			"description": "[GitHub hata toplayıcısı](https://github.com/YTVanced/Vanced) kullanarak hataları bildirebilirsiniz\n\n**README dosyasını okuduğunuzdan emin olun ve hatanın daha önce bildirilmediğini kontrol edin!**",
+			"fields": [
+				{
+					"title": "Bildirdiğim hata ne zaman incelenecek?",
+					"content": "Geri bildiriminiz mümkün olan en kısa sürede incelenecektir."
+				}
+			]
+		},
+		{
+			"title": "Genel hataları bildirme",
+			"description": "Düzeltmeler uygulanırken bazen beklenmedik hatalar ortaya çıkabilir.\nBu durumda logcat (tüm sistem işlemlerinin bir günlüğü) göndermek yardımcı olabilir. Logcat sorunu tanımlamaya yardımcı olur. Bu işlem bilgisayar gerektirir.",
+			"fields": [
+				{
+					"title": "Nasıl logcat oluştururum?",
+					"content": "Bu videoyu izleyin ve adımları takip edin: https://youtu.be/ICLpwgsJJP0."
+				}
+			]
+		},
+		{
+			"title": "Tema hatası bildirin",
+			"description": "Tema-tabanlı hataların nasıl bildirileceği aşağıda açıklanmıştır.\nHata bildirmek için şuna ihtiyacınız var [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Başlarken",
+					"content": "\"Geliştirici Yardımcısı\"nı indirdikten sonra, Vanced'i açın ve hatayı yeniden oluşturun/keşfedin, ardından düzen görüntüleyiciyi açmak için uygulama başlayana kadar ana düğmeyi basılı tutun.\nŞimdi aşağıdakileri yapın:\n1. Karşılaştığınız hatanın ekranda olup olmadığını kontrol edin\n2. Hatadan etkilendiğini düşündüğünüz öğeye tıklayın\n3. \"Element\" ve \"Hierarchy\" sekmelerine gidin ve sonuç ekranını alın\n4. Hata raporları için ortaya çıkan ekranı kullanın"
+				}
+			]
+		}
+	]
+}

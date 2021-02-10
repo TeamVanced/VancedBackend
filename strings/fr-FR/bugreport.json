@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Comment signaler des bogues",
+			"description": "Vous pouvez signaler des bogues en utilisant notre [tracker de problèmes GitHub](https://github. om/YTVanced/Vanced)\n\n**Assurez-vous de lire le fichier README et vérifiez si votre bogue est déjà signalé avant de le signaler &#160 ;!**",
+			"fields": [
+				{
+					"title": "Quand mon bogue sera-t-il examiné ?",
+					"content": "Vos commentaires seront examinés dès que possible."
+				}
+			]
+		},
+		{
+			"title": "Signaler un bogue standard",
+			"description": "L'application d'une modification peut parfois causer un bogue inattendu.\nC'est là que vous nous aidez avec un logcat (un journal de tous les processus de votre système). Cela aide à identifier le problème. Cela nécessite un PC.",
+			"fields": [
+				{
+					"title": "Comment puis-je faire un logcat&#160;? ",
+					"content": "Regardez et suivez ce guide vidéo : https://youtu.be/ICLpwgsJJP0."
+				}
+			]
+		},
+		{
+			"title": "Signaler un bogue de thème",
+			"description": "Voici comment rapporter des bogues basés sur des thèmes.\nPour rapporter des bugs, vous aurez besoin de [l'aide au développeur](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Pour commencer",
+					"content": "Après avoir téléchargé `Developer Assistant`, ouvrez Vanced et reproduisez / trouvez le bug, puis ouvrez la mise en page en maintenant le bouton d'accueil enfoncé jusqu'à ce que l'application soit lancée.\nEnsuite, suivez ces étapes :\n1. Assurez-vous que le bogue que vous rencontrez est visible à l'écran\n2. Tapez sur l'élément qui, selon vous, est affecté par le bogue\n3. Allez dans les onglets `Élément` et `Hiérarchie` et faites une capture d'écran\n4. Utilisez cette capture d'écran pour votre rapport de bogue"
+				}
+			]
+		}
+	]
+}

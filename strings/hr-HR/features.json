@@ -1,0 +1,32 @@
+{
+    "features": [
+        {
+            "title": "Vanced",
+            "description": "YouTube Vanced želi biti bolja verzija YouTubea. Ako uključuje blokiranje oglasa, amoled tamni način i puno više. Koristite Vanced Manager da biste relativno lako instalirali YouTube Vanced."
+        },
+        {
+            "title": "Vanced Music",
+            "description": "Vanced Music ima isti cilj kao i YouTube Vanced, ali ova se aplikacija fokusira na YouTube Music. Ovo je relativno manje bogato značajkama u usporedbi s Vancedom, ali svejedno sadrži mnoge stvari koje ste očekivali, poput blokiranja oglasa i reprodukcije u pozadini, sve u Youtube Music!"
+        },
+        {
+            "title": "YouTube Vanced glavne značajke",
+            "description": "Amoled crna tema.\n- Blokira sve video oglase i omogućuje vam reprodukciju videozapisa u pozadini ili u načinu Slika u slici (samo na Androidu 8.0 i novijim verzijama)\n- Kontrole povlačenja omogućuju vam kontrolu svjetline i glasnoće gestama gore-dolje (s podesivim popunjavanjem).\n- Značajka automatskog ponavljanja koja vam omogućuje ponavljanje videozapisa.\n- Novi izgledi komentara/miniplayer mogu se prebaciti na verzije tableta koje su vrlo slične staroj verziji (iako malo neispravne)."
+        },
+        {
+            "title": "Prilagodba",
+            "description": "- Omogućuje vam da nadjačate opcije kodeka, poput forsiranja H264 za stare uređaje ili VP9, to vam također omogućuje prisilno reproduciranje HDR-a ili isključivanje 60 sličica u sekundi ako više želite kinematografsko iskustvo. (Prilagođene konfiguracije uređaja za ove značajke možete pronaći na našem Discordu ili XDA-u)\n-Forsiranje zadane rezolucije videozapisa na visoku ili nisku koliko želite, pa čak i nadjačavanje rezolucije zaslona za tu oštru reprodukciju od 4K na bilo kojem uređaju. Omogućuje vam i promjenu zadane brzine reprodukcije na bilo koju vrijednost između 0,25x i 2x (pod pretpostavkom da je vaš uređaj dovoljno SNAŽAN)\n- Omogućuje vam prebacivanje kućnih oglasa, većinu oglasa korisničkih sučelja, robne oglase, postove u zajednici, prodaju filmova, kompaktne natpisne informacije (kao što su covid informacije), potpuno uklanjanje komentara, kompaktni film, uklanjanje polica s filmovima i još mnogo toga!"
+        },
+        {
+            "title": "Blokiranje sponzora",
+            "description": "- Sadrži mogućnost preskakanja segmenata sponzora (gdje youtuber oglašava uslugu ili proizvod usred videozapisa)\n- Također podržava preskakanje drugih kategorija, kao što su uvod, kraj i samopromocija.\n- Koristi ovdje pronađeni API. Možete pronaći više informacija o tome kako to radi\n- Omogućuje vam i slanje vlastitih segmenata API-ju i doprinos široj zajednici\n- Potpuna kontrola hoće li se automatski preskočiti kategorija segmenta ili pokazati tipka za preskakanje, ili jednostavno jednostavno uopće ne preskočiti.\n- Označava segment u određenoj boji na temelju njegove kategorije na vremenskoj traci reprodukcije."
+        },
+        {
+            "title": "Platforme",
+            "description": "Aplikacija trenutno postoji samo na Androidu, trenutno nije u planu podrška bilo koje druge platforme"
+        },
+        {
+            "title": "Razlika između Root i Non-Root",
+            "description": "- Root:\nRoot verzijea Vanceda neprimjetno zamjenjuje službenu aplikaciju YouTube. Kao rezultat toga, možete izravno otvoriti YouTube poveznice ili ih nazvati pomoću Google asistenta putem modificirane Vanced aplikacije.\n- Non-Root:\n- Ako imate uređaj koji je teško Root-ati ili to ne želite, trebali biste se odlučiti za inačicu koja nije Root.\n- Može se instalirati i na Non-Root uređaj. Budući da se naziv paketa Non-Root verzije razlikuje od standardne YouTube aplikacije, one mogu postojati istovremeno. Imajte na umu da morate instalirati dodatnu popratnu aplikaciju (Vanced microG) da biste se mogli prijaviti sa svojim YouTube Google računom.\n- Štoviše, morate ručno postaviti Vanced kao zadanu aplikaciju za otvaranje YouTube poveznica.\n- Međutim, s Non-Root verzijom jednostavno je lakše živjeti, pa vam preporučujemo da se pridržavate Non-Root verzije, osim ako zaista ne želite zamijeniti osnovnu YouTube aplikaciju na telefonu."
+        }
+    ]
+}

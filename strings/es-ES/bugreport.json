@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Cómo reportar errores",
+			"description": "Puedes reportar errores usando nuestro [Rastreador de problemas en GitHub](https://github.com/YTVanced/Vanced)\n\n**¡Asegúrate de leer el archivo README y verificar si tu error ya fue reportarlo antes de hacer un nuevo reporte!**",
+			"fields": [
+				{
+					"title": "¿Cuándo se revisará mi error?",
+					"content": "Tus comentarios serán revisados tan pronto como sea posible."
+				}
+			]
+		},
+		{
+			"title": "Reportar un error regular",
+			"description": "A veces, aplicar una modificación puede causar un error inesperado.\nAhí es donde podrías ayudarnos con registros (Un registro de todos los procesos en tu sistema). Esto ayuda a identificar el problema. Esto requiere una computadora.",
+			"fields": [
+				{
+					"title": "¿Cómo hago un registro?",
+					"content": "Por favor, mira y sigue esta guía: https://youtu.be/ICLpwgsJJP0."
+				}
+			]
+		},
+		{
+			"title": "Reportar un error de tema",
+			"description": "Aquí tienes cómo reportar errores basados en temas.\nPara reportar errores, necesitarás el [Asistente de desarrollador](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Para comenzar",
+					"content": "Después de que hayas descargado \"Asistente de desarrollador\", abre Vanced y reproduce/encuentra el error, luego abre el visor de diseños manteniendo presionado el botón de inicio hasta que la aplicación se inicie.\nAhora sigue estos pasos:\n1. Asegúrate de que el error que estás experimentando está en la pantalla\n2. Pulsa sobre el elemento que cree que está afectado por el fallo\n3. Ve a las pestañas `Element` y `Hierarchy` y captura de pantalla la salida\n4. Usa esa captura de pantalla para tu informe de error"
+				}
+			]
+		}
+	]
+}

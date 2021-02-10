@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Miten ilmoittaa bugeista",
+			"description": "Voit ilmoittaa bugeista käyttämällä meidän [GitHub-ongelmanseurantaa](https://github.com/YTVanced/Vanced)\n\n**Muista lukea README ja tarkista, onko bugistasi jo ilmoitettu ennen raportoimista!**",
+			"fields": [
+				{
+					"title": "Milloin bugini tarkastetaan?",
+					"content": "Palautteesi tarkastetaan niin pian kuin mahdollista."
+				}
+			]
+		},
+		{
+			"title": "Tavallisen bugin ilmoittaminen",
+			"description": "Joskus muutoksen käyttöönotto voi aiheuttaa odottamattoman bugin.\nSilloin voit auttaa meitä logcatin avulla (loki kaikista prosesseistasi järjestelmässä). Tämä auttaa ongelman määrityksessä. Tämä vaatii tietokoneen.",
+			"fields": [
+				{
+					"title": "Miten teen logcatin?",
+					"content": "Katso ja seuraa tätä video-opasta: https://youtu.be/ICLpwgsJJP0."
+				}
+			]
+		},
+		{
+			"title": "Ilmoita teemabugista",
+			"description": "Näin ilmoitat teemaan perustuvasta bugista.\nIlmoittaaksesi bugeista, tarvitset [Developer Assistant -sovelluksen](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Aloittaminen",
+					"content": "Kun olet ladannut `Developer Assistant` -sovelluksen, avaa Vanced ja jäljennä/etsi bugi, sitten avaa asetteluohjelma pitämällä pohjassa kotinäppäintäsi niin kauan, että sovellus avautuu.\nSeuraa näitä ohjeita:\n1. Varmista, että löytämäsi bugi on näytöllä\n2. Paina elementtiä, johon ajattelet bugin vaikuttavan\n3. Mene `Element` ja `Hierarchy` -välilehtiin ja ota kuvakaappaus tulosteesta\n4. Käytä kuvakaappausta bugi-ilmoituksessasi"
+				}
+			]
+		}
+	]
+}

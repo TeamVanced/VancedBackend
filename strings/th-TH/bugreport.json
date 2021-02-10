@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "How to report bugs",
+			"description": "You can report bugs using our [GitHub issue tracker](https://github.com/YTVanced/Vanced)\n\n**Make sure to read README and check if your bug is already reported before reporting bugs!**",
+			"fields": [
+				{
+					"title": "When will my bug be reviewed?",
+					"content": "Your feedback will be reviewed as soon as possible."
+				}
+			]
+		},
+		{
+			"title": "Reporting a regular bug",
+			"description": "Sometimes applying a modification can cause an unexpected bug.\nThat's where you help us with a logcat (a log of all processes on your system). This helps with identifying the issue. This requires a pc.",
+			"fields": [
+				{
+					"title": "How do I make a logcat?",
+					"content": "Please watch and follow this video guide: https://youtu.be/ICLpwgsJJP0."
+				}
+			]
+		},
+		{
+			"title": "Report a theme bug",
+			"description": "Here's how to report theme-based bugs.\nTo report bugs, you will need [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Getting started",
+					"content": "After you have downloaded `Developer Assistant`, open Vanced and reproduce/find the bug, then open the layoutviewer by holding down your home button until the app launches.\nNow follow these steps:\n1. Make sure the bug you're experiencing is on the screen\n2. Tap on the element that you think is affected by the bug\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the output\n4. Use that screenshot for your bug report"
+				}
+			]
+		}
+	]
+}

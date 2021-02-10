@@ -1,0 +1,34 @@
+{
+	"bugreport": [
+		{
+			"title": "Jak nahlásit chyby",
+			"description": "Chyby můžete nahlásit pomocí našeho [GitHub issue tracker](https://github.com/YTVanced/Vanced)\n\n**Přečtěte si README a před nahlášením chyb zkontrolujte, zda již nejsou mezi nahlášenými!**",
+			"fields": [
+				{
+					"title": "Kdy bude mnou nalezená chyba přezkoumána?",
+					"content": "Váš příspěvek bude přezkoumán co nejdříve to půjde."
+				}
+			]
+		},
+		{
+			"title": "Nahlášení běžné chyby",
+			"description": "Použití modifikace může někdy způsobit neočekávanou chybu.\nA to je případ, kdy nám může pomoci váš logcat (záznam všech procesů ve vašem systému). Ten nám pomáhá při zjišťování problému. K jeho vytvoření budete potřebovat PC.",
+			"fields": [
+				{
+					"title": "Jak vytvořím logcat?",
+					"content": "Podívejte se prosím na tohoto videoprůvodce a postupujte podle pokynů: https://youtu.be/ICLpwgsJJP0."
+				}
+			]
+		},
+		{
+			"title": "Nahlášení chyby motivu",
+			"description": "Zde je způsob, jak nahlásit chyby spojené s motivy.\nPro nahlášení chyb budete potřebovat aplikaci [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
+			"fields": [
+				{
+					"title": "Začínáme",
+					"content": "Po stažení aplikace <i>Developer Assistant</i> otevřete Vanced a reprodukujte/najděte chybu. Poté otevřete prohlížeč rozložení podržením tlačítka Domů, dokud se aplikace nespustí.\nDále postupujte podle těchto kroků:\n1. Ujistěte se, že chyba, kterou vidíte, je na obrazovce\n2. Klepněte na prvek, o kterém si myslíte, že je chybou ovlivněn\n3. Přejděte na karty <i>Element (Prvek)</i> a <i>Hierarchy (Hierarchie)</i> a vytvořte snímek obrazovky výstupu\n4. Tento snímek obrazovky použijte pro nahlášení chyby"
+				}
+			]
+		}
+	]
+}
