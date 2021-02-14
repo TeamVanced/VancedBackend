@@ -38,7 +38,7 @@
     },
     {
       "title": "Why the colour in the startup screen is different from the theme?",
-      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use Substratum/Swift themes to change the colour."
+      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
     },
     {
       "title": "Should I re-download the installation files?",
