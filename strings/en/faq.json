@@ -96,7 +96,7 @@
     },
     {
       "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on \"Max resolution\" then restart the app."
+      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
     }
   ]
 }
