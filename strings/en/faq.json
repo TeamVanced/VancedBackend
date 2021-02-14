@@ -86,7 +86,7 @@
       "fields": [
         {
           "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Enable additional options:\n  1. Go to Settings\n  2. Tap the Vanced Settings\n  3. Tap on the About section till you get a message saying hidden settings enabled.\n3. Go to Codec override and set model to \"SM-T865\" and device to \"Samsung\".\n4. Restart the app and the 480p limit should be gone."
+          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Enable hidden settings:\n  1. Go to Settings\n  2. Tap the Vanced Settings\n  3. Tap on the About section till you get a message saying hidden settings enabled.\n3. Go to Codec override and set model to \"SM-T865\" and device to \"Samsung\".\n4. Restart the app and the 480p limit should be gone."
         }
       ]
     },
