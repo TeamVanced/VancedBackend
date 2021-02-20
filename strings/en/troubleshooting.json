@@ -121,7 +121,7 @@
 				},
 				{
 					"title": "Solution 2",
-					"content": "REQUIREMENTS: \n\nVanced Manager 2.1.0 or newer\nA root manager like Es File Explorer or Root Browser\nStep 1: Go into /data/adb/service.d/ and edit the script Music.sh and or Vanced.sh\n\nThey both should look like something similar to this :\n\nwhile  [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\nStep 2: Change value of  \"do sleep 1; done\"   to   \"do sleep 2; done\"\n\nStep 3: Reboot or Restart Device\n\nIf that doesn't work try to add more sleep time between do & done\n\n——————————————————\n\nif that doesn't work, maybe your device need more time before it mounts root vanced youtube/music apk.\njust modify vanced.sh and or music.sh, \ninsert a new sleep line between 'while' and 'mount' line like:\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
+					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nStep 1: Go to manager settings > Root Script Sleep Time (you should be on root mode for this option to appear) and set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
 				}
 			]
 		},
