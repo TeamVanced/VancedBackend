@@ -1,34 +1,22 @@
 {
-	"bugreport": [
-		{
-			"title": "Come segnalare i bug",
-			"description": "Puoi segnalare i bug utilizzando il nostro [sistema di tracciamento dei problemi di GitHub](https://github. om/YTVanced/Vanced)\n\n**Assicurati di leggere il file README e di verificare che il tuo bug non sia già stato segnalato in precedenza, prima di segnalarlo nuovamente!**",
-			"fields": [
-				{
-					"title": "Quando verrà esaminato il mio bug?",
-					"content": "La tua segnalazione verrà esaminata il prima possibile."
-				}
-			]
-		},
-		{
-			"title": "Segnalazione di un bug regolare",
-			"description": "A volte l'applicazione di una modifica può causare un bug imprevisto.\nEd è qui che potrai aiutarci con un logcat (un registro di tutti i processi sul tuo sistema). Questo contribuisce ad identificare il problema. Ciò richiede un pc.",
-			"fields": [
-				{
-					"title": "Come faccio a creare un logcat?",
-					"content": "Si prega di guardare e seguire questa videoguida: https://youtu.be/ICLpwgsJJP0."
-				}
-			]
-		},
-		{
-			"title": "Segnala un bug del tema",
-			"description": "Ecco come segnalare i bug legati al tema.\nPer segnalare i bug, avrai bisogno di [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
-			"fields": [
-				{
-					"title": "Per cominciare",
-					"content": "Dopo aver scaricato \"Developer Assistant\", apri Vanced e riproduci/trova il bug, quindi apri il visualizzatore di layout tenendo premuto il pulsante Home fino all'avvio dell'app.\nOra segui questi passaggi:\n1. Assicurati che il bug che stai riscontrando venga riprodotto sullo schermo\n2. Tocca l'elemento che ritieni sia interessato dal bug\n3. Vai alle schede \"Elemento\" e \"Gerarchia\" e fai uno screenshot dell'output\n4. Usa questo screenshot per la tua segnalazione bug"
-				}
-			]
-		}
-	]
+  "bugreport": [
+    {
+      "title": "Come segnalare i bug",
+      "description": "Puoi segnalare i bug utilizzando il nostro [sistema di tracciamento dei problemi di GitHub](https://github. om/YTVanced/Vanced)\n\n**Assicurati di leggere il file README e di verificare che il tuo bug non sia già stato segnalato in precedenza, prima di segnalarlo nuovamente!**",
+      "fields": [
+        {
+          "title": "Quando verrà esaminato il mio bug?",
+          "content": "La tua segnalazione verrà esaminata il prima possibile."
+        },
+        {
+          "title": "Come faccio ad ottenere un logcat?",
+          "content": "Per utenti non-root:\nAvrai bisogno di un PC per ottenere l'elaborazione dei `logcat`. Ecco una [guida testuale] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) e una [videoguida] (https://youtu.be/ICLpwgsJJP0).\n\nPer utenti root:\nPer questa operazione non hai bisogno di un PC. Puoi seguire le istruzioni [qui] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Il tuo bug è relativo all'interfaccia utente?",
+          "content": "Per i bug relativi all'interfaccia utente, dovrai eseguire alcuni passaggi aggiuntivi.\n\nInstalla e configura [Developer Assistant] (https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nSuccessivamente, vai su Vanced e riproduci il bug, quindi apri il visualizzatore di layout attivando Developer Assistant.\n\nOra segui questi passaggi:\n1. Assicurati che il bug sia visualizzato sullo schermo.\n2. Tocca l'elemento che ritieni sia interessato dal bug.\n3. Vai alle schede `Element` and `Hierarchy` e fai uno screenshot degli output.\n4. Includi questi screenshot quando segnali il problema."
+        }
+      ]
+    }
+  ]
 }

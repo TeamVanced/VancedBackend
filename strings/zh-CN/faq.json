@@ -1,102 +1,102 @@
 {
-	"faq": [
-		{
-			"title": "什么是 Vanced",
-			"description": "YouTube Vance 是拥有额外特性和调整的修改版 YouTube，为您提供更好的 YouTube 体验！\n\n额外特性包括：\n\n背景播放\n自定义主题（正常暗色或 A 屏黑）\n拦截大部分广告\n去除清晰度限制\n以及更多！\n完整列表请参阅 XDA 主题帖中的“features”下拉列表。完整列表（及其他信息）的链接为 (https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)"
-		},
-		{
-			"title": "下载链接",
-			"description": "您可以从官网或下载站下载。我们的网站及下载站的链接见下：\n\n• 官网 - https://vancedapp.com\n\n• Mediafire - https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Android File Host - https://androidfilehost.com/?w=files&flid=170196\n\n我们不建议您从仿冒网站或未经验证的网站下载。如果此网站不在我们的下载站或 XDA 主题帖中，那么它就不是官方网站。因此，我们无法确保您下载的是否为恶意或广告软件。请使用官方网站及下载站以确保您的安全。"
-		},
-		{
-			"title": "应用是否会自动更新？",
-			"description": "不，它不会。请加入 Discord 或 Telegran 服务器，或使用 Vanced Manager 接收更新推送。开发者不计划为应用加入自动更新或更新检查功能。\nDiscord 链接：https://discord.gg/wYrRPgv\nTelegram 链接：https://t.me/Vanced"
-		},
-		{
-			"title": "视频下载",
-			"description": "视频下载仅在这些国家（https://support.google.com/youtube/answer/6141269）中免费可用。需要 YouTube Premium 的视频不会被下载，所以若您在下在某些视频时看到 YT Premium 对话框，请购买 YouTube Premium。\n\n再次请注意，“Vanced 不是 YouTube Premium”。\n\n⚠️⚠️Vanced 永远不会在应用中加入任何第三方下载器。⚠️⚠️这不仅仅对开发者来说是个维护难题，而且也为 Google 提供了又一个发律师函的理由。收到律师函意味着 Vanced 的开发将被停止。"
-		},
-		{
-			"title": "滑动手势问题",
-			"description": "如果您在 YouTube 设置 > Vanced 设置 > 布局设置 中启用了“旧版评论”，将其关闭并重启应用。如果这不能解决问题，尝试清除应用数据和缓存。如果这也不能解决问题，请在我们的 Github 库中报告。创建新 Issue 前，先查阅以往的 Issue。"
-		},
-		{
-			"title": "字幕不可用",
-			"description": "对于字幕不可用或信息按钮缺失等问题，请阅读：\n不是所有视频都有字幕或信息按钮，这不是 Vanced 的错误。请先查看官方 YouTube 应用和桌面版网站（www.youtube.com），再报告此等问题。\n\n这一切都取决于视频上传者是否上传了字幕或信息按钮对应的信息。Vanced 与此毫无关系。\n\n简单来说，这不是 Vanced 的问题，请在报告这种问题前查看官方 YouTube 应用或桌面版网站，因为不是所有视频都有这些内容。"
-		},
-		{
-			"title": "捐赠",
-			"description": "我们不会在任何情况下接受任何形式的捐赠，任何声称“为 Vanced 捐赠”的网站或链接都是假的。\n\n但如果您愿意支持 Vanced 开发者，您可以使用这个 Brave 邀请码：\n\nhttps://brave.com/kev231"
-		},
-		{
-			"title": "无障碍快进按钮",
-			"description": "使用内置无障碍设置来更改辅助功能控制。打开“YouTube Vanced”应用的设置，并点击无障碍功能，会打开如上图所示的设置。\n如果您仍无法找到此选项，前往设备设置 > 无障碍，找到“无障碍功能菜单”，并将其关闭。\n另外，如果这仍然无法解决问题，若您启用了声音增强器、开关控制或实时转写，也请将其关闭。"
-		},
-		{
-			"title": "为什么是 Split APK？",
-			"description": "首先：\n\n1. 什么是 Split APK？\nSplit APK 是一个 ZIP 文件，其中包含基础 APK、设备架构对应的配置 APK 和语言 APK。\n\n比如，一个正常的 APK 包含 32 位和 64 位的支持文件、很多语言文件和一个基础 APK。因此，如果您的设备只支持 32 位，并且您只需要英语语言文件，那么其他文件不仅对您毫无用处，更会大量占用您的存储空间。\n\n**优势：**\n• Split APK 的大小几乎是正常 APK 的一半\n• Split APK 只包含与您的设备架构有关的文件\n\n**劣势：**\n对新手和非技术流来说十分难以理解\n\n2. 为什么使用 Split APK？\n自从 14.54 版本之后，Google 只以 Split APK 的形式分发 YouTube 安装包，因此安装 Vanced 需要使用 SAI（Split APK Installer）。\n在此之前，Googe 提供正常 APK，以便在所有设备上安装应用。\n\n3. 为什么开发者不将 APKS 转化为 APK？\n并不是做不到，而是这样做会花费更多时间。将 APKS 转化为 APK 会花费更多时间，而这些时间本可以用在其他方面（个人生活或 Vanced 除错及更新）。所以不要再问怎么得到正常 APK 了。如果你真的很懒，请用旧版，要么就直接去 Play 商店下载官方 YouTube 应用。"
-		},
-		{
-			"title": "应用启动屏颜色",
-			"description": "启动屏背景颜色现在直接从 Android 框架（Android 系统）中取色，以确保 Vanced/YouTube 能依据系统主题改变启动屏颜色。Android 框架中的颜色是什么，Vanced 中就会出现什么颜色。\n\n您可以用 Substratum 或 Swift 主题更改主题颜色。"
-		},
-		{
-			"title": "为什么要重新下载？",
-			"description": "原因很简单：有时下载的文件可能已损坏， 试图抓取他们并安装将导致无限的失败循环。 为了避免这种情况，每次按下按钮时，Manager 都将重新下载文件。\n\n不过，非 Root 安装程序现在可以使用已下载的文件重新安装 Vanced。"
-		},
-		{
-			"title": "麦克风",
-			"description": "如果您想知道为什么 Root 版本的 Vanced 没有麦克风权限，那是因为修改 Vanced 所用的 APK（最低 API 为 17）不具备麦克风权限。另一个 APK（最低 API 为 21）有麦克风权限，但没有翻译。为什么？去问 Google 🤷‍♂️\n\n解决办法：使用非 Root 版本，或官方 YouTube。\n\n注意：此问题仅存在于第 14 版或更低。从第 15 版开始，权限问题已得到修复。"
-		},
-		{
-			"title": "Exoplayer",
-			"description": "1. 什么是 ExoPlayer？\nExoPlayer 是一个应用层级的 Android 媒体播放器。它是 Android 的 MediaPlayer API 的替代品，用于在本地或在线播放音频或视频。ExoPlayer 具备 Android 的 MediaPlayer API 暂不支持的特性，包括 DASH 和 SmoothStreaming 自适应播放。不同于 MediaPlayer API，ExoPlayer 易于自定义和扩展，并可以通过 Play 商店应用更新进行更新。\n\n2. V1 和 V2 之间的差异？\nV1：\n\n  > 针对低端设备优化。\n\n  > 当 V2 开始造成问题时，可以切换至 V1。\n\nV2：\n\n  > 不受低端设备支持，可能造成崩溃、故障、卡顿或黑屏。\n\n  > 针对 2019 年以后发布的最新设备优化。\n\n注意：自从 15.33.34 版本，Google 强制使用 ExoPlayer V2，所以若 V2 开始造成问题，请切换至 V1。\n\n另外：ExoPlayer V2 处于实验阶段，请谨慎使用。如果您将其启用，就请不要来报告问题。如果您遇到崩溃、卡顿、故障等，请切换至 ExoPlayer V1。"
-		},
-		{
-			"title": "开发者选项",
-			"description": "在 Vanced 设置中。点击“关于”项 6 至 7 次来解锁秘密菜单。此菜单仅开启额外的编解码器设置。"
-		},
-		{
-			"title": "核心",
-			"description": "如果您面临与 microG 核心和 Vanced 有关的问题，并在寻找答案，这里列出了可能的解决方案：\n\n1. 您至少需要 Pico Gapps 才能运行 Vanced。\n\n2. 您无法使用 microG 核心来运行 Vanced，因为它需要 Google Play 服务框架，包含在任何 Gapps 安装包中。\n\n3. 如果您担心您的隐私，不想使用 Gapps，但还是想使用 Vanced，那我看还是适合诺基亚按键机更适合您。:)"
-		},
-		{
-			"title": "Chromecast",
-			"description": "对于 Vanced 14.21.54 和 microG 0.2.6.17455，Chromecast 应该可以正常工作。如果不行，则用普通版本的 YouTube 连接至 Chroecast。您可以使用 Vanced 添加视频或进行控制。"
-		},
-		{
-			"title": "应用签名",
-			"description": "从 Vanced 15.40.37 至最新版，您应禁用应用签名验证，以使用 Split APKs Installer 安装 Vanced，但很多用户在 SAI中选择“签名 APK”选项，这会导致 Vanced 崩溃。\n\n*不要开没让你开的选项！*\n\n在 SAI 中禁用签名 APK 选项，并重新安装 Vanced 即可解决崩溃问题。"
-		},
-		{
-			"title": "Play 商店",
-			"description": "⚠️请不要在 Play 商店或任何其他商店安装任何名为“YouTube Vanced”的假应用。 我们不会在那里发布或上传任何应用。 ⚠️\n\n如果您看到任何带有 Vanced 应用图标和名称的应用，请浏览一下其应用描述和评论。 如果它看起来不妙， 请向 Google Play 举报此应用，并且不要下载，因为这些应用程序可能有恶意文件或广告，并可能会被注入您的设备，导致您的设备性能不佳或损坏您的系统。\n\n我们的应用只在我们提供的官方链接上提供下载。 加入我们的频道（https://t.me/Vanced）以获取更新，或加入我们的 Discord 服务器。\n\n保重 :)"
-		},
-		{
-			"title": "应用抽屉",
-			"description": "如果应用抽屉中没有 YouTube Vanced 应用，请遵循以下步骤：\n\n• 从 Play 商店安装官方 YouTube 应用\n\n• 打开应用，并等待首页出现（不确定是否必须，只是其他人这样做没问题）\n\n• 前往 设置 > 应用 > YouTube。页面上方应该有“卸载”选项。不要卸载！只是确认是否有这个选项。\n\n• 重启\n\n• 前往 设置 > 应用 > YouTube。现在该选项应该变成了“禁用”。不要禁用！只是确认是否有这个选项。\n\n• 在此页面中，点击右上角的三点按钮，并点击“移除/卸载更新”。\n\n现在 YouTube 应用应该出现在您的启动器中了。\n\n或\n\n若以上方法无效，[前往此链接](https://forum.xda-developers.com/showpost.php?p=75068670&postcount=299)。"
-		},
-		{
-			"title": "视频不播放",
-			"description": "如果在浏览器或应用中播放视频时一直缓冲而无法播放，那么就是 HWC 或 mediaserver问题。 更换您的系统或更新到最新版本来解决您的问题。否则，请向系统开发者报告。\n\n如果您正在使用第三方系统，您可以尝试在 Youtube 应用中检查问题，并向您的设备社区报告，以便他们能够在下次更新中修复。\n\n我们对此无能为力，因为这是系统方面的问题。"
-		},
-		{
-			"title": "新冠疫情造成的 480P 问题",
-			"description": "这不是 Vanced 的错误或问题。YouTube 在很多国家施加了数据流量限制，这样所有人都能得以访问网站。\n\n然而，YouTube 已经取消了这个上限，所以您可以忽略以下内容。 如果您仍旧遇到某视频的最高画质为 480P，而桌面模式下其画质更高，在 Google 移除您所在区域或网络上的上限之前，您可以使用下面的方法作为临时修复。\n\n请注意：\n\n• YouTube 上发生的任何变化都会影响 YouTube Vanced，因为一切都由 YouTube 服务器控制。",
-			"fields": [
-				{
-					"title": "解决方法",
-					"content": "1) 如果您足够幸运，你可以尝试使用 VPN。YouTube 将这项限制应用在了大多数国家，所以您需要明智地挑选您的新区域。\n\n2) 在桌面模式中观看 [www(dot)youtube(dot)com]\n\n3) 因为 480P 限制仅适用于手机，而不是平板，我们可以在 YouTube Vanced 中更改设备型号以克服限制。\n\na) 打开 YouTube Vanced\n\nb) 前往设置 → Vanced 设置 → 反复点击关于项以启用额外选项\n\nc) 前往编解码器覆写 → 输入任意平板的型号和品牌，例如\"SM-T865\"和\"Samsung\"\n\nd) 重新启动应用，480P 的限制现在应该已被移除\n\ne) Enjoy。"
-				}
-			]
-		},
-		{
-			"title": "如何隐藏 Vanced microG 的通知",
-			"description": "要隐藏 microG 通知，请为 microG 禁用电池优化。 如果通知没有被隐藏，请重启您的设备。\n\n如果通知依旧出现，\n\n1. 长按通知\n\n2. 点击右边的设置图标\n\n3. 关闭通知（省电排除），通知将不再显示。"
-		},
-		{
-			"title": "高画质",
-			"description": "如果您的设备仅支持 720P/1080P 分辨率， 您仍然可以播放上至 4K 的视频，但视频将被缩放到您设备的原生分辨率，而不是真正的4K。\n\n只有在旗舰设备（例如骁龙855）上看到的才是真正的 4K 分辨率。\n\n要启用高分辨率，请前往 Vanced 设置 > 视频设置，并开启“分辨率检查”，然后重启应用。"
-		}
-	]
+  "faq": [
+    {
+      "title": "YouTube Vanced 是什么？",
+      "description": "YouTube Vance 是拥有额外特性的修改版 YouTube，为您提供更好的 YouTube 体验！\n\n额外特性包括：\n\n- 背景播放\n- 画中画模式（PiP）\n- 黑色主题（适合 OLED 屏幕）\n- 广告移除（需要自行启用）\n- 去除清晰度限制（允许播放分辨率比您的屏幕更高的视频）\n- …以及更多！\n\n更多信息，请参阅 <https://vancedapp.com>"
+    },
+    {
+      "title": "下载按钮在哪？",
+      "description": "当然，Google 不会允许他们的应用的修改版上架他们自己的商店，所以请不要在 Google Play 商店上寻找，那里只有假冒应用。\n\nVanced 应用可以通过 Vanced Manager 下载并安装，您可以我们的官网获取：<https://vancedapp.com>，或从 GitHub 下载：<https://github.com/YTVanced/VancedManager/releases/latest>"
+    },
+    {
+      "title": "YouTube Vanced 是否能自动更新？",
+      "description": "不，它不会。\nVanced Manager 会在有更新时为您发送通知。\n\n您也可以加入我们的 [Discord 服务器](https://discord.gg/wYrRPgv) 或关注 [Telegram 频道](https://t.me/Vanced) 以获取最新资讯和更新通知。"
+    },
+    {
+      "title": "Vanced 可以下载视频吗？",
+      "description": "Vanced 不包含任何视频下载功能，而且永远不会添加此功能。\n\n在[某些国家或地区](https://support.google.com/youtube/answer/6141269)中，很多视频可以免费下载。对于其他国家或地区，请获取 YouTube Premium，或使用第三方下载器。\n\n再次声明，Vanced 永远不会在应用中加入视频下载器或类似的功能。\n\n因为 Google 不喜欢人们从他们的平台下载版权内容，这项功能曾经导致很多修改版 YouTube 被迫停止开发，所以不要要求添加这项功能！"
+    },
+    {
+      "title": "为什么滑动手势没有用？",
+      "description": "如果您在 Vanced 设置 > 布局设置 中启用了底部评论（旧版布局），将其关闭并重启应用。如果这不能解决问题，请将 Vanced 强制停止，并清除其应用数据。"
+    },
+    {
+      "title": "字幕不可用？",
+      "description": "这不是个错误，因为不是所有视频都有字幕。"
+    },
+    {
+      "title": "你们接受捐赠吗？",
+      "description": "我们不接受捐赠！\n\n我们不会在任何情况下接受任何形式的捐赠，任何声称“为 Vanced 捐赠”的网站或链接都是假的。\n\n但如果您愿意支持 Vanced 开发者，您可以使用[此链接](https://brave.com/kev231)下载 Brave，或使用[此链接](https://adguard.com/en/welcome.html?aid=31141)下载 AdGuard。"
+    },
+    {
+      "title": "如何让播放器界面自动隐藏？",
+      "description": "您可以在 YouTube Vanced 设置 > 无障碍 中启用此功能。如果无法打开设置，或启用后无效，请前往您的设备的无障碍设置，并禁用声音增强器、开关控制和实时转写。"
+    },
+    {
+      "title": "为什么用 Split APK？",
+      "description": "因为：\n\n1. 原版应用使用 Split APK，所以 Vanced 也是。\n2. Split APK 仅安装您选择的语言，因此能够减少存储占用。\n3. Split APK 只包含您的设备需要的核心 APK 版本。\n\n当然，Vanced Manager 或开发者完全可以将其转化为一个正常的、单独的 APK 文件，只不过我们懒于这么做而已。您只需稍微适应一下……\n\n不过不要担心，Vanced Manager 包揽一切麻烦，您只要轻触`安装`按钮就好了。"
+    },
+    {
+      "title": "为什么启动屏的颜色和主题颜色不一样？",
+      "description": "启动屏背景颜色直接从 Android 框架中取色，以确保能依据系统主题改变。您可以用 Substratum 或 Swift 主题更改颜色。"
+    },
+    {
+      "title": "我应该重新下载安装文件吗？",
+      "description": "由于各种原因，文件可能损坏并造成问题。为了避免这种情况，您可以选择重新下载，以确保安装顺利进行。"
+    },
+    {
+      "title": "为什么 Root 版不具备麦克风权限？",
+      "description": "最新版Vanced 就会出现这种情况。"
+    },
+    {
+      "title": "ExoPlayer v1 是什么？",
+      "description": "ExoPlayer v1 是 YouTube 现用的媒体播放器的旧版。使用 ExoPlayer v1 可以获得更好的性能和稳定性。"
+    },
+    {
+      "title": "如何启用隐藏设置？",
+      "description": "在 Vanced 设置中。点击`关于`项 6 至 7 次来启用。此设置仅开启额外的编解码器设置"
+    },
+    {
+      "title": "microG 核心有什么问题？",
+      "description": "1. 您至少需要 Gapps 的 [Pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 版本才能运行 Vanced。\n\n2. 您无法使用 microG 核心来运行 Vanced，因为 Vanced 需要 Google Play 服务框架，包含在任何 Gapps 安装包中。\n\n3. 如果您担心您的隐私，不想使用 Gapps，但还是想观看无广告的 YouTube，那么[网页版](https://youtube.com)更适合您。"
+    },
+    {
+      "title": "为什么投屏不起作用？",
+      "description": "最新版 microG 没有此问题。"
+    },
+    {
+      "title": "应用签名是什么？",
+      "description": "您遇到此问题是因为您没有使用 Vanced Manager，或者您是从非官方来源安装的 Vanced。\n请使用 Vanced Manager！\n\n您可以从以下网站安全地下载 Vanced Manager：\n- 官方网站 <https://vancedapp.com> \n- [GitHub 库](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "YouTube Vanced 上架 Play 商店了吗？",
+      "description": "没有！\n再次重申，请不要从 Play 商店或其他商店上搜索并安装 Vanced。\n\n只有 [Vanced 指南](https://play.google.com/store/apps/details?id=com.vanced.faq) 上架了 Play 商店，并且是唯一发布在 Play 商店的官方应用。\n\n如果您看到其他应用盗用了我们的图标和名字，请将其举报为假冒，并留下差评。\n\n我们的应用仅在 <https://vancedapp.com> 上提供。"
+    },
+    {
+      "title": "为什么 Vanced 没有显示在主页或应用抽屉中？",
+      "description": "您遇到此问题是因为您没有使用 Vanced Manager，或者您是从非官方来源安装的 Vanced。\n请使用 Vanced Manager！\n\n您可以从以下网站安全地下载 Vanced Manager：\n- 官方网站 <https://vancedapp.com> \n- [GitHub 库](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "为什么视频无法播放？",
+      "description": "尝试重启应用。这也可能是您的网络连接或您的设备导致的。"
+    },
+    {
+      "title": "为什么我遇到了 480P 限制？",
+      "description": "由于新冠疫情，Google 在多个国家施加了数据使用限制。这由服务器控制，并同时影响 Vanced 和原版 YouTube 的用户。",
+      "fields": [
+        {
+          "title": "解决方法：",
+          "content": "1. 连接至不同地区的 VPN\n2. 使用[网页版](https://youtube.com)\n3. 因为 480P 限制只施加于手机端而不是平板端，您可以在 YouTube Vanced 中更改设备型号来绕过限制\n\n#### 如何更改设备型号？\n1. 打开 YouTube Vanced\n2. 启用额外选项\n  1. 前往设置\n  2. 点击 Vanced 设置\n  3. 不断点击关于项，直到弹出消息提示隐藏设置已启用\n3. 前往编解码器覆盖，并将型号和品牌设为“SM-T865”和“Samsung”\n4. 重启应用，480P 限制应该已经解除"
+        }
+      ]
+    },
+    {
+      "title": "如何隐藏 microG 的通知？",
+      "description": "要隐藏 microG 通知，请为 microG 禁用电池优化，并重启您的设备。\n\n如果重启后通知仍然出现，请通过长按通知，关闭开关并点击保存，来禁用 microG 通知。\n\n禁用应用通知的方法可能因 Android 系统界面不同而略有差异。如果您不知道如何禁用，请使用 Google 搜索并学习如何禁用通知。"
+    },
+    {
+      "title": "在 1080P 屏幕上，1440P 会更好吗？",
+      "description": "是的，但需要应用长宽比为 18:9 或 21:9 等比例。您可以在 设置 > 常规 中启用详细统计信息来确认。\n\n要启用更高的画质，请前往 Vanced 设置 > 视频设置并开启“最高画质”，然后重启应用。"
+    }
+  ]
 }

@@ -1,34 +1,22 @@
 {
-	"bugreport": [
-		{
-			"title": "Cara untuk melaporkan bug",
-			"description": "Anda dapat melaporkan bug menggunakan [GitHub issue tracker] kami (https://github.com/YTVanced/Vanced)\n\n**Pastikan untuk membaca README dan periksa apakah bug anda telah dilaporkan sebelum melaporkan bug!**",
-			"fields": [
-				{
-					"title": "Kapan bug saya akan ditinjau?",
-					"content": "Feedback anda akan ditinjau secepat mungkin."
-				}
-			]
-		},
-		{
-			"title": "Melaporkan bug umum",
-			"description": "Mengaplikasikan modifikasi terkadang dapat menyebabkan bug yang tidak terduga.\nSaat disanalah anda membantu kami dengan logcat (log dari semua proses dalam sistem anda). Ini membantu untuk mengidentifikasi masalahnya. Ini membutuhkan komputer.",
-			"fields": [
-				{
-					"title": "Bagaimanan cara saya membuat logcat?",
-					"content": "Mohon tonton dan ikuti petunjuk video ini: https://youtu.be/ICLpwgsJJP0."
-				}
-			]
-		},
-		{
-			"title": "Laporkan bug tema",
-			"description": "Berikut merupakan cara melaporkan bug tema.\nUntuk melaporkan bug, anda memelurkan [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
-			"fields": [
-				{
-					"title": "Mari memulai",
-					"content": "Setelah anda mengunduh `Developer Assistant`, buka Vanced dan reproduksi/temukan bugnya, lalu buka layoutviewer dengan menahan tombol home anda hingga aplikasi terbuka.\nSekarang, ikuti langkah-langkahnya:\n1. Pastikan bug yang anda alami ada di layar\n2. Ketuk pada elemen yang anda pikir terpengaruh oleh bugnya\n3. Pergi ke bagian `Element` dan `Hierarchy` dan screenshot hasilnya\n4. Gunakan screenshot tersebut untuk laporan bug anda"
-				}
-			]
-		}
-	]
+  "bugreport": [
+    {
+      "title": "Bagaimana cara untuk melaporkan bug?",
+      "description": "Anda dapat melaporkan bug menggunakan [GitHub issue tracker](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nPastikan anda melihat masalah yang sudah ada untuk memeriksa apakah masalah anda sudah terlebih dahulu dilaporkan sebelum membuka issue anda!",
+      "fields": [
+        {
+          "title": "Kapankah masalah saya akan ditinjau?",
+          "content": "Developer membagi waktu mereka untuk membuat fitur baru dan memperbaiki banyak masalah dan hal tersebut dapat memakan waktu untuk diselesaikan.\nAnda hanya perlu duduk rapih dan tunggu. Masalah anda akan ditinjau secepat mungkin."
+        },
+        {
+          "title": "Bagaimana cara saya mengambil logcat?",
+          "content": "Untuk pengguna non-root:\nAnda akan memerlukan komputer untuk mengambil output 'logcat'. Berikut adalah [Teks petunjuk](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) dan [video petunjuk](https://youtu.be/ICLpwgsJJP0).\n\nUntuk pengguna root:\nAnda tidak memerlukan komputer untuk ini. Anda dapat mengikuti instruksi di [disini](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Apakah bug anda berkaitan dengan UI?",
+          "content": "Untuk bug yang berkaitan dengan UI, anda membutuhkan langkah ekstra untuk diambil.\n\nMohon unduh dan atur [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nSetelah itu, pergi ke Vanced dan reproduksi bugnya, lalu buka Layout Viewer dengan membuka Developer Assistant.\n\nSekarang ikuti langkah berikut:\n1. Pastikan bug ada di layar anda.\n2. Tekan pada elemen yang anda kira terpengaruh dengan bugnya.\n3. Pergi ke bagian `Element` dan `Hierarchy` dan screenshot ouputnya.\n4. Masukkan screenshot tersebut pada masalah anda."
+        }
+      ]
+    }
+  ]
 }

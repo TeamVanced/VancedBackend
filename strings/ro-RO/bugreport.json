@@ -1,34 +1,22 @@
 {
-	"bugreport": [
-		{
-			"title": "How to report bugs",
-			"description": "You can report bugs using our [GitHub issue tracker](https://github.com/YTVanced/Vanced)\n\n**Make sure to read README and check if your bug is already reported before reporting bugs!**",
-			"fields": [
-				{
-					"title": "When will my bug be reviewed?",
-					"content": "Your feedback will be reviewed as soon as possible."
-				}
-			]
-		},
-		{
-			"title": "Reporting a regular bug",
-			"description": "Sometimes applying a modification can cause an unexpected bug.\nThat's where you help us with a logcat (a log of all processes on your system). This helps with identifying the issue. This requires a pc.",
-			"fields": [
-				{
-					"title": "How do I make a logcat?",
-					"content": "Please watch and follow this video guide: https://youtu.be/ICLpwgsJJP0."
-				}
-			]
-		},
-		{
-			"title": "Report a theme bug",
-			"description": "Here's how to report theme-based bugs.\nTo report bugs, you will need [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
-			"fields": [
-				{
-					"title": "Getting started",
-					"content": "After you have downloaded `Developer Assistant`, open Vanced and reproduce/find the bug, then open the layoutviewer by holding down your home button until the app launches.\nNow follow these steps:\n1. Make sure the bug you're experiencing is on the screen\n2. Tap on the element that you think is affected by the bug\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the output\n4. Use that screenshot for your bug report"
-				}
-			]
-		}
-	]
+  "bugreport": [
+    {
+      "title": "Cum să raportezi problemele?",
+      "description": "Puteți raporta erorile creând probleme pe [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nAsigură-te că vei cauta printre problemele existente pentru a verifica dacă problema ta a fost deja raportată înainte de a deschide o alta!",
+      "fields": [
+        {
+          "title": "Când va fi revizuită problema mea?",
+          "content": "Dezvoltatorii își rezervă timpul pentru a crea noi caracteristici și pentru a rezolva multe probleme și fiecare poate dura ceva timp pentru a termina. \nTrebuie doar să aștepți. Problema ta va fi revizuită cât mai curând posibil."
+        },
+        {
+          "title": "Cum pot creea un logcat?",
+          "content": "Pentru utilizatorii non-root:\nVei avea nevoie de un calculator pentru a lua realizata un `logcat`. Iată un [ghid text](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) și un [ghid video](https://youtu. e/ICLpwgsJP0).\n\nPentru utilizatorii root:\nNu aveți nevoie de un PC pentru aceasta. Puteți urma instrucțiunile în [here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Problema ta este legata interfață?",
+          "content": "Pentru erori legate de interfață, veți avea pași suplimentari.\n\nVă rugăm să instalați și să configurați [Asistent pentru dezvoltatori](https://play.google.com/store/apps/details?id=com. ppsisle.developerassistant).\nDupă aceea, mergeți la Vanced și reproduceți eroarea, apoi deschideți vizualizatorul de Layout prin declanșarea Asistentului de Dezvoltare.\n\nAcum urmați acești pași:\n1. Asigurați-vă că eroarea arată pe ecran.\n2. Apasă pe elementul care crezi că este afectat de erori.\n3. Mergeți la filele `Element` și `Ierarhie` și capturați datele de pe ecran.\n4. Includeți aceste capturi de ecran în problema dvs."
+        }
+      ]
+    }
+  ]
 }

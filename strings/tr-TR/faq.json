@@ -1,102 +1,102 @@
 {
-	"faq": [
-		{
-			"title": "Vanced nedir?",
-			"description": "Youtube Vanced, Youtube uygulamasının ekstra özellikler ve yapılandırmalar ile modifiye edilmiş bir sürümüdür.\n\nEkstra özelliklerden bazıları:\n- Arka planda oynatma,\n- Özel tema (klasik kara ve OLED siyah),\n- Çoğu reklam için engelleyici,\n- En yüksek çözünürlüğü yükseltme,\n- ... ve daha fazlası!\n\nListenin tamamını, XDA konusu içinde \"Features\" başlığı altındaki açılır menüden görebilirsin.\nXDA konusuna bu linkten ulaşabilirsin (https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)"
-		},
-		{
-			"title": "İndirme linkleri",
-			"description": "Resmi siteden veya aşağıdaki linklerden indirebilirsiniz. Sitemizin linkleri ve diğer linkler aşağıda:\n\n• Resmi site - https://vancedapp.com\n\n• Mediafire - https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Android File Host - https://androidfilehost.com/?w=files&flid=170196\n\nSahte veya doğrulanmamış siteden indirmeniz tavsiye edilmez. Eğer bizim linklerimizde veya XDS konusunda değilse, o linkler resmi değildir. Bu nedenle kötü amaçlı yazılım/reklam olup olmadığını garanti edemeyiz. Güvenliğinizi sağlamak için resmi siteleri ve resmi linkleri kullanın."
-		},
-		{
-			"title": "Uygulama otomatik olarak güncellenecek mi?",
-			"description": "Hayır, olmayacak. Discord/Telegram sunucumuza katılın veya Vanced Manager güncelleme geldiğinde sizi uyaracak. Geliştiricilerin uygulamaya otomatik güncelleme/kontrol etme özelliği getirmek gibi bir planı yok. \nLinkler:\nDiscord: https://discord.gg/wYrRPgv\nTelegram: https://t.me/Vanced"
-		},
-		{
-			"title": "Video İndirme",
-			"description": "Video indime sadece bazı(https://support.google.com/youtube/answer/6141269) bölgelerde ücretsiz. Youtube Premium'a ihtiyaç duyan videolar hiçbir zaman indirilemez bu nedenle YT premium diyaloğu görürseniz bunun için YOUTUBE PREMİUM SATIN ALIN.\n\nBunu unutmayın, \"VANCED YOUTUBE PREMİUM DEĞİLDİR\".\n\n⚠️⚠️Vanced'a hiçbir zaman üçüncü parti bir indirici eklenmeyecektir. ⚠️ Sadece geliştiriciler için bir güçlük değil, aynı zamanda Google'ın Vanced'a yayından kaldırma bildirimi göndermesine sebep olacaktır. Böyle bir durumda Vanced'ın geliştirilmesi durdurulur.\n\nBunu kimse istemez, bu nedenle Vanced uygulamasının içinden diğer kaynaklardan video indirme asla desteklenmeyecektir. Lütfen geliştiricilerden bu özelliğin eklenmesini istemeyin. Eğer Vanced uygulamasından indirme yapamıyorsanız, Youtube Premium satın alın⚠️"
-		},
-		{
-			"title": "Kaydırma hareketi hatası",
-			"description": "If you have enabled \"old comments\" from youtube settings > vanced settings > layout, disable it and restart the app. If that doesnt work, try clearing the app data and cache. If that doesnt work, report on our github repo. Look up on previous issues before creating a new one."
-		},
-		{
-			"title": "Captions not available",
-			"description": "For various issues like captions not available or info button missing, read this:\nNot every videos have subtitles, info buttons, etc. and this is not a bug from vanced. Please check on the official YouTube app and desktop site(www.youtube.com) for such issue before reporting. \n\nIt all depends on the video uploaders who don't include subtitles nor providing any information to be given with info button. Vanced has nothing to do with this. \n\nTL;DR: It's not a YouTube Vanced issue, please check the official YouTube app or desktop site for these things before reporting it as not every video has them."
-		},
-		{
-			"title": "Donations",
-			"description": "We DO NOT accept any sort of donations under any circumstances and any site or link or post that says \"donate for vanced\" is fake.\n\nBut if you’d like to support the Vanced devs, you can use this Brave referral code:\n\nhttps://brave.com/kev231"
-		},
-		{
-			"title": "Accessibility Seek buttons",
-			"description": "Use the inbuilt accessibility settings to change the accessibility controls. Open settings in \"Youtube Vanced\" app and tap on accessibility. It will open this setting as shown in picture above.\nIf you still can't find the options, Head to device settings > accessibility and find \"accessibility menu\" then disable it.\nAlso, if that still doesn't work, disable sound amplifier, switch access, live caption if you have them enabled as well."
-		},
-		{
-			"title": "Why the split apks?",
-			"description": "To start off:\n\n1. What are split apks?\nIt's a zip file which contains the base apk, config apk for your device architecture and language apk.\n\nFor example, a typical normal apk has both 32 bit and 64 bit support file, lots of language files and a base apk. So if your device is only 32 bit and you only want english language file, why would you want an extra files which you don't even need and will result in taking huge space in your storage.\n\n**Advantages**:\n• size of split apk is almost half of normal apk\n• a split apk only has those files which are relevant for your device and architecture\n\n**Disadvantages:**\nDifficult to newbies or non-technical people\n\n2. Why split?\nGoogle only distributes the YouTube APKs after version 14.54 in split APKs now , so in order to install Vanced, we have to use SAI (Split APK Installer).\nPreviously, they provides normal apk making it easy to install apps on every device.\n\n3. why dev's don't patch apks and make apk from it?\nIt's not like that they can't. It's about increased time in doing this. Converting from apks to apk adds time which they can use that in other ways(both personal and vanced bugs/updates). So please don't ask how to get normal apk. Use old version if you are really lazy or official YT app from play store directly."
-		},
-		{
-			"title": "App Splash color",
-			"description": "The splash screen background color is now taken from the Android framework color (Android system) to make sure Vanced/Youtube changes its splash coloir according to the system theme. Whatever is the Android framework color, the same color would show up in vanced.\n\nYou can use Substratum/Swift themes to change the theme color."
-		},
-		{
-			"title": "Why redownload?",
-			"description": "The reason is pretty simple: sometimes a downloadeded file can be corrupted, trying to grab them and install will result in an infinite loop of failure. To avoid this, the manager redownloads files every time you press the button.\n\nHowever, the Non-Root installer can now use the already downloaded files to reinstall Vanced."
-		},
-		{
-			"title": "Microphone",
-			"description": "If you're wondering why there is no microphone permission in the root version of Vanced, that's because the APK used to modify Vanced (minAPI17) is missing the microphone permission. The other APK has it (minAPI21) but that lacks the translation. Why? Ask Google 🤷‍♂️\n\nWorkaround: use the non-root variant, or stock YouTube.\n\nNOTE: These issues only exist in version 14 and below. The permissions are now fixed from version 15."
-		},
-		{
-			"title": "Exoplayer",
-			"description": "1. What is Exoplayer?\nExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet. ExoPlayer supports features not currently supported by Android’s MediaPlayer API, including DASH and SmoothStreaming adaptive playbacks. Unlike the MediaPlayer API, ExoPlayer is easy to customize and extend, and can be updated through Play Store application updates.\n\n2. Difference between V1 and V2?\nV1:\n\n  > Better optimised for low end devices. \n\n  > Can switch to v1 if V2 starts giving issues to you.\n\nV2: \n\n  > not supported by low end devices. Might give issues on low end crashes, can cause crashes, glitches, lags, black screen. \n\n  > More optimised for latest devices released after 2019\n\nNOTE: With version 15.33.34, Exoplayer V2 is forced by Google so if V2 gives issue on your device, switch to V1.\n\nPSA: ExoPlayer V2 is EXPERIMENTAL, don't use it unless you know what you're doing. Don't report crashes if you have it enabled. If you are facing crashes/lags/glitches/etc, Switch to Exoplayer v1."
-		},
-		{
-			"title": "Developer Options",
-			"description": "In vanced settings, tap on the \"About\" section 6-7 times to unlock a secret menu. This menu only enables the additional video codec settings."
-		},
-		{
-			"title": "Core",
-			"description": "If you're having issues related to microG core & vanced and looking for an answer, here’s a list of what, so far, can be done:\n\n1. You need to have Pico Gapps, at least, to run vanced.\n\n2. You can’t run vanced with microG core because it needs Google Play Services Framework which is available in all Gapps packages.\n\n3. If you are worried about your privacy & don’t want to use Gapps but still want to use Vanced then there are old Nokia phones still available in the market. :)"
-		},
-		{
-			"title": "Chromecast",
-			"description": "As of Vanced version 14.21.54 and MicroG version 0.2.6.17455, Chromecast should work by default. If it doesn't, connect to the chromecast with the regular version of youtube. You can then add videos/control using YouTube Vanced.\n\nNOTE: Microg V0.2.11 fixed Chromecast so be sure to update your microg versions if you are running 0.2.10 or lower."
-		},
-		{
-			"title": "Apk Signing",
-			"description": "In newest Vanced versions till V15.40.37, you should disable apk signature verification in order to install Vanced using Split Apk Installer, but many users choose \"sign apk\" option in SAI which will cause crashes in Vanced. \n\n*Do not enable options you weren't asked to enable! *\n\nIn order to solve crashes, just reinstall Vanced but this time disable sign apk option in SAI."
-		},
-		{
-			"title": "Play Store",
-			"description": "⚠️Please don't install any fake apps named \"YouTube Vanced\" on the Play Store and any other store. We won't publish nor upload any type of all there. ⚠️\n\nIf you find any app with our app logo and name, take a quick look at that app with the description and all its reviews. If it doesn't look good to you, report that app to Google Play and don't download them as those apps could have malicious files/adwares which can get injected in your device resulting in poor performance of your device or breaking your Android.\n\nOur app can only be found on our official links which we provide. Join our channel for all updates(https://t.me/Vanced) or use our discord server.\n\nStay safe :)"
-		},
-		{
-			"title": "App Drawer",
-			"description": "If YT Vanced app is not visible in your app drawer, follow these steps:\n\n• Install the regular YouTube app from the Google Play Store\n\n• Open the app until your front page shows up (not sure if this is necessary. Just reconstructing what's been working for others all the time).\n\n• Go to Settings > Apps > YouTube. It should show \"Uninstall\" on the top left. DO NOT Uninstall! Just see if it says that there!\n\n• Reboot\n\n• Go to Settings > Apps > YouTube. Now it should say \"Disable\" or \"Deactivate\". DO NOT Uninstall! Just see if it says that there!\n\n• In the same menu; tap on the three dot menu button on the upper right corner and tap on \"Remove/Uninstall Updates\".\n\nNow the YT Vanced app should show in your launcher.\n\nOR\n\n[Follow this link](https://forum.xda-developers.com/showpost.php?p=75068670&postcount=299) if above solution didn't work for you."
-		},
-		{
-			"title": "Videos Not Playing",
-			"description": "If a video is buffering on a browser/app and ist't playing, it is an HWC or mediaserver issue. Change your ROM or update it up to the latest version to fix your issue. Otherwise, report to ROM developers.\n\nIf you are using custom skins, then you can try checking the issue in youtube app and report to your device community so they can bring a fix in next update for you.\n\nThere's nothing else we can do since issue is ROM side."
-		},
-		{
-			"title": "480p issue due to Covid-19 Pandamic",
-			"description": "It's NOT a vanced bug/issue. It's youtube doing this due to lockdowns in various countries to limit data usage and huge traffic so that every user can browse on the internet with less issues.\n\nHowever, YouTube has lifted this cap now. So you can ignore whatever's said below. If you still have 480p as maximum while the video resolution showing on desktop is higher, you can use the below workaround as a temporary fix until Google removes the cap in your region/on your network.\n\nPLEASE NOTE: \n\n• Anything happens on YouTube happens on YouTube Vanced since everything is controlled by YouTube servers.",
-			"fields": [
-				{
-					"title": "Workarounds",
-					"content": "1) You can try with a VPN if you are lucky. YouTube applied this in most countries so you have to pick your new region wisely.\n\n2) Watch on desktop mode [www(dot)youtube(dot)com]\n\n3) Since the 480p restriction is only for mobile devices and not tablets we can change the model of the device in YouTube Vanced to overcome the restriction.\n\na) Open YouTube Vanced\n\nb) Enable additional options by going to Settings -> Vanced Settings -> Tap on the About section till you get a message saying hidden Menu is visible\n\nc) Go to Codec override -> Override model and enter the model number of any tab e.g. \"SM-T865\" and device to \"Samsung\"\n\nd) Restart the app and the 480p limit should be gone now\n\ne) Enjoy"
-				}
-			]
-		},
-		{
-			"title": "How to hide the Vanced microG notification",
-			"description": "To hide microG notifications, disable battery optimisation for microG. If the notification isn't hidden, reboot your device and it will be fixed.\n\nIf the notification doesn't go away, \n\n1. just tap and hold the notification\n\n2. tap on the settings icon to the right and,\n\n3. toggle off notification from there(battery saving exclusion), the notification will no longer appear."
-		},
-		{
-			"title": "High Resolution",
-			"description": "If your device only supports 720p/1080p resolution, you can still play videos up to 4k but the video will be scaled down back to your device's native resolution and not true 4k. \n\nOnly true 4k resolution can be seen on flagship devices (SD855).\n\nTo enable high resolutions, head to Vanced settings > video settings and turn on \"resolution checks\" then restart the app."
-		}
-	]
+  "faq": [
+    {
+      "title": "Vanced nedir?",
+      "description": "Youtube Vanced, YouTube deneyimini arttıran, ekstra özelliklere sahip modifiye edilmiş bir sürümüdür.\n\nEkstra özelliklerden bazıları:\n- Arka planda oynatma,\n- Resim içinde Resim (PiP) (farklı uygulama üzerinde küçük video oynatıcı),\n- Siyah tema (OLED dostu),\n- Reklam kaldırma (aktifleştirme gerektirebilir),\n- Çözünürlük ayarını değiştirme (cihazının desteklediği çözünürlükten daha fazla çözünürlükte olan videoları oynatmaya olanak sağlar),\n- ... ve daha fazlası!\n\nDaha fazla bilgi için, <https://vancedapp.com>'u ziyaret edebilirsin"
+    },
+    {
+      "title": "İndirme butonu nerede?",
+      "description": "Anlaşılacağı üzere Google, kendi uygulamasının modifiye edilmiş sürümünü Play Store'da yayınlanmasına izin vermiyor. Bu yüzden Play Store'da aramamalısın ve orada bulunan diğer uygulamaların da sahte/fake uygulamalar olduğunu bilmelisin.\n\nVanced uygulamalarını, Vanced Manager uygulamasını kullanılarak kolayca indirebilirsin. \nVanced Manager'a <https://vancedapp.com> resmi sitesinden veya [GitHub deposundan](https://github.com/YTVanced/VancedManager/releases/latest) indirebilirsin"
+    },
+    {
+      "title": "YouTube Vanced otomatik güncelleniyor mu?",
+      "description": "Hayır, güncellenmiyor.\n\nYeni bir sürüm olduğunda Vanced Manager bildirim ile gösterir.\n\nAyrıca [Discord sunucusuna](https://discord.gg/wYrRPgv) katılabilir veya [Telegram kanalını](https://t.me/Vanced) takip ederek yeniliklerden ve güncellemelerden haberdar olabilirsin."
+    },
+    {
+      "title": "Vanced ile video indirilebilir mi?",
+      "description": "Vanced'da video indirme özelliği yoktur ve hiçbir zaman da olmayacaktır.\n\n[İzin verilen ülkelerde](https://support.google.com/youtube/answer/6141269?hl=tr) çoğu videolar indirilebilir. İzin verilmeyen ülkelerde ise, YouTube Premium satın alınmalı veya 3. parti bir indirici kullanılabilir.\n\nTekrar hatırlatalım, Vanced ASLA VE ASLA video indirme veya benzer bir özelliğe sahip olmayacaktır.\n\nGoogle, telif hakkıyla korunan içeriklerin indirilmesini sevmiyor ve dolayısıyla geçmişte YouTube'un modifiye edilmiş sürümlerinin kapatılmasındaki ana neden buydu. O yüzden indirme özelliği istemekten vazgeçmelisin.!!"
+    },
+    {
+      "title": "Kaydırma hareketleri/eylemleri neden çalışmıyor?",
+      "description": "Eğer yorumlar en altta (eski yerinde) gözüküyorsa, muhtemelen Vanced ayarları > Arayüz ayarları içerisindeki seçenek aktif edilmiştir. Seçeneği kapatıp, uygulamayı yeniden başlatmalısın. Eğer o da işe yaramazsa, uygulamayı zorla durdurup, verilerini silebilirsin."
+    },
+    {
+      "title": "Altyazı neden yok veya listelenmiyor?",
+      "description": "Açıkçası bu, Vanced veya YouTube ile kaynaklı bir sorun değil. Tamamen video ile ilişkili çünkü her videoda altyazı bulunmuyor."
+    },
+    {
+      "title": "Bağış alıyor musunuz?",
+      "description": "HAYIR, almıyoruz.\n\nHer ne şekilde olursa olsun bağış isteyen site veya link, tamamen sahtedir.\n\nYine de Vanced geliştiricilerini desteklemek istiyorsan, [bu linkten](https://brave.com/kev231) Brave'i, ve [bu linkten](https://adguard.com/en/welcome.html?aid=31141) AdGuard'ı indirerek destek olabilirsin."
+    },
+    {
+      "title": "Oynatıcı kontrolleri otomatik nasıl gizlenir?",
+      "description": "YouTube Vanced > Ayarlar > Erişilebilirlik kısmından bu özelliği ayarlayabilirsin. Eğer ayarlar açılmaz veya çalışmaz ise, cihazının erişilebilirlik ayarlarından ses yükseltme, anahtar erişimi ve canlı altyazı özelliklerini kapatmayı deneyebilirsin."
+    },
+    {
+      "title": "Neden Split APKs yöntemi?",
+      "description": "Çünkü:\n\n1. Orijinal sürüm bu yöntemi kullanıyor, haliyle Vanced'da kullanıyor.\n2. Sadece belirttiğin dilleri yükleyerek depolama alanındaki tütekimi azaltır.\n3. Cihazının ihtiyaç duyduğu ana APK sürümünü barındırır.\n\nTabii ki de Vanced Manager veya geliştiriciler uygulamayı tek bir APK dosyası olarak dönüştürebilir. Fakat üşengeçliğimiz ağır bastığı için bu işlemi ve geliştirmesini yapmaktan kaçıyoruz. Elimizde olanla idare etmemiz gerekiyor...\n\nBu durumda endişelenmene gerek yok tabi. Vanced Manager kurulum esnasında tüm zorlukları hallediyor bu yüzden sadece `Yükle` butonuna basman yeterli olacaktır."
+    },
+    {
+      "title": "Açılıştaki arkaplan rengi, neden temadan farklı?",
+      "description": "Açılıştaki arkaplan rengi, cihaz teması ile aynı olmasını sağlamak amacıyla Android framework yapısından alınır. Rengi değiştirmek istersen eğer, Substratum/Swift uygulamalarını kullanabilirsin."
+    },
+    {
+      "title": "Kurulum dosyalarını yeniden indirmeli miyim?",
+      "description": "Dosyaların yapısı çeşitli nedenlerden dolayı bozulabilir/zarar görebilir ve ileride sorunlar yaşatabilir. Kurulumun sorunsuz ve düzgün gerçekleştiğinden emin olmak için, dosyalarının yeniden indirilmesi önerilir."
+    },
+    {
+      "title": "Root sürümünde neden mikrofon izni yok?",
+      "description": "Vanced'ın güncel sürümünde var."
+    },
+    {
+      "title": "ExoPlayer v1 nedir?",
+      "description": "YouTube video oynatıcısının eski bir sürümüdür. Kullanıldığında belki daha iyi performans ve denge/çalışma elde edebilirsin."
+    },
+    {
+      "title": "Gizli ayarlar nasıl etkinleştirilir?",
+      "description": "Vanced ayarlarında, `Hakkında` kısmına 6-7 defa dokunarak, gizlenmiş ek video çözücüsü ayarlarını etkinleştirebilirsin. "
+    },
+    {
+      "title": "MicroG Core'deki sorun nedir?",
+      "description": "1. GApps'in en az [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) paketi içeriğine sahip olduğundan emin olmalısın.\n\n2. Tüm GApps paketlerinde bulunan Google Play Services Framework'ü olmadan Vanced ve microG Core'u çalıştıramazsın.\n\n3. Gizliliğin hakkında endişeleniyor ve GApps kullanmak istemiyor ama, YouTube'u da reklamsız kullanmaya devam etmek istiyorsan, [web sitesini](https://youtube.com) kullanmaya devam edebilirsin."
+    },
+    {
+      "title": "Yayınlama özelliği neden çalışmıyor?",
+      "description": "MicroG'nin son sürümünü yüklediysen çalışır."
+    },
+    {
+      "title": "APK imzası nedir?",
+      "description": "Bunu okuyorsan, muhtemelen Vanced Manager'ı kullanmıyorsundur veya Vanced'ı resmi olmayan bir kaynaktan yüklemişsindir.\nVanced Manager'ı kullan lütfen!\n\nAşağıdaki kaynaklardan Vanced Manager'ı güvenli biçimde indirebilirsin:\n- Resmi sitesinden <https://vancedapp.com>\n- [GitHub deposundan](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "YouTube Vanced, Play Store'da var mı?",
+      "description": "HAYIR!\nTekrar hatırlatalım, Play Store'dan \"YouTube Vanced\" ve benzer isimli sahte uygulamaları ARAMAMALISIN ve İNDİRMEMELİSİN!\n\nPlay Store'da sadece [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) uygulamamız var ve yine sadece YouTube'un orijinal uygulaması Store'da bulunuyor.\n\nİkonumuza ve ismimize sahip olan uygulamaya denk gelirsen eğer, \"Taklit\" sebebiyle şikayet etmeni ve kötü yorum yazmanı öneriyoruz.\n\nUygulamalarımıza sadece <https://vancedapp.com> adresinden ulaşabilirsin."
+    },
+    {
+      "title": "Vanced neden ana ekranda veya uygulama menüsünde gözükmüyor?",
+      "description": "Bunu okuyorsan, muhtemelen Vanced Manager'ı kullanmıyorsundur veya Vanced'ı resmi olmayan bir kaynaktan yüklemişsindir.\nVanced Manager'ı kullan lütfen!\n\nAşağıdaki kaynaklardan Vanced Manager'ı güvenli biçimde indirebilirsin:\n- Resmi sitesinden <https://vancedapp.com>\n- [GitHub deposundan](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Videolar neden oynamıyor?",
+      "description": "Uygulamayı veya cihazını yeniden başlatmayı deneyebilirsin. Ayrıca internet bağlantısından kaynaklanan bir sorun da yaşıyor olabilirsin."
+    },
+    {
+      "title": "Neden 480p'den fazla çözünürlük yok?",
+      "description": "COVID-19 sürecinden dolayı Google, bazı ülkelerde kısıtlamalar yapıyor. Sunucu kaynaklı bir sorun olduğundan bu durum, Vanced kullanıcılarını olduğu gibi, normal YouTube kullanıcılarını da etkiliyor.",
+      "fields": [
+        {
+          "title": "Geçici çözümler:",
+          "content": "1. Farklı ülkeye bağlı VPN kullanabilirsin.\n2. [Web sitesini](https://youtube.com) kullanabilirsin.\n3. Mâlum, 480p kısıtlaması sadece telefonları etkilediğinden, uygulamaya içerisinden cihazın marka ve model bilgisini değiştirerek, YouTube'un cihazını tablet gibi tanımasını/görmesini sağlayabilir ve kısıtlamadan kurtulabilirsin.\n\n#### Cihaz modeli nasıl değiştirilir?\n1. YouTube Vanced'ı aç,\n2. Ayarlara gir,\n3. Vanced ayarlarına dokun,\n4. Gizli ayarları etkinleştir:\n  - Sayfanın sonundaki `Hakkında` kısmına \"Gizli ayarlar etkinleştirildi\" yazısını görene kadar hızlıca dokun.\n5. `Çözücü(codec) ayarları`'na gir,\n6. Cihaz markasını `Samsung` ve modelini `SM-T865` olarak ayarla\n7. Uygulamayı yeniden başlat.\n\nYeniden başlattıktan sonra, 480p kısıtlaması ortadan kalkmış olması gerekiyor."
+        }
+      ]
+    },
+    {
+      "title": "MicroG bildirimleri nasıl gizlenir?",
+      "description": "MicroG için batarya optimizasyonu kısıtlamasını, uygulama ayarlarından kapatabilir ve cihazını yeniden başlatabilirsin.\n\nKısıtlamayı kaldırıp, yeniden başlattıktan sonra microG bildirimi halen gözükmeye devam ediyorsa, bildirimin üzerine basılı tutarak bildirim ayarlarını açıp, microG için bildirimleri tamamen kapatabilirsin.\n\nUygulamaya özel bildirimleri gizleme yolları, Android ve cihaz arayüz yapısına göre farklılıklar gösterebilir. Nasıl yapılacağını bilmiyorsan, Google'da arama yaparak bildirimlerin nasıl gizlenebileceğini araştırabilirsin."
+    },
+    {
+      "title": "1440p video çözünürlüğü, 1080p ekranda güzel gözükür mü?",
+      "description": "Evet, ama video çerçeve oranı 18:9, 21:9, ... ise gözükür. Ayarlar > Genel kısmından `Meraklısı için istatistikleri` etkinleştirebilirsin.\n\nYüksek çözünürlükleri etkinleştirmek içinse, Vanced ayarları > Video ayarları kısmından `Maksimum çözünürlük` ayarını etkinleştirebilirsin."
+    }
+  ]
 }

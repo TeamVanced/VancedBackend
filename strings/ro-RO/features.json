@@ -1,32 +1,32 @@
 {
-    "features": [
-        {
-            "title": "Vanced",
-            "description": "YouTube Vanced aims to be a better version of Youtube. If includes adblocking, amoled dark mode and a lot more. Use Vanced Manager to install YouTube Vanced with relative ease."
-        },
-        {
-            "title": "Vanced Music",
-            "description": "Vanced Music has the same aim as YouTube Vanced, but this app focuses on YouTube Music. This is relatively less feature-rich compared to Vanced but still features many things you come to expect like adblocking and background playback, all inside Youtube Music!"
-        },
-        {
-            "title": "YouTube Vanced main features",
-            "description": "An amoled black theme.\n- Blocks all video ads and allows you to play videos in the background or in Picture in Picture mode (only on android 8.0 and up)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/miniplayer layouts can be toggled to the tablet versions which are very similar to the old version (albeit slightly buggy)."
-        },
-        {
-            "title": "Customization",
-            "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our discord or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the covid info), remove comments entirely, compact movie, movie shelf removal and many more!"
-        },
-        {
-            "title": "Sponsor Block",
-            "description": "- Features the ability to skip sponsor segments (where a youtuber advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API found here. You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
-        },
-        {
-            "title": "Platforms",
-            "description": "The app currently only exists in android, there are no plans to support any other platforms at the moment"
-        },
-        {
-            "title": "Difference between Root and Non-Root",
-            "description": "- Root: \nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google assistant through the modded vanced app.\n- Non-Root:\n- If you have a device that is difficult to root or you don’t want to root your daily driver on the first hand, you should opt for the non-root variant. \n- It can be installed on a rooted device as well. Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account. \n- Moreover, you have to manually set Vanced as the default app for opening YouTube links. \n- However, the non-root variant is simply easier to live with, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
-        }
-    ]
+  "features": [
+    {
+      "title": "Vanced",
+      "description": "YouTube Vanced vizează să fie o versiune mai bună a YouTube. Include adblocking, tema neagră și multe altele. Utilizați Vanced Manager pentru a instala YouTube Vanced cu ușurință relativă."
+    },
+    {
+      "title": "Muzică Vanced",
+      "description": "Vanced Music are acelaşi scop ca YouTube Vanced, dar această aplicaţie se concentrează pe YouTube Music. Acest lucru este relativ mai puțin bogat în caracteristici comparativ cu Vanced dar încă mai conține multe lucruri la care te aștepți precum blocarea fundalului și redarea în fundal, toate pe YouTube Music!"
+    },
+    {
+      "title": "Caracteristici principale YouTube Vanced",
+      "description": "- Tema neagră OLED prietenoasă.\n- Blochează toate reclamele\n- Vă permite să redați videoclipuri în fundal sau în modul Picture (PiP) (numai pe Android 8+)\n- Controalele glisării vă permit să controlați luminozitatea și volumul cu gesturi ascendente (cu configurabile).\n- Funcția de repetare automată vă permite să repetați videoclipurile.\n- Un nou comentariu/tableta mini-player poate fi comutat la versiunile tabletei, care sunt foarte asemănătoare cu vechea versiune."
+    },
+    {
+      "title": "Personalizare",
+      "description": "- Vă permite să suprascrieți opțiunile Codec cum ar fi forțarea H264 pentru dispozitivele vechi sau VP9, acest lucru vă permite, de asemenea, să forțați redarea HDR sau să opriți 60 de fps dacă preferați o experiență cinematografică. (Configurațiile personalizate ale dispozitivelor pentru aceste funcții pot fi găsite pe discord sau XD)\n- Forţează rezoluţia video implicită atât de mare sau de jos pe cât doriţi şi chiar suprascrie rezoluţia ecranului pentru acea redare ascuţită 4k pe orice dispozitiv. De asemenea, vă permite să schimbați viteza implicită de redare oriunde între 0. 5x până la 2x (presupunând că dispozitivul este suficient de puternic)\n- vă permite să comutați reclame de acasă, cele mai multe reclame pentru interfață, reclame pentru mărfuri, postări comunitare, Vânzarea de filme, informații compact banner (cum ar fi informațiile COVID-19), ștergeți comentariile în întregime, compact film, ștergerea raftului filmului și multe altele!"
+    },
+    {
+      "title": "Bloc sponsor",
+      "description": "- Funcționează capacitatea de a sări peste segmentele de sponsor (când un youtuber face publicitate unui serviciu sau produs în mijlocul unui video)\n- De asemenea suportă omiterea altor categorii, cum ar fi intro-urile, outros-urile și autopromovarea.\n- Foloseşte API-ul găsit aici. Puteți găsi mai multe informații despre modul în care funcționează\n- De asemenea, vă permite să trimiteți propriile segmente la API și să contribuiți la comunitatea mai largă\n- Controlul complet asupra trecerii automate la o categorie de segment sau afișați un buton pentru omitere, sau pur şi simplu să nu îl sară deloc.\n- Evidențiază segmentul în culoarea specifică bazată pe categoria sa din calendarul de redare."
+    },
+    {
+      "title": "Platforme",
+      "description": "Aplicația există în prezent numai în android, nu există planuri de a sprijini alte platforme în acest moment"
+    },
+    {
+      "title": "Diferența dintre Root și non-Root",
+      "description": "- Root: \nVarianta rădăcină a Vanced înlocuiește perfect aplicația YouTube oficială. Ca rezultat, poți deschide link-uri YouTube, sau să le apelezi folosind Asistentul Google prin aplicația vanced modificată.\n- Non-Root:\n- Dacă ai un dispozitiv dificil de rootat sau nu vrei să îți rootești dispozitivul, ar trebui să optați pentru varianta non-root. \n- Poate fi instalat și pe un dispozitiv rootat. Deoarece numele pachetului varianta non-root este diferită de cea a aplicației YouTube stocate, acestea pot coexista. Țineți cont că trebuie să instalați o aplicație companion suplimentară (microG Vanced microG) pentru a vă putea conecta cu contul dvs. YouTube/Google. \n- În plus, trebuie să setați manual Vanced ca aplicație implicită pentru deschiderea link-urilor YouTube. \n- Cu toate acestea, varianta non-root este pur și simplu mai ușor de trăit, așa că îți recomandăm să rămâi cu varianta non-root, cu excepția cazului în care trebuie să înlocuiești aplicația YouTube stoc pe telefonul tău."
+    }
+  ]
 }

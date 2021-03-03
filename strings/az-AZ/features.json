@@ -1,32 +1,32 @@
 {
-    "features": [
-        {
-            "title": "Vanced",
-            "description": "YouTube Vanced YouTube'un daha yaxşı halı olmağı hədəfləyir. İçərisində reklam əngəlləyici, amoled qaranlıq mövzu və dahası mövcuddur. YouTube Vanced'ı asanlıqla yükləmək üçün Vanced Menecer'dən istifadə edin."
-        },
-        {
-            "title": "Vanced Musiqi",
-            "description": "Vanced Musiqi'nin hədəfi də YouTube Vanced ilə eynidir, lakin bu tətbiq YouTube Musiqi'yə diqqətini cəlb etmişdir. Bu Vanced'la müqayisədə daha az xüsusiyyətə malikdir lakin reklam əngəlləmə və arxa planda oxutma kimi xüsusiyyətləri YouTube Musiqi özündə cəmləmişdir!"
-        },
-        {
-            "title": "YouTube Vanced'ın əsas xüsusiyyətləri",
-            "description": "Amoled qara mövzu.\n- Bütün video reklamlarını əngəlləyir və yalnız android 8.0 və üstü üçün olan PiP modunda yaxud arxa planda videoları oynadır\n- Dəyişdirilə bilən sürüşdürmə idarəsi ilə aşağı-yuxarı sürüşdürərək işıq və səs səviyyəsini dəyişdirə bilərsiniz.\n- Avto-təkrar xüsusiyyəti sizə videoları təkrar-təkrar oxutmağa imkan verir\n- Yeni şərh/kiçik-oynadıcı bölmələri tablet versiyaları üçün də istifadə oluna bilər."
-        },
-        {
-            "title": "Özəlləşdirmə",
-            "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our discord or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the covid info), remove comments entirely, compact movie, movie shelf removal and many more!"
-        },
-        {
-            "title": "Sponsor Əngəli",
-            "description": "- Sponsor olan hissələri keçmə xüsusiyyəti var (youtuber'in videonun ortasında reklam etdiyi hissələr)\n- Giriş, çıxış və şəxsi reklamlar kimi digər kateqoriyaları da keçə bilir.\n- Bu API'ni işlədir. Onun necə işlədiyi haqda əlavə məlumat ala bilərsiniz\n- Bir hissənin avtomatik keçilməsi, bir düymə ilə keçilməsi yaxud heç keçilməməsi kimi idarə seçimləri var.\n- Oxutma zolağında növünə görə hissələri özəl rənglərlə önə çıxarır."
-        },
-        {
-            "title": "Platformalar",
-            "description": "Tətbiq hal-hazırda yalnız androiddə mövcuddur və digər platformalar üçün dəstək haqda hələlik fikirləşilmir"
-        },
-        {
-            "title": "Köklü və Köksüz arasındakı fərq",
-            "description": "- Köklü:\nKöklü olan Vanced sistemdə olan YouTube ilə birbaşa dəyişdirildiyinə görə, siz YouTube keçidlərini birbaşa aça və ya Google Asistant vasitəsilə keçidləri birbaşa vanced tətbiqindən çağıra bilərsiniz.\n- Köksüz:\n- Əgər cihazınızı kökləmək çətindirsə yaxud gündəlik işlətdiyiniz cihazı kökləmək istəmirsinizə, onda köksüz variantdan istifadə etməyiniz məsləhətdir.\n- Bu köklənmiş cihaza da qurula bilər. Köklü və köksüz variantların paket adları fərqli olduğu üçün, eyni anda ikisi də qurulu ola bilər. Qeyd edək ki, bunun yanında YouTube/Google hesabınıza daxil olmaq üçün əlavə tətbiq (Vanced microG) də qurmalısınız.\n- Dahası, YouTube keçidlərini avtomatik açmaq üçün Vanced tətbiqini standart kimi təyin etməlisiniz.\n- Yenə də köksüz halı işlətmək daha asan olduğu üçün məqsədiniz orijinal YouTube'u dəyişdirmək deyilsə, ondan istifadə etməyiniz tövsiyyə olunur."
-        }
-    ]
+  "features": [
+    {
+      "title": "Vanced",
+      "description": "YouTube Vanced YouTube'un daha yaxşı halı olmağı hədəfləyir. İçərisində reklam əngəlləyici, amoled qaranlıq mövzu və dahası mövcuddur. YouTube Vanced'ı asanlıqla yükləmək üçün Vanced Menecer'dən istifadə edin."
+    },
+    {
+      "title": "Vanced Musiqi",
+      "description": "Vanced Musiqi'nin hədəfi də YouTube Vanced ilə eynidir, lakin bu tətbiq YouTube Musiqi'yə diqqətini cəlb etmişdir. Bu Vanced'la müqayisədə daha az xüsusiyyətə malikdir lakin reklam əngəlləmə və arxa planda oxutma kimi xüsusiyyətləri YouTube Musiqi özündə cəmləmişdir!"
+    },
+    {
+      "title": "YouTube Vanced'ın əsas xüsusiyyətləri",
+      "description": "- Amoled qara mövzu.\n- Bütün video reklamlarını əngəlləyir və yalnız android 8.0 və üstü üçün olan PiP modunda yaxud arxa planda videoları oynadır\n- Dəyişdirilə bilən sürüşdürmə idarəsi ilə aşağı-yuxarı sürüşdürərək işıq və səs səviyyəsini dəyişdirə bilərsiniz.\n- Avto-təkrar xüsusiyyəti sizə videoları təkrar-təkrar oxutmağa imkan verir\n- Yeni şərh/kiçik-oynadıcı bölmələri tablet versiyaları üçün də istifadə oluna bilər."
+    },
+    {
+      "title": "Özəlləşdirmə",
+      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+    },
+    {
+      "title": "Sponsor Əngəli",
+      "description": "- Sponsor olan hissələri keçmə xüsusiyyəti var (youtuber'in videonun ortasında reklam etdiyi hissələr)\n- Giriş, çıxış və şəxsi reklamlar kimi digər kateqoriyaları da keçə bilir.\n- Bu API'ni işlədir. Onun necə işlədiyi haqda əlavə məlumat ala bilərsiniz\n- Bir hissənin avtomatik keçilməsi, bir düymə ilə keçilməsi yaxud heç keçilməməsi kimi idarə seçimləri var.\n- Oxutma zolağında növünə görə hissələri özəl rənglərlə önə çıxarır."
+    },
+    {
+      "title": "Platformalar",
+      "description": "Tətbiq hal-hazırda yalnız androiddə mövcuddur və digər platformalar üçün dəstək haqda hələlik fikirləşilmir"
+    },
+    {
+      "title": "Köklü və Köksüz arasındakı fərq",
+      "description": "- Köklü:\nKöklü olan Vanced sistemdə olan YouTube ilə birbaşa dəyişdirildiyinə görə, siz YouTube keçidlərini birbaşa aça və ya Google Asistant vasitəsilə keçidləri birbaşa vanced tətbiqindən çağıra bilərsiniz.\n- Köksüz:\n- Əgər cihazınızı kökləmək çətindirsə yaxud gündəlik işlətdiyiniz cihazı kökləmək istəmirsinizə, onda köksüz variantdan istifadə etməyiniz məsləhətdir.\n- Bu köklənmiş cihaza da qurula bilər. Köklü və köksüz variantların paket adları fərqli olduğu üçün, eyni anda ikisi də qurulu ola bilər. Qeyd edək ki, bunun yanında YouTube/Google hesabınıza daxil olmaq üçün əlavə tətbiq (Vanced microG) də qurmalısınız.\n- Dahası, YouTube keçidlərini avtomatik açmaq üçün Vanced tətbiqini standart kimi təyin etməlisiniz.\n- Yenə də köksüz halı işlətmək daha asan olduğu üçün məqsədiniz orijinal YouTube'u dəyişdirmək deyilsə, ondan istifadə etməyiniz tövsiyyə olunur."
+    }
+  ]
 }

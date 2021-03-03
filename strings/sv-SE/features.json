@@ -1,32 +1,32 @@
 {
-    "features": [
-        {
-            "title": "Vanced",
-            "description": "YouTube Vanced syftar till att vara en bättre version av Youtube. Om inkluderar adblocking, amoled mörk läge och mycket mer. Använd Vanced Manager för att installera YouTube Vanced med relativ lätthet."
-        },
-        {
-            "title": "Vanced Musik",
-            "description": "Vanced Music har samma mål som YouTube Vanced, men denna app fokuserar på YouTube-musik. Detta är relativt mindre funktionsrika jämfört med Vanced men har ändå många saker du kommer att förvänta dig som adblocking och bakgrundsuppspelning, alla inuti Youtube Music!"
-        },
-        {
-            "title": "YouTube Vanced huvudfunktioner",
-            "description": "En amoled svart tema.\n- Blockerar alla videoannonser och låter dig spela upp videor i bakgrunden eller i Bildläge (endast på Android 8. och upp)\n- Svep kontroller gör att du kan styra ljusstyrka och volym med upp-och-ned-gester (med konfigurerbar stoppning).\n- Automatisk upprepningsfunktion så att du kan loopa videoklipp vid upprepning.\n- Nya kommentar/minispelarlayouter kan växlas till tablettversionerna som är väldigt lika den gamla versionen (även om den är lite buggig)."
-        },
-        {
-            "title": "Anpassning",
-            "description": "- Låter dig åsidosätta Codec alternativ som att tvinga H264 för gamla enheter eller VP9, Detta gör det också möjligt att tvinga HDR-uppspelning eller stänga av 60fps om du föredrar en filmisk upplevelse. (Konfigurera enheter för dessa funktioner finns på vår discord eller XDA)\n- Tvinga standardvideoupplösningen så hög eller låg som du vill och till och med åsidosätta din skärmupplösning för skarp 4k uppspelning på alla enheter. Det gör också att du kan ändra standard uppspelningshastighet till någonstans mellan 0. 5x till 2x (förutsatt att din enhet är tillräckligt kraft)\n- Låter dig växla hemannonser, de flesta UI-annonser, Merchandise annonser, Community inlägg, Movie upselling, kompakt banner info (såsom samtidig info), ta bort kommentarer helt, kompakt film, film hylla borttagning och många mer!"
-        },
-        {
-            "title": "Sponsorblock",
-            "description": "- Har möjlighet att hoppa över sponsorsegment (där en youtuber annonserar en tjänst eller produkt mitt i en video)\n- Det stöder också hoppa över andra kategorier, såsom introduktion, outros och självfrämjande.\n- Använder API: et som finns här. Du kan hitta mer information om hur det fungerar\n- Det låter dig också skicka in dina egna segment till API: et och bidra till den bredare gemenskapen\n- Fullständig kontroll över om du automatiskt ska hoppa över en segmentkategori eller visa en knapp för att hoppa över, eller helt enkelt inte hoppa över det alls.\n- Framhäver segmentet i den specifika färgen baserat på dess kategori i uppspelningstiden."
-        },
-        {
-            "title": "Plattformar",
-            "description": "Appen finns för närvarande bara i android, det finns inga planer på att stödja andra plattformar för tillfället"
-        },
-        {
-            "title": "Skillnad mellan rot och icke-rot",
-            "description": "- Root: \nRotvarianten av Vanced ersätter sömlöst den officiella YouTube-appen. Som ett resultat av detta kan du öppna YouTube-länkar direkt eller ringa dem med hjälp av Googles assistent via den modderade vansade appen.\n- Non-Root:\n- Om du har en enhet som är svår att rota eller inte vill rota din dagliga drivrutin på första hand, du bör välja för icke-rot-varianten. \n- Den kan även installeras på en rootad enhet. Eftersom paketnamnet för icke-rot-varianten skiljer sig från lager-YouTube-appen kan de samexistera. Observera att du behöver installera ytterligare en kompanjonapp (Vanced microG) för att kunna logga in med ditt YouTube/Google-konto. \n- Dessutom måste du manuellt ställa in Vanced som standardapp för att öppna YouTube-länkar. \n- Dock är icke-rot-varianten helt enkelt lättare att leva med, så vi rekommenderar att du håller dig med icke-rot-varianten om du inte verkligen behöver byta ut lager YouTube-appen på din telefon."
-        }
-    ]
+  "features": [
+    {
+      "title": "Vanced",
+      "description": "YouTube Vanced syftar till att vara en bättre version av Youtube. Om inkluderar adblocking, amoled mörk läge och mycket mer. Använd Vanced Manager för att installera YouTube Vanced med relativ lätthet."
+    },
+    {
+      "title": "Vanced Musik",
+      "description": "Vanced Music har samma mål som YouTube Vanced, men denna app fokuserar på YouTube-musik. Detta är relativt mindre funktionsrika jämfört med Vanced men har ändå många saker du kommer att förvänta dig som adblocking och bakgrundsuppspelning, alla inuti Youtube Music!"
+    },
+    {
+      "title": "YouTube Vanced huvudfunktioner",
+      "description": "En amoled svart tema.\n- Blockerar alla videoannonser och låter dig spela upp videor i bakgrunden eller i Bildläge (endast på Android 8. och upp)\n- Svep kontroller gör att du kan styra ljusstyrka och volym med upp-och-ned-gester (med konfigurerbar stoppning).\n- Automatisk upprepningsfunktion så att du kan loopa videoklipp vid upprepning.\n- Nya kommentar/minispelarlayouter kan växlas till tablettversionerna som är väldigt lika den gamla versionen (även om den är lite buggig)."
+    },
+    {
+      "title": "Anpassning",
+      "description": "- Låter dig åsidosätta Codec alternativ som att tvinga H264 för gamla enheter eller VP9, Detta gör det också möjligt att tvinga HDR-uppspelning eller stänga av 60fps om du föredrar en filmisk upplevelse. (Konfigurera enheter för dessa funktioner finns på vår discord eller XDA)\n- Tvinga standardvideoupplösningen så hög eller låg som du vill och till och med åsidosätta din skärmupplösning för skarp 4k uppspelning på alla enheter. Det gör också att du kan ändra standard uppspelningshastighet till någonstans mellan 0. 5x till 2x (förutsatt att din enhet är tillräckligt kraft)\n- Låter dig växla hemannonser, de flesta UI-annonser, Merchandise annonser, Community inlägg, Movie upselling, kompakt banner info (såsom samtidig info), ta bort kommentarer helt, kompakt film, film hylla borttagning och många mer!"
+    },
+    {
+      "title": "Sponsorblock",
+      "description": "- Har möjlighet att hoppa över sponsorsegment (där en youtuber annonserar en tjänst eller produkt mitt i en video)\n- Det stöder också hoppa över andra kategorier, såsom introduktion, outros och självfrämjande.\n- Använder API: et som finns här. Du kan hitta mer information om hur det fungerar\n- Det låter dig också skicka in dina egna segment till API: et och bidra till den bredare gemenskapen\n- Fullständig kontroll över om du automatiskt ska hoppa över en segmentkategori eller visa en knapp för att hoppa över, eller helt enkelt inte hoppa över det alls.\n- Framhäver segmentet i den specifika färgen baserat på dess kategori i uppspelningstiden."
+    },
+    {
+      "title": "Plattformar",
+      "description": "Appen finns för närvarande bara i android, det finns inga planer på att stödja andra plattformar för tillfället"
+    },
+    {
+      "title": "Skillnad mellan rot och icke-rot",
+      "description": "- Root: \nRotvarianten av Vanced ersätter sömlöst den officiella YouTube-appen. Som ett resultat av detta kan du öppna YouTube-länkar direkt eller ringa dem med hjälp av Googles assistent via den modderade vansade appen.\n- Non-Root:\n- Om du har en enhet som är svår att rota eller inte vill rota din dagliga drivrutin på första hand, du bör välja för icke-rot-varianten. \n- Den kan även installeras på en rootad enhet. Eftersom paketnamnet för icke-rot-varianten skiljer sig från lager-YouTube-appen kan de samexistera. Observera att du behöver installera ytterligare en kompanjonapp (Vanced microG) för att kunna logga in med ditt YouTube/Google-konto. \n- Dessutom måste du manuellt ställa in Vanced som standardapp för att öppna YouTube-länkar. \n- Dock är icke-rot-varianten helt enkelt lättare att leva med, så vi rekommenderar att du håller dig med icke-rot-varianten om du inte verkligen behöver byta ut lager YouTube-appen på din telefon."
+    }
+  ]
 }

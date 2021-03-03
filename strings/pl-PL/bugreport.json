@@ -1,34 +1,22 @@
 {
-	"bugreport": [
-		{
-			"title": "Jak zgłaszać błędy",
-			"description": "Możesz zgłaszać błędy używając naszego [trackera zgłoszeń GitHub](https://github. om/YTVanced/Vanced)\n\n**Upewnij się, że przeczytałeś README i sprawdź, czy błąd jest już zgłoszony przed zgłoszeniem!**",
-			"fields": [
-				{
-					"title": "Kiedy mój błąd zostanie zweryfikowany?",
-					"content": "Twoja opinia zostanie jak najszybciej zweryfikowana."
-				}
-			]
-		},
-		{
-			"title": "Zgłaszanie zwykłego błędu",
-			"description": "Czasami zastosowanie modyfikacji może spowodować nieoczekiwany błąd.\nTutaj pomagasz nam za pomocą logcat (dziennika wszystkich procesów w systemie). To pomaga w identyfikacji problemu. Wymaga to pc.",
-			"fields": [
-				{
-					"title": "Jak utworzyć logcat?",
-					"content": "Obejrzyj ten przewodnik wideo: https://youtu.be/ICLpwgsJP0."
-				}
-			]
-		},
-		{
-			"title": "Zgłoś błąd motywu",
-			"description": "Oto jak zgłaszać błędy oparte na motywach.\nAby zgłaszać błędy, będziesz potrzebował [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
-			"fields": [
-				{
-					"title": "Pierwsze kroki",
-					"content": "Po pobraniu `Developer Assistant`, otwórz Vanced i odtwórz/znajsz błąd, następnie otwórz podgląd układu, przytrzymując przycisk domowy aż do uruchomienia aplikacji.\nTeraz, wykonaj następujące kroki:\n1. Upewnij się, że błąd, którego doświadczasz, jest na ekranie\n2. Dotknij elementu, który uważasz, że jest błędny\n3. Przejdź do zakładek `Element` i `Hierarchy` i zrób zrzut ekranu\n4. Użyj tego zrzutu ekranu do raportu o błędzie"
-				}
-			]
-		}
-	]
+  "bugreport": [
+    {
+      "title": "Jak zgłaszać błędy",
+      "description": "Możesz zgłaszać błędy używając naszego [trackera zgłoszeń GitHub](https://github. om/YTVanced/Vanced)\n\n**Upewnij się, że przeczytałeś README i sprawdź, czy błąd jest już zgłoszony przed zgłoszeniem!**",
+      "fields": [
+        {
+          "title": "Kiedy mój błąd zostanie zweryfikowany?",
+          "content": "Deweloperzy spędzają swój czas na tworzenie nowych funkcji i rozwiązywanie wielu problemów, a wszystko z tego może trochę potrwać. \nMusisz tylko siedzieć i czekać. Twój problem zostanie sprawdzony tak szybko, jak to możliwe."
+        },
+        {
+          "title": "Jak utworzyć logcat?",
+          "content": "Dla użytkowników bez root:\nBędziesz potrzebował komputera, aby pobrać dane wyjściowe `logcat`. Oto [przewodnik tekstowy](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) oraz [przewodnik wideo](https://youtu.be/ICLpwgsJJP0).\n\nDla użytkowników z root:\nNie potrzebujesz komputera osobistego. Możesz postępować zgodnie z instrukcjami [tutaj](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Twój błąd jest związany z interfejsem?",
+          "content": "Dla błędów związanych z interfejsem użytkownika musisz wykonać dodatkowe kroki.\n\nZainstaluj i ustaw [Developer Assistant](https://play.google.com/store/apps/details?id=com. ppsisle.developerassistant).\nNastępnie przejdź do Vanced i odtwórz błąd, a następnie otwórz podgląd Układu uruchamiając Developer Assistant.\n\nTeraz, wykonaj następujące kroki:\n1. Upewnij się, że błąd jest wyświetlany na ekranie.\n2. Dotknij elementu, który uważasz, że jest dotknięty błędem.\n3. Przejdź do zakładek `Element` i `Hierarchy` oraz zrób zrzut ekranu.\n4. Dołącz te zrzuty ekranu w swoim zgłoszeniu."
+        }
+      ]
+    }
+  ]
 }

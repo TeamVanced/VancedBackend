@@ -1,34 +1,22 @@
 {
-	"bugreport": [
-		{
-			"title": "How to report bugs",
-			"description": "You can report bugs using our [GitHub issue tracker](https://github.com/YTVanced/Vanced)\n\n**Make sure to read README and check if your bug is already reported before reporting bugs!**",
-			"fields": [
-				{
-					"title": "When will my bug be reviewed?",
-					"content": "Your feedback will be reviewed as soon as possible."
-				}
-			]
-		},
-		{
-			"title": "Reporting a regular bug",
-			"description": "Sometimes applying a modification can cause an unexpected bug.\nThat's where you help us with a logcat (a log of all processes on your system). This helps with identifying the issue. This requires a pc.",
-			"fields": [
-				{
-					"title": "How do I make a logcat?",
-					"content": "Please watch and follow this video guide: https://youtu.be/ICLpwgsJJP0."
-				}
-			]
-		},
-		{
-			"title": "Report a theme bug",
-			"description": "Here's how to report theme-based bugs.\nTo report bugs, you will need [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
-			"fields": [
-				{
-					"title": "Getting started",
-					"content": "After you have downloaded `Developer Assistant`, open Vanced and reproduce/find the bug, then open the layoutviewer by holding down your home button until the app launches.\nNow follow these steps:\n1. Make sure the bug you're experiencing is on the screen\n2. Tap on the element that you think is affected by the bug\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the output\n4. Use that screenshot for your bug report"
-				}
-			]
-		}
-	]
+  "bugreport": [
+    {
+      "title": "Hvordan rapporterer man fejl?",
+      "description": "Du kan rapportere fejl ved at oprette issues på vores [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nSørg for at gennemse eksisterende issues for at kontrollere, om dit problem allerede er rapporteret i forvejen, før du åbner dit issue!",
+      "fields": [
+        {
+          "title": "Hvornår vil mit problem blive gennemgået?",
+          "content": "Udviklere bruger deres tid til at skabe nye funktioner og løse mange problemer, og hver kan tage et stykke tid at afslutte op. \nDu skal være tålmodig og vente. Dit problem vil blive gennemgået hurtigst muligt."
+        },
+        {
+          "title": "Hvordan laver jeg en logcat?",
+          "content": "For ikke-root-brugere:\nDu skal bruge en pc til at lave et `logcat` output. Her er en [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) og en [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root brugere:\nDu behøver ikke en pc til dette. Du kan følge instruktionerne [here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Er din fejl relateret til brugerfladen?",
+          "content": "For UI-relaterede fejl, vil der være et par ekstra skridt.\n\nInstallér og opsæt [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nDerefter skal du gå til Vanced og genskabe fejlen, og derefter åbne Layout-fremviseren ved at udløse udviklerassistenten.\n\nFølg nu disse trin:\n1. Sørg for, at fejlen vises på skærmen.\n2. Tryk på det element, som du mener er påvirket af fejlen.\n3. Gå til fanerne `Element` og `Hierarchy` og tag et screenshot af outputtet.\n4. Inkluder disse screenshots i dit problem."
+        }
+      ]
+    }
+  ]
 }

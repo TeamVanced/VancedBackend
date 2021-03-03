@@ -1,34 +1,22 @@
 {
-	"bugreport": [
-		{
-			"title": "Hur man rapporterar buggar",
-			"description": "Du kan rapportera buggar med vår [GitHub issue tracker](https://github. om/YTVanced/Vanced)\n\n**Se till att läsa README och kontrollera om ditt fel redan är rapporterat innan du rapporterar fel!**",
-			"fields": [
-				{
-					"title": "När kommer min bugg att granskas?",
-					"content": "Din beställning skickas så snart som möjligt."
-				}
-			]
-		},
-		{
-			"title": "Rapportera en vanlig bugg",
-			"description": "Ibland kan en ändring orsaka en oväntad bugg.\nDet är där du hjälper oss med en logcat (en logg över alla processer på ditt system). Detta bidrar till att identifiera problemet, vilket kräver en Pc.",
-			"fields": [
-				{
-					"title": "Hur gör jag en logcat?",
-					"content": "Se och följ denna videoguiden: https://youtu.be/ICLpwgsJJP0."
-				}
-			]
-		},
-		{
-			"title": "Rapportera en temafel",
-			"description": "Så här rapporterar du temabaserade buggar.\nFör att rapportera buggar behöver du [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
-			"fields": [
-				{
-					"title": "Kom igång",
-					"content": "Efter att du har laddat ner `Developer Assistant`, öppna Vanced och reproducera/hitta felet, öppna sedan layoutviewern genom att hålla ner hemknappen tills appen startar.\nFölj nu dessa steg:\n1. Se till att felet du upplever finns på skärmen\n2. Tryck på det element som du tror påverkas av felet\n3. Gå till flikarna `Element` och `Hierarchy` och skärmdump utdata\n4. Använd den skärmdumpen för din felrapport"
-				}
-			]
-		}
-	]
+  "bugreport": [
+    {
+      "title": "Hur man rapporterar buggar",
+      "description": "Du kan rapportera buggar med vår [GitHub issue tracker](https://github. om/YTVanced/Vanced)\n\n**Se till att läsa README och kontrollera om ditt fel redan är rapporterat innan du rapporterar fel!**",
+      "fields": [
+        {
+          "title": "När kommer min bugg att granskas?",
+          "content": "Din beställning skickas så snart som möjligt."
+        },
+        {
+          "title": "Hur gör jag en logcat?",
+          "content": "För icke-rotanvändare:\nDu behöver en dator för att ta `logcat`-utgångar. Här är en [textguide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) och en [videoguide](https://youtu. e/ICLpwgsJJP0).\n\nFör rotanvändare:\nDu behöver ingen dator för detta. Du kan följa instruktionerna i [here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Ert fel är UI relaterat?",
+          "content": "För UI-relaterade buggar, kommer du att ha extra steg att ta.\n\nInstallera och installera [Developer Assistant](https://play.google.com/store/apps/details?id=com. ppsisle.developerassistant).\nEfter det, gå till Vanced och återskapa felet, öppna sedan Layout-tittaren genom att utlösa utvecklarassistenten.\n\nFölj nu dessa steg:\n1. Se till att felet visas på skärmen.\n2. Tryck på det element som du tror påverkas av felet.\n3. Gå till flikarna `Element` och `Hierarchy` och skärmdump utgångarna.\n4. Inkludera dessa skärmdumpar i ditt problem."
+        }
+      ]
+    }
+  ]
 }

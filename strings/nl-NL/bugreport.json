@@ -1,34 +1,22 @@
 {
-	"bugreport": [
-		{
-			"title": "Hoe fouten melden",
-			"description": "Je kan fouten melden met behulp van onze [GitHub issue tracker](https://github. om/YTVanced/Vanced)\n\n**Zorg ervoor dat je eerst README leest en controleer of je fout al eerder is gerapporteerd voordat je fouten meldt!**",
-			"fields": [
-				{
-					"title": "Wanneer wordt mijn fout bekeken?",
-					"content": "Jouw feedback zal zo snel mogelijk worden beoordeeld."
-				}
-			]
-		},
-		{
-			"title": "Een gewone fout melden",
-			"description": "Soms kan het toepassen van een wijziging een onverwachte bug veroorzaken.\nHier kan je ons helpen met een logcat (een log van alle processen op je systeem). Dit helpt bij het identificeren van het probleem. Dit vereist een pc.",
-			"fields": [
-				{
-					"title": "Hoe maak ik een logcat?",
-					"content": "Bekijk en volg deze videogids: https://youtu.be/ICLpwgsJJP0."
-				}
-			]
-		},
-		{
-			"title": "Een thema fout melden",
-			"description": "Zo kan je op thema gebaseerde fouten melden.\nOm bugs te melden heb je [Developer Assistant] nodig(https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
-			"fields": [
-				{
-					"title": "Aan de slag",
-					"content": "Nadat je `Developer Assistant` hebt gedownload, open Vanced en reproduceer/zoek de fout, Open vervolgens de lay-out viewer door je startknop ingedrukt te houden tot de app start.\nVolg nu deze stappen:\n1. Zorg ervoor dat de fout die je ervaart op het scherm te zien is\n2 Klik op het element waarvan je denkt dat het beïnvloed wordt door de fout\n3. Ga naar de `Element` en `Hierarchy` tabbladen en maak een schermafbeelding van de output\n4. Gebruik die schermafbeelding voor jouw fout rapport"
-				}
-			]
-		}
-	]
+  "bugreport": [
+    {
+      "title": "Hoe problemen melden?",
+      "description": "Je kan problemen melden met behulp van onze [GitHub issue tracker](https://github. om/YTVanced/Vanced)\n\n**Zorg ervoor dat je eerst README leest en controleer of je fout al eerder is gerapporteerd voordat je fouten meldt!**",
+      "fields": [
+        {
+          "title": "Wanneer wordt mijn probleem bekeken?",
+          "content": "Ontwikkelaars sparen hun tijd voor het maken van nieuwe functies en het oplossen van veel problemen en elk probleem kan een tijdje duren om het op te lossen. \nJe hoeft alleen maar even te wachten. Jouw probleem zal zo snel mogelijk bekeken worden."
+        },
+        {
+          "title": "Hoe maak ik een logcat?",
+          "content": "Voor non-root gebruikers:\nJe hebt een PC nodig om logcat te nemen. Hier is een [gids](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nVoor root gebruikers:\nJe hebt hiervoor geen PC nodig. Je vindt de instructies [hier](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Je probleem is UI gerelateerd?",
+          "content": "Voor UI gerelateerde problemen, moet je extra stappen nemen.\n\nInstalleer en configureer [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nDaarna ga je naar Vanced en reproduceer je het probleem, en open je de Layout viewer door de Developer Assistant te activeren.\n\nVolg nu deze stappen:\n1. Zorg ervoor dat de fout op het scherm verschijnt.\n2. Klik op het element waarvan je denkt dat het beïnvloed wordt door de fout.\n3. Ga naar de `Element` en `Hierarchy` tabbladen en maak een schermafbeelding van de outputs.\n4. Voeg deze screenshots toe aan je probleem."
+        }
+      ]
+    }
+  ]
 }

@@ -1,32 +1,32 @@
 {
-    "features": [
-        {
-            "title": "Vanced",
-            "description": "YouTube Vanced aims to be a better version of Youtube. If includes adblocking, amoled dark mode and a lot more. Use Vanced Manager to install YouTube Vanced with relative ease."
-        },
-        {
-            "title": "Vanced Music",
-            "description": "Vanced Music has the same aim as YouTube Vanced, but this app focuses on YouTube Music. This is relatively less feature-rich compared to Vanced but still features many things you come to expect like adblocking and background playback, all inside Youtube Music!"
-        },
-        {
-            "title": "YouTube Vanced main features",
-            "description": "An amoled black theme.\n- Blocks all video ads and allows you to play videos in the background or in Picture in Picture mode (only on android 8.0 and up)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/miniplayer layouts can be toggled to the tablet versions which are very similar to the old version (albeit slightly buggy)."
-        },
-        {
-            "title": "Customization",
-            "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our discord or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the covid info), remove comments entirely, compact movie, movie shelf removal and many more!"
-        },
-        {
-            "title": "Sponsor Block",
-            "description": "- Features the ability to skip sponsor segments (where a youtuber advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API found here. You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
-        },
-        {
-            "title": "Platforms",
-            "description": "The app currently only exists in android, there are no plans to support any other platforms at the moment"
-        },
-        {
-            "title": "Difference between Root and Non-Root",
-            "description": "- Root: \nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google assistant through the modded vanced app.\n- Non-Root:\n- If you have a device that is difficult to root or you don’t want to root your daily driver on the first hand, you should opt for the non-root variant. \n- It can be installed on a rooted device as well. Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account. \n- Moreover, you have to manually set Vanced as the default app for opening YouTube links. \n- However, the non-root variant is simply easier to live with, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
-        }
-    ]
+  "features": [
+    {
+      "title": "Vanced",
+      "description": "YouTube Vanced bertujuan untuk menjadi versi yang lebih baik dari YouTube. Terdapat pemblokiran iklan, tema gelap, dan masih banyak lagi. Gunakan Vanced Manager untuk masang YouTube Vanced yang relatif mudah."
+    },
+    {
+      "title": "Vanced Musik",
+      "description": "Vanced Musik memiliki tujuan yang sama dengan YouTube Vanced, tetapi aplikasi ini lebih fokus terhadap YouTube Musik. YouTube Musik memilik relatif lebih sedikit fitur dibandingkan Vanced tetapi masih memiliki banyak fitur yang anda harapkan seperti pemblokiran iklan dan pemutaran latar belakang, semua didalam Vanced Musik!"
+    },
+    {
+      "title": "Fitur utama YouTube Vanced",
+      "description": "- Tema hitam OLED friendly\n- Memblokir semua iklan\n- Membolehkan anda untuk memutar video di latar belakang atau mode Picture in Picture (PiP) (hanya tersedia pada Android 8+)\n- Kontrol geser membolehkan anda untuk mengatur kecerahan dan volume dengan up-and-down gestures (dengan padding yang bisa diatur)\n- Fitur auto-repeat membolehkan anda untuk memutar video berulang-ulang.\n- Tampilan komentar/pemutar kecil tablet dapat diatur menjadi versi tablet yang dimana sangat serupa dengan versi lama (meskipun memiliki sedikit bug)."
+    },
+    {
+      "title": "Kostumisasi",
+      "description": "- Membolehkan anda untuk menimpa pengaturan Kodek seperti memaksa H264 untuk perangkat lama atau VP9, hal ini juga membolehkan anda untuk memaksa pemutaran HDR atau meonaktifkan 60fps apabila anda lebih memilih menikmati rasa cinematic.\n(Pengaturan kustom perangkat untuk fitur tersebut dapat ditemukan pada discord kami atau XDA)\n- Memaksa resolusi perangkat default setinggi atau serendah yang anda mau dan bahkan memaksa resolusi perangkat anda untuk pemutaran tajam 4k pada semua perangkat. Juga membolehkan anda untuk mengganti kecepatan pemutaran default ke apapun diantara 0.25x sampai 2x (mengasumsi bahwa perangkat anda cukup kuat)\n- Membolehkan anda untuk mengaktifkan iklan home, beberapa iklan UI, iklan merchandise, postingan komunitas, penjualan film, info banner padu (seperti info COVID-19), menghapus komentar sepenuhnya, film padu, penghapusan rak film dan banyak lagi!"
+    },
+    {
+      "title": "Sponsor Block",
+      "description": "- Menyediakan abilitas untuk melewati segmen sponsor (dimana youtuber mengiklankan sebuah pelayanan atau produk di tengah tengah video)\n- Juga menyediakan pelewatan kategori lain, seperti intro, outro dan promosi diri sendiri.\n- Menggunakan API yang bisa ditemukan disini. Anda bisa mencari tahu bagaimana cara hal ini bekerja.\n- Kontrol penuh pada apakah akan otomotis melewati kategori segmen atau menampilkan tombol untuk melewati, atau tidak melewati sama sekali.\n- Menyoroti segmen di warna yang berbeda berdasarkan kategori di timeline pemutaran."
+    },
+    {
+      "title": "Platform",
+      "description": "Aplikasi ini sampai sekarang hanya tersedia di Android, tidak ada rencana untuk mendukung platform lain sampai saat ini"
+    },
+    {
+      "title": "Perbedaan antara Root dan Non-Root",
+      "description": "- Root: \nVarian root Vanced secara mulus menggantikan aplikasi YouTube resmi. Sebagai hasil, anda dapat secara langsung membuka tautan YouTube atau memanggil menggunakan asisten Google melewati aplikasi Vanced yang dimodifikasi.\n- Non-Root:\n- Apabila anda memiliki perangkat yang sulit untuk di root atau anda tidak ingin root daily driver anda, anda sebaiknya memilih varian non-root.\n- Dapat diunduh pada perangkat root juga. Dikarenakan nama paket varian non-root berbeda dari aplikasi bawaan, mereka bisa terpasang bersama. Catat bahwa anda harus memasang aplikasi tambahan (Vanced microG) untuk dapat login dengan akun YouTube/Google anda.\n- Selain itu, anda harus secara manual mengatur Vanced sebagai aplikasi default untuk membuka tautan YouTube.\n- Namun, varian non-root lebih mudah untuk digunakan, maka kami merekomendasikan anda untuk tetap berada pada varian non-root kecuali anda ingin sekali menggantikan aplikasi YouTube bawaan pada perangkat seluler anda."
+    }
+  ]
 }

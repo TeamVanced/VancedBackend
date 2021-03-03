@@ -1,34 +1,22 @@
 {
-	"bugreport": [
-		{
-			"title": "如何报告错误",
-			"description": "您可以使用我们的 [Github issue tracker](https://github.com/YTVanced/Vanced) 报告错误\n\n**请务必阅读 README 并检查您的错误是否已经被报告过！**",
-			"fields": [
-				{
-					"title": "什么时候会审核我提交的错误？",
-					"content": "我们将尽快审核您的反馈"
-				}
-			]
-		},
-		{
-			"title": "报告常规错误",
-			"description": "有时候应用修改可能会导致意外的错误。\n这时，您可以用 logcat（您系统上所有进程的日志）帮助我们。 这有助于确定问题，但需要一台 PC。",
-			"fields": [
-				{
-					"title": "如何进行 logcat？",
-					"content": "请观看并遵循此视频指南：https://youtu.be/ICLpwgsJJP0。"
-				}
-			]
-		},
-		{
-			"title": "报告主题错误",
-			"description": "以下是报告主题错误的方法。\n要报告错误，您需要 [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)",
-			"fields": [
-				{
-					"title": "开始使用",
-					"content": "下载 `Developer Assistant` 后，打开 Vanced 然后复现或找到错误。然后长按主页按钮以打开布局查看器，直到应用启动。\n接下来，按下列步骤操作：\n1. 确保您遇到的错误显示在屏幕上\n2. 点击您认为受错误影响的元素\n3. 前往 `Element` 和 `Hierarchy` 页面，并将结果截图\n4. 使用此截图进行错误报告"
-				}
-			]
-		}
-	]
+  "bugreport": [
+    {
+      "title": "如何报告错误？",
+      "description": "您可以使用我们的 [Github issue tracker](https://github.com/YTVanced/Vanced) 报告错误\n\n**请务必阅读 README 并检查您的错误是否已经被报告过！**",
+      "fields": [
+        {
+          "title": "什么时候会审核我提交的错误？",
+          "content": "我们将尽快审核您的反馈"
+        },
+        {
+          "title": "如何进行 logcat？",
+          "content": "对于非 Root 用户：\n您需要一台电脑来进行 `logcat` 输出。这是一个 [文本指南](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc)和[视频指南](https://youtu.be/ICLpwgsJJP0)。\n\n对于 Root 用户：\n您不需要电脑。您可以参考[这里](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)的教程。"
+        },
+        {
+          "title": "您的错误与用户界面相关吗？",
+          "content": "对于用户界面相关错误，您需要进行额外步骤。\n\n请下载并安装 [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)。\n然后，前往 Vanced 并复现错误，然后通过 Developer Assistant 打开 Layout Viewer。\n\n现在请按下列步骤操作：\n1. 请确保错误显示在屏幕上\n2. 点击您认为受错误影响的元素\n3. 前往 `Element` 和 `Hierarchy` 页面并将结果截图\n4. 在反馈中附带此截图"
+        }
+      ]
+    }
+  ]
 }
