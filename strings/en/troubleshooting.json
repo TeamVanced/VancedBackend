@@ -11,7 +11,8 @@
 					"content": "Please follow this video guide: https://youtu.be/S5sTXRTrD5Y. Try clearing microG's app data too."
 				},
 				{
-					"title": "If you are facing issues relating to login saying, \"You're offline, explore downloads\"",
+					"title": "If you are facing issues relating to login saying, \"You're offline, explore downloads\" like in the screenshot below",
+					"image": "https://telegra.ph/file/f8bb1d7c6f8a634f8d552.jpg",
 					"content": "1. Clear DATA of both Vanced microG and Google Play services\n2. UNINSTALL both \"Vanced microG\" and Vanced.\n\n3. Reboot if you want.\n\n4. Reinstall both APKs[microG and Vanced) but make sure you install microG before you install Vanced. Install via Vanced Manager or sai using files provided in #installation note in group\n\n5. Now login.\n\nNOTE: If you're still having issues with Vanced giving connection errors (even after installing microG first), receiving notifications, etc, make sure you disable battery optimization for the Vanced and microG app. \n\nInstructions to do so vary on your device manufacturer. You can follow guides like https://dontkillmyapp.com or search it up."
 				},
 				{
@@ -41,20 +42,30 @@
 			"fields": [
 				{
 					"title": "For Vanced manager stuck on logo/crash issue",
-					"content": "Clear app data of manager > Turn internet off > Open manager app > Turn internet on."
+					"content": "There are 2 solutions available. \n\n 1. Clear app data of manager > Turn internet off > Open manager app > Turn the internet on. \n\n2 2. For users with RTL languages set on the device, please change to the English language. You can revert to your native language after you have done installing Vanced applications."
 				},
 				{
 					"title": "INSTALL_FAILED_INVALID_APK: No packages staged",
-					"content": "Install the stock yt from play store then update vanced over it using vanced manager."
+					"content": "Install the stock YouTube app from the play store then update vanced over it using vanced manager. Make sure you have the latest release of vanced manager from our [official website](https://vancedapp.com) and 21.4+ of magisk"
 				},
 				{
-					"title": "If latest vanced manager gets stuck at \"Please be patient\" screen, do this",
-					"content": "Install the stock yt from play store then update vanced over it using vanced manager."
+					"title": "If latest vanced manager gets stuck at \"Please be patient\" screen like this, do this",
+					"image": "https://telegra.ph/file/a18d86ae845d151b1814c.jpg",
+					"content": "Install the stock YouTube app from the play store then update vanced over it using vanced manager. Make sure you have the latest release of vanced manager from our [official website](https://vancedapp.com) and v21.4+ of magisk."
 				},
 				{
-					"title": "If you face \"Error downloading microG/Vanced\" or installation got stuck while installing microG/vanced app",
+					"title": "If you face \"Error downloading microG/Vanced\" or installation got stuck while installing microG/vanced app like in the screenshot below ",
+					"image": "https://telegra.ph/file/0a8eb7c307fdab9e5e7a8.jpg",
 					"content": "Clear manager app data then continue installing and DON'T SWITCH TO OTHER APPS UNTIL IT COMPLETES THE PROCESS."
-				}
+				},
+				{
+					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
+					"content": "• Head to manager settings and clear downloaded files\\n\\n• Then clear manager app data then continue installing vanced."
+				},
+				{
+	                                "title": "If Vanced Manager starts to glitch while installing YT Vanced/Music (sort of visualizer), do this to fix the issue",
+	                                "content": "Clear app data of Vanced manager then try again." 
+                                }
 			]
 		},
 		{
@@ -69,25 +80,25 @@
 					"content": "1) Use root explorer and navigate to root storage. \n\n2) Then find this folder when you are installing YT Vanced  \"data/app/com.vanced.android.youtube-....\" or when you are installing YT Music \"com.vanced.android.apps.youtube.music-....\"  \n\n3) If you found such folders, just delete them then continue installing YT Vanced or YT music via Vanced Manager." 
 				},
 				{
-					"title": "If both of the above methods fail",
-					"content": "Apparently, doing a factory reset can fix this error. Do this at last resort."
+					"title": "This solution is for YouTube Music Vanced only, not for YouTube Vanced",
+					"content": "Try manually updating YouTube Music Vanced through the APK file using [this link](https://del.dog/YTMusicVancedmirror)." 
 				},
 				{
-					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
-					"content": "• Head to manager settings and clear downloaded files\\n\\n• Then clear manager app data then continue installing vanced."
+					"title": "If both of the above methods fail",
+					"content": "Apparently, doing a factory reset can fix this error. Do this at last resort."
 				}
 			]
 		},
 		{
 			"title": "Notification fix",
-			"description": "For notification fix, a white background or Vanced not appearing under \"Google Cloud Messaging\", see below",
+			"description": "For notification fix or Vanced not appearing under \"Google Cloud Messaging\", see below",
 			"fields": [{
 					"title": "For Non-Root",
 					"content": "1. Install Vanced microG first then YouTube Vanced.\n\n2. Login with your Google account\n\n3. \na) Disable battery optimization for microG(the guide dontkillmyapp.com is suggested).\n\nb)**Open \"Vanced microG\" additional settings then continue on with this guide:\n\ni) https://youtu.be/Q-5YFmFWVok"
 				},
 				{
 					"title": "If Vanced is not showing up under GCM or it shows up as unregistered",
-					"content": "Try EITHER of the following:\n\n1. Remove your google account from account settings. The account used by vanced has old Blue background color with small g logo.\n\n2. Clear data of microG then login. \n\nOR\n\nIf above workaround doesn't work, reinstall vanced."
+					"content": "Try EITHER of the following:\n\n1. Remove your google account from account settings. The account used by vanced has old Blue background color with small g logo.\n\n2. Clear data of microG then login. \n\nOR\n\nIf above workaround doesn't work, reinstall YouTube Vanced."
 				},
 				{
 					"title": "For Root",
@@ -100,15 +111,15 @@
 			"description": "If Vanced app is crashing/force closing on startup",
 			"fields": [{
 					"title": "Nonroot",
-					"content": "1) If the non-root Vanced app is force closing before installing MicroG, uninstall both Vanced app and MicroG. Then install MicroG first, then Vanced. The issue should be fixed.\n\n2) If the non-root Vanced app is force closing without installing microG, install microG. [If you don't want to login, don't login and only install microG apk as vanced has a dependency on microG for connecting with Google services]"
+					"content": "1) If the YouTube Vanced app is force closing before installing Vanced microG, uninstall both YouTube Vanced app and Vanced microG. Then install vanced microG first, then YouTube Vanced. The issue should be fixed.\n\n2) If the non-root Vanced app is force closing without installing Vanced microG, install Vanced microG. [If you don't want to login, don't login and only install Vanced microG as YouTube vanced has a dependency on microG for connecting with Google services]"
 				},
 				{
 					"title": "Root",
-					"content": "1) If your root version of Vanced is force closing upon opening the app, uninstall stock YouTube app updates. If this doesn't help, disable/uninstall your substratum/swift themes overlays.\nAt last resort, if nothing helps, give the community/staff a logcat.\n\n2) If your root version of Vanced is force closing in middle of app when it's in foreground/active or playing a video, grab your logcats and find:\n\n(a)- Unsatisfiedlinkerror: \nSol:- Open file manager and go to root storage.\nThen open \"system/app/youtube/lib\" OR \"Data/app/com.google.android.youtube/lib\" and rename \n\narm64-v8a to arm64\n\narmeabi-v7a to arm\n\nand it will get fixed.\n\nAlso, if both \"arm and arm64\" are not there in that directory above, try getting both from official YT apk or ask your friends and extract it there in that directory\n\n(b)- Notehitelisted \"com.google.android.youtube\":\nSol:- Check whitelisting from here(todo)\n\nIf you don't know how to get logs, check bugreport note"
+					"content": "1) If your root version of Vanced is force closing upon opening the app, uninstall stock YouTube app updates. If this doesn't help, disable/uninstall your substratum/swift themes overlays.\nAt last resort, if nothing helps, give the community/staff a logcat.\n\n2) If your root version of Vanced is force closing in middle of app when it's in foreground/active or playing a video, grab your logcats and find:\n\n(a)- Unsatisfiedlinkerror: \nSol:- Open file manager and go to root storage.\nThen open \"system/app/youtube/lib\" OR \"Data/app/com.google.android.youtube/lib\" and rename \n\narm64-v8a to arm64\n\narmeabi-v7a to arm\n\nand it will get fixed.\n\nAlso, if both \"arm and arm64\" are not there in that directory above, try getting both from official YT apk or ask your friends and extract it there in that directory\n\n(b)- Notehitelisted \"com.google.android.youtube\":\nSol:- Check whitelisting from [here](https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error)\n\nIf you don't know how to get logs, check bugreport template"
 				},
 				{
 					"title": "If Vanced crashes in the middle of playback (when playing in background mode)",
-					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide #bugreport on telegram or in discord with the details it requires and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
+					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide us with a bugreport on telegram group or discord server with all the necessary details and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
 				}
 			]
 		},
@@ -121,7 +132,7 @@
 				},
 				{
 					"title": "Solution 2",
-					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nStep 1: Go to manager settings > Root Script Sleep Time (you should be on root mode for this option to appear) and set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
+					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nGo to Vanced manager settings and fine Root Script Sleep Time (you should be on root mode for this option to appear). Then set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
 				}
 			]
 		},
@@ -136,11 +147,11 @@
 		{
 			"title": "APP loading issues",
 			"fields": [{
-					"title": "If Vanced got stuck on splash screen",
+					"title": "If Vanced got stuck on splash screen, do this",
 					"content": "1. Switch Airplane mode on.\n2. Open Youtube Vanced.\n\n3. Tap on close in changelog popup.\n4. Turn off Airplane mode.\n5. Reopen vanced.\n\nThanks to rocco6victorFrom XDA"
 				},
 				{
-					"title": "If Vanced keeps on loading infinitely",
+					"title": "If Vanced keeps on loading infinitely, do this",
 					"content": "1. Disable battery optimization for both YouTube Vanced and microG app using dontkillmyapp.com then reboot your device.\n2. It should get fixed now."
 				}
 			]
