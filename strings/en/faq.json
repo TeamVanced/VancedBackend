@@ -42,15 +42,18 @@
       "fields": [
         {
           "title": "OneUI users:",
-          "content": "https://telegra.ph/file/2322c0fbbf013f8ad9fa0.jpg As the above image says, \n2You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+          "image": "https://telegra.ph/file/2322c0fbbf013f8ad9fa0.jpg",
+          "content": "As the above image says, \n2You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
         },
         {
           "title": "MIUI users:",
-          "content": "https://telegra.ph/file/9fefab766ad21361249ca.jpg As the above picture says, Open \"default app\" settings and select opening links. There you have to select YouTube and deny opening links and in Youtube Vanced, accept all supported links and it'll start to work."
+          "image": "https://telegra.ph/file/9fefab766ad21361249ca.jpg",
+          "content": "As the above picture says, Open \"default app\" settings and select opening links. There you have to select YouTube and deny opening links and in Youtube Vanced, accept all supported links and it'll start to work."
         },
         {
           "title": "AOSP & other custom skin users(includes OOS, ColorOS, EMUI, etc.):",
-          "content": "https://telegra.ph/file/bc1a4f86aeaa45dc91f8e.jpg As in the above picture, \n2• Choose \"ask every time\" for both the Stock YouTube app and vanced. \n3• Open Google Chrome. \n4• Search for some YouTube videos on Google. \n5• Open links with YouTube vanced app and set as always. \n6• Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+          "image": "https://telegra.ph/file/bc1a4f86aeaa45dc91f8e.jpg",
+          "content": "As in the above picture, \n2• Choose \"ask every time\" for both the Stock YouTube app and vanced. \n3• Open Google Chrome. \n4• Search for some YouTube videos on Google. \n5• Open links with YouTube vanced app and set as always. \n6• Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
         }
       ]
     },
