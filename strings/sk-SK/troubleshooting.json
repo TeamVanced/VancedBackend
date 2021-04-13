@@ -17,7 +17,7 @@
 					"content": "1. Vymažte ÚDAJE aplikácií Vanced microG a Google Play Services\n2. ODINŠTALUJTE „Vanced microG“ aj Vanced.\n\n3. Ak chcete, reštartujte zariadenie.\n\n4. Preinštalujte oba súbory APK (microG a Vanced) s tým, že najskôr nainštalujete microG. Aplikácie inštalujte pomocou Vanced Manager alebo sai, zo súborov poskytnutých v poznámke #inštalácia\n\n5. Teraz sa prihláste.\n\nPOZNÁMKA: Ak stále máte problémy s tým, že Vanced hlási chyby v pripojení (dokonca aj po nainštalovaní aplikácie microG ako prvej), prijímaní upozornení atď., nezabudnite deaktivovať optimalizáciu batérie pre aplikácie Vanced a microG.\n\nPokyny sa líšia podľa výrobcu zariadenia. Môžete postupovať podľa pokynov ako https://dontkillmyapp.com alebo ich vyhľadať."
 				},
 				{
-					"title": "Ak sa Vanced odhlasuje z vášho účtu Google",
+					"title": "Ak sa Vanced odhlasuje z vášho Google účtu",
 					"content": "Stáva sa to kvôli veľkej optimalizácie batérie operačným systémom vášho zariadenia. To spôsobuje vynútené zavretie služieb/aktivít microG, ktoré sú zodpovedné za prihlásenie.\n\nNa vyriešenie tohto problému deaktivujte optimalizáciu batérie pre microG pomocou https://dontkillmyapp.com ALEBO riešenie vyhľadajte"
 				},
 				{
@@ -65,7 +65,7 @@
 			"fields": [
 				{
 					"title": "Ak nemáte Root, použite ADB",
-					"content": "1). Nainštalujte Android Debug Bridge; Sprievodca - https://www.xda-developers.com/install-adb-windows-macos-linux/amp/. \n\n2) Odomknite telefón. \n\n3) Povoľte režim vývojára (10-krát ťuknite na Číslo zostavy v Nastaveniach - Informácie o telefóne - Informácie o softvéri). \n\n4) Povoľte ladenie zariadenia cez USB v časti Nastavenia - Možnosti pre vývojárov. \n\n5) Pripojte telefón k počítaču. \n\n6) Otvorte príkazový riadok (CMD), zmeňte adresár: „cd C:/Windows/adb/“ a stlačte kláves Enter.\n\n7) Keď je už váš telefón pripojený a CMD otvorený, v CMD spustite príkaz „adb devices“. Vo vašom telefóne sa zobrazí výzva niečo ako „Chcete pripojiť svoj telefón k počítaču?“ Stlačte Áno. \n\n8) Spustite cmd príkaz „adb uninstall com.vanced.android.youtube“. \n\n9) Potom môžete nainštalovať Vanced Manager a nainštalovať najnovšiu verziu YouTube Vanced"
+					"content": "1). Nainštalujte Android Debug Bridge; Sprievodca - https://www.xda-developers.com/install-adb-windows-macos-linux/amp/. \n\n2) Odomknite telefón. \n\n3) Povoľte režim vývojára (10 krát ťuknite na Číslo zostavy v Nastaveniach - Informácie o telefóne - Informácie o softvéri). \n\n4) Povoľte ladenie zariadenia cez USB v časti Nastavenia - Možnosti pre vývojárov. \n\n5) Pripojte telefón k počítaču. \n\n6) Otvorte príkazový riadok (CMD), zmeňte adresár: „cd C:/Windows/adb/“ a stlačte kláves Enter.\n\n7) Keď je už váš telefón pripojený a CMD otvorený, v CMD spustite príkaz „adb devices“. Vo vašom telefóne sa zobrazí výzva niečo ako „Chcete pripojiť svoj telefón k počítaču?“ Stlačte Áno. \n\n8) Spustite cmd príkaz „adb uninstall com.vanced.android.youtube“. \n\n9) Následne môžete nainštalovať Vanced Manager a taktiež aj najnovšiu verziu YouTube Vanced"
 				},
 				{
 					"title": "Ak máte Root,",
@@ -127,7 +127,7 @@
 				},
 				{
 					"title": "Riešenie 2",
-					"content": "POŽIADAVKY:\n\nVanced Manager 2.1.0 alebo novší\nSprávca root ako Es File Explorer alebo Root Browser\nKrok 1: Choďte do /data/adb/service.d/ a upravte skript Music.sh a/alebo Vanced.sh\n\nOba by mali vyzerať podobne tomuto:\n\nwhile  [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\nKrok 2: Zmeňte hodnotu „do sleep 1; done“ na „do sleep 2; done“\n\nKrok 3: Reštartujte zariadenie\n\nAk to nefunguje, skúste zvýšiť hodnotu pre „sleep\" medzi „do & done\"\n\n——————————————————\n\nAk to nefunguje, možno bude vaše zariadenie potrebovať viac času, kým nasadí root verziu youtube/music apk.\nStačí upraviť vanced.sh a/alebo music.sh, \nvložte nový riadok s príkazom „sleep\" medzi riadky „while“ a „mount“, ako napríklad:\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
+					"content": "POŽIADAVKY:\n\nVanced Manager 2.2.0 alebo novší\nKrok 1: Prejdite do nastavení manažéra > Čas spánku Root skriptu (aby sa táto možnosť zobrazila, mali by ste byť v režime root), kde nastavte hodnotu na 2 > stlačte uložiť, reštartujte zariadenie a skontrolujte, či Vanced/Music aplikácie stále miznú. Ak áno, skúste upraviť hodnotu, kým nebude po reštarte všetko v poriadku"
 				}
 			]
 		},
@@ -262,12 +262,12 @@
 			"description": "Ak máte pri anglickom videu problémy s titulkami, ako sú náhodné titulky v rôznych jazykoch, musíte postupovať takto:\nV nastaveniach titulkov nastavte ich jazyk na svoj regionálny jazyk.\n\nAk chcete získať prístup k nastaveniam titulkov, prejdite na nastavenia zariadenia > Zjednodušenie ovládania > Titulky\n\nAlebo\n\nNastavenia YouTube > Titulky"
 		},
 		{
-			"title": "Riešenie pre HDR",
+			"title": "Riešenie pre HDR jas",
 			"description": "Pomocou gesta potiahnutia prstom nastavte jas na maximum"
 		},
 		{
 			"title": "Zlyhanie nastavení",
-			"description": "Deaktivujte zabezpečenie odtlačkom prsta, prejdite do nastavení a vykonajte nastavenie. Po dokončení ho znova aktivujte. Po tomto kroku sa už daná chyba nebude vyskytovať, pokiaľ nereštartujete zariadenie."
+			"description": "Deaktivujte zabezpečenie odtlačkom prsta, prejdite do nastavení a vykonajte nastavenie. Po dokončení ho znova aktivujte. Po tomto kroku sa už daná chyba nebude vyskytovať, dokým nereštartujete zariadenie."
 		}
 	]
 }
