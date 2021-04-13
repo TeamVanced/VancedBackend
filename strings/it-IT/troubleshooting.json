@@ -76,8 +76,8 @@
 					"content": "Assicurati che \"Scheduled Digest\" sia disattivato nelle impostazioni di YouTube e che i suoni delle notifiche siano corretti e impostati.\n\nPuoi provare ad utilizzare l'app \"Gestione notifiche\" che tiene traccia di tutte le notifiche in un unico posto, quindi nel caso in cui tu stia ignorando le notifiche, potrai ugualmente accedere da quell'app."
 				},
 				{
-					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
-					"content": "• Head to manager settings and clear downloaded files\\n\\n• Then clear manager app data then continue installing vanced."
+					"title": "Se riscontri errori come \"Operazione non riuscita perché i file apk sono invalidi/danneggiati\"",
+					"content": "• Vai nelle impostazioni di Vanced Manager e cancella i file scaricati\\n\\n • Quindi cancella i dati dell'app Vanced Manager e continua l'installazione di Vanced."
 				}
 			]
 		},
@@ -112,7 +112,7 @@
 					"content": "REQUISITI:\n\nVanced Manager 2.1.0 o superiore\nUn root manager come Es File Explorer o Root Browser\nPassaggio 1: Dirigiti su /data/adb/service.d/ e modifica lo script Music.sh e/o Vanced.sh\n\nEntrambi dovrebbero contenere qualcosa di simile a questo:\n\nwhile  [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\nPassaggio 2: Modifica il valore \"do sleep 1; done\"   in   \"do sleep 2; done\"\n\nPassaggio 3: Riavvia o Riaccendi il dispositivo\n\nSe ciò non dovesse funzionare, prova ad aggiungere un periodo di pausa maggiore tra do e done\n\n——————————————————\n\nSe ciò non dovesse nuovamente funziona, forse il tuo dispositivo ha bisogno di più tempo prima di eseguire il montaggio dell'apk root di vanced youtube/music.\nTi basterà dunque modificare vanced.sh e/o music.sh,\ninserendo una nuova linea di sospensione tra la linea 'while' e 'mount' come:\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
 				},
 				{
-					"title": "If Vanced crashes in the middle of playback (when playing in background mode)",
+					"title": "Se Vanced si arresta in modo anomalo durante la riproduzione (durante la riproduzione in background)",
 					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide #bugreport on telegram or in discord with the details it requires and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
 				}
 			]
@@ -122,11 +122,11 @@
 			"description": "Se dovessi visualizzare degli annunci su YouTube Vanced o Vanced Music, leggi questo messaggio da parte di xfileFIN:\n\n> Devo poterlo visualizzare personalmente per poterlo rintracciare. Poiché nascondere semplicemente il layout non funzionerà.\nNon sono sicuro di come decidano a quali utenti mostrarli, avviene tutto lato server.\nQuello che so è che non posso nascondere il layout perché lo stesso layout viene utilizzato anche per i video reali. Il codice decide solo se mostrare o meno il badge dell'annuncio.\nBeh, potrei facilmente nascondere il badge dell'annuncio ma mostrerebbe comunque il video dell'annuncio effettivo, senza etichettarlo come annuncio.\nDevo ottenere io stesso l'annuncio per rintracciarlo nel codice poiché l'offuscamento lo rende difficile.\n\nLa schermata iniziale e gli annunci della rete di ricerca (aggiunti da Google) sono basati sulla regione e non verranno mostrati se non ti trovi nella regione in cui risulta attivo. Tali annunci non vengono aggiunti in alcun modo dal team vanced, quindi se credi che la colpa sia da attribuire a noi, sappi che potremmo già aver riso di te.: D\n\nGli sviluppatori sanno già che stai ricevendo annunci nella tua regione. Attendi pazientemente gli aggiornamenti finché tutti gli annunci non verranno bloccati. Fino ad allora, goditi vanced e non segnalare il medesimo problema sulla chat.\n\nLa soluzione temporanea per risolvere questo problema sarebbe cancellare i dati e la cache dell'app o attendere aggiornamenti futuri.",
 			"fields": [
 				{
-					"title": "Solution 1",
-					"content": "Stick to the non-root version until the developers fix this."
+					"title": "Soluzione 1",
+					"content": "Usare la versione non-root fino a quando gli sviluppatori non risolveranno il problema."
 				},
 				{
-					"title": "Solution 2",
+					"title": "Soluzione 2",
 					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nStep 1: Go to manager settings > Root Script Sleep Time (you should be on root mode for this option to appear) and set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
 				}
 			]
