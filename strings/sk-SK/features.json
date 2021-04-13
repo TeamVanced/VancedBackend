@@ -2,31 +2,31 @@
   "features": [
     {
       "title": "Vanced",
-      "description": "Cieľom YouTube Vanced je byť lepšou verziou YouTube. Zahŕňa blokovanie reklám, čiernu tému a oveľa viac. Na relatívnu ľahkú inštaláciu YouTube Vanced použite Vanced Manager."
+      "description": "YouTube Vanced aims to be a better version of YouTube. It includes adblocking, the black theme, and a lot more. Use Vanced Manager to install YouTube Vanced with relative ease."
     },
     {
       "title": "YouTube Music Vanced",
-      "description": "YouTube Music Vanced má rovnaký cieľ ako YouTube Vanced, ale sa zameriava na YouTube Music. V porovnaní s Vanced obsahuje relatívne menej funkcií, ale stále zahŕňa veľa tých, ktoré očakávate. Sú nimi napríklad blokovanie reklám a prehrávanie na pozadí, dostupné vo vnútri aplikácie YouTube Music Vanced!"
+      "description": "YouTube Music Vanced has the same aim as YouTube Vanced, but this app focuses on YouTube Music. This is relatively less feature-rich compared to Vanced but still features many things you come to expect like adblocking and background playback, all inside YouTube Music Vanced!"
     },
     {
-      "title": "Hlavné funkcie YouTube Vanced",
-      "description": "- OLED priateľská pravá čierna téma a tmavá téma (aka tmavošedá), okrem klasickej bielej témy\n- Blokovanie všetkých reklám\n- Možnosť prehrávať videá na pozadí alebo v režime Obraz v obraze (PiP) (iba v Androide 8+)\n- Ovládacie prvky potiahnutia umožňujú ovládať jas a hlasitosť gestami hore a dole (s konfigurovateľným odsadením)\n- Funkcia automatického opakovania, ktorá umožňuje opakovať videá\n- Nové rozloženie komentárov/miniprehrávača je možné prepínať do verzií tabletu, ktoré sú veľmi podobné starej verzii (je to však trochu chybové)"
+      "title": "YouTube Vanced main features",
+      "description": "- OLED friendly black theme and dark theme _(aka dark gray)_ besides white theme.\n- Blocks all ads\n- Allows you to play videos in the background or in the Picture in Picture (PiP) mode (only on Android 8+)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/tablet mini-player layout can be toggled to the tablet versions which are very similar to the old version (however, it's a bit buggy)."
     },
     {
-      "title": "Prispôsobenie",
-      "description": "- Umožňuje prepísať možnosti kodeku, ako napríklad vynútenie H264 pre staré zariadenia alebo VP9. Taktiež umožňuje vynútiť prehrávanie HDR alebo vypnúť rýchlosť 60 snímkov za sekundu, v prípade, že uprednostňujete filmový zážitok. (Vlastné konfigurácie zariadení pre tieto funkcie nájdete na našom [Discord serveri](https://discord.gg/Vanced) alebo XDA)\n- Vynútenie predvoleného rozlíšenia videa je možné na vysoké alebo nízke, podľa vašich preferencií, dokonca s prepínaním rozlíšenia obrazovky pre prehrávanie vo formáte 4k na ľubovoľnom zariadení. Umožňuje tiež zmeniť predvolenú rýchlosť prehrávania na ľubovoľnú hodnotu medzi 0,25x až 2x (za predpokladu, že je vaše zariadenie dostatočne výkonné)\n- Umožňuje prepínať domáce reklamy, väčšinu UI reklám, reklamy na tovar, príspevky z komunity, predaj filmov, informácie kompaktných bannerov (napríklad informácie o COVID-19), ale aj úplne odstraňovanie komentárov, kompaktných filmov, odstraňovanie ponuky filmov a mnoho ďalšieho!"
+      "title": "Customization",
+      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
     },
     {
       "title": "Sponsor Block",
-      "description": "- Obsahuje možnosť preskočiť sponzorské segmenty (kde [YouTuber](https://en.wikipedia.org/wiki/YouTuber) inzeruje službu alebo produkt uprostred videa)\n- Podporuje tiež preskakovanie ďalších kategórií, ako sú intrá, outrá a sebapropagácia\n- Používa API [dostupné tu](https://sponsor.ajay.app). Pomocou daného odkazu nájdete viac informácií o tom, ako funguje\n- Umožňuje vám tiež odoslať do API svoje vlastné segmenty a prispieť tak k širšej komunite\n- Predstavuje úplnú kontrolu nad tým, či sa má automaticky preskočiť kategória segmentu alebo zobraziť tlačidlo na preskočenie, alebo či sa jednoducho nepreskočí vôbec\n- Zvýrazňuje segment konkrétnou farbou na základe jeho kategórie na časovej osi prehrávania"
+      "description": "- Features the ability to skip sponsor segments (where a [YouTuber](https://en.wikipedia.org/wiki/YouTuber) advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API [found here](https://sponsor.ajay.app). You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
     },
     {
-      "title": "Platformy",
-      "description": "Aplikácie sú k dispozícii iba pre zariadenia so systémom Android a momentálne sa neplánuje podpora iných platforiem"
+      "title": "Platforms",
+      "description": "Apps are available only for Android devices and there are no plans to support any other platforms at the moment"
     },
     {
-      "title": "Rozdiel medzi Root a Non-Root",
-      "description": "#### Root:\nRoot verzia Vanced plynulo nahrádza oficiálnu aplikáciu YouTube. Vďaka tomu môžete otvárať YouTube odkazy alebo vyvolať ich pomocou Asistenta Google, priamo prostredníctvom upravenej aplikácie Vanced.\n\n#### Non-Root:\n- Ak máte zariadenie, ktoré je ťažko rootovateľné, alebo ak vôbec nechcete rootovať svoje zariadenie, mali by ste sa rozhodnúť pre non-root verziu.\n- Vzhľadom na to, že názov balíka verzie non-root je odlišný od oficiálnej aplikácie YouTube, môžete ich vlastniť súčasne. Upozorňujeme, že aby ste sa mohli prihlásiť pomocou svojho YouTube/Google účtu, musíte si nainštalovať ďalšiu sprievodnú aplikáciu (Vanced microG).\n- Okrem toho musíte manuálne nastaviť Vanced ako predvolenú aplikáciu na otváranie odkazov na YouTube.\n- Keďže inštalácia a použitie non-root verzie je oveľa jednoduchšie, odporúčame vám použiť práve túto verziu, pokiaľ skutočne nepotrebujete nahradiť oficiálnu YouTube aplikáciu na svojom telefóne."
+      "title": "Difference between Root and Non-Root",
+      "description": "#### Root:\nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google Assistant through the modded Vanced app.\n\n#### Non-Root:\n- If you have a device that is difficult to root, or you don’t want to root your daily device on first hand, you should opt for the non-root variant.\n- Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account.\n- Moreover, you have to manually set Vanced as the default app for opening YouTube links.\n- However, the non-root variant is much simpler to install and use, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
     }
   ]
 }
