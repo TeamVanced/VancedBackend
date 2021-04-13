@@ -10,11 +10,11 @@
         },
         {
           "title": "Як мені зробити logcat?",
-          "content": "Для користувачів без рут-доступу:\nВам знадобиться комп'ютер для виведення `logcat`. Ось [текстове керівництво](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) і [відео керівництво](https://youtu.be/ICLpwgsJP0).\n\nДля користувачів з рут-доступом:\nВам не потрібен ПК для цього. Ви можете слідувати інструкціям [тут](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this. You can follow the instructions [in here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Ваша помилка пов'язана з інтерфейсом?",
-          "content": "Для помилок, пов'язаних з інтерфейсом, вам належить виконати додаткові кроки.\n\nБудь ласка, встановіть і налаштуйте [Помічник розробника](https://play.google.com/store/apps/details?id=com. ppsisle.developerassistant).\nПісля цього перейдіть в Vanced і відтворіть помилку, потім відкрийте засіб перегляду макета, запустивши помічник розробника.\n\nТепер виконайте наступні дії:\n1. Переконайтеся, що помилка відображається на екрані.\n2. Натисніть на елемент, який, на вашу думку, є помилкою.\n3. Перейдіть на вкладку `Елементи` і` Іерархія` і зробіть скріншот.\n4. Вставте ці скріншоти до вашої заявки на виправлення помилки."
+          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
         }
       ]
     }
