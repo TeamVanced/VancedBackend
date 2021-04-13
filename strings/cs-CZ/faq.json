@@ -6,15 +6,15 @@
     },
     {
       "title": "Kde je tlačítko Stáhnout?",
-      "description": "Google samozřejmě nedovolí, aby v jejich obchodě byla upravená verze jeho vlastní aplikace, takže ji v Obchodě Google Play nehledejte, jedná se o falešné aplikace.\n\nAplikace Vanced lze stáhnout a nainstalovat pomocí aplikace Vanced Manager, kterou najdete na našem oficiálním webu: <https://vancedapp.com>, ale můžete si ji také stáhnout z [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Google samozřejmě nedovolí, aby v jejich obchodě byla upravená verze jeho vlastní aplikace, takže ji v Obchodě Google Play nehledejte, jedná se o falešné aplikace.\n\nAplikace Vanced lze stáhnout a nainstalovat pomocí aplikace Vanced Manager, kterou najdete na našem oficiálním webu: <https://vancedapp.com>, ale můžete si ji také stáhnout z GitHubu:\n<https://github.com/YTVanced/VancedManager/releases/latest>"
     },
     {
-      "title": "Bude se aplikace automaticky aktualizovat?",
+      "title": "Bude se YouTube Vanced automaticky aktualizovat?",
       "description": "Ne, nebude.\n\nVanced Manager vám pošle oznámení, pokud aktualizace existuje.\n\nMůžete se také připojit k našemu [serveru Discord](https://discord.gg/Vanced), nebo sledovat [Telegram kanál](https://t.me/Vanced), kde také najdete nejnovější zprávy a oznámení o aktualizacích."
     },
     {
       "title": "Může Vanced stahovat videa?",
-      "description": "Vanced neobsahuje žádnou funkci stahování videa a nikdy obsahovat nebude.\n\nMnoho videí je k dispozici ke stažení zdarma ve [vybraných zemích](https://support.google.com/youtube/answer/6141269). Pro zbytek světa si pořiďte YouTube Premium.\n\nZnovu, Vanced NIKDY nepřidá do aplikace funkci stahování videa ani nic podobného.\n\nTo byl v minulosti důvod pro ukončení mnoha modifikací YouTube, protože Google nemá rád lidi, kteří si z jejich platformy stahují obsah chráněný autorskými právy, takže o to nežádejte!!!"
+      "description": "Vanced neobsahuje žádnou funkci stahování videa a nikdy obsahovat nebude.\n\nMnoho videí je k dispozici ke stažení zdarma ve [vybraných zemích](https://support.google.com/youtube/answer/6141269). Pro zbytek světa si pořiďte YouTube Premium nebo použijte stahovací program třetích stran.\n\nZnovu, Vanced NIKDY nepřidá do aplikace funkci stahování videa ani nic podobného.\n\nTo byl v minulosti důvod pro ukončení mnoha modifikací YouTube, protože Google nemá rád lidi, kteří si z jejich platformy stahují obsah chráněný autorskými právy, takže o to nežádejte!!!"
     },
     {
       "title": "Proč nefungují gesta přejetím?",
@@ -30,7 +30,7 @@
     },
     {
       "title": "Jak zajistit, aby se ovládací prvky přehrávače automaticky skrývaly?",
-      "description": "Můžete to nakonfigurovat v nastavení YouTube Vanced > Usnadnění přístupu. Pokud se nastavení neotevře nebo nefunguje, přejděte do nastavení přístupnosti zařízení a vypněte zesilovač zvuku, přepněte přístup, živé titulek."
+      "description": "Můžete to nakonfigurovat v YouTube Vanced > Nastavení > Usnadnění přístupu. Pokud se nastavení neotevře nebo nefunguje, přejděte do nastavení přístupnosti zařízení a vypněte zesilovač zvuku, přepněte přístup, živé titulek."
     },
     {
       "title": "Proč používat split APKs?",
