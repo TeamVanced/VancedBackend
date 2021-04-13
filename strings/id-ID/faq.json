@@ -2,15 +2,15 @@
   "faq": [
     {
       "title": "Apa itu YouTube Vanced?",
-      "description": "Youtube Vanced adalah versi YouTube yang dimodifikasi dengan fitur agar pengalaman Youtube anda menjadi lebih baik!\n\nFitur seperti:\n- Pemutaran latar belakang,\n- Picture in Picture (PiP),\n- Tema hitam (OLED friendly),\n- Penghapusan iklan (membutuhkan pengaktifkan),\n- Menimpa maksimal resolusi (membolehkan pemutaran video yang resolusinya lebih tinggi dari layar anda),\n-...dan banyak lagi!\n\nUntuk informasi lebih lanjut, kunjungi <https://vancedapp.com>"
+      "description": "Youtube Vanced adalah versi YouTube yang di modifikasi dengan fitur agar pengalaman Youtube anda menjadi lebih baik!\n\nFitur seperti:\n- Pemutaran latar belakang,\n- Picture in Picture (PiP),\n- Tema hitam (OLED friendly),\n- Penghapusan iklan (membutuhkan pengaktifkan),\n- Menimpa maksimal resolusi (mengizinkan pemutaran video yang resolusinya lebih tinggi dari layar anda),\n-...dan banyak lagi!\n\nUntuk informasi lebih lanjut, kunjungi <https://vancedapp.com>"
     },
     {
-      "title": "Dimanakah tombol unduhannya?",
-      "description": "Tentu saja, Google tidak akan membolehkan versi modifikasi yang merupakan aplikasinya sendiri untuk berada pada toko mereka, untuk itu jangan melihat hal tersebut pada Google Play Store, semua merupakan aplikasi palsu.\n\nAplikasi Vanced bisa diunduh dan dipasang menggunakan Vanced Manager yang dimana dapat ditemukan pada situs resmi kami: <https://vancedapp.com> tetapi anda juga dapat mengambilnya dari Github:<https://github.com/YTVanced/VancedManager/releases/latest>"
+      "title": "Dimana letak tombol Download?",
+      "description": "Tentu saja, Google tidak akan membolehkan versi modifikasi yang merupakan aplikasinya sendiri untuk berada pada toko mereka, untuk itu jangan mencari Vanced di Google Play Store, semua itu merupakan aplikasi palsu.\n\nAplikasi Vanced bisa diunduh dan dipasang menggunakan Vanced Manager yang dimana dapat ditemukan pada situs resmi kami: <https://vancedapp.com> tetapi anda juga dapat mengambilnya dari [Github repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Apakah YouTube Vanced dapat memperbarui secara otomatis?",
-      "description": "Tidak, tidak akan.\n\nVanced Manager akan mengirimkan anda notifikasi ketika ada pembaruan.\n\nAnda juga bisa bergabung [Server Discord] kami(https://discord.gg/wYrRPgv) atau ikuti [channel Telegram](https://t.me/Vanced) untuk berita terbaru dan pemberitahuan pembaruan sekalipun."
+      "description": "Tidak, tidak bisa.\n\nVanced Manager akan mengirimkan anda notifikasi ketika tersedia pembaruan.\n\nAnda juga dapat bergabung [Server Discord] kami(https://discord.gg/wYrRPgv) atau ikuti [channel Telegram](https://t.me/Vanced) untuk berita terbaru dan pemberitahuan pembaruan."
     },
     {
       "title": "Dapatkah Vanced mengunduh video?",
