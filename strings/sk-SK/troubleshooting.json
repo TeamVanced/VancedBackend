@@ -1,273 +1,273 @@
 {
 	"troubleshooting": [
 		{
-			"title": "Základné riešenie problémov",
-			"description": "A) Vymažte údaje a vyrovnávaciu pamäť z \n\n(I) Vanced/Vanced Music a microG pre Non-Root verziu\n(II) Vanced/Vanced Music a Služby Google Play pre Root verziu\n\nB) Preinštalujte YouTube Vanced\n\nDÔLEŽITÉ UPOZORNENIE: Medzi procesmi reštartujte zariadenie"
+			"title": "Basic troubleshooting",
+			"description": "A) Wipe data and cache of \n\n(I) Vanced/Vanced Music and microG for Non-Root Variant\n(II) Vanced/Vanced Music and Google Play Services for Root Variant\n\nB) Reinstall YouTube Vanced\n\nIMPORTANT NOTICE: Reboot between processes"
 		},
 		{
-			"title": "Problémy s prihlásením",
-			"description": "Ďalej sú popísané niektoré bežné chyby spolu so snímkami obrazovky, vďaka ktorým môžete zistiť, ktoré riešenie je vhodné pre váš problém.",
+			"title": "Login issues",
+			"description": "Below are some of the common errors with their screenshots so that you can get to know which solution you have to follow.",
 			"fields": [
 				{
-					"title": "Ak sa zobrazuje chybové hlásenie „skontrolujte svoje internetové pripojenie“",
-					"content": "Postupujte prosím podľa tohto video sprievodcu: https://youtu.be/S5sTXRTrD5Y. Skúste vyčistiť aj dáta aplikácie microG."
+					"title": "If you're getting an error saying \"please check your internet connection\"",
+					"content": "Please follow this video guide: https://youtu.be/S5sTXRTrD5Y. Try clearing microG's app data too."
 				},
 				{
-					"title": "Ak máte problémy s prihlásením a vidíte chybovú hlášku „Ste offline, preskúmajte stiahnuté súbory“",
-					"content": "1. Vymažte ÚDAJE aplikácií Vanced microG a Google Play Services\n2. ODINŠTALUJTE „Vanced microG“ aj Vanced.\n\n3. Ak chcete, reštartujte zariadenie.\n\n4. Preinštalujte oba súbory APK (microG a Vanced) s tým, že najskôr nainštalujete microG. Aplikácie inštalujte pomocou Vanced Manager alebo sai, zo súborov poskytnutých v poznámke #inštalácia\n\n5. Teraz sa prihláste.\n\nPOZNÁMKA: Ak stále máte problémy s tým, že Vanced hlási chyby v pripojení (dokonca aj po nainštalovaní aplikácie microG ako prvej), prijímaní upozornení atď., nezabudnite deaktivovať optimalizáciu batérie pre aplikácie Vanced a microG.\n\nPokyny sa líšia podľa výrobcu zariadenia. Môžete postupovať podľa pokynov ako https://dontkillmyapp.com alebo ich vyhľadať."
+					"title": "If you are facing issues relating to login saying, \"You're offline, explore downloads\"",
+					"content": "1. Clear DATA of both Vanced microG and Google Play services\n2. UNINSTALL both \"Vanced microG\" and Vanced.\n\n3. Reboot if you want.\n\n4. Reinstall both APKs[microG and Vanced) but make sure you install microG before you install Vanced. Install via Vanced Manager or sai using files provided in #installation note in group\n\n5. Now login.\n\nNOTE: If you're still having issues with Vanced giving connection errors (even after installing microG first), receiving notifications, etc, make sure you disable battery optimization for the Vanced and microG app. \n\nInstructions to do so vary on your device manufacturer. You can follow guides like https://dontkillmyapp.com or search it up."
 				},
 				{
-					"title": "Ak sa Vanced odhlasuje z vášho účtu Google",
-					"content": "Stáva sa to kvôli veľkej optimalizácie batérie operačným systémom vášho zariadenia. To spôsobuje vynútené zavretie služieb/aktivít microG, ktoré sú zodpovedné za prihlásenie.\n\nNa vyriešenie tohto problému deaktivujte optimalizáciu batérie pre microG pomocou https://dontkillmyapp.com ALEBO riešenie vyhľadajte"
+					"title": "If Vanced logs out of your Google account",
+					"content": "It happens because your device OS' heavy battery optimization killing microG services/activities which are responsible for logins.\n\nTo fix this, disable battery optimization for microG using https://dontkillmyapp.com OR searching it up"
 				},
 				{
-					"title": "Pre používateľov, ktorí používajú účet Gsuite v Non-Root verzii Vanced a často čelia problémom s pripojením (chyby ako „Ste offline“, „Skontrolujte svoj internet“ atď.)",
-					"content": "• Prihláste sa do svojej administrátorskej konzoly účtu Gsuite (https://admin.google.com/)\n\n• Vyhľadajte správu zariadenia\n\n• Prejdite na nastavenie a vypnite možnosť „Správa mobilných zariadení“\n\n• To je všetko. Chyby by mali byť odstránené."
+					"title": "For users who are using Gsuite account on Non-Root version of vanced and facing connection issues frequently (errors like \"You are offline\", \"Please check your internet\", etc)",
+					"content": "•Log into your Gsuite account admin console(https://admin.google.com/)\n\n• Search for device management\n\n• Go to setup and disable \"Mobile Management\"\n\n• That's it and it will get fixed."
 				},
 				{
-					"title": "Huawei riešenie 1",
-					"content": "Pre tých, ktorí aktualizovali microG na najnovšiu verziu, ale teraz majú problémy s prihlásením\n\n1. Odinštalujte aktuálne nainštalované Vanced microG.\n\n2. Stiahnite si verziu „Vanced microG 0.2.12.203315“ z odkazu Mediafire v15 a nainštalujte ju. Odkaz na Mediafire v15 je dostupný tu - https://del.dog/Mediafireonlyv15\n\n3. Teraz by ste mali byť schopní prihlásiť sa."
+					"title": "Huawei workaround 1",
+					"content": "For those who updated microG to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microG.\n\n2. Download \"Vanced microG 0.2.12.203315 version\" from Mediafire v15 link and install it. Link for Mediafire v15 here - https://del.dog/Mediafireonlyv15\n\n3. You should be able to login now."
 				},
 				{
-					"title": "Huawei riešenie 2",
-					"content": "1. Ak máte nainštalovené aplikácie Vanced a microG, odinštalujte ich. Následne znova nainštalujte iba microG (najnovšie dostupné)\n\n2. Otvorte nastavenia aplikácie microG\n\n3. Vypnite možnosti „Google Cloud Messaging“ a aj „Registrácia zariadenia Google“.\n\n4. Pridajte svoj účet prostredníctvom samotného microG.\n\n5. Nakoniec nainštalujte Vanced."
+					"title": "Huawei workaround 2",
+					"content": "1. Uninstall both vanced and microG if you already installed. Then reinstall only microG(latest available)\n\n2. Then open microG app settings\n\n3. Turn off both \"Google Cloud Messaging\" and \"Google device registration\".\n\n4. Add your account through microG itself.\n\n5. Then install Vanced."
 				},
 				{
-					"title": "Huawei riešenie 3",
-					"content": "1. Najskôr nainštalujte starú verziu microG (odstráňte aktuálne nainštalovanú, ale ponechajte si jej súbor APK - budete ho potrebovať neskôr). \n\nmicroG_YouTube_Vanced_0.2.4-105_16052019_2.apk (odkaz na staré súbory získate na stránke vancedapp.com)\n\n2. Potom otvorte YouTube Vanced a skúste sa znova prihlasovať, kým sa nezobrazí chybové hlásenie. Pokúste sa ho znova načítať ťuknutím na chybové hlásenie. \n\n3. Teraz znova nainštalujte novšiu verziu microG a reštartujte vanced. Mali by ste byť znova prihlásený a všetko by malo opäť fungovať.\n\nPOZNÁMKA: Teraz sa uistite, že deaktivujete optimalizáciu batérie pre microG aj pre Vanced pomocou dontkillmyapp.com, inak by softvér vášho zariadenia mohol vynútene zavrieť microG a na opravu prihlásenia by ste znova museli opakovať všetky vyššie uvedené kroky."
+					"title": "Huawei workaround 3",
+					"content": "1. First install the old microG version (remove the current one installed but keep the apk for it - you need it later). \n\nmicroG_YouTube_Vanced_0.2.4-105_16052019_2.apk (get from the old files link on vancedapp.com site)\n\n2. Then open YouTube Vanced and try logging in again until it shows the error message. Try to reload it by tapping the error message. \n\n3. Now install the newer microG version again and restart vanced. It should be logged in again and everything should work again.\n\nNOTE: Now make sure u disable battery optimization for both microG and vanced using dontkillmyapp.com otherwise your device software might kill microG and you might have to repeat all above steps again to fix login."
 				}
 			]
 		},
 		{
-			"title": "Vanced Manažér",
+			"title": "Vanced Manager",
 			"fields": [
 				{
-					"title": "Vanced manažér uviazol na logu alebo zlyhal",
-					"content": "Vymažte aplikačné údaje manažéra > Vypnite internet > Otvorte aplikáciu manažér > Zapnite internet."
+					"title": "For Vanced manager stuck on logo/crash issue",
+					"content": "Clear app data of manager > Turn internet off > Open manager app > Turn internet on."
 				},
 				{
 					"title": "INSTALL_FAILED_INVALID_APK: No packages staged",
-					"content": "Nainštalujte si oficiálny YouTube z Obchodu Play a potom aktualizujte Vanced pomocou Vanced manažéra."
+					"content": "Install the stock yt from play store then update vanced over it using vanced manager."
 				},
 				{
-					"title": "Ak sa najnovší Vanced manažér zasekne na obrazovke „Prosím, buďte trpezliví“, urobte to",
-					"content": "Nainštalujte si oficiálny YouTube z Obchodu Play a potom aktualizujte Vanced pomocou Vanced manažéra."
+					"title": "If latest vanced manager gets stuck at \"Please be patient\" screen, do this",
+					"content": "Install the stock yt from play store then update vanced over it using vanced manager."
 				},
 				{
-					"title": "Ak sa pri inštalácii aplikácie microG/Vanced zobrazí hlásenie „Chyba pri sťahovaní microG/Vanced“ alebo sa inštalácia zasekla",
-					"content": "Vymažte aplikačné údaje manažéra a potom pokračujte v inštalácii ale NEODCHÁDZAJTE Z APLIKÁCIE, DOKÝM PROCES NESKONČÍ."
+					"title": "If you face \"Error downloading microG/Vanced\" or installation got stuck while installing microG/vanced app",
+					"content": "Clear manager app data then continue installing and DON'T SWITCH TO OTHER APPS UNTIL IT COMPLETES THE PROCESS."
 				}
 			]
 		},
 		{
-			"title": "Inštalácia zlyhala, pretože aplikácia je v konflikte s už nainštalovanou aplikáciou. Odinštalujte aktuálnu verziu aplikácie a potom to skúste znova (INSTALL_FAILED_UPDATE_INCOMPATIBLE)",
-			"description": "Stáva sa to používateľom s OneUI a Oxygen OS, keď aktualizujú svoj systém z Android 10 na Android 11 a čelili tomu aj niektoré custom ROM.\n\nPre tento problém sú k dispozícii 3 riešenia",
+			"title": "Installation failed because of the app conflicts with an already installed app. Uninstall the current version of the app and try again (INSTALL_FAILED_UPDATE_INCOMPATIBLE)",
+			"description": "This happens to users with OneUI and Oxygen OS when they update their system from android 10 to android 11, some custom ROMs faced it too,\n\nHence we have 3 solutions available for you",
 			"fields": [
 				{
-					"title": "Ak nemáte Root, použite ADB",
-					"content": "1). Nainštalujte Android Debug Bridge; Sprievodca - https://www.xda-developers.com/install-adb-windows-macos-linux/amp/. \n\n2) Odomknite telefón. \n\n3) Povoľte režim vývojára (10-krát ťuknite na Číslo zostavy v Nastaveniach - Informácie o telefóne - Informácie o softvéri). \n\n4) Povoľte ladenie zariadenia cez USB v časti Nastavenia - Možnosti pre vývojárov. \n\n5) Pripojte telefón k počítaču. \n\n6) Otvorte príkazový riadok (CMD), zmeňte adresár: „cd C:/Windows/adb/“ a stlačte kláves Enter.\n\n7) Keď je už váš telefón pripojený a CMD otvorený, v CMD spustite príkaz „adb devices“. Vo vašom telefóne sa zobrazí výzva niečo ako „Chcete pripojiť svoj telefón k počítaču?“ Stlačte Áno. \n\n8) Spustite cmd príkaz „adb uninstall com.vanced.android.youtube“. \n\n9) Potom môžete nainštalovať Vanced Manager a nainštalovať najnovšiu verziu YouTube Vanced"
+					"title": "If you are not rooted, use ADB",
+					"content": "1). Install Android Debug Bridge; Guide - https://www.xda-developers.com/install-adb-windows-macos-linux/amp/. \n\n2) Unlock your phone. \n\n3) Enable Developer Mode (tap 10 times on Build number in Settings - About phone -Software information). \n\n4) Enable USB debugging in Settings - Developer options. \n\n5) Connect your phone to PC. \n\n6) Open Command Prompt (CMD) and change directory: \"cd C:/Windows/adb/\" and press Enter. \n\n7) As your phone is connected and CMD is open, in CMD run command \"adb devices\". There will be a prompt on your phone, something like \"Would you like to connect your phone to PC?\" Press Yes. \n\n8) Run cmd command \"adb uninstall com.vanced.android.youtube\". \n\n9) After this you may install Vanced Manager and install the latest version of YouTube Vanced"
 				},
 				{
-					"title": "Ak máte Root,",
-					"content": "1) Použite program root explorer a prejdite do root úložiska. \n\n2) Ak sa snažíte nainštalovať YouTube Vanced, nájdite priečinok „data/app/com.vanced.android.youtube-....“ alebo ak YouTube Music Vanced priečinok „data/app/com.vanced.android.apps.youtube.music-....“  \n\n3) Ak ste také priečinky našli, jednoducho ich odstráňte a potom pokračujte v inštalácii YouTube Vanced alebo YouTube Music Vanced prostredníctvom aplikácie Vanced Manager."
+					"title": "If you are rooted,",
+					"content": "1) Use root explorer and navigate to root storage. \n\n2) Then find this folder when you are installing YT Vanced  \"data/app/com.vanced.android.youtube-....\" or when you are installing YT Music \"com.vanced.android.apps.youtube.music-....\"  \n\n3) If you found such folders, just delete them then continue installing YT Vanced or YT music via Vanced Manager."
 				},
 				{
-					"title": "Ak obe vyššie uvedené metódy zlyhajú",
-					"content": "Túto chybu môže vyriešiť obnovenie továrenských nastavení. Obnovenie však vykonajte len v krajnom prípade."
+					"title": "If both of the above methods fail",
+					"content": "Apparently, doing a factory reset can fix this error. Do this at last resort."
 				},
 				{
-					"title": "Ak narazíte na chyby ako „Operácia zlyhala, pretože súbory apk sú neplatné/poškodené“",
-					"content": "• Prejdite na nastavenia manažéra a vymažte stiahnuté súbory\\n\\n• Potom vymažte aplikačné údaje manažéra a pokračujte v inštalácii Vanced."
+					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
+					"content": "• Head to manager settings and clear downloaded files\\n\\n• Then clear manager app data then continue installing vanced."
 				}
 			]
 		},
 		{
-			"title": "Oprava upozornení",
-			"description": "Pre opravu upozornení, biele pozadie alebo ak sa Vanced nezobrazuje pod „Google Cloud Messaging“, pozrite nižšie",
+			"title": "Notification fix",
+			"description": "For notification fix, a white background or Vanced not appearing under \"Google Cloud Messaging\", see below",
 			"fields": [
 				{
-					"title": "Pre Non-Root",
-					"content": "1. Nainštalujte Vanced microG ako prvé a až potom YouTube Vanced.\n\n2. Prihláste sa pomocou svojho účtu Google\n\n3. \na) Zakážte optimalizáciu batérie pre microG (odporúča sa sprievodca dontkillmyapp.com).\n\nb) **Vo „Vanced microG“ otvorte ďalšie nastavenia a pokračujte touto príručkou:\n\ni) https://youtu.be/Q-5YFmFWVok"
+					"title": "For Non-Root",
+					"content": "1. Install Vanced microG first then YouTube Vanced.\n\n2. Login with your Google account\n\n3. \na) Disable battery optimization for microG(the guide dontkillmyapp.com is suggested).\n\nb)**Open \"Vanced microG\" additional settings then continue on with this guide:\n\ni) https://youtu.be/Q-5YFmFWVok"
 				},
 				{
-					"title": "Ak sa Vanced nezobrazuje v rámci GCM alebo sa zobrazuje ako neregistrovaný",
-					"content": "Vyskúšajte VŠETKY z nasledujúcich spôsobov:\n\n1. Odstráňte svoj Google účet z nastavení účtu. Účet používaný pre Vanced má staré modré pozadie s malým g logom.\n\n2. Vymažte údaje microG a potom sa prihláste.\n\nALEBO\n\nAk vyššie uvedené riešenie nefunguje, preinštalujte Vanced."
+					"title": "If Vanced is not showing up under GCM or it shows up as unregistered",
+					"content": "Try EITHER of the following:\n\n1. Remove your google account from account settings. The account used by vanced has old Blue background color with small g logo.\n\n2. Clear data of microG then login. \n\nOR\n\nIf above workaround doesn't work, reinstall vanced."
 				},
 				{
-					"title": "Pre Root",
-					"content": "Uistite sa, že je v nastaveniach YouTube vypnutá možnosť \"Naplánovaný súhrn\" a zvuky upozornení sú nastavené a správne.\n\nMôžete skúsiť použiť aplikáciu „Správca upozornení“, ktorá sleduje všetky vaše upozornenia na jednom mieste, takže v prípade, že ich odmietate, môžete k nim znova získať prístup z danej aplikácie."
+					"title": "For Root",
+					"content": "Make sure \"Scheduled Digest\" is off in youtube settings and your notifications sounds are correct and set.\n\nYou can try using \"notification manager\" app which keeps track of all your notification at one place so in case if you are dismissing your notifications, you can access the same again from that app."
 				}
 			]
 		},
 		{
-			"title": "Problémy s vynúteným zatváraním",
-			"description": "Ak je aplikácia Vanced pri štarte vynútene zatváraná/padá",
+			"title": "Force closing issues",
+			"description": "If Vanced app is crashing/force closing on startup",
 			"fields": [
 				{
-					"title": "Non-Root",
-					"content": "1) Ak je Non-Root verzia aplikácie Vanced vynútene zatváraná ešte pred inštaláciou MicroG, odinštalujte obe, Vanced aj MicroG. Následne začnite inštaláciou MicroG a až potom Vanced. Problém by mal byť vyriešený.\n\n2) Ak je Non-Root verzia aplikácie Vanced vynútene zatváraná bez inštalácie microG, nainštalujte microG. [Ak sa nechcete prihlásiť, neprihlasujte sa a nainštalujte si iba microG apk, kvôli závislosti Vanced na microG pre pripojenie k službám Google]"
+					"title": "Nonroot",
+					"content": "1) If the non-root Vanced app is force closing before installing MicroG, uninstall both Vanced app and MicroG. Then install MicroG first, then Vanced. The issue should be fixed.\n\n2) If the non-root Vanced app is force closing without installing microG, install microG. [If you don't want to login, don't login and only install microG apk as vanced has a dependency on microG for connecting with Google services]"
 				},
 				{
 					"title": "Root",
-					"content": "1) Ak sa vaša Root verzia aplikácie Vanced vynútene zatvára po otvorení, odinštalujte všetky aktualizácie oficiálnej YouTube aplikácie. Ak to nepomôže, zakážte/odinštalujte prekrytia svojich tém substratum/swift.\nV poslednom prípade, ak nič nepomáha, poskytnite komunite/zamestnancom logcat.\n\n2) Ak sa vaša Root verzia aplikácie Vanced vynútene zatvára pri behu aplikácie, keď je v popredí/aktívna alebo prehráva video, vezmite svoje logcat a nájdite:\n\n(a) - Unsatisfiedlinkerror: \nSol:- Otvorte správcu súborov a choďte do root úložiska.\nPotom otvorte „system/app/youtube/lib“ ALEBO „Data/app/com.google.android.youtube/lib“ a premenujte \n\narm64-v8a na arm64\n\narmeabi-v7a na arm\n\na napraví sa to.\n\nTiež, ak v danom adresári vyššie nie sú „arm a arm64“, skúste získať obe z oficiálneho YouTube apk alebo si ich vypýtajte od svojich priateľov a rozbaľte do daného adresára\n\n(b) - Notehitelisted \"com.google.android.youtube\":\nSol:- Skontrolujte bielu listinu odtiaľto(todo)\n\nAk neviete, ako získať logy, pozrite si poznámky o chybách"
+					"content": "1) If your root version of Vanced is force closing upon opening the app, uninstall stock YouTube app updates. If this doesn't help, disable/uninstall your substratum/swift themes overlays.\nAt last resort, if nothing helps, give the community/staff a logcat.\n\n2) If your root version of Vanced is force closing in middle of app when it's in foreground/active or playing a video, grab your logcats and find:\n\n(a)- Unsatisfiedlinkerror: \nSol:- Open file manager and go to root storage.\nThen open \"system/app/youtube/lib\" OR \"Data/app/com.google.android.youtube/lib\" and rename \n\narm64-v8a to arm64\n\narmeabi-v7a to arm\n\nand it will get fixed.\n\nAlso, if both \"arm and arm64\" are not there in that directory above, try getting both from official YT apk or ask your friends and extract it there in that directory\n\n(b)- Notehitelisted \"com.google.android.youtube\":\nSol:- Check whitelisting from here(todo)\n\nIf you don't know how to get logs, check bugreport note"
 				},
 				{
-					"title": "Ak Vanced padá uprostred prehrávania (v režime prehrávania na pozadí)",
-					"content": "Vzhľadom na to, že tento problém je spôsobený iba agresívnou optimalizáciou batérie prítomnou v rôznych OEM nadstavbách, ako sú MIUI, EMUI, ColorOS atď., odporúča sa deaktivovať optimalizáciu batérie pre aplikáciu Vanced aj MicroG.\n\nPokyny sa však líšia v závislosti od výrobcu zariadenia, takže vám nemôžeme pomôcť pri deaktivácii. Môžete skúsiť použiť web ako „dontkillmyapp.com“, ALEBO použiť Google a vyhľadať výraz „[výrobca telefónu] [model telefónu] [verzia Android] deaktivácia optimalizácie batérie“\n\nAk aj napriek tomu máte stále tento problém, poskytnite #bugreport na telegrame alebo na discorde s požadovanými podrobnosťami a logmi. Moderátori si tak budú môcť pozrieť, čo to vlastne spôsobuje. Nezabudnite však poskytnúť logy špecifické pre Vanced, NIE pre celý váš SYSTÉM."
+					"title": "If Vanced crashes in the middle of playback (when playing in background mode)",
+					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide #bugreport on telegram or in discord with the details it requires and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
 				}
 			]
 		},
 		{
-			"title": "Odinštalovanie pri reštarte",
-			"description": "Ak root verzia YouTube Vanced/YouTube Music Vanced zmizne/odinštaluje sa/vráti sa späť na pôvodnú pri reštarte,\n\nSú k dispozícii 2 riešenia",
+			"title": "Uninstall on reboot",
+			"description": "If the root version of YouTube Vanced/ YouTube Music Vanced is disappearing/uninstalling/reverting back to stock on reboot,\n\nWe have 2 solutions available for you",
 			"fields": [
 				{
-					"title": "Riešenie 1",
-					"content": "Použite Non-Root verziu, kým to vývojári neopravia."
+					"title": "Solution 1",
+					"content": "Stick to the non-root version until the developers fix this."
 				},
 				{
-					"title": "Riešenie 2",
-					"content": "POŽIADAVKY:\n\nVanced Manager 2.1.0 alebo novší\nSprávca root ako Es File Explorer alebo Root Browser\nKrok 1: Choďte do /data/adb/service.d/ a upravte skript Music.sh a/alebo Vanced.sh\n\nOba by mali vyzerať podobne tomuto:\n\nwhile  [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\nKrok 2: Zmeňte hodnotu „do sleep 1; done“ na „do sleep 2; done“\n\nKrok 3: Reštartujte zariadenie\n\nAk to nefunguje, skúste zvýšiť hodnotu pre „sleep\" medzi „do & done\"\n\n——————————————————\n\nAk to nefunguje, možno bude vaše zariadenie potrebovať viac času, kým nasadí root verziu youtube/music apk.\nStačí upraviť vanced.sh a/alebo music.sh, \nvložte nový riadok s príkazom „sleep\" medzi riadky „while“ a „mount“, ako napríklad:\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
+					"title": "Solution 2",
+					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nStep 1: Go to manager settings > Root Script Sleep Time (you should be on root mode for this option to appear) and set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
 				}
 			]
 		},
 		{
-			"title": "Reklamy vo Vanced",
-			"description": "Ak sa vám zobrazujú reklamy v aplikáciách YouTube Vanced alebo Vanced Music, prečítajte si tento článok xfileFIN:\n\n> Potrebujem to vypátrať sám. Jednoduché skrytie rozloženia pre to nebude fungovať.\nNie som si istý ako rozhodujú, kto reklamy získa, je to všetko na strane servera.\nViem, že nemôžem iba skryť rozloženie, pretože rovnaké rozloženie sa používa aj pre samotné videá. Kód iba rozhoduje o tom, či je zobrazený odznak reklamy.\nNapriek tomu, že odznak reklamy by som mohol ľahko skryť, stále by bolo zobrazované video reklamy, iba s rozdielom jeho označenia.\nPotrebujem vypátrať reklamu v kóde sám, pretože zmätok to iba sťažuje.\n\nDomovská obrazovka a reklamy vo vyhľadávaní (pridané spoločnosťou Google) sú založené na regióne a nebudú sa zobrazovať, ak sa nenachádzate v regióne, v ktorom sú aktívne. Tieto reklamy nie sú nijako pridávané tímom Vanced, takže ak na nás ukážete prstom, vysmejeme sa vám. \n\nVývojári už vedia, že dostávate reklamy vo svojom regióne. Trpezlivo čakajte na aktualizácie, kým nebudú zablokované všetky reklamy. Do tej doby si užívajte Vanced a nespamujte chat týmito problémami.\n\nDočasným riešením by bolo vymazanie údajov a medzipamäte aplikácie alebo čakanie na ďalšie aktualizácie."
+			"title": "Advertisements in Vanced",
+			"description": "If you are seeing ads in YouTube Vanced or Vanced Music, read this by xfileFIN:\n\n> I need to get it myself to track it down. As simple layout hiding won't work for that.\nNot sure how they decide who gets them, it's all server side.\nWhat I do know is that I can't just hide the layout because the same layout is used for the actual videos as well. The code just decides whether or not it shows the ad badge.\nWell I could easily hide the ad badge but it would still show the actual ad video, just without labeling it as ad.\nI need to get the ad myself to track it down in the code since obfuscation makes it hard.\n\nThe home screen and search ads (added by Google) are region based and will not be shown if you’re not in the region it’s active in. Those advertisements are not added by vanced team in any way so if you point your finger at us, we would laugh at you. \n\nDevelopers already know that you are getting ads in your region. Please wait patiently for updates till all ads gets blocked. Until then, enjoy vanced and don't spam chat with same.\n\nThe temporary solution to fix it would be clearing data and cache of the app or waiting for future updates."
 		},
 		{
-			"title": "História",
-			"description": "Ak narazíte na problémy, pri ktorých pozreté videá/výsledky vyhľadávania nie sú zaznamenávané aplikáciou Vanced, tj. história nefunguje, týmto spôsobom ju môžete opraviť:\n\n• Pre používateľov, ktorých zariadenie má Root bez ohľadu na to, ktorú verziu (Root alebo Non-Root) používajú,\n\n> Uistite sa, že ste vo svojom Ad-Blockeri pridali adresu *s.youtube.com na bielu listinu.\n\n⚠️POZNÁMKA pre používateľov Adaway: Ak pridanie URL na bielu listinu nefungoval, ťuknite na „zdroje hostiteľa“, zrušte začiarknutie políčka „stevenblack“ a použite. Reštartujte zariadenie a vaša história bude fungovať.⚠️\n\n• Pre Non-Root používateľov:\n\n> Na uloženie histórie pozerania sa uistite, že vaša aplikácia je vo verzii 14.10.53 alebo vyššej. Ak sa história stále neaktualizuje, musíte zlúčiť svoj účet značky (Nastavenia YouTube - https://www.youtube.com/account_advanced), aby opäť fungovala. (Proces zlúčenia vymaže aktuálnu históriu.)\n\n⚠️POZNÁMKA pre používateľov Adaway, používajúc blokovanie reklám pomocou VPN namiesto blokovania reklám na báze root: Ak nepoužívate účet značky, uistite sa, že adresa *s.youtube.com je na bielej listine a uložte zmeny.⚠️"
+			"title": "History",
+			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n> Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n> Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in (YouTube Settings-https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
 		},
 		{
-			"title": "Problémy s načítaním aplikácií",
+			"title": "APP loading issues",
 			"fields": [
 				{
-					"title": "Ak sa Vanced zasekol na úvodnej obrazovke",
-					"content": "1. Zapnite režim v lietadle.\n2. Otvorte Youtube Vanced.\n\n3. Zavrite rozbaľovacie okno zoznamu zmien.\n4. Vypnite režim v lietadle.\n5. Znova otvorte Vanced.\n\nPoďakovanie patrí pre rocco6victor z XDA"
+					"title": "If Vanced got stuck on splash screen",
+					"content": "1. Switch Airplane mode on.\n2. Open Youtube Vanced.\n\n3. Tap on close in changelog popup.\n4. Turn off Airplane mode.\n5. Reopen vanced.\n\nThanks to rocco6victorFrom XDA"
 				},
 				{
-					"title": "Ak sa Vanced načítava donekonečna",
-					"content": "1. Zakážte optimalizáciu batérie pre aplikácie YouTube Vanced a microG pomocou dontkillmyapp.com a následne zariadenie reštartujte.\n2. Problém by mal byť vyriešený."
+					"title": "If Vanced keeps on loading infinitely",
+					"content": "1. Disable battery optimization for both YouTube Vanced and microG app using dontkillmyapp.com then reboot your device.\n2. It should get fixed now."
 				}
 			]
 		},
 		{
-			"title": "Problémy s obrazom v obraze (PiP)",
-			"description": "⚠️Prosím, nenahlasujte problémy spojené s PIP.⚠️\n• Pip je ovládaný systémom keďže Vanced používa natívny pip pre Android. Viňte ROM za akékoľvek problémy s PIP.\nOstatné aplikácie, ako napríklad MX Player, VLC, atď., používajú svoj vlastný PIP namiesto natívneho zo systému Android, a preto nikdy nebudú čeliť takýmto problémom.\n\n• PIP je k dispozícii iba pre Android 8 a novší.\n\n• Ak chcete povoliť PIP, otvorte nastavenia aplikácie YouTube > Všeobecné > Povoliť pip\n\n> Ak chcete povoliť pip v MIUI, musíte sa uistiť, že je toto nastavenie zapnuté:\nOchrana súkromia -> Správa -> Prístupy špeciálnych aplikácií -> Obraz v obraze\n\nV najnovšej verzii V15.43.32 je pip chybou oficiálnej aplikácie YouTube, takže najskôr počkajte, kým ju Google úplne opraví."
+			"title": "Picture-in-Picture issues",
+			"description": "⚠️Please don't report PIP related issues.⚠️\n• Pip is controlled by system as Vanced uses android native pip. Blame ROM for any issues with your PIP.\nOther apps like MX Player, VLC, etc uses its own PIP instead of android native hence they will never face such issues which persist in apps using native.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture\n\nOn latest V15.43.32, pip is stock yt bug so please wait for Google to fix it fully first."
 		},
 		{
-			"title": "Problémy so sťahovaním aplikácií",
+			"title": "App download issues",
 			"fields": [
 				{
-					"title": "Ak máte ťažkosti so sťahovaním Vanced súborov pomocou stránky vancedapp.com alebo nemôžete otvoriť našu stránku z dôvodu obmedzení servera alebo oblasti",
-					"content": "Nášho nového manažéra môžete získať priamo [tu](https://github.com/YTVanced/VancedManager/releases/)\n\nPOZNÁMKA: Stiahnite si „manager.apk“ v latest release > assets. Nesťahujte však žiadne súbory zip ani nič iné, pretože to nie sú aplikácie."
+					"title": "If you are having trouble downloading vanced files using vancedapp.com or can't open our site due to server/region restrictions",
+					"content": "You can get our new manager right [here](https://github.com/YTVanced/VancedManager/releases/)\n\nNOTE: Here you have to choose \"manager.apk\" in latest release > assets. Don't choose zips or anything else as they are not apks."
 				},
 				{
-					"title": "Ak máte problémy so sťahovaním a inštaláciou Vanced prostredníctvom manažéra, stále môžete na inštaláciu použiť SAI/manuálnu metódu.",
-					"content": "• Odkaz na MediaFire na stiahnutie požadovaných súborov.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Odkaz na AFH na stiahnutie požadovaných súborov.\n>https://androidfilehost.com/?w=files&flid=170196\n\nPOZNÁMKY:\n\nA) Vzhľadom k tomu, že máme všetky samostatné APK súbory na serveri mediafire/afh, musíte zazipovať všetky „base, architecture and language“ APK a nainštalovať ich cez SAI. Všetky 3 APK sú nevyhnutné.\nB) Manuálnu inštaláciu je možné vykonať iba prostredníctvom root, pretože vyžaduje prístup k root úložisku."
+					"title": "If you are having trouble downloading and installing vanced via manager, you can still use SAI/manual method to install vanced.",
+					"content": "• Use the MediaFire mirror to download the required files.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Use the AFH Mirror to download the required files.\n>https://androidfilehost.com/?w=files&flid=170196\n\nNOTES:\n\nA) Since we have all separate apk files on mediafire/afh now, you have to zip all \"base, architecture and language\" apk's & install it via SAI. All 3 apk are must.\nB) Manual installation can only be done either via root since it requires accessing root storage."
 				}
 			]
 		},
 		{
-			"title": "Odpojenie YouTube",
-			"description": "Na odpojenie aplikácie YouTube z Obchodu Play môžete použiť ktorékoľvek z nižšie uvedených riešení.",
+			"title": "Detach",
+			"description": "You can use any of the workarounds below to detach YouTube app from market.",
 			"fields": [
 				{
-					"title": "Riešenie 1",
-					"content": "V prípade, že vyššie uvedené metódy odpojenia pre vás nefungujú, môžete vyskúšať metódy uvedené nižšie:\n\nS použitím zálohovacej aplikácie Titanium (vyžaduje pro verziu)\n\n• Otvorte aplikáciu Titanium \n\n• Vyhľadajte YouTube a kliknite na neho \n\n• Prejdením prstom doľava získate prístup k špeciálnym funkciám \n\n• Kliknite na 'Attach to market' \n\n• Potom opäť prejdite na špeciálne funkcie \n\n• Kliknite na 'Detach from market' \n\n• Hotovo"
+					"title": "Workaround 1",
+					"content": "In case the detach methods listed above doesn't work for you, you can try the ones down below:\n\nUsing Titanium backup app(needs pro version)\n\n• Open titanium backup \n\n• Search for youtube and Click on it \n\n• Swipe left to access special features \n\n• Click on Attach to market \n\n• Then again go to special features \n\n• Click on 'detach from market' \n\n• Done"
 				},
 				{
-					"title": "Riešenie 2",
-					"content": "POZNÁMKA: Pred vykonaním tohto postupu musia byť v Obchode Play deaktivované automatické aktualizácie.\n\n1. Vytvorte súbor „Detach.txt“ na ceste /sdcard/ (ekvivalent ku /storage/emulated/0/) a napíšte do neho „YouTube“ bez úvodzoviek. Môžete si tiež stiahnuť súbor Detach.txt z Magisk modulu s názvom Detach a odstráňte znak # spred slova YouTube.\n\n2. V správcovi Magisk flashnite Detach modul.\n\n3. V správcovi Magisk flashnite Daily Job Scheduler (djs).\n\n4. Reštartujte zariadenie\n\n5. Otvorte Terminál, zadajte „su -c detach -t“ a nastavte ho tak, aby sa spúšťal raz za hodinu.\n\n6. Hotovo!\n\nObchod Play aktualizuje svoj databázový súbor v náhodných frekvenciách, niekedy aj niekoľkokrát denne. Raz za čas (napríklad raz za dva týždne) sa teda zobrazí aktualizácia pre YouTube, ale zmizne, keď djs znova spustí skript."
+					"title": "Workaround 2",
+					"content": "NOTE: Auto-Updates must be disabled in play store before doing this.\n\n1. Create \"Detach.txt\" in the following location /sdcard/ (equivalent to /storage/emulated/0/) write \"YouTube\" in that text file without quotes. You can also download the Detach.txt from Magisk module name Detach and remove the # in front of YouTube.\n\n2. Flash Detach module in Magisk manager.\n\n3. Flash Daily Job Scheduler (djs) in Magisk manager.\n\n4. Reboot\n\n5. Open Terminal and type \"su -c detach -t\" and set it to run once every hour.\n\n6. Done!\n\nPlay Store updates its database file on a random rhythm, sometimes several times a day. Once in a while (like once every two weeks), Play Store will show an update for Youtube, but it will go away when the script has run again by djs."
 				}
 			]
 		},
 		{
-			"title": "Riešenia pre chyby Vanced Manažéra/SAI",
-			"description": "Nižšie uvádzame niektoré známe problémy, ktorým môžete čeliť, ak nebudete postupovať podľa pokynov. Prečítajte si teda tieto príčiny a ich riešenia pre opravu vášho problému.",
+			"title": "Fix For SAI/Vanced Manager errors",
+			"description": "Below are some known reasons you might face when you don't follow instructions, so read the appropriate cause with its solution and fix your problem.",
 			"fields": [
 				{
 					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
-					"content": "Odinštalujte aktualizácie oficiálnej aplikácie YouTube. Uistite sa, že oficiálna verzia YouTube je nižšia ako Vanced verzia, ktorú sa snažíte inštalovať."
+					"content": "Uninstall stock yt updates. Make sure Stock YouTube version is lower than vanced version you are installing now."
 				},
 				{
 					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
-					"content": "Stačí odinštalovať všetky Vanced aplikácie, ktoré ste nainštalovali z akéhokoľvek iného zdroja, a potom znova Vanced nainštalovať. V opačnom prípade odinštalujte \"Vanced microG\" > reštartujte zariadenie > následne najskôr nainštalujte Vanced microG a až potom Vanced. Ak chyba stále pretrváva, použite SAI na manuálnu inštaláciu Vanced split apks. Tieto APK súbory sa nachádzajú v priečinku \n„android/data/com.vanced.manager/files/vanced/nonroot/“"
+					"content": "Just uninstall any vanced app that you have installed from any other source then install vanced.  Otherwise uninstall \"vanced microG\" > reboot device > then install vanced microG first then Vanced. If error still comes, use SAI to install the vanced split apks manually. These apk files are located in \n\"android / data / com.vanced.manager / files / vanced / nonroot / \""
 				},
 				{
 					"title": "INSTALL_PARSE_FAILED_NOT_APK",
-					"content": "Zmeňte jazyk telefónu z indonézštiny na angličtinu a nainštalujte Vanced. Po inštalácii môžete jazyk zmeniť späť na indonézštinu. Ak vaše zariadenie nepoužíva indonézsky jazyk, uistite sa, že v aplikácii Vanced Manažér je správne vybraný jazyk, ktorý chcete nainštalovať s YouTube Vanced."
+					"content": "Change the language of your phone from Indonesian to English then install vanced. After installing, you can change language back to Indonesian. If your device isn't using Indonesian language, make sure language is properly selected in Vanced manager which you wanna install with YouTube Vanced."
 				},
 				{
 					"title": "INSTALL_FAILED_NO_MATCHING_ABIS",
-					"content": "Namiesto predvolenej verzie si stiahnite staršiu verziu"
+					"content": "Download legacy version instead of default"
 				},
 				{
 					"title": "INSTALL_FAILED_INVALID_APK: Split config.en was defined multiple times",
-					"content": "Skúste odstrániť jeden apk split_config.en z apks súboru a znova spustite inštaláciu\n(apks súbor je iba zip súbor, takže z neho môžete apk ľahko odstrániť)"
+					"content": "Try removing one split_config.en apk from apks file then install\n(Apks file is just a zip file so you can easily remove the apk from it)"
 				},
 				{
 					"title": "INSTALL_FAILED_DUPLICATE_PERMISSION",
-					"content": "Odinštalujte microG > reštartujte zariadenie > nainštalujte Vanced cez SAI > nainštalujte microG\n\nAk sa microG nenainštaluje, nainštalujte ho taktiež pomocou SAI."
+					"content": "Uninstall microG > reboot > install vanced via sai > install microG\n\nIf microG doesn't install, install microG too via SAI."
 				},
 				{
-					"title": "Aplikáciu nie je možné nainštalovať, pretože je v konflikte s už nainštalovanou aplikáciou s rovnakým názvom balíka",
-					"content": "Odinštalujte microG > reštartujte zariadenie > nainštalujte Vanced cez SAI > nainštalujte microG cez inštalátor balíkov\n\nAk sa microG nenainštaluje, nainštalujte ho taktiež pomocou SAI."
+					"title": "Unable to install the app because it conflicts with an already installed app with same package name",
+					"content": "Uninstall microG > reboot > install vanced via sai > install microG via apk package installer\nIf microG doesn't install, install microG too via SAI."
 				},
 				{
 					"title": "APP IS INCOMPATIBLE WITH THIS DEVICE",
-					"content": "Pri sťahovaní súborov Vanced z oficiálnych Vanced zdrojov si namiesto predvolenej architektúry stiahnite súbory staršej architektúry."
+					"content": "Download the legacy architecture files when downloading vanced files from official vanced mirrors instead of default architecture."
 				},
 				{
 					"title": "INSTALL_PARSE_FAILED_NO_CERTIFICATES",
-					"content": "Zdá sa, že ste nečítali pokyny správne a nainštalovali ste Vanced bez deaktivácie overenia podpisu, alebo ste vyskúšali nejakú metódu, ktorá nepriniesla žiadny pozitívny výsledok. Riešením oboch prípadov je zakázať overenie podpisu pomocou najlepšej metódy/alternatívy k tomu, čo ste používali predtým."
+					"content": "It seems like you didn't read instructions properly and installed vanced without disabling signature verification. or you tried some method which didn't give any positive result, so the solution to both is to disable signature verification using the best method/alternative to what you used before."
 				},
 				{
 					"title": "INSTALL_FAILED_INVALID_INSTALL_LOCATION",
-					"content": "Prejdite do nastavení svojho zariadenia > možnosti pre vývojárov a vypnite možnosť „Vynútiť povolenie aplikácií na externom úložisku“ a potom nainštalujte aplikáciu Vanced cez SAI."
+					"content": " Please head to your device settings > developer options and turn off \"force allow apps on external\" then install the Vanced app in SAI."
 				},
 				{
 					"title": "INSTALL_FAILED_USER_RESTRICTED: Install canceled by user",
-					"content": "Vaše zariadenie je chránené pred inštaláciou z neznámych zdrojov. Prejdite do nastavení zariadenia a povoľte neznáme zdroje pre SAI. Následne budete môcť Vanced nainštalovať."
+					"content": "Unknown sources install is protected per service in your MIUI devices Please go to your device settings and enable unknown sources for SAI and issue will get solved and you will be able go install Vanced."
 				},
 				{
 					"title": "INSTALL_FAILED_INTERNAL_ERROR: Permission Denied",
-					"content": "Zakážte optimalizáciu MIUI z vývojárskych možností zariadenia."
+					"content": "Disable MIUI optimization from your device developer options."
 				}
 			]
 		},
 		{
-			"title": "Problémy s Live-Streamom",
-			"description": "Riešenie: Postupujte podľa tejto príručky > https://youtu.be/R9asMVCQkAU. Taktiež zakážte pre Vanced váš Ad-Blocker/VPN/proxy/vlastné nastavenia. Ak nechcete čeliť žiadnym problémom, ponechajte si predvolené nastavenia."
+			"title": "Live-Stream issues",
+			"description": "Solution: Follow this guide > https://youtu.be/R9asMVCQkAU. Also, disable your external ad-blockers/vpn/proxy/custom settings in vanced. Keep stock settings if you don't wanna see any issues."
 		},
 		{
-			"title": "Biela listina",
-			"description": "Ak narazíte na zlyhania v Root verziách YouTube Vanced z dôvodu pridania na bielu listinu, môžete vyskúšať sprievodcu z tohto odkazu (https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error) a uvidíte, sa problém vyrieši.\n\n Prípadne, ak odkaz nepomohol, vyčistite flash pamäte ROM, aby ste problém vyriešili, alebo porovnajte s inou ROM."
+			"title": "Whitelisting",
+			"description": "If you face crashes on YouTube Vanced root variants for whitelisting causes, you can try this guide from this link(https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error) and see if it solves for you.\n\n Alternatively, if link didn't helps, clean flash your ROM to fix this issue or check with a different ROM."
 		},
 		{
-			"title": "Oprava čiernej obrazovky videa",
-			"description": "Riešenie: Problém by malo vyriešiť vymazanie údajov z Youtube Vanced a následná opätovná inštalácia. Ak sa tak nestane, skúste reštartovať zariadenie a skontrolovať, či sa problém s čiernou obrazovkou vyriešil.\n\nAk problém pretrváva, obnovte výrobné nastavenia zariadenia alebo zmeňte ROM."
+			"title": "Black screen video fix",
+			"description": "Solution: clearing data of Youtube Vanced and subsequently reinstalling it should fix the issue. If it doesn't, try a Reboot &\nCheck if black screen issue solves. \n\nIf problem persist, factory reset your device or change the ROM."
 		},
 		{
-			"title": "Obmedzenia obsahu",
-			"description": "V angličtine sa nazýva „Restricted mode“\nV arabčine sa nazýva „وضع تقييد المحتوى“\n\nAk chcete vyriešiť problém s menším počtom výsledkov vyhľadávania, postupujte podľa tohto návodu:\n\n1. Prejdite do Nastavenia > Všeobecné\n\n2. Nájdite „obmedzený režim“ a vypnite ho.\n\nAk sa nachádzate v krajine, ktorú Google neznáša, použite VPN."
+			"title": "Content Restrictions",
+			"description": "In English it is callled \"restricted mode\"\nIn arabic it is called \"وضع تقييد المحتوى\"\n\nTo solve issue of lesser search results, do this\n\n1. Go to settings > General\n\n2. Find \"restricted mode\" and turn it off.\n\nIf you're in a country that Google hates, use a vpn."
 		},
 		{
-			"title": "Zmena počtu zobrazení",
-			"description": "Ak chcete zmeniť počet zobrazení z tisícov na milióny, postupujte takto:\n\n\nRiešenie:\n\n1. Prejdite do nastavení zariadenia\n\n2. Prejdite na položku Systém\n\n3. Prejdite na Predvoľby jazyka\n\n4. Pridajte jazyk angličtina (USA)\n\n5. Zmeňte prioritu tohto jazyka na najvyššiu\n\n6. Choďte späť na YouTube a užívajte si ⚡\n\nĎakujeme @ROG_OK z telegramu skupiny Vanced za nájdenie tohto riešenia."
+			"title": "View count change",
+			"description": "To change the view count from crores/lakhs to millions, do this:\n\n\nSolution:\n\n1. Go to settings (of your phone)\n\n2. Go to system \n\n3. Go to language preferences\n\n4. Add a language as English (US) \n\n5. Drag this language above your current one.\n\n6. Go to youtube and enjoy ⚡\n\nThanks to @ROG_OK from telegram Vanced group for finding the fix."
 		},
 		{
-			"title": "Titulky",
-			"description": "Ak máte pri anglickom videu problémy s titulkami, ako sú náhodné titulky v rôznych jazykoch, musíte postupovať takto:\nV nastaveniach titulkov nastavte ich jazyk na svoj regionálny jazyk.\n\nAk chcete získať prístup k nastaveniam titulkov, prejdite na nastavenia zariadenia > Zjednodušenie ovládania > Titulky\n\nAlebo\n\nNastavenia YouTube > Titulky"
+			"title": "Captions",
+			"description": "If you face caption issues such as random subtitles of different languages on an english video, here's what you have to do;\nSet the caption language to your region language in your caption settings.\n\nTo access caption settings, head to device settings > accessibility > captions\n\nOr\n\nYouTube settings > captions"
 		},
 		{
-			"title": "Riešenie pre HDR",
-			"description": "Pomocou gesta potiahnutia prstom nastavte jas na maximum"
+			"title": "HDR brightness Workaround",
+			"description": "Use the swiping features to turn the brightness to its maximum"
 		},
 		{
-			"title": "Zlyhanie nastavení",
-			"description": "Deaktivujte zabezpečenie odtlačkom prsta, prejdite do nastavení a vykonajte nastavenie. Po dokončení ho znova aktivujte. Po tomto kroku sa už daná chyba nebude vyskytovať, pokiaľ nereštartujete zariadenie."
+			"title": "Settings crashes",
+			"description": "Turn off your fingerprint and go in the settings and do your setting, after it's done, turn it back on. It won't crash again after that, even if you keep going in it unless you restart your device."
 		}
 	]
 }
