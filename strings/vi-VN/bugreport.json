@@ -2,19 +2,19 @@
   "bugreport": [
     {
       "title": "Làm sao để báo lỗi?",
-      "description": "Bạn có thể báo lỗi bằng cách tạo vấn đề tại [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nHãy chắc chắn rằng bạn đã đọc qua các vấn đề hiện có và kiểm tra nếu lỗi của bạn đã được báo cáo trước kia trước khi báo lỗi!",
+      "description": "Bạn có thể báo lỗi bằng cách sử dụng [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nHãy chắc chắn rằng bạn đã đọc qua các vấn đề hiện có và kiểm tra nếu lỗi của bạn đã được báo cáo trước kia trước khi báo lỗi!",
       "fields": [
         {
           "title": "Khi nào thì vấn đề của tôi sẽ được xem xét?",
           "content": "Các nhà phát triển dành thời gian để tạo ra các tính năng mới và sửa chữa nhiều vấn đề, mỗi thứ sẽ cần một khoảng thời gian để hoàn thành. \nBạn chỉ cần kiên nhẫn và chờ đợi. Vấn đề của bạn sẽ được xem xét sớm nhất có thể."
         },
         {
-          "title": "Làm cách nào để lấy logcat?",
-          "content": "Đối với người dùng không root:\nBạn sẽ cần PC để nhận kết quả đầu ra `logcat`. Đây là [văn bản hướng dẫn](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) và [video hướng dẫn](https://youtu.be/ICLpwgsJJP0).\n\nĐối với người dùng root:\nBạn không cần PC cho việc này. Bạn có thể làm theo hướng dẫn [tại đây](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "title": "How do I take a logcat?",
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this. You can follow the instructions [in here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Lỗi của bạn liên quan tới giao diện?",
-          "content": "Đối với các lỗi liên quan đến giao diện người dùng, bạn sẽ có các bước bổ sung để thực hiện.\n\nVui lòng cài đặt và thiết lập [Trợ lý nhà phát triển] (https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nSau đó, hãy chuyển đến Vanced và tái tạo lỗi, sau đó mở trình xem Bố cục bằng cách kích hoạt Trợ lý nhà phát triển.\n\nBây giờ hãy làm theo các bước sau:\n1. Đảm bảo rằng lỗi đang hiển thị trên màn hình.\n2. Nhấn vào phần tử mà bạn cho là bị ảnh hưởng bởi lỗi.\n3. Đi tới tab `Phần tử` và 'Cấu trúc phân cấp` và chụp ảnh màn hình các kết quả đầu ra.\n4. Đưa những ảnh chụp màn hình đó vào vấn đề của bạn."
+          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
         }
       ]
     }
