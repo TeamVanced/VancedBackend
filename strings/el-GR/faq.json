@@ -17,86 +17,86 @@
       "description": "Η λήψη βίντεο είναι διαθέσιμη δωρεάν μόνο σε αυτές(https://support.google.com/youtube/answer/6141269) τις χώρες. Τα βίντεο που χρειάζονται YouTube Premium δεν πρόκειται να κατέβουν ποτέ, οπότε αν δείτε το μήνυμα YouTube Premium κατά τη λήψη μερικών βίντεο, απλώς αγοράστε το YouTube Premium για να λειτουργήσει.\n\nΣημείωση και πάλι, \"ΤΟ VANCED ΔΕΝ ΕΙΝΑΙ YOUTUBE PREMIUM\".\n\n⚠️⚠️Το Vanced δεν θα προσθέσει ποτέ οποιοδήποτε είδος τρίτων εφαρμογών λήψης βίντεο στην εφαρμογή. Όχι μόνο διότι είναι ταλαιπωρία για τους προγραμματιστές να το συντηρούν, αλλά δίνει επίσης στην Google έναν ακόμη λόγο να ρίξει την εφαρμογή μας (λόγο πνευματικών δικαιωμάτων), πράγμα που σημαίνει ότι θα σταματήσει να υποστηρίζεται Vanced.\n\nΚανείς δεν το θέλει αυτό, οπότε η λήψη βίντεο YouTube μέσω άλλων πηγών δεν πρόκειται να υποστηριχθεί ποτέ στην εφαρμογή YouTube Vanced. Παρακαλώ μην ρωτάτε αν οι προγραμματιστές μπορούν να προσθέσουν αυτού του είδους δυνατότητες. Αν δεν μπορείτε να κατεβάσετε βίντεο από την εφαρμογή Vanced, τότε απλά αγοράστε το YouTube Premium.⚠️"
     },
     {
-      "title": "Γιατί δεν λειτουργούν οι χειρονομίες ολίσθησης;",
-      "description": "Αν εμφανίζονται τα σχόλια στο κάτω μέρος (παλιά θέση) στις ρυθμίσεις του Vanced > Ρυθμίσεις διάταξης, απενεργοποιήστε το και επανεκκινήστε την εφαρμογή. Αν δεν λειτουργεί, διακόψτε εξαναγκαστικά την εφαρμογή και εκκαθαρίστε τα δεδομένα της."
+      "title": "Χειρονομίες ολίσθησης",
+      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
     },
     {
-      "title": "Δεν υπάρχουν λεζάντες;",
-      "description": "Αυτό το ζήτημα δεν σχετίζεται με το Vanced ή το YouTube. Δεν έχουν όλα τα βίντεο λεζάντες."
+      "title": "Captions not available?",
+      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
     },
     {
-      "title": "Δέχεστε δωρεές;",
+      "title": "Do you take donations?",
       "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "Πώς θα ενεργοποιήσω την αυτόματη απόκρυψη του προγράμματος αναπαραγωγής;",
+      "title": "How to make the player layout auto-hide?",
       "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
     },
     {
-      "title": "Γιατί χρησιμοποιούνται χωριστά (split) APK;",
+      "title": "Why using split APKs?",
       "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
     },
     {
-      "title": "Γιατί το χρώμα στην οθόνη εκκίνησης είναι διαφορετικό από το θέμα;",
+      "title": "Why the colour in the startup screen is different from the theme?",
       "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
     },
     {
-      "title": "Πρέπει να κάνω ξανά λήψη των αρχείων εγκατάστασης;",
-      "description": "Τα αρχεία ενδέχεται να έχουν καταστραφεί εξαιτίας διαφόρων λόγων και ίσως προκαλέσουν προβλήματα στη συνέχεια. Για να το αποφύγετε αυτό, μπορείτε να επιλέξετε να κάνετε ξανά λήψη για να βεβαιωθείτε ότι η εγκατάστασή σας θα ολοκληρωθεί ομαλά."
+      "title": "Should I re-download the installation files?",
+      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
     },
     {
-      "title": "Γιατί η έκδοση root δεν διαθέτει δικαίωμα για το μικρόφωνο;",
-      "description": "Διαθέτει, εφόσον το Vanced σας είναι ενημερωμένο."
+      "title": "Why does the root version don't have Microphone permission?",
+      "description": "It does if your Vanced is up-to-date."
     },
     {
-      "title": "Τι είναι το ExoPlayer v1;",
-      "description": "Είναι μια παλαιότερη έκδοση του τρέχοντος προγράμματος αναπαραγωγής πολυμέσων που χρησιμοποιείται από το YouTube. Ενδέχεται να έχετε καλύτερες επιδόσεις και σταθερότητα όταν τη χρησιμοποιείτε."
+      "title": "What is ExoPlayer v1?",
+      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
     },
     {
-      "title": "Πώς ενεργοποιώ τις κρυφές ρυθμίσεις;",
-      "description": "Στις ρυθμίσεις του Vanced, πατήστε την ενότητα `Σχετικά` 6-7 φορές για ενεργοποίηση. Θα ενεργοποιηθούν μόνο οι επιπλέον ρυθμίσεις κωδικοποιητή βίντεο."
+      "title": "How to enable hidden settings?",
+      "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
     },
     {
-      "title": "Γιατί η έκδοση root δεν λειτουργεί με το microG Core;",
-      "description": "1. Πρέπει να έχετε τουλάχιστον την έκδοση [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) των GApps για εκτέλεση του Vanced.\n\n2. Δεν μπορείτε να εκτελέσετε το Vanced με το microG Core, χωρίς το Πλαίσιο υπηρεσιών Google Play, το οποίο διατίθεται σε όλα τα πακέτα GApps και είναι απαιτούμενη βιβλιοθήκη.\n\n3. Αν ανησυχείτε για το απόρρητό σας και δεν θέλετε να χρησιμοποιείτε GApps, αλλά θέλετε να παρακολουθείτε YouTube χωρίς διαφημίσεις, η [έκδοση web](https://youtube.com) είναι πάντα διαθέσιμη."
+      "title": "Why the root variant doesn't work with microG Core?",
+      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Γιατί δεν λειτουργεί η μετάδοση;",
-      "description": "Λειτουργεί εφόσον είναι ενημερωμένο το microG σας."
+      "title": "Why casting doesn't work?",
+      "description": "It works if your microG is up-to-date."
     },
     {
-      "title": "Τι είναι η Υπογραφή APK;",
-      "description": "Διαβάζετε το παρόν κείμενο επειδή δεν χρησιμοποιείτε το Vanced Manager ή ενδέχεται να έχετε εγκαταστήσει το Vanced από ανεπίσημη πηγή.\nΧρησιμοποιήστε απλά το Vanced Manager!\n\nΜπορείτε να κάνετε ασφαλή λήψη του Vanced Manager από:\n- Την επίσημη ιστοσελίδα <https://vancedapp.com>\n- Το [αποθετήριο GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "What is APK Signing?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Διατίθεται το YouTube Vanced στο Play Store;",
+      "title": "Is YouTube Vanced on Play Store?",
       "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
     },
     {
-      "title": "Γιατί δεν εμφανίζεται το Vanced στην αρχική οθόνη ή το μενού εφαρμογών;",
-      "description": "Διαβάζετε το παρόν κείμενο επειδή δεν χρησιμοποιείτε το Vanced Manager ή ενδέχεται να έχετε εγκαταστήσει το Vanced από ανεπίσημη πηγή.\nΧρησιμοποιήστε απλά το Vanced Manager!\n\nΜπορείτε να κάνετε ασφαλή λήψη του Vanced Manager από:\n- Την επίσημη ιστοσελίδα <https://vancedapp.com>\n- Το [αποθετήριο GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Why is Vanced not showing up in home screen or app drawer?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Γιατί δεν αναπαράγονται τα βίντεο;",
-      "description": "Δοκιμάστε να επανεκκινήσετε την εφαρμογή. Ενδέχεται να οφείλεται στη σύνδεσή σας στο διαδίκτυο ή τη συσκευή σας."
+      "title": "Why aren't videos playing?",
+      "description": "Try restarting the app. It might also because of your internet connection or your device."
     },
     {
-      "title": "Γιατί έχω όριο τα 480p;",
-      "description": "Λόγω του COVID-19, η Google περιορίζει τη χρήση δεδομένων σε πολλές χώρες. Αυτό συμβαίνει στον διακομιστή και επηρεάζει τόσο τους χρήστες Vanced, όσο και τους χρήστες του κανονικού YouTube.",
+      "title": "Why am I having the 480p limit?",
+      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
       "fields": [
         {
-          "title": "Λύσεις:",
+          "title": "Workarounds:",
           "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
         }
       ]
     },
     {
-      "title": "Πώς κρύβω την ειδοποίηση του microG;",
-      "description": "Για να αποκρύψετε την ειδοποίηση του microG, μπορείτε να απενεργοποιήσετε τη βελτιστοποίηση μπαταρίας για το microG και να επανεκκινήσετε τη συσκευή σας.\n\nΑν η ειδοποίηση είναι ακόμα εκεί μετά την επανεκκίνηση, απενεργοποιήστε τις ειδοποιήσεις του microG πατώντας παρατεταμένα την ειδοποίηση απενεργοποιήστε την και πατήστε \"Αποθήκευση\".\n\nΗ απενεργοποίηση ειδοποιήσεων εφαρμογής μπορεί να γίνει με διαφορετικούς τρόπους, ανάλογα με το περιβάλλον χρήσης του Android. Αν δεν γνωρίζετε πώς να τις απενεργοποιήσετε, δοκιμάστε να χρησιμοποιήσετε το Google για να μάθετε πώς να το κάνετε."
+      "title": "How to hide the microG notification?",
+      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
-      "title": "Η ανάλυση 1440p φαίνεται καλύτερα στην 1080p οθόνη μου;",
-      "description": "Ναι, αλλά μόνο αν η αναλογία του βίντεο είναι, για παράδειγμα,18:9, 21:9... Μπορείτε να ενεργοποιήσετε το `Στατιστικά για σπασίκλες` στις Ρυθμίσεις > Γενικά για επιβεβαίωση.\n\nΓια να ενεργοποιήσετε υψηλότερες αναλύσεις, μεταβείτε στις Ρυθμίσεις Vanced > Ρυθμίσεις βίντεο και ενεργοποιήστε το `Μέγιστη ανάλυση`. Τέλος, επανεκκινήστε την εφαρμογή."
+      "title": "Does 1440p look better on my 1080p screen?",
+      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
     }
   ]
 }
