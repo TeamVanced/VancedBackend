@@ -22,7 +22,7 @@
     },
     {
       "title": "Ondertitels niet beschikbaar?",
-      "description": "Dit is niet een probleem. Niet alle video's hebben ondertitels."
+      "description": "Dit is geen Vanced of YouTube gerelateerd probleem. Niet alle video's hebben bijnamen."
     },
     {
       "title": "Aanvaarden jullie giften?",
@@ -38,7 +38,7 @@
     },
     {
       "title": "Waarom is de kleur van het opstart scherm anders dan het thema?",
-      "description": "De achtergrondkleur van het opstartscherm wordt uit de Android framework kleur gehaald om er zeker van te zijn dat deze wijzigt volgens jouw systeemthema. Je kan Substratum/Swift thema's gebruiken om de kleur te veranderen."
+      "description": "De achtergrondkleur van het opstartscherm wordt uit de Android framework kleur gehaald om er zeker van te zijn dat deze wijzigt volgens jouw systeemthema. Je kan [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) of [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) of een gelijkaardige app gebruiken om de kleur te veranderen."
     },
     {
       "title": "Moet ik de installatiebestanden opnieuw downloaden?",
@@ -57,7 +57,7 @@
       "description": "In Vanced instellingen klik je 6-7 keer op de sectie \"Over\" om dit in te schakelen. Dit schakelt enkel extra video codec instellingen in."
     },
     {
-      "title": "Wat is er mis met microG Core?",
+      "title": "Waarom werkt de root-versie niet met microG Core?",
       "description": "1. Je moet in ieder geval de [pico] versie van GApps (https://github.com/opengapps/opengapps/wiki/Pico-Package) hebben om Vanced te gebruiken.\n\n2. Je kan Vanced niet laten werken met microG Core, omdat het Google Play Services Framework nodig heeft, dat beschikbaar is in alle GApps pakketten.\n\n3. Als je je zorgen maakt over jouw privacy en GApps niet wil gebruiken, maar YouTube wil kijken zonder advertenties, dan is de [web versie](https://youtube.com) nog steeds beschikbaar."
     },
     {
