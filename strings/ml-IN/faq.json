@@ -1,102 +1,102 @@
 {
   "faq": [
     {
-      "title": "എന്താണ് YouTube വാൻസഡ്?",
-      "description": "നിങ്ങളുടെ YouTube അനുഭവം മികച്ചതാക്കുന്നതിനായി അധിക സവിശേഷതകളുള്ള YouTube- ന്റെ പരിഷ്‌ക്കരിച്ച പതിപ്പാണ് YouTube Vanced!\n\nഅത്തരം സവിശേഷതകളിൽ ഇവ ഉൾപ്പെടുന്നു:\n- പശ്ചാത്തല പ്ലേബാക്ക്,\n- ചിത്രത്തിലെ ചിത്രം (പി‌പി),\n- കറുത്ത തീം (OLED ഫ്രണ്ട്‌ലി),\n- പരസ്യങ്ങൾ നീക്കംചെയ്യൽ (പ്രവർത്തനക്ഷമമാക്കേണ്ടതുണ്ട്),\n- പരമാവധി മിഴിവ് അസാധുവാക്കുക (നിങ്ങളുടെ സ്ക്രീനിനേക്കാൾ ഉയർന്ന മിഴിവുള്ള വീഡിയോയുടെ പ്ലേബാക്ക് അനുവദിക്കുക),\n- ...അതോടൊപ്പം തന്നെ കുടുതല്!\n\nകൂടുതൽ വിവരങ്ങൾക്ക്, <https://vancedapp.com> സന്ദർശിക്കുക"
+      "title": "What is YouTube Vanced?",
+      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
     },
     {
-      "title": "ഡൗൺലോഡ് ബട്ടൺ എവിടെയാണ്?",
-      "description": "തീർച്ചയായും, സ്വന്തം അപ്ലിക്കേഷന്റെ പരിഷ്‌ക്കരിച്ച പതിപ്പ് അവരുടെ സ്റ്റോറിൽ തുടരാൻ Google അനുവദിക്കില്ല, അതിനാൽ ഇത് വ്യാജ അപ്ലിക്കേഷനുകളായ Google Play സ്റ്റോറിൽ തിരയരുത്.\n\nഞങ്ങളുടെ official ദ്യോഗിക വെബ്‌സൈറ്റായ <https://vancedapp.com> ൽ കാണാവുന്ന വാൻ‌സ്ഡ് മാനേജർ‌ ഉപയോഗിച്ച് വാൻ‌സ്ഡ് അപ്ലിക്കേഷനുകൾ‌ ഡ download ൺ‌ലോഡുചെയ്യാനും ഇൻ‌സ്റ്റാൾ‌ ചെയ്യാനും കഴിയും, പക്ഷേ നിങ്ങൾക്ക് ഇത് [GitHub repo] (https://github.com/YTVanced/ VancedManager / റിലീസുകൾ / ഏറ്റവും പുതിയത്)"
+      "title": "Where is the Download button?",
+      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "YouTube യാന്ത്രികമായി അപ്‌ഡേറ്റുചെയ്യുന്നുണ്ടോ?",
-      "description": "ഇല്ല, ഇല്ല.\n\nഒരെണ്ണം ഉള്ളപ്പോൾ വാൻസ്‌ഡ് മാനേജർ നിങ്ങൾക്ക് ഒരു അറിയിപ്പ് അയയ്‌ക്കും.\n\nനിങ്ങൾക്ക് ഞങ്ങളുടെ [ഡിസ്കോർഡ് സെർവറിൽ] (https://discord.gg/Vanced) ചേരാം അല്ലെങ്കിൽ ഏറ്റവും പുതിയ വാർത്തകൾക്കും അപ്‌ഡേറ്റ് അറിയിപ്പുകൾക്കും [ടെലിഗ്രാം ചാനൽ] (https://t.me/Vanced) പിന്തുടരാം."
+      "title": "Does YouTube Vanced auto-update?",
+      "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
     },
     {
-      "title": "വാൻ‌സ്ഡ് വീഡിയോകൾ‌ ഡ download ൺ‌ലോഡുചെയ്യാൻ‌ കഴിയുമോ?",
-      "description": "വീഡിയോ ഡ download ൺ‌ലോഡുചെയ്യുന്ന സവിശേഷതകളൊന്നും വാൻ‌സിൽ‌ ഉൾ‌പ്പെടുന്നില്ല, ഒരിക്കലും ചെയ്യില്ല.\n\n[തിരഞ്ഞെടുത്ത രാജ്യങ്ങളിൽ] നിരവധി വീഡിയോകൾ സ download ജന്യമായി ഡ download ൺലോഡ് ചെയ്യാൻ ലഭ്യമാണ് (https://support.google.com/youtube/answer/6141269). ലോകത്തിന്റെ മറ്റു ഭാഗങ്ങളിൽ, ദയവായി YouTube പ്രീമിയം നേടുക.\n\nവീണ്ടും, വാൻ‌സ്ഡ് ഒരു വീഡിയോ ഡ download ൺ‌ലോഡറെ അപ്ലിക്കേഷനിലേക്കോ സമാനമായ മറ്റെന്തെങ്കിലുമോ ചേർക്കില്ല.\n\nആളുകൾ‌ അവരുടെ പ്ലാറ്റ്‌ഫോമിൽ‌ നിന്നും പകർ‌പ്പവകാശമുള്ള ഉള്ളടക്കം ഡ download ൺ‌ലോഡുചെയ്യുന്നത് Google ഇഷ്ടപ്പെടാത്തതിനാൽ‌ മുമ്പ്‌ നിരവധി YouTube മോഡുകൾ‌ ഷട്ട്ഡ to ൺ‌ ചെയ്യുന്നതിന് ഇത് കാരണമായി!!!"
+      "title": "Can Vanced download videos?",
+      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
     },
     {
-      "title": "സ്വൈപ്പ് സവിശേഷതകൾ പ്രവർത്തിക്കാത്തത് എന്തുകൊണ്ട്?",
-      "description": "വാൻ‌സ്ഡ് ക്രമീകരണങ്ങൾ> ലേ Layout ട്ട് ക്രമീകരണങ്ങളിൽ ചുവടെ (പഴയ സ്ഥലത്ത്) അഭിപ്രായങ്ങൾ കാണിച്ചിട്ടുണ്ടെങ്കിൽ, അത് അപ്രാപ്തമാക്കി അപ്ലിക്കേഷൻ പുനരാരംഭിക്കുക. അത് പ്രവർത്തിക്കുന്നില്ലെങ്കിൽ, അപ്ലിക്കേഷൻ നിർത്തി അതിന്റെ ഡാറ്റ മായ്‌ക്കുക."
+      "title": "Why the swipe gestures doesn't work?",
+      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
     },
     {
-      "title": "അടിക്കുറിപ്പുകൾ ലഭ്യമല്ലേ?",
-      "description": "ഇതൊരു വാൻസഡ് അല്ലെങ്കിൽ YouTube അനുബന്ധ പ്രശ്നമല്ല. എല്ലാ വീഡിയോകൾക്കും അടിക്കുറിപ്പുകൾ ഇല്ല."
+      "title": "Captions not available?",
+      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
     },
     {
-      "title": "നിങ്ങൾ സംഭാവന എടുക്കുന്നുണ്ടോ?",
-      "description": "ഞങ്ങൾ സംഭാവന സ്വീകരിക്കുന്നില്ല!\n\nഏത് സാഹചര്യത്തിലും ഏത് തരത്തിലുള്ള സംഭാവനകളും സംഭാവന ആവശ്യപ്പെടുന്ന ഏതെങ്കിലും സൈറ്റുകൾ അല്ലെങ്കിൽ ലിങ്കുകൾ അല്ലെങ്കിൽ പോസ്റ്റുകൾ വ്യാജമാണ്.\n\nനിങ്ങൾ‌ക്ക് വാൻ‌സ്ഡ് ഡവലപ്പർ‌മാരെ പിന്തുണയ്‌ക്കാൻ‌ താൽ‌പ്പര്യമുണ്ടെങ്കിൽ‌, [ഈ ലിങ്ക്] (https://brave.com/kev231), [ഈ ലിങ്ക്] ഉപയോഗിച്ച് AdGuard എന്നിവ ഉപയോഗിച്ച് ധൈര്യം ഡ download ൺ‌ലോഡുചെയ്യാം (https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "Do you take donations?",
+      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "പ്ലെയർ ലേ layout ട്ട് യാന്ത്രികമായി മറയ്‌ക്കുന്നതെങ്ങനെ?",
-      "description": "നിങ്ങൾക്ക് ഇത് YouTube വാൻ‌സ്ഡ്> ക്രമീകരണങ്ങൾ> പ്രവേശനക്ഷമതയിൽ ക്രമീകരിക്കാൻ കഴിയും. ക്രമീകരണങ്ങൾ തുറക്കുന്നതിൽ പരാജയപ്പെടുകയോ പ്രവർത്തിക്കുന്നില്ലെങ്കിലോ, നിങ്ങളുടെ ഉപകരണ പ്രവേശനക്ഷമത ക്രമീകരണങ്ങളിലേക്ക് പോയി ശബ്‌ദ ആംപ്ലിഫയർ അപ്രാപ്‌തമാക്കുക, ആക്‌സസ്സ് സ്വിച്ചുചെയ്യുക, തത്സമയ അടിക്കുറിപ്പ്."
+      "title": "How to make the player layout auto-hide?",
+      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
     },
     {
-      "title": "എന്തുകൊണ്ടാണ് സ്പ്ലിറ്റ് APK- കൾ ഉപയോഗിക്കുന്നത്?",
-      "description": "കാരണം:\n\n1. സ്റ്റോക്ക് അപ്ലിക്കേഷൻ ഇത് ഉപയോഗിക്കുന്നതിനാൽ വാൻസെഡ് അതും ഉപയോഗിക്കുന്നു.\n2. സംഭരണ ഉപഭോഗം കുറയ്ക്കുന്നതിന് നിങ്ങൾ വ്യക്തമാക്കിയ ഭാഷകൾ മാത്രമേ ഇത് ഇൻസ്റ്റാൾ ചെയ്യുകയുള്ളൂ.\n3. നിങ്ങളുടെ ഉപകരണത്തിന് ആവശ്യമായ കോർ APK- യുടെ ഏക പതിപ്പ് ഇതിന് ഉണ്ട്.\n\nതീർച്ചയായും, വാൻ‌സ്ഡ് മാനേജർ‌ അല്ലെങ്കിൽ‌ ഡവലപ്പർ‌മാർ‌ക്ക് ഇത് ഒരു സാധാരണ, ഒറ്റ APK ഫയലിലേക്ക് പരിവർത്തനം ചെയ്യാൻ‌ കഴിയും, പക്ഷേ ഞങ്ങൾ‌ അത് ചെയ്യാൻ‌ മടിയാണ്. ഞങ്ങളുടെ പക്കലുള്ളവയുമായി നിങ്ങൾ പൊരുത്തപ്പെടേണ്ടതുണ്ട്...\n\nഎന്നിരുന്നാലും വിഷമിക്കേണ്ട, വാൻ‌സ്ഡ് മാനേജർ‌ നിങ്ങൾ‌ക്കായി കഠിനാധ്വാനം ചെയ്യുന്നു, അതിനാൽ‌ `ഇൻ‌സ്റ്റാൾ‌` ബട്ടൺ‌ ടാപ്പുചെയ്യുക."
+      "title": "Why using split APKs?",
+      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
     },
     {
-      "title": "സ്റ്റാർട്ടപ്പ് സ്ക്രീനിലെ നിറം തീമിൽ നിന്ന് വ്യത്യസ്തമായിരിക്കുന്നത് എന്തുകൊണ്ട്?",
-      "description": "സിസ്റ്റം തീം അനുസരിച്ച് മാറുന്നുവെന്ന് ഉറപ്പാക്കുന്നതിന് സ്റ്റാർട്ടപ്പ് സ്ക്രീൻ പശ്ചാത്തല വർണ്ണം Android ഫ്രെയിംവർക്ക് നിറത്തിൽ നിന്ന് എടുത്തിട്ടുണ്ട്. നിങ്ങൾക്ക് [Substratum] (https://play.google.com/store/apps/details?id=projekt.substratum) അല്ലെങ്കിൽ [സ്വിഫ്റ്റ് ഇൻസ്റ്റാളർ] (https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) അല്ലെങ്കിൽ നിറം മാറ്റുന്നതിന് സമാനമായ അപ്ലിക്കേഷൻ."
+      "title": "Why the colour in the startup screen is different from the theme?",
+      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
     },
     {
-      "title": "ഞാൻ ഇൻസ്റ്റാളേഷൻ ഫയലുകൾ വീണ്ടും ഡ download ൺലോഡ് ചെയ്യണോ?",
-      "description": "വിവിധ കാരണങ്ങളാൽ ഫയലുകൾ കേടാകുകയും അതിനുശേഷം പ്രശ്നങ്ങൾ സൃഷ്ടിക്കുകയും ചെയ്യും. ഇത് ഒഴിവാക്കാൻ, നിങ്ങളുടെ ഇൻസ്റ്റാളേഷൻ സുഗമമായി നടക്കുന്നുവെന്ന് ഉറപ്പാക്കുന്നതിന് നിങ്ങൾക്ക് ഇത് വീണ്ടും ഡ download ൺലോഡ് ചെയ്യാൻ തിരഞ്ഞെടുക്കാം."
+      "title": "Should I re-download the installation files?",
+      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
     },
     {
-      "title": "റൂട്ട് പതിപ്പിന് മൈക്രോഫോൺ അനുമതി ഇല്ലാത്തത് എന്തുകൊണ്ട്?",
-      "description": "നിങ്ങളുടെ വാൻ‌സ്ഡ് കാലികമാണെങ്കിൽ ഇത് ചെയ്യും."
+      "title": "Why does the root version don't have Microphone permission?",
+      "description": "It does if your Vanced is up-to-date."
     },
     {
-      "title": "ExoPlayer v1 എന്താണ്?",
-      "description": "ഇത് YouTube ഉപയോഗിക്കുന്ന നിലവിലെ മീഡിയ പ്ലെയറിന്റെ പഴയ പതിപ്പാണ്. ഇത് ഉപയോഗിക്കുമ്പോൾ നിങ്ങൾക്ക് മികച്ച പ്രകടനവും സ്ഥിരതയും ലഭിച്ചേക്കാം."
+      "title": "What is ExoPlayer v1?",
+      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
     },
     {
-      "title": "മറഞ്ഞിരിക്കുന്ന ക്രമീകരണങ്ങൾ എങ്ങനെ പ്രാപ്തമാക്കും?",
-      "description": "വാൻ‌സ്ഡ് ക്രമീകരണങ്ങളിൽ‌, ഇത് പ്രാപ്‌തമാക്കുന്നതിന് `കുറിച്ച്` വിഭാഗം 6-7 തവണ ടാപ്പുചെയ്യുക. ഇത് അധിക വീഡിയോ കോഡെക് ക്രമീകരണങ്ങൾ മാത്രമേ പ്രാപ്തമാക്കൂ."
+      "title": "How to enable hidden settings?",
+      "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
     },
     {
-      "title": "മൈക്രോജി കോറുമായി റൂട്ട് വേരിയന്റ് പ്രവർത്തിക്കാത്തത് എന്തുകൊണ്ട്?",
-      "description": "1. വാൻ‌സ്ഡ് പ്രവർത്തിപ്പിക്കുന്നതിന് നിങ്ങൾക്ക് കുറഞ്ഞത് [pico] (https://github.com/opengapps/opengapps/wiki/Pico-Package) വേരിയൻറ് ഉണ്ടായിരിക്കണം.\n\n2. എല്ലാ GApps പാക്കേജുകളിലും ലഭ്യമായ Google Play സേവന ചട്ടക്കൂടില്ലാതെ നിങ്ങൾക്ക് മൈക്രോ ജി കോർ ഉപയോഗിച്ച് പ്രവർത്തിപ്പിക്കാൻ കഴിയില്ല, അത് ആവശ്യമായ ലൈബ്രറിയാണ്.\n\n3. നിങ്ങളുടെ സ്വകാര്യതയെക്കുറിച്ച് നിങ്ങൾക്ക് ആശങ്കയുണ്ടെങ്കിൽ & GApps ഉപയോഗിക്കാൻ ആഗ്രഹിക്കുന്നില്ലെങ്കിലും പരസ്യങ്ങളില്ലാതെ YouTube കാണൽ ഉപയോഗിക്കാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, [വെബ് പതിപ്പ്] (https://youtube.com) എല്ലായ്പ്പോഴും ലഭ്യമാണ്."
+      "title": "Why the root variant doesn't work with microG Core?",
+      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "കാസ്റ്റിംഗ് പ്രവർത്തിക്കാത്തത് എന്തുകൊണ്ട്?",
-      "description": "നിങ്ങളുടെ മൈക്രോജി കാലികമാണെങ്കിൽ ഇത് പ്രവർത്തിക്കുന്നു."
+      "title": "Why casting doesn't work?",
+      "description": "It works if your microG is up-to-date."
     },
     {
-      "title": "APK സൈനിംഗ് എന്താണ്?",
-      "description": "നിങ്ങൾ ഇത് വായിക്കുന്നത് നിങ്ങൾ വാൻ‌സ്ഡ് മാനേജർ‌ ഉപയോഗിക്കാത്തതിനാലോ അല്ലെങ്കിൽ‌ അന an ദ്യോഗിക ഉറവിടത്തിൽ‌ നിന്നും വാൻ‌സ്ഡ് ഇൻ‌സ്റ്റാൾ‌ ചെയ്‌തിരിക്കാം.\nവാൻസഡ് മാനേജർ ഉപയോഗിക്കുക!\n\nനിങ്ങൾക്ക് ഇതിൽ നിന്ന് വാൻസഡ് മാനേജർ സുരക്ഷിതമായി ഡ download ൺലോഡ് ചെയ്യാൻ കഴിയും:\n- site ദ്യോഗിക സൈറ്റ് <https://vancedapp.com>\n- [GitHub ശേഖരം] (https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "What is APK Signing?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "പ്ലേ സ്റ്റോറിൽ YouTube വിജയിച്ചോ?",
-      "description": "ഇല്ല!\nവീണ്ടും, ഇൻസ്റ്റാൾ ചെയ്യരുത് അല്ലെങ്കിൽ \"YouTube വാൻസഡ്\" എന്ന് പേരുള്ള ഏതെങ്കിലും വ്യാജ ആപ്ലിക്കേഷനുകൾക്കായി തിരയാൻ ശ്രമിക്കരുത് അല്ലെങ്കിൽ പ്ലേ സ്റ്റോറിൽ അല്ലെങ്കിൽ വാൻസെഡ് ഇൻസ്റ്റാൾ ചെയ്യുന്നതിന് ഏതെങ്കിലും ആപ്ലിക്കേഷൻ സ്റ്റോറുകളിൽ തിരയുക.\n\nഞങ്ങൾക്ക് [വാൻസഡ് ഗൈഡ്] (https://play.google.com/store/apps/details?id=com.vanced.faq) മാത്രമേ ഉള്ളൂ, പ്ലേ സ്റ്റോറിൽ പ്രസിദ്ധീകരിച്ച ഏക official ദ്യോഗിക അപ്ലിക്കേഷനാണിത്.\n\nഞങ്ങളുടെ ഐക്കണും പേരും ഉള്ള മറ്റേതെങ്കിലും അപ്ലിക്കേഷൻ നിങ്ങൾ കണ്ടെത്തുകയാണെങ്കിൽ, അത് ആൾമാറാട്ടമായി റിപ്പോർട്ടുചെയ്‌ത് മോശം അവലോകനം നൽകുക.\n\nഞങ്ങളുടെ അപ്ലിക്കേഷനുകൾ <https://vancedapp.com> ൽ മാത്രമേ കണ്ടെത്താൻ കഴിയൂ."
+      "title": "Is YouTube Vanced on Play Store?",
+      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
     },
     {
-      "title": "ഹോം സ്‌ക്രീനിലോ അപ്ലിക്കേഷൻ ഡ്രോയറിലോ വാൻസെഡ് കാണിക്കാത്തത് എന്തുകൊണ്ട്?",
-      "description": "നിങ്ങൾ ഇത് വായിക്കുന്നത് നിങ്ങൾ വാൻ‌സ്ഡ് മാനേജർ‌ ഉപയോഗിക്കാത്തതിനാലോ അല്ലെങ്കിൽ‌ അന an ദ്യോഗിക ഉറവിടത്തിൽ‌ നിന്നും വാൻ‌സ്ഡ് ഇൻ‌സ്റ്റാൾ‌ ചെയ്‌തിരിക്കാം.\nവാൻസഡ് മാനേജർ ഉപയോഗിക്കുക!\n\nനിങ്ങൾക്ക് ഇതിൽ നിന്ന് വാൻസഡ് മാനേജർ സുരക്ഷിതമായി ഡ download ൺലോഡ് ചെയ്യാൻ കഴിയും:\n- site ദ്യോഗിക സൈറ്റ് <https://vancedapp.com>\n- [GitHub ശേഖരം] (https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Why is Vanced not showing up in home screen or app drawer?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "എന്തുകൊണ്ടാണ് വീഡിയോകൾ പ്ലേ ചെയ്യാത്തത്?",
-      "description": "അപ്ലിക്കേഷൻ പുനരാരംഭിക്കാൻ ശ്രമിക്കുക. ഇത് നിങ്ങളുടെ ഇന്റർനെറ്റ് കണക്ഷൻ അല്ലെങ്കിൽ ഉപകരണം കാരണമാകാം."
+      "title": "Why aren't videos playing?",
+      "description": "Try restarting the app. It might also because of your internet connection or your device."
     },
     {
-      "title": "എന്തുകൊണ്ടാണ് എനിക്ക് 480 പി പരിധി ഉള്ളത്?",
-      "description": "COVID-19 കാരണം, Google നിരവധി രാജ്യങ്ങളുടെ ഡാറ്റ ഉപയോഗം നിയന്ത്രിക്കുന്നു. ഇത് സെർവറിൽ സംഭവിക്കുകയും വാൻസഡ്, സ്റ്റോക്ക് YouTube ഉപയോക്താക്കളെ ബാധിക്കുകയും ചെയ്യുന്നു.",
+      "title": "Why am I having the 480p limit?",
+      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
       "fields": [
         {
-          "title": "പരിഹാരങ്ങൾ:",
-          "content": "1. മറ്റൊരു പ്രദേശത്തിന്റെ VPN- ലേക്ക് കണക്റ്റുചെയ്യുക.\n2. [വെബ് പതിപ്പ്] ഉപയോഗിക്കുക (https://youtube.com)\n3. 480p നിയന്ത്രണം ഫോണുകൾക്ക് മാത്രമുള്ളതാണ്, ടാബ്‌ലെറ്റുകൾക്കല്ല, അതിനാൽ, നിയന്ത്രണം മറികടക്കാൻ നിങ്ങൾക്ക് YouTube മോഡൽ വാൻ‌സെഡിലെ ഉപകരണ മോഡൽ മാറ്റാനാകും.\n\n#### ഉപകരണ മോഡൽ എങ്ങനെ മാറ്റാം?\n1. YouTube വാൻസഡ് തുറക്കുക.\n2. ക്രമീകരണങ്ങളിലേക്ക് പോകുക\n3. `വാൻ‌സ്ഡ് ക്രമീകരണങ്ങൾ` ടാപ്പുചെയ്യുക\n4. മറഞ്ഞിരിക്കുന്ന ക്രമീകരണങ്ങൾ പ്രാപ്തമാക്കുക:\n   - `മറഞ്ഞിരിക്കുന്ന ക്രമീകരണങ്ങൾ പ്രവർത്തനക്ഷമമാക്കി` എന്ന് ഒരു സന്ദേശം ലഭിക്കുന്നതുവരെ താഴേക്ക് സ്‌ക്രോൾ ചെയ്‌ത്` കുറിച്ച്` വിഭാഗത്തിൽ ടാപ്പുചെയ്യുക.\n5. `കോഡെക് ഓവർറൈഡ്` എന്നതിലേക്ക് പോകുക\n6. നിർമ്മാതാവിനെ `സാംസങ്` എന്നും മോഡൽ` SM-T865` എന്നും സജ്ജമാക്കുക.\n7. അപ്ലിക്കേഷൻ പുനരാരംഭിക്കുക.\n\nപുനരാരംഭിച്ച ശേഷം, 480p പരിധി ഇല്ലാതാക്കണം."
+          "title": "Workarounds:",
+          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
         }
       ]
     },
     {
-      "title": "മൈക്രോ ജി അറിയിപ്പ് എങ്ങനെ മറയ്ക്കാം?",
-      "description": "മൈക്രോജി അറിയിപ്പ് മറയ്ക്കുന്നതിന്, നിങ്ങൾക്ക് മൈക്രോജിക്കായി ബാറ്ററി ഒപ്റ്റിമൈസേഷൻ അപ്രാപ്തമാക്കാനും നിങ്ങളുടെ ഉപകരണം റീബൂട്ട് ചെയ്യാനും കഴിയും.\n\nറീബൂട്ട് ചെയ്തതിനുശേഷവും അറിയിപ്പ് ഉണ്ടെങ്കിൽ, അറിയിപ്പ് മുറുകെപ്പിടിച്ച് മൈക്രോ ജി അറിയിപ്പുകൾ പ്രവർത്തനരഹിതമാക്കുക, ടോഗിൾ ചെയ്ത് സംരക്ഷിക്കുക ടാപ്പുചെയ്യുക.\n\nAndroid ഉപയോക്തൃ ഇന്റർഫേസിനെ ആശ്രയിച്ച് അപ്ലിക്കേഷൻ അറിയിപ്പുകൾ പ്രവർത്തനരഹിതമാക്കുന്നത് വ്യത്യസ്ത രീതികളിൽ ചെയ്യാനാകും. ഇത് എങ്ങനെ പ്രവർത്തനരഹിതമാക്കണമെന്ന് നിങ്ങൾക്കറിയില്ലെങ്കിൽ, അത് എങ്ങനെ പ്രവർത്തനരഹിതമാക്കാം എന്ന് മനസിലാക്കാൻ Google ഉപയോഗിച്ച് ശ്രമിക്കുക."
+      "title": "How to hide the microG notification?",
+      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
-      "title": "എന്റെ 1080p സ്ക്രീനിൽ 1440p മികച്ചതായി തോന്നുന്നുണ്ടോ?",
-      "description": "അതെ, പക്ഷേ വീഡിയോ അനുപാതം 18: 9, 21: 9, പോലെയാണെങ്കിൽ മാത്രം ... ഇത് സ്ഥിരീകരിക്കുന്നതിന് ക്രമീകരണങ്ങൾ> പൊതുവായവയിൽ `നേർഡുകൾക്കായുള്ള സ്ഥിതിവിവരക്കണക്കുകൾ 'പ്രവർത്തനക്ഷമമാക്കാനാകും.\n\nഉയർന്ന മിഴിവുകൾ പ്രാപ്തമാക്കുന്നതിന്, വാൻസ്ഡ് ക്രമീകരണങ്ങൾ> വീഡിയോ ക്രമീകരണങ്ങളിലേക്ക് പോയി `മാക്സ് റെസലൂഷൻ` ഓണാക്കി അപ്ലിക്കേഷൻ പുനരാരംഭിക്കുക."
+      "title": "Does 1440p look better on my 1080p screen?",
+      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
     }
   ]
 }
