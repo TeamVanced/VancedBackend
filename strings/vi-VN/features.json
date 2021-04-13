@@ -2,31 +2,31 @@
   "features": [
     {
       "title": "Vanced",
-      "description": "Youtube Vanced hướng tới trở thành một phiên bản tốt hơn của Youtube. Nó bao gồm chặn quảng cáo, chủ đề tối và còn nhiều nữa. Sử dụng Vanced Manager để cài đặt Youtube Vanced với các thành phần liên quan."
+      "description": "Youtube Vanced hướng tới trở thành một phiên bản tốt hơn của Youtube. Nó bao gồm chặn quảng cáo, chủ đề tối và nhiều hơn nữa. Sử dụng Vanced Manager để cài đặt Youtube Vanced với cái thành phần liên quan."
     },
     {
-      "title": "YouTube Music Vanced",
-      "description": "YouTube Music Vanced có cùng mục tiêu với Youtube Vanced tuy nhiên ứng dụng này tập trung vào Youtube Music. Nó có ít tính năng hơn Vanced nhưng vẫn có những thứ bạn mong muốn như chặn quảng cáo và phát trong nền, tất cả đều có trong YouTube Music Vanced!"
+      "title": "Vanced Music",
+      "description": "Vanced Music có cùng mục tiêu với Youtube Vanced tuy nhiên ứng dụng này tập trung /vào Youtube Music. Nó có ít tính năng hơn Vanced nhưng vẫn có các tính năng mà bạn mong muốn như chặn quảng cáo và phát lại trong nền, tất cả đều có trong Youtube Music!"
     },
     {
       "title": "Các tính năng chính của Youtube Vanced",
-      "description": "- Chủ đề màu đen và tối thân thiện với màn hình OLED _(hay còn gọi là màu xám đậm)_ bên cạnh chủ đề màu trắng.\n - Chặn tất cả quảng cáo\n - Cho phép bạn phát video trong nền hoặc ở chế độ Hình trong Hình (PiP) (chỉ trên Android 8+)\n - Điều khiển vuốt cho phép bạn điều khiển độ sáng và âm lượng bằng cử chỉ lên và xuống (với phần đệm có thể định cấu hình).\n - Tính năng tự động lặp lại cho phép bạn lặp lại video.\n - Bố cục trình phát mini máy tính bảng/bình luận mới có thể được chuyển đổi sang các phiên bản máy tính bảng giống với phiên bản cũ (tuy nhiên, nó có một chút lỗi)."
+      "description": "- OLED friendly black theme and dark theme _(aka dark gray)_ besides white theme.\n- Blocks all ads\n- Allows you to play videos in the background or in the Picture in Picture (PiP) mode (only on Android 8+)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/tablet mini-player layout can be toggled to the tablet versions which are very similar to the old version (however, it's a bit buggy)."
     },
     {
       "title": "Tùy chỉnh",
-      "description": "- Cho phép bạn ghi đè các tùy chọn Codec như buộc H264 cho các thiết bị cũ hoặc VP9, ​​điều này cũng cho phép bạn ép buộc phát HDR hoặc tắt 60fps nếu bạn thích trải nghiệm điện ảnh hơn. (Bạn có thể tìm thấy cấu hình thiết bị tùy chỉnh cho các tính năng này trên [Máy chủ Discord] (https://discord.gg/Vanced) hoặc XDA của chúng tôi)\n - Buộc độ phân giải video mặc định cao hoặc thấp như bạn muốn và thậm chí ghi đè độ phân giải màn hình của bạn để phát 4k sắc nét trên mọi thiết bị. Nó cũng cho phép bạn thay đổi tốc độ phát mặc định thành bất kỳ đâu trong khoảng 0,25x đến 2x (giả sử thiết bị của bạn đủ mạnh)\n - Cho phép bạn chuyển đổi giữa quảng cáo gia đình, hầu hết quảng cáo giao diện người dùng, quảng cáo hàng hóa, bài đăng trên tab Cộng đồng, Phim bán thêm, thông tin biểu ngữ nhỏ gọn (chẳng hạn như thông tin COVID-19), xóa hoàn toàn nhận xét, phim nhỏ gọn, xóa kệ phim và nhiều hơn nữa!"
+      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
     },
     {
       "title": "Sponsor Block",
-      "description": "- Các tính năng để có thể bỏ qua phân đoạn được tài trợ (lúc mà [YouTuber](https://en.wikipedia.org/wiki/YouTuber) quảng cáo một dịch vụ hoặc sản phẩm giữa video)\n- Nó cũng hỗ trợ bỏ qua các thể loại khác như intros, outros và tự giới thiệu.\n- Sử dụng API có thể được tìm thấy [tại đây](https://sponsor.ajay.app). Bạn có thể tìm thêm thông tin về cách nó hoạt động\n- Nó cũng cho phép tự thêm phân đoạn của bạn vào API và đóng góp để giúp phát triển cộng đồng\n- Hoàn toàn kiểm soát được xem có tự động bỏ qua phân đoạn hay không hoặc hiện nút để bỏ qua hay đơn giản chỉ là không bỏ qua danh mục đó.\n- Làm nổi bật phân đoạn với màu cụ thể dựa trên thể loại của nó trên dòng thời gian phát."
+      "description": "- Các tính năng để có thể bỏ qua phân đoạn được tài trợ (lúc mà youtuber quảng cáo một dịch vụ hoặc sản phẩm trong một video)\n- Nó cũng hỗ trợ bỏ qua các mục khác như intros, outros và tự giới thiệu.\n- API được sự dụng có thể được tìm thấy tại đây. Bạn có thể tìm thêm thông tin về cách nó hoạt động\n- Nó cũng cho phép tự thêm phân đoạn của bạn vào API và đóng góp để giúp phát triển cộng đồng\n- Hoàn toàn kiểm soát được xem có tự động bỏ qua danh mục của phân đoạn hay không hay hiện nút để bỏ qua hoặc đơn giản chỉ là không bỏ qua.\n- Làm nổi bật phân đoạn với màu cụ thể dựa trên danh mục của nó trên dòng thời gian phát lại."
     },
     {
       "title": "Các nền tảng",
-      "description": "Ứng dụng này hiện chỉ có trên các thiết bị Android và không có kế hoạch để hỗ trợ các nên tảng khác vào lúc này"
+      "description": "Ứng dụng này hiện chỉ có trên android và không có kế hoạch để hỗ trợ các nên tảng khác vào lúc này"
     },
     {
       "title": "Sự khác biệt giữa Root và không Root",
-      "description": "#### Root:\nBản root của Vanced sẽ thay thế ứng dụng YouTube gốc một cách hoàn chỉnh. Do đó bạn có thể trực tiếp mở các liên kết YouTube hoặc gọi chúng bằng Trợ lý Google thông qua ứng dụng Vanced đã được sửa đổi.\n\n#### Không root:\n- Nếu bạn có một thiết bị khó root hoặc không muốn root thiết bị chính được sử dụng hàng ngày của mình, bạn nên chọn bản không root.\n- Vì tên gói của bản không root khác với ứng dụng YouTube gốc nên chúng có thể cùng tồn tại. Lưu ý rằng bạn cần cài đặt thêm một ứng dụng đồng hành (Vanced microG) để có thể đăng nhập bằng tài khoản YouTube/Google của mình.\n- Hơn nữa, bạn phải đặt Vanced theo cách thủ công làm ứng dụng mặc định để mở các liên kết YouTube.\n- Tuy nhiên, phiên bản không root được cài đặt và sử dụng dễ hơn nhiều, vì vậy chúng tôi khuyên bạn nên sử dụng bản không root trừ khi bạn thực sự cần thay thế ứng dụng YouTube gốc trên điện thoại của mình."
+      "description": "#### Root:\nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google Assistant through the modded Vanced app.\n\n#### Non-Root:\n- If you have a device that is difficult to root, or you don’t want to root your daily device on first hand, you should opt for the non-root variant.\n- Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account.\n- Moreover, you have to manually set Vanced as the default app for opening YouTube links.\n- However, the non-root variant is much simpler to install and use, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
     }
   ]
 }
