@@ -1,20 +1,20 @@
 {
   "bugreport": [
     {
-      "title": "Hogyan jelentse a hibákat?",
-      "description": "Hibákat a [GitHub hibakövető] használatával tud jelenteni. (https://github.com/YTVanced/Vanced#vanced-issue-center)\n\nKérjük győződjön meg róla, hogy hogy jelentették-e már a hibát, mielőtt jelentené nekünk!",
+      "title": "Hogyan jelentse a hibákat",
+      "description": "Hibákat a [GitHub hibakövető] használatával tud jelenteni. (https://github.com/YTVanced/Vanced)\n\n**Kérjük győződjön meg róla, hogy elolvasta a README részt, és ellenőrizze hogy jelentették-e már a hibát, mielőtt jelentené nekünk!**",
       "fields": [
         {
           "title": "Mikor lesz a jelentett hiba felülvizsgálva?",
-          "content": "A fejlesztők a szabadidejüket beosztva próbálják az új funkciókat megalkotni és a kijavítani a meglévő hibákat, mind a kettő időbe telhet.\nSzóval neked csak várni kell. A jelentésed meg lesz tekintve és ki lesz vizsgálva olyan gyorsan ahogy csak lehetséges."
+          "content": "A visszajelzését felülvizsgáljuk, amilyen gyorsan csak tudjuk."
         },
         {
-          "title": "Hogyan tudok logcat-et készíteni?",
-          "content": "Nem rootolt eszközhöz:\nSzükséged lesz egy PC-re a `logcat` kimenetek megtekintéséhez. Ehhez itt egy [szöveges útmutató](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nRootolt eszközhöz:\nNincs szükséged külön PC-re ehhez. Követheted az [itt](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android) található utasításokat."
+          "title": "How do I take a logcat?",
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this. You can follow the instructions [in here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
-          "title": "Az általad tapasztalt hiba a felhasználói felülettel kapcsolatos?",
-          "content": "A felhasználói felülethez kapcsolódó hibák esetén további lépéseket kell tenned.\n\nKérjük, hogy telepítsd a [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant) alkalmazást.\nEzután nyisd meg a Vanced-et és reprodukáld a hibát, majd nyisd meg a Layout viewer-t a Developer Assistant aktiválásával.\n\nEkkor kövesd ezeket a lépéseket:\n1. Ellenőrizd, hogy a hiba megjelenik-e a képernyőn.\n2. Érintsd meg azt az elemet, amelyről úgy gondolod, hogy érintett a hibával.\n3. Menj az `Elem` és a `Hierarchia` fülekre, és készíts róluk képernyőképeket.\n4. Mellékeld ezeket a képernyőképeket a bejelentésedhez."
+          "title": "Your bug is UI related?",
+          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
         }
       ]
     }
