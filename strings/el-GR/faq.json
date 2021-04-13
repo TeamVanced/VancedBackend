@@ -26,19 +26,19 @@
     },
     {
       "title": "Δέχεστε δωρεές;",
-      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
+      "description": "ΔΕΝ δεχόμαστε δωρεές!\n\nΟποιοδήποτε είδος δωρεών υπό οποιεσδήποτε συνθήκες και τυχόν ιστοσελίδες, συνδέσμοι ή δημοσιεύσεις που ζητούν δωρεές είναι απλώς ψεύτικες.\n\nΑλλά αν θέλετε να υποστηρίξετε τους δημιουργούς του Vanced, μπορείτε να κατεβάσετε το πρόγραμμα περιήγησης Brave χρησιμοποιώντας [αυτόν τον σύνδεσμο](https://brave.com/kev231) και το AdGuard χρησιμοποιώντας [αυτόν τον σύνδεσμο](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
       "title": "Πώς θα ενεργοποιήσω την αυτόματη απόκρυψη του προγράμματος αναπαραγωγής;",
-      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
+      "description": "Μπορείτε να το ρυθμίσετε στο YouTube Vanced > Ρυθμίσεις> Προσβασιμότητα. Εάν οι ρυθμίσεις αποτύχουν να ανοίξουν ή δεν λειτουργούν, μεταβείτε στις ρυθμίσεις προσβασιμότητας της συσκευής σας και απενεργοποιήστε τον ενισχυτή ήχου, πρόσβαση switch και live υποτίτλους."
     },
     {
       "title": "Γιατί χρησιμοποιούνται χωριστά (split) APK;",
-      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
+      "description": "Επειδή:\n\n1. Η stock εφαρμογή το χρησιμοποιεί, οπότε το Vanced το χρησιμοποιεί επίσης.\n2. Εγκαθιστά μόνο τις γλώσσες που ορίζετε για τη μείωση της δέσμευσης αποθήκευτικού χώρου.\n3. Έχει τη μόνη έκδοση του πυρήνα APK που απαιτεί η συσκευή σας.\n\nΦυσικά, ο Vanced Manager ή οι προγραμματιστές μπορούν να το μετατρέψουν σε ένα κανονικό, ενιαίο αρχείο APK, αλλά είμαστε πολύ τεμπέληδες για να το κάνουμε. Απλά πρέπει να βολευτείτε με αυτό που διαθέτουμε...\n\nΜην ανησυχείτε όμως, το Vanced Manager κάνει όλη τη σκληρή δουλειά για σας, έτσι απλώς πατήστε το κουμπί `Εγκατάσταση`."
     },
     {
       "title": "Γιατί το χρώμα στην οθόνη εκκίνησης είναι διαφορετικό από το θέμα;",
-      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
+      "description": "Το χρώμα φόντου οθόνης εκκίνησης προέρχεται από το χρώμα πλαισίου Android έτσι ώστε να αλλάζει σύμφωνα με το θέμα του συστήματος. Μπορείτε να χρησιμοποιήσετε το [Substratum](https://play.google. om/store/apps/details?id=projekt.substratum), το [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) ή μια παρόμοια εφαρμογή για να αλλάξετε το χρώμα."
     },
     {
       "title": "Πρέπει να κάνω ξανά λήψη των αρχείων εγκατάστασης;",
@@ -70,7 +70,7 @@
     },
     {
       "title": "Διατίθεται το YouTube Vanced στο Play Store;",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
+      "description": "ΟΧΙ!\nΕπαναλαμβάνουμε, ΜΗΝ εγκαταστήσετε ή ακόμα και προσπαθήστε να αναζητήσετε οποιαδήποτε ψεύτικη εφαρμογή που ονομάζεται \"YouTube Vanced\" ή κάπως παρόμοια στο Play Store ή σε οποιοδήποτε κατάστημα εφαρμογών προκειμένου να εγκαταστήσετε το Vanced.\n\nΈχουμε μόνο το [Vanced Guide](https://play.google.com/store/apps/details?id=com. anced.faq), και είναι η μόνη επίσημη εφαρμογή που δημοσιεύθηκε από εμάς στο Play Store.\n\nΕάν βρείτε οποιαδήποτε άλλη εφαρμογή με το εικονίδιο και το όνομά μας, αναφέρετέ την ως απομίμηση και αφήστε της μια κακή κριτική.\n\nΟι εφαρμογές μας μπορούν να βρεθούν μόνο στο <https://vancedapp.com>."
     },
     {
       "title": "Γιατί δεν εμφανίζεται το Vanced στην αρχική οθόνη ή το μενού εφαρμογών;",
@@ -86,7 +86,7 @@
       "fields": [
         {
           "title": "Λύσεις:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "content": "1. Συνδεθείτε σε ένα VPN διαφορετικής περιοχής.\n2. Χρησιμοποιήστε την [έκδοση web](https://youtube.com)\n3. Δεδομένου ότι ο περιορισμός 480p είναι μόνο για τηλέφωνα και όχι tablet, μπορείτε να αλλάξετε το μοντέλο της συσκευής στο YouTube Vanced για να ξεπεραστεί ο περιορισμός.\n\n#### Πώς να αλλάξετε το μοντέλο της συσκευής?\n1. Ανοίξτε το YouTube Vanced.\n2. Μεταβείτε στις Ρυθμίσεις\n3. Πατήστε τις `Ρυθμίσεις Vanced`\n4. Ενεργοποιήσετε τις κρυφές ρυθμίσεις:\n  - Κάντε κύλιση προς τα κάτω και πατήστε στην ενότητα `Σχετικά` μέχρι να εμφανιστεί ένα μήνυμα που αναγράφει `Οι κρυφές ρυθμίσεις ενεργοποιήθηκαν`.\n5. Μεταβείτε στο `Codec override` (Παράκαμψη codec)\n6. Ρυθμίστε τον κατασκευαστή σε `Samsung` και το μοντέλο σε `SM-T865`.\n7. Επανεκκινήστε την εφαρμογή.\n\nΜετά την επανεκκίνηση, το όριο 480p θα πρέπει να έχει φύγει."
         }
       ]
     },
