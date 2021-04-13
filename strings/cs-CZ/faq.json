@@ -6,15 +6,15 @@
     },
     {
       "title": "Kde je tlačítko Stáhnout?",
-      "description": "Google samozřejmě nedovolí, aby v jejich obchodě byla upravená verze jeho vlastní aplikace, takže ji v Obchodě Google Play nehledejte, jedná se o falešné aplikace.\n\nAplikace Vanced lze stáhnout a nainstalovat pomocí aplikace Vanced Manager, kterou najdete na našem oficiálním webu: <https://vancedapp.com>, ale můžete si ji také stáhnout z [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Google samozřejmě nedovolí, aby v jejich obchodě byla upravená verze jeho vlastní aplikace, takže ji v Obchodě Google Play nehledejte, jedná se o falešné aplikace.\n\nAplikace Vanced lze stáhnout a nainstalovat pomocí aplikace Vanced Manager, kterou najdete na našem oficiálním webu: <https://vancedapp.com>, ale můžete si ji také stáhnout z GitHubu:\n<https://github.com/YTVanced/VancedManager/releases/latest>"
     },
     {
       "title": "Bude se aplikace automaticky aktualizovat?",
-      "description": "Ne, nebude.\n\nVanced Manager vám pošle oznámení, pokud aktualizace existuje.\n\nMůžete se také připojit k našemu [serveru Discord](https://discord.gg/Vanced), nebo sledovat [Telegram kanál](https://t.me/Vanced), kde také najdete nejnovější zprávy a oznámení o aktualizacích."
+      "description": "Ne, nebude.\n\nVanced Manager vám pošle oznámení, pokud aktualizace existuje.\n\nMůžete se také připojit k našemu [serveru Discord](https://discord.gg/wYrRPgv), nebo sledovat [Telegram kanál](https://t.me/Vanced), kde také najdete nejnovější zprávy a oznámení o aktualizacích."
     },
     {
       "title": "Může Vanced stahovat videa?",
-      "description": "Vanced neobsahuje žádnou funkci stahování videa a nikdy obsahovat nebude.\n\nMnoho videí je k dispozici ke stažení zdarma ve [vybraných zemích](https://support.google.com/youtube/answer/6141269). Pro zbytek světa si pořiďte YouTube Premium.\n\nZnovu, Vanced NIKDY nepřidá do aplikace funkci stahování videa ani nic podobného.\n\nTo byl v minulosti důvod pro ukončení mnoha modifikací YouTube, protože Google nemá rád lidi, kteří si z jejich platformy stahují obsah chráněný autorskými právy, takže o to nežádejte!!!"
+      "description": "Vanced neobsahuje žádnou funkci stahování videa a nikdy obsahovat nebude.\n\nMnoho videí je k dispozici ke stažení zdarma ve [vybraných zemích](https://support.google.com/youtube/answer/6141269). Pro zbytek světa si pořiďte YouTube Premium nebo použijte stahovací program třetích stran.\n\nZnovu, Vanced NIKDY nepřidá do aplikace funkci stahování videa ani nic podobného.\n\nTo byl v minulosti důvod pro ukončení mnoha modifikací YouTube, protože Google nemá rád lidi, kteří si z jejich platformy stahují obsah chráněný autorskými právy, takže o to nežádejte!!!"
     },
     {
       "title": "Proč nefungují gesta přejetím?",
@@ -22,7 +22,7 @@
     },
     {
       "title": "Titulky nejsou dostupné?",
-      "description": "Toto není problém týkající se Vanced nebo YouTube. Ne všechna videa obsahují titulky."
+      "description": "To není problém. Ne všechna videa mají titulky."
     },
     {
       "title": "Přijímáte dary?",
@@ -38,7 +38,7 @@
     },
     {
       "title": "Proč se barva na úvodní obrazovce liší od motivu?",
-      "description": "Barva pozadí úvodní obrazovky je převzata z barvy systému Android, aby se zajistilo, že se změní podle motivu systému. Ke změně barvy můžete použít motivy [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) nebo [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller)."
+      "description": "Barva pozadí úvodní obrazovky je převzata z barvy systému Android, aby se zajistilo, že se změní podle motivu systému. Ke změně barvy můžete použít motivy Substratum/Swift."
     },
     {
       "title": "Mám znovu stáhnout instalační soubory?",
@@ -57,8 +57,8 @@
       "description": "V nastavení Vanced klepněte na sekci „O aplikaci“ 6-7krát a povolte to. Tím se povolí pouze další nastavení video kodeku."
     },
     {
-      "title": "Proč nefunguje varianta root s microG Core?",
-      "description": "1. Abyste mohli spustit Vanced, musíte mít alespoň [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variantu GApps\n\n2. Vanced s microG Core nelze spustit, protože potřebuje Google Play Services Framework, který je k dispozici ve všech balíčcích GApps a jejich knihovnách.\n\n3. Pokud se obáváte o své soukromí a nechcete používat GApps, ale přesto chcete sledovat YouTube bez reklam, je vždy k dispozici [webová verze](https://youtube.com)."
+      "title": "V čem spočívá problém ohledně microG Core?",
+      "description": "1. Abyste mohli spustit Vanced, musíte mít alespoň [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variantu GApps\n\n2. Vanced s microG Core nelze spustit, protože potřebuje Google Play Services Framework, který je k dispozici ve všech balíčcích GApps.\n\n3. Pokud se obáváte o své soukromí a nechcete používat GApps, ale přesto chcete sledovat YouTube bez reklam, je vždy k dispozici [webová verze](https://youtube.com)."
     },
     {
       "title": "Proč nefunguje Vysílání?",
@@ -86,7 +86,7 @@
       "fields": [
         {
           "title": "Možná zástupná řešení:",
-          "content": "1. Připojte se k VPN jiného regionu.\n2. Použijte [webovou verzi](https://youtube.com)\n3. Vzhledem k tomu, že omezení 480p je pouze pro mobilní zařízení a ne pro tablety, můžete změnit model zařízení v aplikaci YouTube Vanced.\n\n#### Jak změnit model zařízení?\n1. Otevřete YouTube Vanced.\n2. Přejděte do Nastavení\n3. Klepněte na \"Nastavení Vanced\"\n4. Povolte skrytá nastavení:\n  - Klepněte na sekci \"O aplikaci\", dokud se neobjeví zpráva se zapnutím skrytých nastavení.\n5. Přejděte na Přepsat kodek\n6. Nastavte model na \"SM-T865\" a zařízení na \"Samsung\".\n7. Restartujte aplikaci a limit 480p by měl být pryč."
+          "content": "1. Připojte se k VPN jiného regionu.\n2. Použijte [webovou verzi](https://youtube.com)\n3. Vzhledem k tomu, že omezení 480p je pouze pro mobilní zařízení a ne pro tablety, můžete změnit model zařízení v aplikaci YouTube Vanced.\n\n#### Jak změnit model zařízení?\n1. Otevřete YouTube Vanced.\n2. Povolte další možnosti \n  1. Přejděte do Nastavení\n  2. Klepněte na Nastavení Vanced\n  3. Klepněte na sekci O aplikaci, dokud se neobjeví zpráva se zapnutím skrytých nastavení.\n3. Přejděte na Přepsat kodek a nastavte model na \"SM-T865\" a zařízení na \"Samsung\".\n4. Restartujte aplikaci a limit 480p by měl být pryč."
         }
       ]
     },
@@ -96,7 +96,7 @@
     },
     {
       "title": "Vypadá rozlišení 1440p lépe na mé obrazovce s rozlišením 1080p?",
-      "description": "Ano, ale pouze v případě, že je video v poměru stran 18:9, 21:9, ... Můžete zapnout „Statistiky pro šprty“ v Nastavení > Obecné a potvrdit to.\n\nChcete-li povolit vyšší rozlišení, přejděte do Nastavení Vanced > Nastavení videa a zapněte „Maximální rozlišení“, poté aplikaci restartujte."
+      "description": "Ano, ale pouze v případě, že je video v poměru stran 18:9, 21:9, ... Můžete zapnout `Statistiky pro šprty` v Nastavení > Obecné a potvrdit to.\n\nChcete-li povolit vyšší rozlišení, přejděte do Nastavení Vanced > Nastavení videa a zapněte „Maximální rozlišení“, poté aplikaci restartujte."
     }
   ]
 }
