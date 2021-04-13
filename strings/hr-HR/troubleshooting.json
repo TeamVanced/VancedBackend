@@ -56,28 +56,6 @@
 				{
 					"title": "Ako se suočite s \"Pogreška prilikom preuzimanja Microg/Vanced\" ili je instalacija zapela prilikom instaliranja Microg/Vanced aplikacije",
 					"content": "Obrišite podatke aplikacije Manager-a, a zatim nastavite s instaliranjem i NE PREBACUJTE SE NA DRUGE APLIKACIJE DO ZAVRŠETKA PROCESA."
-				},
-				{
-					"title": "Instalacija nije uspjela zbog konflikta aplikacije s već instaliranom aplikacijom. Deinstalirajte trenutnu verziju aplikacije i pokušajte ponovo ili INSTALL_FAILED_UPDATE_INCOMPATIBLE: Paketi com.vanced.android.youtube potpisi se ne podudaraju s prethodno instaliranom verzijom; ignorirajući!",
-					"description": "To se događa korisnicima s OneUI i Oxygen OS kada ažuriraju svoj sustav s Android 10 na Android 11, a događa se i nekim prilagođenim ROM-ima,\n\nStoga imamo 3 rješenja na raspolaganju za vas",
-					"fields": [
-						{
-							"title": "Ako nemate Root, upotrijebite ADB",
-							"content": "1). Instalirajte Android Debug Bridge; Vodič - https://www.xda-developers.com/install-adb-windows-macos-linux/amp/. \n\n2) Otključajte telefon. \n\n3) Omogućite način za programere (dodirnite 10 puta broj izrade u Postavkama - O telefonu - Informacije o softveru). \n\n4) Omogućite otklanjanje pogrešaka putem USB-a u Postavkama - Opcije razvojnih programera.\n\n5) Povežite telefon s računalom.\n\n6) Otvorite naredbeni redak (CMD) i promijenite direktorij: \"cd C:/Windows/adb/\" i pritisnite Enter.\n\n7) Kako je vaš telefon povezan i CMD otvoren, u CMD pokrenite naredbu \"adb devices\". Na vašem će se telefonu pojaviti upit, poput \"Želite li povezati telefon s računalom?\" Pritisnite Da.\n\n8) Pokrenite cmd naredbu \"adb uninstall com.vanced.android.youtube\". \n\n9) Nakon ovoga možete instalirati Vanced Manager i instalirati najnoviju verziju YouTubea Vanced"
-						},
-						{
-							"title": "Ako imate Root,",
-							"content": "1) Upotrijebite Root Explorer i idite do root pohrane.\n\n2) Zatim pronađite ovu mapu kada instalirate YT Vanced \"data/app/com.vanced.android.youtube-....\" ili kada instalirate YT Music \"com.vanced.android.apps.youtube.music-....\"  \n\n3) Ako ste pronašli takve mape, samo ih izbrišite, a zatim nastavite instalirati YT Vanced ili YT Music putem Vanced Managera."
-						},
-						{
-							"title": "Ako obje gore navedene metode ne uspiju",
-							"content": "Očito je vraćanjem na tvorničke postavke moguće popraviti ovu pogrešku. Učinite to u krajnjem slučaju."
-						}
-					]
-				},
-				{
-					"title": "Ako se suočite s pogreškama poput \"Operacija nije uspjela jer su apk datoteke nevaljane/oštećene\"",
-					"content": "• Idite u postavke i očistite preuzete datoteke\\n\\n• Zatim obrišite podatke aplikacije Vanced, a zatim nastavite instalirati Vanced."
 				}
 			]
 		},
@@ -96,6 +74,10 @@
 				{
 					"title": "Za Root",
 					"content": "Provjerite je li \"Scheduled Digest\" isključen u postavkama YouTubea i jesu li zvukovi obavijesti točni i postavljeni.\n\nMožete pokušati upotrijebiti aplikaciju \"upravitelj obavijesti\" koja na jednom mjestu prati sve vaše obavijesti, pa u slučaju da odbacujete svoje obavijesti, možete im opet pristupiti iz te aplikacije."
+				},
+				{
+					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
+					"content": "• Head to manager settings and clear downloaded files\\n\\n• Then clear manager app data then continue installing vanced."
 				}
 			]
 		},
@@ -128,12 +110,26 @@
 				{
 					"title": "Rješenje 2",
 					"content": "ZAHTJEVI:\n\nVanced Manager 2.1.0 ili noviji\nRoot manager poput Es File Explorer ili Root Browser\nKorak 1: Idite na /data/adb/service.d/ i uredite skriptu Music.sh i/ili Vanced.sh\n\nOboje bi trebali izgledati poput nečega sličnog ovome:\n\nwhile  [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\nKorak 2: Promijenite vrijednost \"do sleep 1; done\"  u \"do sleep 2; done\"\n\nKorak 3: Ponovo pokrenite uređaj\n\nAko to ne uspije, dodajte više vremena  između do & done\n\n——————————————————\n\nako to ne uspije, možda vašem uređaju treba više vremena prije nego što postavi root vanced youtube/music apk.\nsamo izmijenite Vanced.sh i ili Music.sh,\numetnite novu liniju spavanja između linija \"while\" i \"mount\" poput:\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
+				},
+				{
+					"title": "If Vanced crashes in the middle of playback (when playing in background mode)",
+					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide #bugreport on telegram or in discord with the details it requires and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
 				}
 			]
 		},
 		{
 			"title": "Oglasi u Vancedu",
-			"description": "Ako vidite oglase u YouTube Vanced ili Vanced Music, pročitajte ovo putem xfileFIN:\n\n> Moram ga sam nabaviti da bih ga pronašao. Kako jednostavno skrivanje izgleda neće uspjeti za to.\nNisam siguran kako odlučuju tko će ih dobiti, sve je na strani poslužitelja.\nOno što znam je da ne mogu samo sakriti izgled jer se isti izgled koristi i za stvarne videozapise. Kôd samo odlučuje prikazuje li značku oglasa ili ne.\nPa, mogao bih lako sakriti značku oglasa, ali i dalje će se prikazivati ​​stvarni video oglas, bez da ga označim kao oglas.\nMoram doći do oglasa kako bih ga pronašao u kodu, jer zatamnjenje otežava.\n\nPočetni zaslon i oglasi za pretraživačku mrežu (koje je dodao Google) temelje se na regiji i neće se prikazivati ​​ako niste u regiji u kojoj je aktivna. Te oglase oglašeni tim na bilo koji način ne dodaje, pa ako upirete prstom u nas, smijali bismo vam se.\n\nRazvojni programeri već znaju da primate oglase u svojoj regiji. Molimo vas strpljivo pričekajte ažuriranja dok se svi oglasi ne blokiraju. Do tada, uživajte u Vancedu i ne šaljite neželjene poruke s istim.\n\nPrivremeno rješenje za njegovo popravak bilo bi brisanje podataka i predmemorije aplikacije ili čekanje budućih ažuriranja."
+			"description": "Ako vidite oglase u YouTube Vanced ili Vanced Music, pročitajte ovo putem xfileFIN:\n\n> Moram ga sam nabaviti da bih ga pronašao. Kako jednostavno skrivanje izgleda neće uspjeti za to.\nNisam siguran kako odlučuju tko će ih dobiti, sve je na strani poslužitelja.\nOno što znam je da ne mogu samo sakriti izgled jer se isti izgled koristi i za stvarne videozapise. Kôd samo odlučuje prikazuje li značku oglasa ili ne.\nPa, mogao bih lako sakriti značku oglasa, ali i dalje će se prikazivati ​​stvarni video oglas, bez da ga označim kao oglas.\nMoram doći do oglasa kako bih ga pronašao u kodu, jer zatamnjenje otežava.\n\nPočetni zaslon i oglasi za pretraživačku mrežu (koje je dodao Google) temelje se na regiji i neće se prikazivati ​​ako niste u regiji u kojoj je aktivna. Te oglase oglašeni tim na bilo koji način ne dodaje, pa ako upirete prstom u nas, smijali bismo vam se.\n\nRazvojni programeri već znaju da primate oglase u svojoj regiji. Molimo vas strpljivo pričekajte ažuriranja dok se svi oglasi ne blokiraju. Do tada, uživajte u Vancedu i ne šaljite neželjene poruke s istim.\n\nPrivremeno rješenje za njegovo popravak bilo bi brisanje podataka i predmemorije aplikacije ili čekanje budućih ažuriranja.",
+			"fields": [
+				{
+					"title": "Solution 1",
+					"content": "Stick to the non-root version until the developers fix this."
+				},
+				{
+					"title": "Solution 2",
+					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nStep 1: Go to manager settings > Root Script Sleep Time (you should be on root mode for this option to appear) and set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
+				}
+			]
 		},
 		{
 			"title": "Povijest",
@@ -141,37 +137,27 @@
 		},
 		{
 			"title": "Problemi s učitavanjem aplikacije",
-			"fields": [
-				{
-					"title": "Ako je Vanced zapeo na početnom zaslonu",
-					"content": "1. Uključite Zrakoplovi način.\n2. Otvorite Youtube Vanced.\n\n3. Dodirnite Zatvori u skočnom prozoru promjena.\n4. Isključite Zrakoplovi način.\n5. Ponovo otvorite Vanced.\n\nHvala rocco6victor sa XDA"
-				},
-				{
-					"title": "Ako se Vanced nastavi beskrajno učitavati",
-					"content": "1. Onemogućite optimizaciju baterije za aplikaciju YouTube Vanced i microG pomoću dontkillmyapp.com, a zatim ponovo pokrenite uređaj.\n2. To bi sada trebalo biti popravljeno."
-				}
-			]
+			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n> Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n> Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in (YouTube Settings-https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
 		},
 		{
 			"title": "Problemi sa slikom u slici",
-			"description": "⚠️Ne prijavljujte probleme povezane s Slikom u slici.⚠️\n• Slikom u slici upravlja sustav jer Vanced koristi Android nativnu Sliku u slici. Za sve probleme s Slikom u slici okrivite ROM.\nDruge aplikacije kao što su MX Player, VLC itd. Koriste vlastitu Sliku u slici umjesto izvornog androida, stoga se nikada neće suočiti s problemima koji postoje u aplikacijama koje koriste izvorni.\n\n• Da biste omogućili Sliku u slici, otvorite postavke aplikacije YT> općenito> omogući Sliku u slici \n\n> Da biste omogućili Sliku u slici u MIUI, morate biti sigurni da je ova postavka uključena:\nZaštita privatnosti -> Posebna dopuštenja -> Slika u slici\n\nNa najnovijem V15.43.32, Slika u slici na zadanoj YT aplikaciji je bugovita, pa pričekajte da Google prvo to u potpunosti popravi."
-		},
-		{
-			"title": "Problemi s preuzimanjem aplikacije",
 			"fields": [
 				{
-					"title": "Ako imate problema s preuzimanjem Vanced datoteka pomoću vancedapp.com ili ne možete otvoriti našu web stranicu zbog ograničenja poslužitelja/regije",
-					"content": "Možete preuzeti dobiti našeg novi Manager [here](https://github.com/YTVanced/VancedManager/releases/)\n\nNAPOMENA: Ovdje morate odabrati \"manager.apk\" u latest release > assets. Ne birajte ZIP ili bilo što drugo jer nisu apk."
+					"title": "If Vanced got stuck on splash screen",
+					"content": "1. Switch Airplane mode on.\n2. Open Youtube Vanced.\n\n3. Tap on close in changelog popup.\n4. Turn off Airplane mode.\n5. Reopen vanced.\n\nThanks to rocco6victorFrom XDA"
 				},
 				{
-					"title": "Ako imate problema s preuzimanjem i instaliranjem Vanced-a putem Manager-a, i dalje možete koristiti SAI/ručnu metodu za instaliranje Vanced-a.",
-					"content": "• Upotrijebite MediaFire Mirror za preuzimanje potrebnih datoteka.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Upotrijebite AFH Mirror za preuzimanje potrebnih datoteka.\n>https://androidfilehost.com/?w=files&flid=170196\n\nBILJEŠKE:\n\nA) Budući da sada na MediaFire/AFH imamo sve zasebne apk datoteke, morate ZIP-ati sve \"osnovnu, arhitekturu i jezik\" i instalirati ih putem SAI. Sva 3 apk su obavezna.\nB) Ručna instalacija može se izvršiti samo putem root-a jer zahtijeva pristup root-pohrani."
+					"title": "If Vanced keeps on loading infinitely",
+					"content": "1. Disable battery optimization for both YouTube Vanced and microG app using dontkillmyapp.com then reboot your device.\n2. It should get fixed now."
 				}
 			]
 		},
 		{
+			"title": "Problemi s preuzimanjem aplikacije",
+			"description": "⚠️Please don't report PIP related issues.⚠️\n• Pip is controlled by system as Vanced uses android native pip. Blame ROM for any issues with your PIP.\nOther apps like MX Player, VLC, etc uses its own PIP instead of android native hence they will never face such issues which persist in apps using native.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture\n\nOn latest V15.43.32, pip is stock yt bug so please wait for Google to fix it fully first."
+		},
+		{
 			"title": "Odvoji",
-			"description": "Možete koristiti bilo koje zaobilazno rješenje za odvajanje aplikacije YouTube sa Play-a.",
 			"fields": [
 				{
 					"title": "Rješenje 1",
@@ -194,52 +180,62 @@
 				{
 					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
 					"content": "Samo deinstalirajte bilo koju izdvojenu aplikaciju koju ste instalirali iz bilo kojeg drugog izvora, a zatim instalirajte Vanced. U suprotnom deinstalirajte \"Vanced microG\"> ponovno pokrenite uređaj> pa prvo instalirajte Vanced microG pa Vanced. Ako se pogreška i dalje javlja, upotrijebite SAI za ručnu instalaciju Vanced odvojenih aplikacija. Te se datoteke aplikacija nalaze u\n\"android/data/com.vanced.manager/files/vanced/nonroot/\""
-				},
-				{
-					"title": "INSTALL_PARSE_FAILED_NOT_APK",
-					"content": "Promijenite jezik telefona s indonezijskog na engleski, a zatim instalirajte Vanced. Nakon instalacije jezik možete vratiti na indonezijski. Ako vaš uređaj ne koristi indonezijski jezik, provjerite je li jezik pravilno odabran u Vanced Manager-u koji želite instalirati s YouTubeom Vanced."
-				},
-				{
-					"title": "INSTALL_FAILED_NO_MATCHING_ABIS",
-					"content": "Preuzmite staru verziju umjesto zadane"
-				},
-				{
-					"title": "INSTALL_FAILED_INVALID_APK: Podijeljeni config.en definiran je više puta",
-					"content": "Pokušajte ukloniti jedan apk split_config.en iz apks datoteke, a zatim instalirajte\n(Apks datoteka je samo zip datoteka, tako da možete lako ukloniti apk iz nje)"
-				},
-				{
-					"title": "INSTALL_FAILED_DUPLICATE_PERMISSION",
-					"content": "Deinstalirajte microG > ponovno pokreni > instaliraj Vanced putem SAI > instaliraj microG \n\nAko se microG ne instalira, instalirajte i microG putem SAI."
-				},
-				{
-					"title": "Nije moguće instalirati aplikaciju jer je u sukobu s već instaliranom aplikacijom s istim nazivom paketa",
-					"content": "Deinstaliraj microG > ponovno pokreni > instaliraj Vanced putem SAI> instaliraj microG putem instalatora apk paketa\nAko se microG ne instalira, instalirajte i microG putem SAI."
-				},
-				{
-					"title": "APLIKACIJA NIJE KOMPATIBILNA S OVIM UREĐAJEM",
-					"content": "Preuzmite datoteke naslijeđene arhitekture prilikom preuzimanja Vanced datoteka iz službenih Vanced poveznica umjesto zadane arhitekture."
-				},
-				{
-					"title": "INSTALL_PARSE_FILED_NO_CERTIFICATES",
-					"content": "Čini se da niste pravilno pročitali upute i instalirali Vanced bez onemogućavanja provjere potpisa, ili ste isprobali neku metodu koja nije dala pozitivan rezultat, pa je rješenje i jedne i druge onemogućiti provjeru potpisa koristeći najbolju metodu/alternativu onoj koju ste prije koristili."
-				},
-				{
-					"title": "INSTALL_FAILED_INVALID_INSTALL_LOCATION",
-					"content": " Idite na postavke uređaja> opcije razvojnih programera i isključite \"Prisilno dopusti aplikacijama na vanjsko\", a zatim instalirajte aplikaciju Vanced u SAI."
-				},
-				{
-					"title": "INSTALL_FAILED_USER_RESTTRICTED：Korisnik je otkazao instalaciju",
-					"content": "Instalacija nepoznatih izvora zaštićena je po usluzi na vašim MIUI uređajima. Idite na postavke uređaja i omogućite nepoznate izvore za SAI, a problem će se riješiti i moći ćete instalirati Vanced."
-				},
-				{
-					"title": "INSTALL_FAILED_INTERNAL_ERROR: Dopuštenje je odbijeno",
-					"content": "Onemogućite MIUI optimizaciju u opcije za programere uređaja."
 				}
 			]
 		},
 		{
 			"title": "Problemi s prijenosom uživo",
-			"description": "Rješenje: Slijedite ovaj vodič > https://youtu.be/R9asMVCQkAU. Također, onemogućite vanjske blokatore oglasa/vpn/proxy/prilagođene postavke u Vanced-u. Zadržite zadane postavke ako ne želite vidjeti probleme."
+			"description": "Rješenje: Slijedite ovaj vodič > https://youtu.be/R9asMVCQkAU. Također, onemogućite vanjske blokatore oglasa/vpn/proxy/prilagođene postavke u Vanced-u. Zadržite zadane postavke ako ne želite vidjeti probleme.",
+			"fields": [
+				{
+					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
+					"content": "Uninstall stock yt updates. Make sure Stock YouTube version is lower than vanced version you are installing now."
+				},
+				{
+					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
+					"content": "Just uninstall any vanced app that you have installed from any other source then install vanced.  Otherwise uninstall \"vanced microG\" > reboot device > then install vanced microG first then Vanced. If error still comes, use SAI to install the vanced split apks manually. These apk files are located in \n\"android / data / com.vanced.manager / files / vanced / nonroot / \""
+				},
+				{
+					"title": "INSTALL_PARSE_FAILED_NOT_APK",
+					"content": "Change the language of your phone from Indonesian to English then install vanced. After installing, you can change language back to Indonesian. If your device isn't using Indonesian language, make sure language is properly selected in Vanced manager which you wanna install with YouTube Vanced."
+				},
+				{
+					"title": "INSTALL_FAILED_NO_MATCHING_ABIS",
+					"content": "Download legacy version instead of default"
+				},
+				{
+					"title": "INSTALL_FAILED_INVALID_APK: Split config.en was defined multiple times",
+					"content": "Try removing one split_config.en apk from apks file then install\n(Apks file is just a zip file so you can easily remove the apk from it)"
+				},
+				{
+					"title": "INSTALL_FAILED_DUPLICATE_PERMISSION",
+					"content": "Uninstall microG > reboot > install vanced via sai > install microG\n\nIf microG doesn't install, install microG too via SAI."
+				},
+				{
+					"title": "Unable to install the app because it conflicts with an already installed app with same package name",
+					"content": "Uninstall microG > reboot > install vanced via sai > install microG via apk package installer\nIf microG doesn't install, install microG too via SAI."
+				},
+				{
+					"title": "APP IS INCOMPATIBLE WITH THIS DEVICE",
+					"content": "Download the legacy architecture files when downloading vanced files from official vanced mirrors instead of default architecture."
+				},
+				{
+					"title": "INSTALL_PARSE_FAILED_NO_CERTIFICATES",
+					"content": "It seems like you didn't read instructions properly and installed vanced without disabling signature verification. or you tried some method which didn't give any positive result, so the solution to both is to disable signature verification using the best method/alternative to what you used before."
+				},
+				{
+					"title": "INSTALL_FAILED_INVALID_INSTALL_LOCATION",
+					"content": " Please head to your device settings > developer options and turn off \"force allow apps on external\" then install the Vanced app in SAI."
+				},
+				{
+					"title": "INSTALL_FAILED_USER_RESTRICTED: Install canceled by user",
+					"content": "Unknown sources install is protected per service in your MIUI devices Please go to your device settings and enable unknown sources for SAI and issue will get solved and you will be able go install Vanced."
+				},
+				{
+					"title": "INSTALL_FAILED_INTERNAL_ERROR: Permission Denied",
+					"content": "Disable MIUI optimization from your device developer options."
+				}
+			]
 		},
 		{
 			"title": "Popis dopuštenih",
@@ -268,6 +264,10 @@
 		{
 			"title": "Postavke se ruše",
 			"description": "Isključite otisak prsta i idite u postavke i izvršite postavke, nakon što je gotovo, ponovno ga uključite. Nakon toga se više neće srušiti, čak i ako nastavite dalje ako ne ponovno pokrenete uređaj."
+		},
+		{
+			"title": "Settings crashes",
+			"description": "Turn off your fingerprint and go in the settings and do your setting, after it's done, turn it back on. It won't crash again after that, even if you keep going in it unless you restart your device."
 		}
 	]
 }
