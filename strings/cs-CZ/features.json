@@ -5,8 +5,8 @@
       "description": "YouTube Vanced si klade za cíl být lepší verzí Youtube. Zahrnuje blokování reklam, tmavý Amoled režim a spoustu dalších funkcí. K relativně snadné instalaci YouTube Vanced použijte Vanced Manager."
     },
     {
-      "title": "YouTube Music Vanced",
-      "description": "YouTube Music Vanced má stejný cíl jako YouTube Vanced, ale zaměřuje se na YouTube Music. Ve srovnání s Vanced obsahuje poněkud méně funkcí, ale přesto zahrnuje mnoho těch užitečných, které očekáváte – jako je například blokování reklam a přehrávání na pozadí, vše uvnitř YouTube Music Vanced!"
+      "title": "Vanced Music",
+      "description": "Vanced Music má stejný cíl jako YouTube Vanced, ale zaměřuje se na YouTube Music. Ve srovnání s Vanced obsahuje poněkud méně funkcí, ale přesto zahrnuje mnoho těch užitečných, které očekáváte – jako je například blokování reklam a přehrávání na pozadí, vše uvnitř Youtube Music!"
     },
     {
       "title": "Hlavní funkce YouTube Vanced",
@@ -14,11 +14,11 @@
     },
     {
       "title": "Přizpůsobení",
-      "description": "- Umožňuje přepsat možnosti kodeku, jako je vynucení H264 pro stará zařízení nebo VP9. Také umožňuje vynutit přehrávání HDR nebo vypnout 60 snímků za sekundu, pokud dáváte přednost filmovému zážitku. (Vlastní konfigurace zařízení pro tyto funkce najdete na našem [serveru Discord](https://discord.gg/Vanced) or XDA)\n- Vynutit výchozí rozlišení videa tak, jak chcete a dokonce přepsat rozlišení obrazovky pro ostré přehrávání 4k na jakémkoli zařízení. Umožňuje také změnit výchozí rychlost přehrávání mezi 0,25x až 2x (za předpokladu, že je vaše zařízení dostatečně výkonné)\n- Umožňuje přepínat domácí reklamy, většinu reklam uživatelského rozhraní, reklamy na zboží, příspěvky z komunity, prodeje filmů, informace o kompaktních bannerech (například COVID-19 info), zcela odstranit komentáře, kompaktní filmy, odstranění nabídky filmů a mnoho dalšího!"
+      "description": "- Umožňuje přepsat možnosti kodeku, jako je vynucení H264 pro stará zařízení nebo VP9. Také umožňuje vynutit přehrávání HDR nebo vypnout 60 snímků za sekundu, pokud dáváte přednost filmovému zážitku. (Vlastní konfigurace zařízení pro tyto funkce najdete na našem Discordu nebo XDA)\n- Vynutit výchozí rozlišení videa tak, jak chcete a dokonce přepsat rozlišení obrazovky pro ostré přehrávání 4k na jakémkoli zařízení. Umožňuje také změnit výchozí rychlost přehrávání mezi 0,25x až 2x (za předpokladu, že je vaše zařízení dostatečně výkonné)\n- Umožňuje přepínat domácí reklamy, většinu reklam uživatelského rozhraní, reklamy na zboží, příspěvky z komunity, prodeje filmů, informace o kompaktních bannerech (například covid info), zcela odstranit komentáře, kompaktní filmy, odstranění nabídky filmů a mnoho dalšího!"
     },
     {
       "title": "Sponsor Block",
-      "description": "- Představuje schopnost přeskočit sponzorské segmenty (kde [YouTuber](https://en.wikipedia.org/wiki/YouTuber) inzeruje službu nebo produkt uprostřed videa).\n- Podporuje také přeskakování dalších kategorií, například úvod, outro a vlastní propagace.\n- Používá [zde nalezené](https://sponsor.ajay.app) API. Zde můžete najít další informace, jak to funguje.\n- Také vám umožňuje odeslat své vlastní segmenty do API a přispět k širší komunitě.\n- Úplná kontrola nad tím, zda se má automaticky přeskočit kategorie segmentu nebo zobrazit tlačítko pro přeskočení, nebo se jednoduše nepřeskočí vůbec.\n- Zvýrazní segment v konkrétní barvě na základě jeho kategorie na časové ose přehrávání."
+      "description": "- Představuje schopnost přeskočit sponzorské segmenty (kde youtuber inzeruje službu nebo produkt uprostřed videa).\n- Podporuje také přeskakování dalších kategorií, například úvod, outro a vlastní propagace.\n- Používá zde nalezené API. Zde můžete najít další informace, jak to funguje.\n- Také vám umožňuje odeslat své vlastní segmenty do API a přispět k širší komunitě.\n- Úplná kontrola nad tím, zda se má automaticky přeskočit kategorie segmentu nebo zobrazit tlačítko pro přeskočení, nebo se jednoduše nepřeskočí vůbec.\n- Zvýrazní segment v konkrétní barvě na základě jeho kategorie na časové ose přehrávání."
     },
     {
       "title": "Platformy",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Rozdíl mezi Root a Non-Root",
-      "description": "#### Root: \nRoot varianta Vanced bezproblémově nahrazuje oficiální aplikaci YouTube. Výsledkem je, že můžete přímo otevřít odkazy na YouTube nebo vyvolat pomocí Asistenta Google prostřednictvím upravené aplikace Vanced.\n\n#### Non-Root:\n- Pokud máte zařízení, které je obtížné rootovat nebo nechcete rootovat svůj telefon, měli byste se rozhodnout pro variantu non-root. \n- Lze ji nainstalovat také na rootované zařízení. Vzhledem k tomu, že název balíčku non-root varianty se liší od standardní aplikace YouTube, mohou existovat společně. Abyste se mohli přihlásit pomocí svého účtu YouTube/Google, musíte si nainstalovat další doprovodnou aplikaci (Vanced microG). \n- Kromě toho musíte ručně nastavit Vanced jako výchozí aplikaci pro otevírání odkazů YouTube. \n- S variantou non-root je však jednodušší žít, proto vám doporučujeme držet se varianty non-root, pokud opravdu nepotřebujete vyměnit aplikaci YouTube na vašem telefonu."
+      "description": "- Root: \nRoot varianta Vanced bezproblémově nahrazuje oficiální aplikaci YouTube. Výsledkem je, že můžete přímo otevřít odkazy na YouTube nebo vyvolat pomocí Asistenta Google prostřednictvím upravené aplikace Vanced.\n- Non-Root:\n- Pokud máte zařízení, které je obtížné rootovat nebo nechcete rootovat svůj telefon, měli byste se rozhodnout pro variantu non-root. \n- Lze ji nainstalovat také na rootované zařízení. Vzhledem k tomu, že název balíčku non-root varianty se liší od standardní aplikace YouTube, mohou existovat společně. Abyste se mohli přihlásit pomocí svého účtu YouTube/Google, musíte si nainstalovat další doprovodnou aplikaci (Vanced microG). \n- Kromě toho musíte ručně nastavit Vanced jako výchozí aplikaci pro otevírání odkazů YouTube. \n- S variantou non-root je však jednodušší žít, proto vám doporučujeme držet se varianty non-root, pokud opravdu nepotřebujete vyměnit aplikaci YouTube na vašem telefonu."
     }
   ]
 }
