@@ -2,23 +2,23 @@
   "faq": [
     {
       "title": "Що таке Youtube Vanced?",
-      "description": "YouTube Vanced - це модифікована версія YouTube з додатковими функціями і поліпшеннями для того, щоб зробити використання YouTube трішки краще!\n\nТакі додаткові функції, як:\n\n- Відтворення у фоні\n- Картинка в картинці\n- Призначені для користувача теми (звичайний темний колір або чорний для OLED)\n- Блокування більшості видів реклами\n- Зміна максимальної здатності відео\n- ...І багато іншого!\n\nДля додаткової інформації, відвідайте <https://vancedapp.com>"
+      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
     },
     {
       "title": "А де кнопка для завантаження?",
-      "description": "Компанія Google не дозволяє публікацію свого модифікованого додатка в магазині, тому не шукайте його в Play Market, всі ці додатки є підробками.\n\nВи можете завантажити його з офіційного сайту: <https://vancedapp.com>, а також з репозиторію на GitHub: <https://github.com/YTVanced/VancedManager/releases/latest>"
+      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Чи буде додаток автоматично оновлюватися?",
-      "description": "Ні не буде.\n\nVanced Manager надішле вам повідомлення, коли оновлення вийде.\n\nВи також можете приєднатися до нашого [сервера Discord](https://discord. g/wYrRPgv) або до [каналу в Telegram](https://t.me/Vanced) для отримання останніх новин і сповіщення про оновлення."
+      "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
     },
     {
       "title": "Чи може Vanced завантажувати відео?",
-      "description": "Vanced не має функції завантаження відео і вона ніколи не буде додана.\n\nБагато відео доступні для завантаження безкоштовно в [деяких країнах] (https://support. oogle.com/youtube/answer/6141269). Для решти світу, будь ласка, завантажте YouTube Premium або використовуйте сторонній завантажувач.\n\nЗнову ж таки, команда Vanced НІКОЛИ не додасть завантаження відео в додаток або щось подібне.\n\nЦе причина закриття багатьох модів YouTube в минулому, оскільки Google не любить коли люди завантажують контент, захищений авторським правом, тому не питайте про це!!!"
+      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
     },
     {
       "title": "Чому не працюють свайп-жести?",
-      "description": "Якщо ви включили \"старі коментарі\" з налаштувань YouTube> Налаштування Vanced> Налаштування зовнішнього вигляду, вимкніть його і запустіть додаток. Якщо це не працює, спробуйте очистити дані додатка і кеш."
+      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
     },
     {
       "title": "Чому субтитри недоступні?",
@@ -26,23 +26,23 @@
     },
     {
       "title": "Ви приймаєте пожертви?",
-      "description": "Ми НЕ приймаємо ніяких пожертвувань ні за яких обставин і будь-який сайт або посилання або повідомлення, які говорять про \"пожертвування для Vanced\" - фальшиві.\n\nАле якщо ви хочете підтримати розробників Vanced, ви можете завантажити Brave за [цим посиланням](https://brave.com/kev231) і AdGuard за [цим посиланням](https://adguard.com/en/welcome.html?aid=31141)."
+      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
       "title": "Як автоматично приховувати управління плеєром?",
-      "description": "Використовуйте вбудовані налаштування спеціальних можливостей для зміни і управління функціями. Відкрийте налаштування в додатку \"Youtube Vanced\" і натисніть на кнопку спеціальних можливостей. Це відкриє параметр, який показаний на малюнку вище.\nЯкщо опції все ще не знайдені, перейдіть до налаштувань пристрою> спеціальними функціями і знайдіть \"Меню спеціальних можливостей\" і відключіть її.\nТакож, якщо це не працює, вимкніть підсилювач звуку, Switch Access, автоматичні субтитри, якщо вони включені."
+      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
     },
     {
       "title": "Чому додаток розбито на кілька частин?",
-      "description": "Тому що:\n1. Звичайне додаток YouTube теж розбитий на кілька частин.\n2. Такий спосіб встановлення дозволяє завантажувати тільки потрібну вам мову для економії місця.\n3. Додаток містить тільки потрібні бібліотеки для вашого пристрою.\n\nЗвичайно, Vanced Manager або розробники могли б конвертувати все це в звичайний APK, але нам лінь цим займатися. Вам просто потрібно звикнути до того, що ви пропонуємо.\n\nНе хвилюйтеся, Vanced Manager все зробить за вас при натисканні на кнопку \"Встановити\"."
+      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
     },
     {
       "title": "Чому колір на екрані запуску відрізняється від теми?",
-      "description": "Колір фону на заставці тепер узято з кольору фреймворку Android (система Android), щоб переконатися, що Vanced/Youtube змінює свій колір відповідно до системної теми. Незалежно від кольору в фреймворку Android, такий же колір буде використовуватися і в Vanced.\n\nВи можете використовувати теми Substratum/Swift для зміни кольору теми."
+      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
     },
     {
       "title": "Навіщо завантажувати файли встановлення заново?",
-      "description": "Причина досить проста: іноді завантажені файли можуть бути пошкоджені і спроба їх встановлення призведе до множинних помилок. Щоб уникнути цього, менеджер перезавантажує файли кожен раз при натисканні кнопки.\n\nОднак, Non-Root інсталятор тепер може використовувати завантажені файли для перевстановлення Vanced."
+      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
     },
     {
       "title": "Чому рут-версія не має дозволу на мікрофон?",
@@ -50,15 +50,15 @@
     },
     {
       "title": "Що таке ExoPlayer v1?",
-      "description": "Це стара версія медіаплеєра використовуваного YouTube. Продуктивність і стабільність може бути краще при його використанні."
+      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
     },
     {
       "title": "Опції для розробників",
-      "description": "В розширених налаштуваннях натисніть на розділ \"Про програму\" 6-7 разів, щоб розблокувати секретне меню. Це меню дозволяє використовувати додаткові налаштування відеокодека."
+      "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
     },
     {
       "title": "Основні налаштування",
-      "description": "1. Вам потрібно хоча б встановити [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) варіант GApps для запуску Vanced.\n\n2. Ви не можете запустити Vanced з microG Core бо він вимагає Google Play Services Framework, який доступний у всіх пакетах GApps.\n\n3. Якщо ви стурбовані конфіденційністю і не хочете використовувати GApps, але все ще хочете використовувати Vanced, то ви можете використовувати [веб-версію] (https://youtube.com) сайту."
+      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
       "title": "Чому трансляція екрану не працює?",
@@ -66,7 +66,7 @@
     },
     {
       "title": "Що таке підпис APK?",
-      "description": "Ви читаєте це, тому що ви не використовуєте Vanced Manager або ви могли встановити Vanced з неофіційного джерела.\nВикористовуйте Vanced Manager!\n\nВи можете безпечно завантажити Vanced Manager з:\n- Офіційного сайту <https://vancedapp.com> \n- [Репозиторія GitHub](https://github. om/YTVanced/VancedManager/releases/latest)"
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "YouTube Vanced є в Play Маркеті?",
