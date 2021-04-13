@@ -2,38 +2,38 @@
 	"troubleshooting": [
 		{
 			"title": "Temel sorun giderme",
-			"description": "A) Wipe data and cache of \n\n(I) Vanced/Vanced Music and microG for Non-Root Variant\n(II) Vanced/Vanced Music and Google Play Services for Root Variant\n\nB) Reinstall YouTube Vanced\n\nIMPORTANT NOTICE: Reboot between processes"
+			"description": "A) Aşağıdaki uygulamaların verilerini ve ön belleklerini silin \n\n(I) Root olmayan varyant için Vanced/Vanced Music ve microG\n(II) Root varyant için Vanced/Vanced Music ve Google Play Servisleri\n\nB) YouTube Vanced'i baştan kurun\n\nÖNEMLİ UYARI: İşlemler arasında cihazınızı yeniden başlatın"
 		},
 		{
-			"title": "Login issues",
-			"description": "Below are some of the common errors with their screenshots so that you can get to know which solution you have to follow.",
+			"title": "Oturum açma sorunları",
+			"description": "Sık karşılaşılan bazı hataları gösteren birtakım görüntüler aşağıdadır, izleyeceğiniz çözümde size fikir verebilir.",
 			"fields": [
 				{
-					"title": "If you're getting an error saying \"please check your internet connection\"",
-					"content": "Please follow this video guide: https://youtu.be/S5sTXRTrD5Y. Try clearing microG's app data too."
+					"title": "\"İnternet bağlantınızı kontrol edin\" diyen bir hata alıyorsanız",
+					"content": "Şu video kılavuzu izleyin: https://youtu.be/S5sTXRTrD5Y. MicroG'nin uygulama verilerini de silin."
 				},
 				{
-					"title": "If you are facing issues relating to login saying, \"You're offline, explore downloads\"",
+					"title": "Giriş yaparken \"Çevrim dışısınız, indirilenlere göz atın\" uyarısıyla karşılaşıyorsanız",
 					"content": "1. Clear DATA of both Vanced microG and Google Play services\n2. UNINSTALL both \"Vanced microG\" and Vanced.\n\n3. Reboot if you want.\n\n4. Reinstall both APKs[microG and Vanced) but make sure you install microG before you install Vanced. Install via Vanced Manager or sai using files provided in #installation note in group\n\n5. Now login.\n\nNOTE: If you're still having issues with Vanced giving connection errors (even after installing microG first), receiving notifications, etc, make sure you disable battery optimization for the Vanced and microG app. \n\nInstructions to do so vary on your device manufacturer. You can folloe guides like https://dontkillmyapp.com or search it up."
 				},
 				{
-					"title": "If Vanced logs out of your Google account",
+					"title": "Vanced uygulaması Google oturumunuzu kapatıyorsa",
 					"content": "It happens because your device OS' heavy battery optimization killing microg services/activities which are responsible for logins.\n\nTo fix this, disable battery optimization for microG using https://dontkillmyapp.com OR searching it up"
 				},
 				{
-					"title": "For users who are using Gsuite account on Non-Root version of vanced and facing connection issues frequently (errors like \"You are offline\", \"Please check your internet\", etc)",
+					"title": "Vanced'in root olmayan sürümünde Gsuite hesabını kullanıp bağlantı üzerine sık sık hata alan (ör. \"Çevrim dışısınız\", \"İnternet bağlantınızı kontrol edin\") kullanıcılar için",
 					"content": "•Log into your gsuite account admin console(https://admin.google.com/)\n\n• Search for device management\n\n• Go to setup and disable \"Mobile Management\"\n\n• That's it and it will get fixed."
 				},
 				{
-					"title": "Huawei workaround 1",
+					"title": "Huawei geçici çözümü - 1",
 					"content": "For those who updated microg to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microg.\n\n2. Download \"Vanced microg 0.2.12.203315 version\" from mediafire v15 link and install it. Link for mediafire v15 here - https://del.dog/Mediafireonlyv15\n\n3. You should be able to login now."
 				},
 				{
-					"title": "Huawei workaround 2",
+					"title": "Huawei geçici çözümü - 2",
 					"content": "1. Uninstall both vanced and microg if you already installed. Then reinstall only microg(latest available)\n\n2. Then open microg app settings\n\n3. Turn off both \"Google Cloud Messaging\" and \"Google device registration\".\n\n4. Add your account through microg itself.\n\n5. Then install Vanced."
 				},
 				{
-					"title": "Huawei workaround 3",
+					"title": "Huawei geçici çözümü - 3",
 					"content": "1. First install the old microG version (remove the current one installed but keep the apk for it - you need it later). \n\nmicrog_YouTube_Vanced_0.2.4-105_16052019_2.apk (get from the old files link on vancedapp.com site)\n\n2. Then open YouTube Vanced and try logging in again until it shows the error message. Try to reload it by tapping the error message. \n\n3. Now install the newer microG version again and restart vanced. It should be logged in again and everything should work again.\n\nNOTE: Now make sure u disable battery optimization for both microg and vanced using dontkillmyapp.com otherwise your device software might kill microg and you might have to repeat all above steps again to fix login."
 				}
 			]
@@ -42,20 +42,20 @@
 			"title": "Vanced Manager",
 			"fields": [
 				{
-					"title": "For Vanced manager stuck on logo/crash issue",
-					"content": "Clear app data of manager > Turn internet off > Open manager app > Turn internet on."
+					"title": "Vanced Manager logoda takılıp kalması/çökmesi hatası",
+					"content": "Manager uygulamasının verilerini silin > İnternet bağlantısını kesin > Manager uygulamasını açın > İnternet'e bağlanın."
 				},
 				{
 					"title": "INSTALL_FAILED_INVALID_APK: No packages staged",
-					"content": "Install the stock yt from play store then update vanced over it using vanced manager."
+					"content": "Önce Google Play mağazasındaki Youtube uygulamasını yükleyin, sonra Vanced Manager'ı açıp Vanced'i güncelleyin."
 				},
 				{
-					"title": "If latest vanced manager gets stuck at \"Please be patient\" screen, do this",
-					"content": "Install the stock yt from play store then update vanced over it using vanced manager."
+					"title": "Vanced Manager \"Lütfen sabırlı olun\" yazan pencerede takılıp kalıyorsa",
+					"content": "Önce Google Play mağazasındaki Youtube uygulamasını yükleyin, sonra Vanced Manager'ı açıp Vanced'i güncelleyin."
 				},
 				{
 					"title": "If you face \"Error downloading Microg/Vanced\" or installation got stuck while installing microg/vanced app",
-					"content": "Clear manager app data then continue installing and DON'T SWITCH TO OTHER APPS UNTIL IT COMPLETES THE PROCESS."
+					"content": "Manager uygulamasının verilerini silin ve sonra yüklemeye devam edin, BU SIRADA İŞLEM BİTENE DEK BAŞKA BİR UYGULAMAYA GEÇMEYİN."
 				}
 			]
 		},
@@ -76,8 +76,8 @@
 					"content": "Make sure \"Scheduled Digest\" is off in youtube settings and your notifications sounds are correct and set.\n\nYou can try using \"notification manager\" app which keeps track of all your notification at one place so in case if you are dismissing your notifications, you can access the same again from that app."
 				},
 				{
-					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
-					"content": "• Head to manager settings and clear downloaded files\\n\\n• Then clear manager app data then continue installing vanced."
+					"title": "\"İşlem başarısız çünkü apk dosyaları geçersiz veya bozulmuş\" gibi hatalar için",
+					"content": "• Manager ayarlarını açın ve indirilen dosyaları temizleyin\\n\\n• Ardından Manager uygulamasının verilerini silin ve sonrasında Vanced'i yükleyin."
 				}
 			]
 		},
@@ -112,8 +112,8 @@
 					"content": "REQUIREMENTS: \n\nVanced Manager 2.1.0 or newer\nA root manager like Es File Explorer or Root Browser\nStep 1: Go into /data/adb/service.d/ and edit the script Music.sh and or Vanced.sh\n\nThey both should look like something similar to this :\n\nwhile  [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\nStep 2: Change value of  \"do sleep 1; done\"   to   \"do sleep 2; done\"\n\nStep 3: Reboot or Restart Device\n\nIf that doesn't work try to add more sleep time between do & done\n\n——————————————————\n\nif that doesn't work, maybe your device need more time before it mounts root vanced youtube/music apk.\njust modify vanced.sh and or music.sh, \ninsert a new sleep line between 'while' and 'mount' line like:\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
 				},
 				{
-					"title": "If Vanced crashes in the middle of playback (when playing in background mode)",
-					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide #bugreport on telegram or in discord with the details it requires and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
+					"title": "Video arka planda yürütülürken Vanced çöküyorsa",
+					"content": "Bu durumun tek sebebi bazı telefon üreticilerinin MIUI, EMUI, ColorOS vb. işletim sistemlerinde uyguladıkları agresif pil optimizasyonlarıdır, bu yüzden Vanced ve MicroG için pil optimizasyonlarının devre dışı bırakılması tavsiye edilir. \n\nBunun için yönergeler cihazın üreticisine göre değişmektedir. dontkillmyapp.com gibi bir siteden yardım alabileceğiniz gibi Google'a \"[cihaz markası] [cihaz modeli] [Android sürümü] pil optimizasyonu (veya \"disable battery optimization\")\" yazarak arayabilirsiniz.\n\nEğer yine de bu sorunla karşılaşıyorsanız Telegram veya Discord'da gerekli ayrıntılarla birlikte #bugreport etiketini kullanarak bildirebilirsiniz. Vanced için hata kaydını eklemeyi unutmayın, tüm sistemin hata kaydını GÖNDERMEYİN."
 				}
 			]
 		},
@@ -122,12 +122,12 @@
 			"description": "If you are seeing ads in YouTube Vanced or Vanced Music, read this by xfileFIN:\n\n> I need to get it myself to track it down. As simple layout hiding won't work for that.\nNot sure how they decide who gets them, it's all server side.\nWhat I do know is that I can't just hide the layout because the same layout is used for the actual videos as well. The code just decides whether or not it shows the ad badge.\nWell I could easily hide the ad badge but it would still show the actual ad video, just without labeling it as ad.\nI need to get the ad myself to track it down in the code since obfuscation makes it hard.\n\nThe home screen and search ads (added by Google) are region based and will not be shown if you’re not in the region it’s active in. Those advertisements are not added by vanced team in any way so if you point your finger at us, we would laugh at you. \n\nDevs already know that you are getting ads in your region. Please wait patiently for updates till all ads gets blocked. Until then, enjoy vanced and don't spam chat with same.\n\nThe temporary solution to fix it would be clearing data and cache of the app or waiting for future updates.",
 			"fields": [
 				{
-					"title": "Solution 1",
-					"content": "Stick to the non-root version until the developers fix this."
+					"title": "Çözüm - 1",
+					"content": "Geliştiriciler bunu halledene dek root olmayan sürümleri kullanın."
 				},
 				{
-					"title": "Solution 2",
-					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nStep 1: Go to manager settings > Root Script Sleep Time (you should be on root mode for this option to appear) and set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
+					"title": "Çözüm - 2",
+					"content": "GEREKENLER: \n\nVanced Manager 2.2.0 veya daha yenisi\n1. Manager ayarlarını açın > Root Betiği Uyku Süresi (bu ayarın görünmesi için root olmalısınız) değerini 2'ye ayarlayın > Kaydedin, cihazınızı yeniden başlatın. Eğer Vanced/Music yine görünmezse bu değeri değiştirip tekrar deneyin"
 				}
 			]
 		},
@@ -137,24 +137,24 @@
 		},
 		{
 			"title": "APP loading issues",
-			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n> Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n> Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in (YouTube Settings-https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
+			"description": "İzlediğiniz videolar, arama sonuçları vb. Vanced'de görünmüyorsa, geçmiş özelliğini düzeltmek için:\n\n• Root olan kullanıcılar için (Vanced'in root olması ve olmamasıyla ilgisiz olarak)\n\n> Reklam engelleme yazılımınızda *.syoutube.com adresine izin verin (beyaz listeye alın).\n\n⚠️Adaway kullanıcıları: Eğer bu URL'yi beyaz listeye almak işinizi görmediyse \"Host Sources\" (Sunucu Kaynakları) içinden \"stevenblack\" işaretini kaldırın, sonra cihazınızı yeniden başlatın. Böylece geçmiş özelliği çalışır hâle gelecektir.⚠️\n\n• Root olmayan kullanıcılar için:\n\n> İzleme geçmişinizi kaydetmek için v14.10.53 veya daha üstünü kullanın. Eğer izleme geçmişiniz kaydedilmiyor/güncellenmiyor ise marka hesabınızı Youtube ayarları (https://www.youtube.com/account_advanced) içinden hesabınızla birleştirmelisiniz.(Hesapları birleştirmek mevcut geçmişinizi temizleyecektir.)\n\n⚠️Adaway VPN reklam engellemesini kullananlar için: Eğer marka hesabı kullanmıyorsanız *s.youtube.com adresini beyaz listeye ekleyip kaydedin.⚠️"
 		},
 		{
 			"title": "Picture-in-Picture issues",
 			"fields": [
 				{
-					"title": "If Vanced got stuck on splash screen",
-					"content": "1. Switch Airplane mode on.\n2. Open Youtube Vanced.\n\n3. Tap on close in changelog popup.\n4. Turn off Airplane mode.\n5. Reopen vanced.\n\nThanks to rocco6victorFrom XDA"
+					"title": "Vanced açılış ekranında takılıp kalıyorsa",
+					"content": "1. Uçak modunu açın.\n2. Youtube Vanced'i açın.\n3. Değişim kaydı penceresinde kapat (close) seçin.\n4. Uçak modunu kapatın.\n5. Vanced'i tekrar açın.\n\nXDA'dan rocco6victor'a teşekkürler"
 				},
 				{
-					"title": "If Vanced keeps on loading infinitely",
-					"content": "1. Disable battery optimization for both YouTube Vanced and microG app using dontkillmyapp.com then reboot your device.\n2. It should get fixed now."
+					"title": "Vanced'in yüklenmesi hiç bitmiyorsa",
+					"content": "1. Youtube Vanced ve MicroG için pil optimizasyonunu dontkillmyapp.com yardımıyla devre dışı bırakın ve sonra cihazınızı yeniden başlatın.\n2. Sorun düzelmiş olmalı."
 				}
 			]
 		},
 		{
 			"title": "App download issues",
-			"description": "⚠️Please don't report PIP related issues.⚠️\n• Pip is controlled by system as Vanced uses android native pip. Blame ROM for any issues with your PIP.\nOther apps like MX Player, VLC, etc uses its own PIP instead of android native hence they will never face such issues which persist in apps using native.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture\n\nOn latest V15.43.32, pip is stock yt bug so please wait for Google to fix it fully first."
+			"description": "⚠️PiP (ekran içinde ekran, görüntü içinde görüntü) ile ilgili sorunları bildirmeyin⚠️\n• Vanced, Android'de olan PiP'i kullandığı için PiP sistem tarafından kontrol edilir. PiP ile ilgili bir sorun yaşıyorsanız işletim sisteminizi suçlayın.\nMX Player, VLC gibi başka uygulamalar kendi PiP'lerini kullandıkları için Android PiP'iyle ilgili sorunlar onlarda olmayabilir veya tam tersi.\n\n• PiP, Android 8 ve sonrasında mevcuttur.\n\n• PiP'i etkinleştirmek için Youtube uygulaması ayarlarını açın > Genel > Ekran içinde ekranı etkinleştirin.\n\n> PiP'i MIUI'da etkinleştirmek için:\nGizlilik koruması > Yönet > Özel izinler > Görüntü içinde görüntü\n\nV15.43.32'de resmî Youtube uygulamasından kaynaklanan bir PiP hatası var, Google'ın çözmesi gerekiyor."
 		},
 		{
 			"title": "Detach",
@@ -189,51 +189,51 @@
 			"fields": [
 				{
 					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
-					"content": "Uninstall stock yt updates. Make sure Stock YouTube version is lower than vanced version you are installing now."
+					"content": "Resmî Youtube uygulamasının güncelleştirmelerini kaldırın. Fabrika sürümü Youtube uygulamasının sürüm sayısının, yüklemek istediğiniz Vanced sürümünden daha küçük olması gerekir."
 				},
 				{
-					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
-					"content": "Just uninstall any vanced app that you have installed from any other source then install vanced.  Otherwise uninstall \"vanced microG\" > reboot device > then install vanced microG first then Vanced. If error still comes, use SAI to install the vanced split apks manually. These apk files are located in \n\"android / data / com.vanced.manager / files / vanced / nonroot / \""
+					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBLE",
+					"content": "Başka kaynaktan indirdiğiniz tüm Vanced uygulamalarını kaldırıp Vanced'i öyle yükleyin. Yoksa \"Vanced MicroG\"yi kaldırın > Cihazı yeniden başlatın > Önce Vanced MicroG'yi ardından Vanced'i yükleyin. Eğer hâlâ hata alıyorsanız Vanced'i yüklemek için SAI'yı kullanın. Yüklenecek apk dosyaları aşağıdaki konumdadır \n\"android / data / com.vanced.manager / files / vanced / nonroot / \""
 				},
 				{
 					"title": "INSTALL_PARSE_FAILED_NOT_APK",
-					"content": "Change the language of your phone from Indonesian to English then install vanced. After installing, you can change language back to Indonesian. If your device isn't using Indonesian language, make sure language is properly selected in Vanced manager which you wanna install with YouTube Vanced."
+					"content": "Cihazınızın dilini İngilizceye çevirin ve Vanced'i öyle kurun. Kurulumdan sonra dili tekrar değiştirebilirsiniz. Youtube Vanced'i kurmak istediğiniz dili Vanced Manager içinden ayarladığınıza emin olun."
 				},
 				{
 					"title": "INSTALL_FAILED_NO_MATCHING_ABIS",
-					"content": "Download legacy version instead of default"
+					"content": "\"Default\" yerine \"legacy\" sürümü indirin"
 				},
 				{
 					"title": "INSTALL_FAILED_INVALID_APK: Split config.en was defined multiple times",
-					"content": "Try removing one split_config.en apk from apks file then install\n(Apks file is just a zip file so you can easily remove the apk from it)"
+					"content": "apks dosyasındaki split_config.en apk dosyasını silin ve bundan sonra kurmayı deneyin (apks dosyası bir arşiv dosyasıdır, içindeki bir apk dosyasını kolayca silebilirsiniz)"
 				},
 				{
 					"title": "INSTALL_FAILED_DUPLICATE_PERMISSION",
-					"content": "Uninstall microG > reboot > install vanced via sai > install microG\n\nIf microG doesn't install, install microG too via SAI."
+					"content": "MicroG'yi kaldırın > yeniden başlatın > SAI kullanarak Vanced'i kurun > MicroG'yi kurun\n\nMicroG kurulmuyorsa onu da SAI ile kurun."
 				},
 				{
 					"title": "Unable to install the app because it conflicts with an already installed app with same package name",
-					"content": "Uninstall microG > reboot > install vanced via sai > install microG via apk package installer\nIf microG doesn't install, install microG too via SAI."
+					"content": "MicroG'yi kaldırın > yeniden başlatın > SAI kullanarak Vanced'i kurun > MicroG'yi apk yükleyiciyle kurun\nMicroG kurulmuyorsa onu da SAI ile kurun."
 				},
 				{
 					"title": "APP IS INCOMPATIBLE WITH THIS DEVICE",
-					"content": "Download the legacy architecture files when downloading vanced files from official vanced mirrors instead of default architecture."
+					"content": "Resmî Vanced yansılarından indirirken \"default\" yerine \"legacy\" mimarisini seçin."
 				},
 				{
 					"title": "INSTALL_PARSE_FAILED_NO_CERTIFICATES",
-					"content": "It seems like you didn't read instructions properly and installed vanced without disabling signature verification. or you tried some method which didn't give any positive result, so the solution to both is to disable signature verification using the best method/alternative to what you used before."
+					"content": "Kurulum yönergesini okumadığınız için Vanced'i yüklerken imza onayını kaldırmadınız veya olumlu sonuç veren bir yöntem denediniz. Yapmanız gereken, imza onaylamasını devre dışı bırakmak, bunun için farklı bir yöntem deneyin."
 				},
 				{
 					"title": "INSTALL_FAILED_INVALID_INSTALL_LOCATION",
-					"content": " Please head to your device settings > developer options and turn off \"force allow apps on external\" then install the Vanced app in SAI."
+					"content": " Cihazınızın ayarlar menüsünden geliştirici seçeneklerine ulaşın ve \"uygulamaları harici depolamayı kullanmaya zorla\" seçeneğini kapatın. Bundan sonra Vanced'i SAI ile kurabilirsiniz."
 				},
 				{
 					"title": "INSTALL_FAILED_USER_RESTRICTED: Install canceled by user",
-					"content": "Unknown sources install is protected per service in your MIUI devices Please go to your device settings and enable unknown sources for SAI and issue will get solved and you will be able go install Vanced."
+					"content": "Bilinmeyen kaynaklardan uygulama yüklenmesi için SAI'ye izin verin. Bundan sonra Vanced'i yükleyebilirsiniz."
 				},
 				{
 					"title": "INSTALL_FAILED_INTERNAL_ERROR: Permission Denied",
-					"content": "Disable MIUI optimization from your device developer options."
+					"content": "Cihazınızın ayarlar menüsündeki geliştirici seçeneklerinden MIUI optimizasyonunu kapatın."
 				}
 			]
 		},
@@ -266,8 +266,8 @@
 			"description": "Turn off your fingerprint and go in the settings and do your setting, after it's done, turn it back on. It won't crash again after that, even if you keep going in it unless you restart your device."
 		},
 		{
-			"title": "Settings crashes",
-			"description": "Turn off your fingerprint and go in the settings and do your setting, after it's done, turn it back on. It won't crash again after that, even if you keep going in it unless you restart your device."
+			"title": "Ayarlar çöküyor",
+			"description": "Parmak izini kapat, daha sonra uygulama ayarlarına git ve ihtiyacın olan ayarları yap. Uygulama ayarlarıyla işin bittikten sonra parmak izi ayarını tekrar açabilirsin. Cihazını yeniden başlatana dek uygulama ayarları tekrar çökmeyecektir."
 		}
 	]
 }
