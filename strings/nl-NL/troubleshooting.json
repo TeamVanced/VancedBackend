@@ -56,28 +56,6 @@
 				{
 					"title": "Als je geconfronteerd wordt met \"Fout bij downloaden van microG/Vanced\" of de installatie loopt vast tijdens het installeren van de microG/Vanced apps",
 					"content": "Verwijder de gegevens van Vanced Manager en ga vervolgens door met installeren en GEBRUIK ONDERTUSSEN GEEN ANDERE APPS TOT DIT PROCES VOLTOOID IS."
-				},
-				{
-					"title": "Installatie mislukt vanwege conflicten met een reeds geïnstalleerde app. Verwijder de huidige versie van de app en probeer het opnieuw of INSTALL_FAILED_UPDATE_INCOMPATIBLE: de handtekeningen van Package com.vanced.android.youtube komen niet overeen met de eerder geïnstalleerde versie; negeren!",
-					"description": "Dit gebeurt bij gebruikers van OneUI en Oxygen OS wanneer ze hun systeem bijwerken van Android 10 naar Android 11, sommige aangepaste ROMs hebben dit probleem ook.\n\nVandaar dat we 3 mogelijke oplossingen voor je hebben",
-					"fields": [
-						{
-							"title": "Als je niet geroot bent, gebruik dan ADB",
-							"content": "1). Installeer Android Debug Bridge; Gids - https://www.xda-developers.com/install-adb-windows-macos-linux/amp/. \n\n2) Ontgrendel je apparaat. \n\n3) Schakel de ontwikkelaarsmodus in (tik 10 keer op het Buildnummer via Instellingen - Info tablet/telefoon - Softwaregegevens). \n\n4) Schakel USB foutopsporing in via Instellingen - Ontwikkelaarsopties. \n\n5) Sluit jouw apparaat aan op je PC. \n\n6) Open Command Prompt (CMD) en verander de map: \"cd C:/Windows/adb/\" en druk op Enter. \n\n7) Aangezien jouw toestel is aangesloten en CMD open is, voer je in CMD de opdracht \"adb devices\" uit. Er zal een melding verschijnen op je toestel, iets zoals \"Wil je je apparaat verbinden met je PC?\". Druk op Ja. \n\n8) Voer nu in CMD command \"adb uninstall com.vanced.android.youtube\" uit. \n\n9) Hierna kan je Vanced Manager en de nieuwste versie van YouTube Vanced installeren."
-						},
-						{
-							"title": "Als je geroot bent,",
-							"content": "1) Gebruik de root verkenner en navigeer naar de root opslag. \n\n2) Zoek dan deze map wanneer je YT Vanced installeert \"data/app/com.vanced.android.youtube-....\" of wanneer je YT Music installeert zoek je \"com.vanced.android.apps.youtube.music-....\"  \n\n3) Als je deze mappen vindt, verwijder ze dan gewoon, en ga daarna door met het installeren van YT Vanced of YT Music via Vanced Manager."
-						},
-						{
-							"title": "Als beide bovenstaande methodes mislukken",
-							"content": "Blijkbaar kan een reset naar de fabrieksinstellingen deze fout verhelpen. Doe dit enkel indien nodig én als allerlaatste mogelijke oplossing."
-						}
-					]
-				},
-				{
-					"title": "Fouten zoals \"Operatie mislukt omdat de apk-bestanden ongeldig/corrupt zijn\"",
-					"content": "• Ga naar de instellingen van Vanced Manager en wis de gedownloade bestanden\\n\\n• Wis dan de app gegevens van Vanced Manager en ga vervolgens door met het installeren van Vanced."
 				}
 			]
 		},
@@ -96,6 +74,10 @@
 				{
 					"title": "Voor root",
 					"content": "Schakel \"Geplande Digest\" uit in je YouTube instellingen en zorg dat je meldingen/geluiden correct zijn ingesteld.\n\nJe kan de \"Meldingen manager\" app gebruiken, die al je meldingen op één plaats bijhoudt, zodat je terug toegang hebt tot je meldingen, in het geval je je meldingen verwijderd hebt."
+				},
+				{
+					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
+					"content": "• Head to manager settings and clear downloaded files\\n\\n• Then clear manager app data then continue installing vanced."
 				}
 			]
 		},
@@ -128,12 +110,26 @@
 				{
 					"title": "Oplossing 2",
 					"content": "VEREISTEB: \n\nVanced Manager 2.1.0 of recenter\nEen root manager zoals Es File Explorer of Root Browser\nStap 1: Ga naar /data/adb/service.d/ en bewerk het script Music.sh of Vanced.sh\n\nZe zouden er allebei uit moeten zien zoals:\n\nwhile [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\nStap 2: Verander de waarde van \"do sleep 1; done\" naar \"do sleep 2; done\"\n\nStap 3: Herstart je apparaat\n\nAls dat niet werkt, probeer dan meer slaaptijd toe te voegen tussen do en done\n\n——————————— — — — — — —\n\nAls dat niet werkt, heeft jouw apparaat waarschijnlijk meer tijd nodig voordat het root Vanced YouTube/Music apk koppelt.\nWijzig enkel vanced.sh of music.sh, \nplaats een nieuwe sleep lijn tussen de 'while' en 'mount' lijn, zoals:\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
+				},
+				{
+					"title": "If Vanced crashes in the middle of playback (when playing in background mode)",
+					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide #bugreport on telegram or in discord with the details it requires and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
 				}
 			]
 		},
 		{
 			"title": "Advertenties in Vanced",
-			"description": "If you are seeing ads in YouTube Vanced or Vanced Music, read this by xfileFIN:\n\n> I need to get it myself to track it down. As simple layout hiding won't work for that.\nNot sure how they decide who gets them, it's all server side.\nWhat I do know is that I can't just hide the layout because the same layout is used for the actual videos as well. The code just decides whether or not it shows the ad badge.\nWell I could easily hide the ad badge but it would still show the actual ad video, just without labeling it as ad.\nI need to get the ad myself to track it down in the code since obfuscation makes it hard.\n\nThe home screen and search ads (added by Google) are region based and will not be shown if you’re not in the region it’s active in. Those advertisements are not added by vanced team in any way so if you point your finger at us, we would laugh at you. \n\nDevs already know that you are getting ads in your region. Please wait patiently for updates till all ads gets blocked. Until then, enjoy vanced and don't spam chat with same.\n\nThe temporary solution to fix it would be clearing data and cache of the app or waiting for future updates."
+			"description": "If you are seeing ads in YouTube Vanced or Vanced Music, read this by xfileFIN:\n\n> I need to get it myself to track it down. As simple layout hiding won't work for that.\nNot sure how they decide who gets them, it's all server side.\nWhat I do know is that I can't just hide the layout because the same layout is used for the actual videos as well. The code just decides whether or not it shows the ad badge.\nWell I could easily hide the ad badge but it would still show the actual ad video, just without labeling it as ad.\nI need to get the ad myself to track it down in the code since obfuscation makes it hard.\n\nThe home screen and search ads (added by Google) are region based and will not be shown if you’re not in the region it’s active in. Those advertisements are not added by vanced team in any way so if you point your finger at us, we would laugh at you. \n\nDevs already know that you are getting ads in your region. Please wait patiently for updates till all ads gets blocked. Until then, enjoy vanced and don't spam chat with same.\n\nThe temporary solution to fix it would be clearing data and cache of the app or waiting for future updates.",
+			"fields": [
+				{
+					"title": "Solution 1",
+					"content": "Stick to the non-root version until the developers fix this."
+				},
+				{
+					"title": "Solution 2",
+					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nStep 1: Go to manager settings > Root Script Sleep Time (you should be on root mode for this option to appear) and set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
+				}
+			]
 		},
 		{
 			"title": "Geschiedenis",
@@ -141,6 +137,10 @@
 		},
 		{
 			"title": "Problemen bij starten van app",
+			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n> Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n> Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in (YouTube Settings-https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
+		},
+		{
+			"title": "Problemen met scherm-in-scherm",
 			"fields": [
 				{
 					"title": "If Vanced got stuck on splash screen",
@@ -153,25 +153,11 @@
 			]
 		},
 		{
-			"title": "Problemen met scherm-in-scherm",
-			"description": "⚠️Please don't report PIP related issues.⚠️\n• Pip is controlled by system as Vanced uses android native pip. Blame ROM for any issues with your PIP.\nOther apps like MX Player, VLC, etc uses its own PIP instead of android native hence they will never face such issues which persist in apps using native.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in miui, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture\n\nOn latest V15.43.32, pip is stock yt bug so please wait for Google to fix it fully first."
-		},
-		{
 			"title": "Problemen met downloaden van app",
-			"fields": [
-				{
-					"title": "If you are having trouble downloading vanced files using vancedapp.com or can't open our site due to server/region restrictions",
-					"content": "You can get our new manager right [here](https://github.com/YTVanced/VancedManager/releases/)\n\nNOTE: Here you have to choose \"manager.apk\" in latest release > assets. Don't choose zips or anything else as they are not apks."
-				},
-				{
-					"title": "If you are having trouble downloading and installing vanced via manager, you can still use SAI/manual method to install vanced.",
-					"content": "• Use the MediaFire mirror to download the required files.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Use the AFH Mirror to download the required files.\n>https://androidfilehost.com/?w=files&flid=170196\n\nNOTES:\n\nA) Since we have all separate apk files on mediafire/afh now, you have to zip all \"base, architecture and language\" apk's & install it via SAI. All 3 apk are must.\nB) Manual installation can only be done either via root since it requires accessing root storage."
-				}
-			]
+			"description": "⚠️Please don't report PIP related issues.⚠️\n• Pip is controlled by system as Vanced uses android native pip. Blame ROM for any issues with your PIP.\nOther apps like MX Player, VLC, etc uses its own PIP instead of android native hence they will never face such issues which persist in apps using native.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture\n\nOn latest V15.43.32, pip is stock yt bug so please wait for Google to fix it fully first."
 		},
 		{
 			"title": "Detach",
-			"description": "You can use any of the workarounds below to detach YouTube app from market.",
 			"fields": [
 				{
 					"title": "Tussenoplossing 1",
@@ -186,6 +172,20 @@
 		{
 			"title": "Oplossing voor SAI/Vanced Manager fouten",
 			"description": "Below are some known reasons you might face when you don't follow instructions, so read the appropriate cause with its solution and fix your problem.",
+			"fields": [
+				{
+					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
+					"content": "Uninstall stock yt updates. Make sure Stock YouTube version is lower than vanced version you are installing now."
+				},
+				{
+					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
+					"content": "Just uninstall any vanced app that you have installed from any other source then install vanced.  Otherwise uninstall \"vanced microG\" > reboot device > then install vanced microG first then Vanced. If error still comes, use SAI to install the vanced split apks manually. These apk files are located in \n\"android / data / com.vanced.manager / files / vanced / nonroot / \""
+				}
+			]
+		},
+		{
+			"title": "Live-stream problemen",
+			"description": "Solution: Follow this guide > https://youtu.be/R9asMVCQkAU. Also, disable your external ad-blockers/vpn/proxy/custom settings in vanced. Keep stock settings if you don't wanna see any issues.",
 			"fields": [
 				{
 					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
@@ -209,11 +209,11 @@
 				},
 				{
 					"title": "INSTALL_FAILED_DUPLICATE_PERMISSION",
-					"content": "Uninstall microg > reboot > install vanced via sai > install microg\n\nIf microg doesn't install, install microg too via SAI."
+					"content": "Uninstall microG > reboot > install vanced via sai > install microG\n\nIf microG doesn't install, install microG too via SAI."
 				},
 				{
 					"title": "Unable to install the app because it conflicts with an already installed app with same package name",
-					"content": "Uninstall microg > reboot > install vanced via sai > install microg via apk package installer\nIf microg doesn't install, install microg too via SAI."
+					"content": "Uninstall microG > reboot > install vanced via sai > install microG via apk package installer\nIf microG doesn't install, install microG too via SAI."
 				},
 				{
 					"title": "APP IS INCOMPATIBLE WITH THIS DEVICE",
@@ -236,10 +236,6 @@
 					"content": "Disable MIUI optimization from your device developer options."
 				}
 			]
-		},
-		{
-			"title": "Live-stream problemen",
-			"description": "Solution: Follow this guide > https://youtu.be/R9asMVCQkAU. Also, disable your external ad-blockers/vpn/proxy/custom settings in vanced. Keep stock settings if you don't wanna see any issues."
 		},
 		{
 			"title": "Toestemmingslijst",
@@ -268,6 +264,10 @@
 		{
 			"title": "Instellingen crashes",
 			"description": "Schakel je vingerafdruk uit en ga naar de instellingen en doe je instelling, schakel daarna weer in. Daarna zal het niet meer opnieuw crashen, tenzij je jouw apparaat opnieuw opstart."
+		},
+		{
+			"title": "Settings crashes",
+			"description": "Turn off your fingerprint and go in the settings and do your setting, after it's done, turn it back on. It won't crash again after that, even if you keep going in it unless you restart your device."
 		}
 	]
 }
