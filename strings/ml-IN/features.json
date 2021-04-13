@@ -2,31 +2,31 @@
   "features": [
     {
       "title": "Vanced",
-      "description": "YouTube Vanced aims to be a better version of YouTube. It includes adblocking, the black theme, and a lot more. Use Vanced Manager to install YouTube Vanced with relative ease."
+      "description": "YouTube- ന്റെ മികച്ച പതിപ്പാണ് YouTube Vanced ലക്ഷ്യമിടുന്നത്. അതിൽ അഡ്‌ബ്ലോക്കിംഗ്, കറുത്ത തീം എന്നിവയും അതിലേറെയും ഉൾപ്പെടുന്നു. ആപേക്ഷിക അനായാസം YouTube വാൻസഡ് ഇൻസ്റ്റാളുചെയ്യാൻ വാൻസഡ് മാനേജർ ഉപയോഗിക്കുക."
     },
     {
-      "title": "YouTube Music Vanced",
-      "description": "YouTube Music Vanced has the same aim as YouTube Vanced, but this app focuses on YouTube Music. This is relatively less feature-rich compared to Vanced but still features many things you come to expect like adblocking and background playback, all inside YouTube Music Vanced!"
+      "title": "YouTube സംഗീതം വിജയിച്ചു",
+      "description": "YouTube മ്യൂസിക്ക് വാൻസിഡിന് YouTube വാൻസിഡിന് സമാനമായ ലക്ഷ്യമുണ്ട്, എന്നാൽ ഈ അപ്ലിക്കേഷൻ YouTube സംഗീതത്തിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നു. വാൻ‌സെഡുമായി താരതമ്യപ്പെടുത്തുമ്പോൾ ഇത് താരതമ്യേന സവിശേഷതകളാൽ സമ്പന്നമാണ്, പക്ഷേ അഡ്‌ബ്ലോക്കിംഗ്, പശ്ചാത്തല പ്ലേബാക്ക് എന്നിവ പോലെ നിങ്ങൾ പ്രതീക്ഷിക്കുന്ന നിരവധി കാര്യങ്ങൾ ഇപ്പോഴും അവതരിപ്പിക്കുന്നു, എല്ലാം YouTube മ്യൂസിക് വാൻസഡ്!"
     },
     {
-      "title": "YouTube Vanced main features",
-      "description": "- OLED friendly black theme and dark theme _(aka dark gray)_ besides white theme.\n- Blocks all ads\n- Allows you to play videos in the background or in the Picture in Picture (PiP) mode (only on Android 8+)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/tablet mini-player layout can be toggled to the tablet versions which are very similar to the old version (however, it's a bit buggy)."
+      "title": "YouTube പ്രധാന സവിശേഷതകൾ",
+      "description": "- വെളുത്ത തീമിന് പുറമെ OLED ഫ്രണ്ട്‌ലി ബ്ലാക്ക് തീമും ഡാർക്ക് തീം _ (അക്കാ ഗ്രേ ഗ്രേ) _.\n- എല്ലാ പരസ്യങ്ങളും തടയുന്നു\n- പശ്ചാത്തലത്തിലോ പിക്ചർ ഇൻ പിക്ചർ (പി‌പി) മോഡിലോ (Android 8+ ൽ മാത്രം) വീഡിയോകൾ പ്ലേ ചെയ്യാൻ നിങ്ങളെ അനുവദിക്കുന്നു.\n- മുകളിലേക്കും താഴേക്കുമുള്ള ആംഗ്യങ്ങൾ ഉപയോഗിച്ച് (ക്രമീകരിക്കാവുന്ന പാഡിംഗ് ഉപയോഗിച്ച്) തെളിച്ചവും വോളിയവും നിയന്ത്രിക്കാൻ സ്വൈപ്പ് നിയന്ത്രണങ്ങൾ നിങ്ങളെ അനുവദിക്കുന്നു.\n- ആവർത്തിച്ചുള്ള വീഡിയോകൾ ലൂപ്പ് ചെയ്യാൻ നിങ്ങളെ അനുവദിക്കുന്ന യാന്ത്രിക ആവർത്തന സവിശേഷത.\n- പുതിയ കമന്റ് / ടാബ്‌ലെറ്റ് മിനി-പ്ലെയർ ലേ layout ട്ട് പഴയ പതിപ്പിന് സമാനമായ ടാബ്‌ലെറ്റ് പതിപ്പുകളിലേക്ക് ടോഗിൾ ചെയ്യാൻ കഴിയും (എന്നിരുന്നാലും, ഇത് അൽപ്പം ബഗ്ഗിയാണ്)."
     },
     {
-      "title": "Customization",
-      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+      "title": "ഇഷ്‌ടാനുസൃതമാക്കൽ",
+      "description": "- പഴയ ഉപകരണങ്ങൾ അല്ലെങ്കിൽ വിപി 9 നായി എച്ച് 264 നിർബന്ധിക്കുന്നത് പോലുള്ള കോഡെക് ഓപ്ഷനുകൾ അസാധുവാക്കാൻ നിങ്ങളെ അനുവദിക്കുന്നു, ഇത് ഒരു സിനിമാറ്റിക് അനുഭവം തിരഞ്ഞെടുക്കുകയാണെങ്കിൽ എച്ച്ഡിആർ പ്ലേബാക്ക് നിർബന്ധിതമാക്കാനോ 60 എഫ്പിഎസ് ഓഫ് ചെയ്യാനോ നിങ്ങളെ അനുവദിക്കുന്നു..\n- സ്ഥിരസ്ഥിതി വീഡിയോ മിഴിവ് നിങ്ങൾക്ക് ആവശ്യമുള്ളത്ര ഉയർന്നതോ താഴ്ന്നതോ ആയി നിർബന്ധിക്കുക, ഒപ്പം ഏത് ഉപകരണത്തിലും മൂർച്ചയുള്ള 4 കെ പ്ലേബാക്കിനായി നിങ്ങളുടെ സ്ക്രീൻ മിഴിവ് അസാധുവാക്കുകയും ചെയ്യുക. സ്ഥിരസ്ഥിതി പ്ലേബാക്ക് വേഗത 0.25x മുതൽ 2x വരെ എവിടെയും മാറ്റാനും ഇത് നിങ്ങളെ അനുവദിക്കുന്നു (നിങ്ങളുടെ ഉപകരണം ശക്തമാണെന്ന് കരുതുക)\n- ഹോം പരസ്യങ്ങൾ, മിക്ക യുഐ പരസ്യങ്ങൾ, വ്യാപാര പരസ്യങ്ങൾ, കമ്മ്യൂണിറ്റി പോസ്റ്റുകൾ, മൂവി അപ്‌സെല്ലിംഗ്, കോം‌പാക്റ്റ് ബാനർ വിവരങ്ങൾ (COVID-19 വിവരം പോലുള്ളവ) ടോഗിൾ ചെയ്യാൻ നിങ്ങളെ അനുവദിക്കുന്നു, അഭിപ്രായങ്ങൾ പൂർണ്ണമായും നീക്കംചെയ്യുക, കോം‌പാക്റ്റ് മൂവി, മൂവി ഷെൽഫ് നീക്കംചെയ്യൽ എന്നിവയും അതിലേറെയും!"
     },
     {
-      "title": "Sponsor Block",
-      "description": "- Features the ability to skip sponsor segments (where a [YouTuber](https://en.wikipedia.org/wiki/YouTuber) advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API [found here](https://sponsor.ajay.app). You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
+      "title": "സ്പോൺസർ ബ്ലോക്ക്",
+      "description": "- സ്പോൺസർ സെഗ്‌മെന്റുകൾ ഒഴിവാക്കാനുള്ള കഴിവ് സവിശേഷതകൾ (ഇവിടെ ഒരു [YouTuber] (https://en.wikipedia.org/wiki/YouTuber) ഒരു വീഡിയോയുടെ മധ്യത്തിൽ ഒരു സേവനമോ ഉൽപ്പന്നമോ പരസ്യം ചെയ്യുന്നു)\n- ആമുഖം, ros ട്ട്‌റോസ്, സ്വയം പ്രമോഷൻ എന്നിവ പോലുള്ള മറ്റ് വിഭാഗങ്ങൾ ഒഴിവാക്കുന്നതിനും ഇത് പിന്തുണയ്ക്കുന്നു.\n- API ഉപയോഗിക്കുന്നു [ഇവിടെ കണ്ടെത്തി] (https://sponsor.ajay.app). ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു എന്നതിനെക്കുറിച്ചുള്ള കൂടുതൽ വിവരങ്ങൾ നിങ്ങൾക്ക് കണ്ടെത്താൻ കഴിയും\n- നിങ്ങളുടെ സ്വന്തം സെഗ്‌മെന്റുകൾ API- ലേക്ക് സമർപ്പിക്കാനും വിശാലമായ കമ്മ്യൂണിറ്റിയിലേക്ക് സംഭാവന ചെയ്യാനും ഇത് നിങ്ങളെ അനുവദിക്കുന്നു\n- ഒരു സെഗ്മെന്റ് വിഭാഗം സ്വപ്രേരിതമായി ഒഴിവാക്കണോ അതോ ഒഴിവാക്കുന്നതിനായി ഒരു ബട്ടൺ കാണിക്കണോ, അല്ലെങ്കിൽ അത് ഒഴിവാക്കാതിരിക്കണോ എന്നതിനെക്കുറിച്ചുള്ള പൂർണ്ണ നിയന്ത്രണം.\n- പ്ലേബാക്ക് ടൈംലൈനിലെ വിഭാഗത്തെ അടിസ്ഥാനമാക്കി നിർദ്ദിഷ്ട വർണ്ണത്തിലുള്ള സെഗ്‌മെന്റിനെ ഹൈലൈറ്റ് ചെയ്യുന്നു."
     },
     {
-      "title": "Platforms",
-      "description": "Apps are available only for Android devices and there are no plans to support any other platforms at the moment"
+      "title": "പ്ലാറ്റ്ഫോമുകൾ",
+      "description": "അപ്ലിക്കേഷനുകൾ Android ഉപകരണങ്ങളിൽ മാത്രം ലഭ്യമാണ്, മറ്റ് പ്ലാറ്റ്ഫോമുകളെ പിന്തുണയ്‌ക്കാൻ ഇപ്പോൾ പദ്ധതികളൊന്നുമില്ല"
     },
     {
-      "title": "Difference between Root and Non-Root",
-      "description": "#### Root:\nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google Assistant through the modded Vanced app.\n\n#### Non-Root:\n- If you have a device that is difficult to root, or you don’t want to root your daily device on first hand, you should opt for the non-root variant.\n- Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account.\n- Moreover, you have to manually set Vanced as the default app for opening YouTube links.\n- However, the non-root variant is much simpler to install and use, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
+      "title": "റൂട്ടും നോൺ-റൂട്ടും തമ്മിലുള്ള വ്യത്യാസം",
+      "description": "#### റൂട്ട്:\nവാൻ‌സെഡിന്റെ റൂട്ട് വേരിയൻറ് YouTube ദ്യോഗിക YouTube അപ്ലിക്കേഷനെ പരിധികളില്ലാതെ മാറ്റിസ്ഥാപിക്കുന്നു. തൽഫലമായി, നിങ്ങൾക്ക് നേരിട്ട് YouTube ലിങ്കുകൾ തുറക്കാനോ പരിഷ്കരിച്ച വാൻസഡ് അപ്ലിക്കേഷൻ വഴി Google അസിസ്റ്റന്റ് ഉപയോഗിച്ച് വിളിക്കാനോ കഴിയും.\n\n#### റൂട്ട് അല്ലാത്തത്:\n- നിങ്ങൾക്ക് റൂട്ട് ചെയ്യാൻ ബുദ്ധിമുട്ടുള്ള ഒരു ഉപകരണം ഉണ്ടെങ്കിൽ, അല്ലെങ്കിൽ നിങ്ങളുടെ ദൈനംദിന ഉപകരണം ആദ്യം റൂട്ട് ചെയ്യാൻ ആഗ്രഹിക്കുന്നില്ലെങ്കിൽ, നിങ്ങൾ റൂട്ട് ഇതര വേരിയൻറ് തിരഞ്ഞെടുക്കണം.\n- നോൺ-റൂട്ട് വേരിയന്റിന്റെ പാക്കേജ് നാമം സ്റ്റോക്ക് YouTube അപ്ലിക്കേഷനിൽ നിന്ന് വ്യത്യസ്‌തമായതിനാൽ, അവയ്‌ക്ക് ഒന്നിച്ചുനിൽക്കാൻ കഴിയും. നിങ്ങളുടെ YouTube / Google അക്ക with ണ്ട് ഉപയോഗിച്ച് ലോഗിൻ ചെയ്യാൻ ഒരു അധിക കമ്പാനിയൻ അപ്ലിക്കേഷൻ (വാൻസഡ് മൈക്രോജി) ഇൻസ്റ്റാൾ ചെയ്യേണ്ടതുണ്ട്.\n- മാത്രമല്ല, YouTube ലിങ്കുകൾ തുറക്കുന്നതിനുള്ള സ്ഥിര അപ്ലിക്കേഷനായി നിങ്ങൾ സ്വമേധയാ വാൻസഡ് സജ്ജീകരിക്കേണ്ടതുണ്ട്.\n- എന്നിരുന്നാലും, റൂട്ട് ഇതര വേരിയൻറ് ഇൻസ്റ്റാൾ ചെയ്യാനും ഉപയോഗിക്കാനും വളരെ ലളിതമാണ്, അതിനാൽ നിങ്ങളുടെ ഫോണിലെ സ്റ്റോക്ക് YouTube ആപ്ലിക്കേഷൻ മാറ്റിസ്ഥാപിക്കേണ്ട ആവശ്യമില്ലെങ്കിൽ റൂട്ട് ഇതര വേരിയന്റിൽ തുടരാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു."
     }
   ]
 }

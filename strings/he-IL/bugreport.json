@@ -1,11 +1,11 @@
 {
   "bugreport": [
     {
-      "title": "How to report bugs?",
-      "description": "You can report bugs by creating issues on our [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nMake sure to look through the existing issues to check if your problem was already reported before opening your issue!",
+      "title": "כיצד לדווח על באגים?",
+      "description": "אפשר לדווח על באגים על ידי יצירת 'issues' [ב-'Github Issue Center's] שלנו\n(https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nלפני פתיחת ה-'Issue' שלכם, בדקו ליתר ביטחון בשאר ה-'Issues' הקיימות למקרה שהבעיה שלכם כבר דווחה!",
       "fields": [
         {
-          "title": "When will my issue be reviewed?",
+          "title": "מתי תיבדק ה-'Issue' שלי?",
           "content": "Developers spare their time for creating new features and fixing many issues and each can take a while to finish up. \nYou just need to sit tight and wait. Your issue will be reviewed as soon as possible."
         },
         {

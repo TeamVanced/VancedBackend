@@ -1,20 +1,20 @@
 {
   "bugreport": [
     {
-      "title": "How to report bugs?",
-      "description": "You can report bugs by creating issues on our [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nMake sure to look through the existing issues to check if your problem was already reported before opening your issue!",
+      "title": "பிழைகள் எவ்வாறு தெரிவிக்க வேண்டும்?",
+      "description": "எங்கள் [Github வெளியீட்டு மையத்தில் உள்ள சிக்கல்களை உருவாக்குவதன் மூலம் பிழைகளை தெரிவிக்கலாம் (https://github.com/ytvanced/vanced#vanced -issue-center).\n\nஉங்கள் பிரச்சினையைத் திறப்பதற்கு முன்பே உங்கள் பிரச்சனை ஏற்கனவே பதிவாக இருந்தால் சரிபார்க்க இருக்கும் சிக்கல்களைப் பார்க்கவும்!",
       "fields": [
         {
-          "title": "When will my issue be reviewed?",
-          "content": "Developers spare their time for creating new features and fixing many issues and each can take a while to finish up. \nYou just need to sit tight and wait. Your issue will be reviewed as soon as possible."
+          "title": "என் பிரச்சினை எப்போது மதிப்பாய்வு செய்யப்படும்?",
+          "content": "டெவலப்பர்கள் புதிய அம்சங்களை உருவாக்குவதற்கும் பல சிக்கல்களையும் சரிசெய்வதற்கும், ஒவ்வொன்றும் முடிக்க சிறிது நேரம் ஆகலாம்.\nநீங்கள் இறுக்கமாக உட்கார்ந்து காத்திருக்க வேண்டும். உங்கள் பிரச்சினை விரைவில் முடிந்தவரை மதிப்பாய்வு செய்யப்படும்."
         },
         {
-          "title": "How do I take a logcat?",
-          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this. You can follow the instructions [in here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "title": "நான் ஒரு logcat எவ்வாறு எடுக்க வேண்டும்?",
+          "content": "அல்லாத ரூட் பயனர்கள்:\n`Logcat` வெளியீடுகளை எடுக்க ஒரு பிசி வேண்டும். இங்கே ஒரு [உரை கையேடு] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) மற்றும் ஒரு [வீடியோ வழிகாட்டி] (https://youtu.be/iclpwgsjjp0).\n\nரூட் பயனர்களுக்கு:\nஇதற்கு ஒரு பிசி தேவையில்லை. நீங்கள் [இங்கே] (இங்கே] (இங்கே] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
-          "title": "Your bug is UI related?",
-          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
+          "title": "உங்கள் பிழை UI தொடர்புடையதா?",
+          "content": "UI தொடர்பான பிழைகள், நீங்கள் எடுக்க கூடுதல் படிகள் வேண்டும்.\n\nதயவுசெய்து நிறுவவும் மற்றும் அமைப்பை [டெவலப்பர் உதவியாளர்] (https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nஅதற்குப் பிறகு, பிழையைத் திறந்து இனப்பெருக்கம் செய்யுங்கள், பின்னர் டெவலப்பர் உதவியாளரைத் தூண்டுவதன் மூலம் அமைப்பைப் பார்வையாளரைத் திறக்கவும்.\n\nஇப்போது இந்த வழிமுறைகளைப் பின்பற்றவும்:\n1. பிழை திரையில் காண்பிக்கப்படும் என்பதை உறுதிப்படுத்தவும்.\n2. பிழை மூலம் பாதிக்கப்படும் என்று நீங்கள் நினைக்கிறீர்கள் என்று உறுப்பு மீது தட்டவும்.\n3. `Element` மற்றும் `Hierarchy` தாவல்கள் சென்று வெளியீடுகளை திரைப்பிடிக்கின்றன.\n4. உங்கள் பிரச்சினையில் அந்த திரைக்காட்சிகளுடன் சேர்க்கவும்."
         }
       ]
     }

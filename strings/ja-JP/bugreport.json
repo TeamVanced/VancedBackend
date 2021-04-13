@@ -2,14 +2,14 @@
   "bugreport": [
     {
       "title": "バグを報告するには?",
-      "description": "You can report bugs by creating issues on our [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nMake sure to look through the existing issues to check if your problem was already reported before opening your issue!",
+      "description": "私達の [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center) でissueを作成することで、バグ報告ができます。\n\nissueを開く前に、その問題がすでに報告されいないことを確認してください!",
       "fields": [
         {
-          "title": "When will my issue be reviewed?",
-          "content": "Developers spare their time for creating new features and fixing many issues and each can take a while to finish up. \nYou just need to sit tight and wait. Your issue will be reviewed as soon as possible."
+          "title": "私のissueはいつreviewされますか?",
+          "content": "開発者は、新しい機能を作成したり、多くの問題を解決するための時間を割いています。それは、終わるまでに時間がかかることがあります。 \nあなたに求められることは、じっと座って待つことです。issueはできるだけ早くレビューされます。"
         },
         {
-          "title": "ログキャットを取るにはどうすればいいですか?",
+          "title": "logcatを取るにはどうすればいいですか?",
           "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this. You can follow the instructions [in here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {

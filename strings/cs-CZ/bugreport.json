@@ -10,7 +10,7 @@
         },
         {
           "title": "Jak vytvořím logcat?",
-          "content": "Pro uživatele Non-Root verze:\nPro vytvoření výstupu `logcat` budete potřebovat PC. Zde je [textový průvodce](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) a [videoprůvodce](https://youtu.be/ICLpwgsJJP0).\n\nPro uživatele Root verze:\nK tomu PC nepotřebujete. Následujte pokyny na [here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Pro uživatele Non-Root verze:\nPro vytvoření výstupu `logcat` budete potřebovat PC. Zde je [textový průvodce](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) a [videoprůvodce](https://youtu.be/ICLpwgsJJP0).\n\nPro uživatele Root verze:\nK tomu PC nepotřebujete. Následujte pokyny [zde](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Souvisí vaše chyba s UI?",

@@ -1,15 +1,15 @@
 {
   "bugreport": [
     {
-      "title": "How to report bugs?",
-      "description": "You can report bugs by creating issues on our [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nMake sure to look through the existing issues to check if your problem was already reported before opening your issue!",
+      "title": "چۆنیەتی ناردنی ڕاپۆرت هەڵە و کێشە؟",
+      "description": "ئەتوانی ڕاپۆرتی کێشە و هەڵەکان بنێریت بۆ [سەنتەری هاوکاری](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nپێش ناردنی ڕاپۆرتی هەڵەکە تکایە دڵنیایی بکەرەوە کە هەمان جۆری کێشە یان هەڵە هەیە یان نا یان چارەسەر کراوە!",
       "fields": [
         {
-          "title": "When will my issue be reviewed?",
-          "content": "Developers spare their time for creating new features and fixing many issues and each can take a while to finish up. \nYou just need to sit tight and wait. Your issue will be reviewed as soon as possible."
+          "title": "کەی ڕاپۆرتی هەڵەکە سەیر دەکرێت؟",
+          "content": "پەرەپێدەرەکان هەموو هەوڵێکی خۆیان ئەدەن و بەپێی کات کاردەکەن بۆ چارەسەرکردنی کێشە و گیر و گرفتەکان و زیادکردنی تایبەتمەندی نوێ، لەبەر ئەوە هەر دانیەک ماوەیەکی پێویستە بۆ چارەکردن. \nتەنیا ئەوەی لەسەر تۆ پێویستە بیکەیت ئەوە کە چاوەڕوان بیت هەتا کێشەکەت چارەسەرە دەکرێت بەزووترین کاتی توانراو."
         },
         {
-          "title": "How do I take a logcat?",
+          "title": "چۆن ڕاپۆرتی کێشە و هەڵە تۆمار بکەم؟",
           "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this. You can follow the instructions [in here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {

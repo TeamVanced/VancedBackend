@@ -1,7 +1,7 @@
 {
   "bugreport": [
     {
-      "title": "How to report bugs?",
+      "title": "সমস্যার প্রতিবেদন কিভাবে পাঠায়?",
       "description": "You can report bugs by creating issues on our [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nMake sure to look through the existing issues to check if your problem was already reported before opening your issue!",
       "fields": [
         {

@@ -1,0 +1,22 @@
+{
+  "bugreport": [
+    {
+      "title": "Ako nahlásiť chyby?",
+      "description": "Chyby môžete nahlásiť pomocou nášho [Github Issue Center] (https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nPred vytvorením problému si nezabudnite prezrieť už existujúce problémy a skontrolovať, či už nebol problém nahlásený!",
+      "fields": [
+        {
+          "title": "Kedy bude mnou nájdená chyba preskúmaná?",
+          "content": "Vývojári trávia mnoho svojho času vytváraním nových funkcií a opravovaním mnohých problémov. Dokončenie každého z nich môže chvíľu trvať.\nMusíte len sedieť a čakať. Váš problém bude preskúmaný čo najskôr to bude možné."
+        },
+        {
+          "title": "Ako vytvorím logcat?",
+          "content": "Pre Non-Root používateľov:\nNa vytvorenie výstupu `logcat` budete potrebovať počítač. Tu je [textový sprievodca](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) a [videonávod](https://youtu.be/ICLpwgsJJP0).\n\nPre Root používateľov:\nNepotrebujete k tomu počítač. Môžete postupovať podľa pokynov [tu](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+        },
+        {
+          "title": "Súvisí vaša chyba s UI?",
+          "content": "V prípade chýb týkajúcich sa UI budete musieť podniknúť ďalšie kroky.\n\nNainštalujte a nastavte si aplikáciu [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nPotom choďte na Vanced, reprodukujte chybu a otvorte prehliadač rozloženia spustením pomocníka pre vývojárov.\n\nTeraz postupujte podľa týchto krokov:\n1. Uistite sa, že sa chyba zobrazuje na obrazovke.\n2. Ťuknite na prvok, o ktorom si myslíte, že je ovplyvnený chybou.\n3. Prejdite na karty `Element` a` Hierarchia` a vytvorte snímky výstupov.\n4. Zahrňte tieto snímky obrazovky do svojho hlásenia."
+        }
+      ]
+    }
+  ]
+}

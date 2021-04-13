@@ -2,7 +2,7 @@
   "features": [
     {
       "title": "Vanced",
-      "description": "YouTube Vanced beoogt een betere versie van Youtube te zijn. Het blokkeert advertenties, heeft een black thema en nog veel meer. Gebruik Vanced Manager om YouTube Vanced eenvoudig te installeren."
+      "description": "YouTube Vanced beoogt een betere versie van YouTube te zijn. Het blokkeert advertenties, heeft een zwart thema en nog veel meer. Gebruik Vanced Manager om YouTube Vanced eenvoudig te installeren."
     },
     {
       "title": "Vanced Music",
@@ -10,7 +10,7 @@
     },
     {
       "title": "YouTube Vanced belangrijkste functies",
-      "description": "- Black thema geschikt voor OLED.\n- Blokkeert alle video advertenties\n- Stelt je in staat om video's af te spelen op de achtergrond of met de scherm-in-scherm modus (alleen op android 8.0 en hoger)\n- Veegbediening maakt het mogelijk om de helderheid en het volume te controleren met op-en-neer gebaren (met configureerbare padding).\n- Auto-herhaal functie om video's in loop te herhalen.\n- Commentaar/miniplayer lay-outs kunnen worden omgeschakeld naar de versies van de tablet die erg lijken op de oude versie (met enkele fouten)."
+      "description": "- Zwart thema geschikt voor OLED en donker thema _(aka donker grijs)_ naast licht thema.\n- Blokkeert alle video advertenties\n- Stelt je in staat om video's af te spelen op de achtergrond of met de scherm-in-scherm modus (alleen op android 8.0 en hoger)\n- Veegbediening maakt het mogelijk om de helderheid en het volume te controleren met op-en-neer gebaren (met configureerbare padding).\n- Auto-herhaal functie om video's in loop te herhalen.\n- Commentaar/tablet mini-player lay-outs kunnen worden omgeschakeld naar de versies van de tablet die erg lijken op de oude versie (met enkele fouten)."
     },
     {
       "title": "Aanpassingen",
@@ -18,7 +18,7 @@
     },
     {
       "title": "SponsorBlock",
-      "description": "- Biedt de mogelijkheid om sponsor segmenten over te slaan (waarbij een youtuber een service of product in het midden van een video adverteert)\n- Het ondersteunt ook het overslaan van andere categorieën, zoals intro's, outro's en zelfpromotie\n- Gebruikt de hier gevonden API. Je kan meer informatie vinden over hoe het werkt\n- Het stelt je ook in staat om je eigen segmenten in te dienen bij de API en bij te dragen aan de bredere gemeenschap\n- Volledige controle over het automatisch overslaan van een segment categorie of het weergeven van een knop om wel/neiet over te slaan\n- Markeert het segment in de specifieke kleur op basis van de categorie in de tijdlijn van het afspelen."
+      "description": "- Biedt de mogelijkheid om sponsor segmenten over te slaan (waarbij een [YouTuber] (https://en.wikipedia.org/wiki/YouTuber) een service of product in het midden van een video adverteert)\n- Het ondersteunt ook het overslaan van andere categorieën, zoals intro's, outro's en zelfpromotie\n- Gebruikt de API [found here](https://sponsor.ajay.app). Je kan meer informatie vinden over hoe het werkt\n- Het stelt je ook in staat om je eigen segmenten in te dienen bij de API en bij te dragen aan de bredere gemeenschap\n- Volledige controle over het automatisch overslaan van een segment categorie of het weergeven van een knop om wel/niet over te slaan\n- Markeert het segment in de specifieke kleur op basis van de categorie in de tijdlijn van het afspelen."
     },
     {
       "title": "Platformen",

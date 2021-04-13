@@ -2,31 +2,31 @@
   "features": [
     {
       "title": "Vanced",
-      "description": "YouTube Vanced aims to be a better version of YouTube. It includes adblocking, the black theme, and a lot more. Use Vanced Manager to install YouTube Vanced with relative ease."
+      "description": "யூடியூப் வான்சட் யூடியூப்பின் சிறந்த பதிப்பாக இருக்க வேண்டும். இது விளம்பரத் தடுப்பு, கருப்பு தீம் மற்றும் பலவற்றை உள்ளடக்கியது. யூடியூப் வான்செட்டை எளிதாக நிறுவ வான்சட் மேலாளரைப் பயன்படுத்தவும்."
     },
     {
-      "title": "YouTube Music Vanced",
-      "description": "YouTube Music Vanced has the same aim as YouTube Vanced, but this app focuses on YouTube Music. This is relatively less feature-rich compared to Vanced but still features many things you come to expect like adblocking and background playback, all inside YouTube Music Vanced!"
+      "title": "YouTube இசை முடிந்தது",
+      "description": "யூடியூப் மியூசிக் வான்சட் யூடியூப் வான்சட் போன்ற அதே நோக்கத்தைக் கொண்டுள்ளது, ஆனால் இந்த பயன்பாடு யூடியூப் மியூசிக் மீது கவனம் செலுத்துகிறது. இது வேன்ஸுடன் ஒப்பிடும்போது ஒப்பீட்டளவில் குறைவான அம்சம் நிறைந்ததாக இருக்கிறது, ஆனால் யூட்யூப் மியூசிக் வான்செடில் உள்ள விளம்பரத் தடுப்பு மற்றும் பின்னணி பின்னணி போன்ற பல விஷயங்களை நீங்கள் எதிர்பார்க்கிறீர்கள்!"
     },
     {
-      "title": "YouTube Vanced main features",
-      "description": "- OLED friendly black theme and dark theme _(aka dark gray)_ besides white theme.\n- Blocks all ads\n- Allows you to play videos in the background or in the Picture in Picture (PiP) mode (only on Android 8+)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/tablet mini-player layout can be toggled to the tablet versions which are very similar to the old version (however, it's a bit buggy)."
+      "title": "YouTube முக்கிய அம்சங்களை உருவாக்கியது",
+      "description": "- OLED நட்பு கருப்பு தீம் மற்றும் இருண்ட தீம் _ (அக்கா அடர் சாம்பல்) _ வெள்ளை தீம் தவிர.\n- எல்லா விளம்பரங்களையும் தடுக்கிறது\n- பின்னணியில் அல்லது பிக்சர் இன் பிக்சர் (பிஐபி) பயன்முறையில் (ஆண்ட்ராய்டு 8+ இல் மட்டுமே) வீடியோக்களை இயக்க உங்களை அனுமதிக்கிறது.\n- ஸ்வைப் கட்டுப்பாடுகள் மேல் மற்றும் கீழ் சைகைகளுடன் (உள்ளமைக்கக்கூடிய திணிப்புடன்) பிரகாசத்தையும் அளவையும் கட்டுப்படுத்த உங்களை அனுமதிக்கின்றன.\n- தானாக மீண்டும் செய்யும் அம்சம், மீண்டும் மீண்டும் வீடியோக்களை லூப் செய்ய அனுமதிக்கிறது.\n- புதிய கருத்து / டேப்லெட் மினி-பிளேயர் தளவமைப்பை டேப்லெட் பதிப்புகளுக்கு மாற்றலாம், அவை பழைய பதிப்பிற்கு மிகவும் ஒத்தவை (இருப்பினும், இது கொஞ்சம் தரமற்றது)."
     },
     {
-      "title": "Customization",
-      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+      "title": "தனிப்பயனாக்கம்",
+      "description": "- பழைய சாதனங்கள் அல்லது VP9 க்கு H264 ஐ கட்டாயப்படுத்துவது போன்ற கோடெக் விருப்பங்களை மேலெழுத உங்களை அனுமதிக்கிறது, இது ஒரு சினிமா அனுபவத்தை விரும்பினால் HDR பிளேபேக்கை கட்டாயப்படுத்த அல்லது 60fps ஐ அணைக்க உங்களை அனுமதிக்கிறது. (இந்த அம்சங்களுக்கான தனிப்பயன் சாதன கட்டமைப்புகள் எங்கள் [Discord server] (https://discord.gg/Vanced) அல்லது XDA இல் காணலாம்)\n- இயல்புநிலை வீடியோ தெளிவுத்திறனை நீங்கள் விரும்பும் அளவுக்கு அதிகமாகவோ அல்லது குறைவாகவோ கட்டாயப்படுத்தவும், எந்தவொரு சாதனத்திலும் அந்த கூர்மையான 4 கே பிளேபேக்கிற்கான உங்கள் திரைத் தீர்மானத்தை மேலெழுதவும். இயல்புநிலை பின்னணி வேகத்தை 0.25x முதல் 2x வரை எங்கும் மாற்றவும் இது உங்களை அனுமதிக்கிறது (உங்கள் சாதனம் போதுமான சக்தி வாய்ந்தது என்று கருதி)\n- வீட்டு விளம்பரங்கள், பெரும்பாலான யுஐ விளம்பரங்கள், வணிக விளம்பரங்கள், சமூக இடுகைகள், திரைப்பட மேம்பாடு, காம்பாக்ட் பேனர் தகவல் (கோவிட் -19 தகவல் போன்றவை) ஆகியவற்றை மாற்றவும், கருத்துகளை முழுவதுமாக அகற்றவும், சிறிய திரைப்படம், மூவி ஷெல்ஃப் அகற்றுதல் மற்றும் பலவற்றை மாற்றவும் உங்களை அனுமதிக்கிறது!"
     },
     {
-      "title": "Sponsor Block",
-      "description": "- Features the ability to skip sponsor segments (where a [YouTuber](https://en.wikipedia.org/wiki/YouTuber) advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API [found here](https://sponsor.ajay.app). You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
+      "title": "ஸ்பான்சர் பிளாக்",
+      "description": "- ஸ்பான்சர் பிரிவுகளைத் தவிர்ப்பதற்கான திறனைக் கொண்டுள்ளது (அங்கு ஒரு [YouTuber] (https://en.wikipedia.org/wiki/YouTuber) ஒரு வீடியோவின் நடுவில் ஒரு சேவை அல்லது தயாரிப்பை விளம்பரப்படுத்துகிறது)\n- இது அறிமுகங்கள், அவுட்ரோஸ் மற்றும் சுய ஊக்குவிப்பு போன்ற பிற வகைகளைத் தவிர்ப்பதையும் ஆதரிக்கிறது.\n- API ஐப் பயன்படுத்துகிறது [இங்கே காணப்படுகிறது] (https://sponsor.ajay.app). இது எவ்வாறு செயல்படுகிறது என்பது பற்றிய கூடுதல் தகவலை நீங்கள் காணலாம்\n- இது உங்கள் சொந்த பகுதிகளை API க்கு சமர்ப்பிக்கவும் பரந்த சமூகத்திற்கு பங்களிக்கவும் உங்களை அனுமதிக்கிறது\n- ஒரு பிரிவு வகையை தானாகத் தவிர்க்கலாமா அல்லது தவிர்க்க ஒரு பொத்தானைக் காண்பிக்கலாமா, அல்லது வெறுமனே அதைத் தவிர்க்க வேண்டுமா என்பதில் முழுமையான கட்டுப்பாடு.\n- பின்னணி காலவரிசையில் அதன் வகையின் அடிப்படையில் குறிப்பிட்ட நிறத்தில் பகுதியை சிறப்பித்துக் காட்டுகிறது."
     },
     {
-      "title": "Platforms",
-      "description": "Apps are available only for Android devices and there are no plans to support any other platforms at the moment"
+      "title": "தளங்கள்",
+      "description": "பயன்பாடுகள் Android சாதனங்களுக்கு மட்டுமே கிடைக்கின்றன, மேலும் வேறு எந்த தளங்களையும் ஆதரிக்கும் திட்டங்கள் எதுவும் தற்போது இல்லை"
     },
     {
-      "title": "Difference between Root and Non-Root",
-      "description": "#### Root:\nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google Assistant through the modded Vanced app.\n\n#### Non-Root:\n- If you have a device that is difficult to root, or you don’t want to root your daily device on first hand, you should opt for the non-root variant.\n- Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account.\n- Moreover, you have to manually set Vanced as the default app for opening YouTube links.\n- However, the non-root variant is much simpler to install and use, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
+      "title": "வேர் மற்றும் வேர் அல்லாத வித்தியாசம்",
+      "description": "#### வேர்:\nவான்செட்டின் ரூட் மாறுபாடு அதிகாரப்பூர்வ YouTube பயன்பாட்டை தடையின்றி மாற்றுகிறது. இதன் விளைவாக, நீங்கள் நேரடியாக YouTube இணைப்புகளைத் திறக்கலாம் அல்லது மாற்றியமைக்கப்பட்ட வேன்ஸட் பயன்பாட்டின் மூலம் Google உதவியாளரைப் பயன்படுத்தி அழைக்கலாம்.\n\n#### வேர் இல்லாதது:\n- உங்களிடம் வேர்விடும் கடினமான ஒரு சாதனம் இருந்தால், அல்லது உங்கள் அன்றாட சாதனத்தை முதலில் வேரூன்ற விரும்பவில்லை என்றால், நீங்கள் ரூட் அல்லாத மாறுபாட்டைத் தேர்வுசெய்ய வேண்டும்.\n- ரூட் அல்லாத மாறுபாட்டின் தொகுப்பு பெயர் பங்கு YouTube பயன்பாட்டிலிருந்து வேறுபட்டது என்பதால், அவை இணைந்து வாழலாம். உங்கள் YouTube / Google கணக்கில் உள்நுழைய கூடுதல் துணை பயன்பாட்டை (வேன்ஸ்ட் மைக்ரோஜி) நிறுவ வேண்டும் என்பதை நினைவில் கொள்க.\n- மேலும், YouTube இணைப்புகளைத் திறப்பதற்கான இயல்புநிலை பயன்பாடாக நீங்கள் கைமுறையாக Vanced ஐ அமைக்க வேண்டும்.\n- இருப்பினும், ரூட் அல்லாத மாறுபாடு நிறுவ மற்றும் பயன்படுத்த மிகவும் எளிதானது, எனவே உங்கள் தொலைபேசியில் ஸ்டாக் யூடியூப் பயன்பாட்டை மாற்ற வேண்டிய அவசியம் இல்லாவிட்டால், ரூட் அல்லாத வேரியண்ட்டுடன் இணைந்திருக்க பரிந்துரைக்கிறோம்."
     }
   ]
 }

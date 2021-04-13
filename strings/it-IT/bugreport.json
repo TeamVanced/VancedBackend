@@ -9,7 +9,7 @@
           "content": "La tua segnalazione verrà esaminata il prima possibile."
         },
         {
-          "title": "Come faccio ad ottenere un logcat?",
+          "title": "How do I take a logcat?",
           "content": "Per utenti non-root:\nAvrai bisogno di un PC per ottenere l'elaborazione dei `logcat`. Ecco una [guida testuale] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) e una [videoguida] (https://youtu.be/ICLpwgsJJP0).\n\nPer utenti root:\nPer questa operazione non hai bisogno di un PC. Puoi seguire le istruzioni [qui] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {

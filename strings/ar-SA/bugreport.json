@@ -2,10 +2,10 @@
   "bugreport": [
     {
       "title": "كَيْفِيَّة الْإِبْلَاغ عَنِ الْمَشاكِل",
-      "description": "You can report bugs by creating issues on our [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nMake sure to look through the existing issues to check if your problem was already reported before opening your issue!",
+      "description": "يمكنك الإبلاغ عن الأخطاء عن طريق إنشاء مشكلات في مركز [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nتأكد من النظر في المشكلات الحالية للتحقق مما إذا كان قد تم الإبلاغ عن مشكلتك بالفعل قبل فتح مشكلتك!",
       "fields": [
         {
-          "title": "When will my issue be reviewed?",
+          "title": "متى سيتم مراجعة قضيتي؟",
           "content": "Developers spare their time for creating new features and fixing many issues and each can take a while to finish up. \nYou just need to sit tight and wait. Your issue will be reviewed as soon as possible."
         },
         {
