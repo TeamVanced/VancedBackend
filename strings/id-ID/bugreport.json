@@ -2,19 +2,19 @@
   "bugreport": [
     {
       "title": "Bagaimana cara untuk melaporkan bug?",
-      "description": "Anda dapat melaporkan bug menggunakan [GitHub issue tracker](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nPastikan anda melihat masalah yang sudah ada untuk memeriksa apakah masalah anda sudah terlebih dahulu dilaporkan sebelum membuka issue anda!",
+      "description": "Anda dapat melaporkan bug menggunakan [GitHub issue tracker](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nPastikan anda melihat isu yang sudah ada untuk memeriksa apakah masalah anda sudah terlebih dahulu dilaporkan sebelum membuka isu anda!",
       "fields": [
         {
-          "title": "Kapankah masalah saya akan ditinjau?",
-          "content": "Developer membagi waktu mereka untuk membuat fitur baru dan memperbaiki banyak masalah dan hal tersebut dapat memakan waktu untuk diselesaikan.\nAnda hanya perlu duduk rapih dan tunggu. Masalah anda akan ditinjau secepat mungkin."
+          "title": "Kapan masalah saya akan ditinjau?",
+          "content": "Developer membagi waktu mereka untuk membuat fitur baru dan memperbaiki banyak masalah dan hal tersebut dapat memakan waktu untuk diselesaikan.\nAnda hanya perlu duduk rapi dan menunggu. Masalah anda akan ditinjau secepat mungkin."
         },
         {
           "title": "Bagaimana cara saya mengambil logcat?",
-          "content": "Untuk pengguna non-root:\nAnda akan memerlukan komputer untuk mengambil output 'logcat'. Berikut adalah [Teks petunjuk](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) dan [video petunjuk](https://youtu.be/ICLpwgsJJP0).\n\nUntuk pengguna root:\nAnda tidak memerlukan komputer untuk ini. Anda dapat mengikuti instruksi di [disini](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Untuk pengguna non-root:\nAnda akan memerlukan komputer untuk mengambil output 'logcat'. Berikut adalah [Teks petunjuk](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) dan [video petunjuk](https://youtu.be/ICLpwgsJJP0).\n\nUntuk pengguna root:\nAnda tidak memerlukan komputer untuk ini. Anda dapat mengikuti instruksi [disini](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Apakah bug anda berkaitan dengan UI?",
-          "content": "Untuk bug yang berkaitan dengan UI, anda membutuhkan langkah ekstra untuk diambil.\n\nMohon unduh dan atur [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nSetelah itu, pergi ke Vanced dan reproduksi bugnya, lalu buka Layout Viewer dengan membuka Developer Assistant.\n\nSekarang ikuti langkah berikut:\n1. Pastikan bug ada di layar anda.\n2. Tekan pada elemen yang anda kira terpengaruh dengan bugnya.\n3. Pergi ke bagian `Element` dan `Hierarchy` dan screenshot ouputnya.\n4. Masukkan screenshot tersebut pada masalah anda."
+          "content": "Untuk bug yang berkaitan dengan UI, anda membutuhkan langkah ekstra yang perlu di ambil.\n\nMohon unduh dan atur [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nSetelah itu, pergi ke Vanced dan reproduksi bug tersebut, lalu buka Layout Viewer dengan membuka Developer Assistant.\n\nSekarang ikuti langkah berikut:\n1. Pastikan bug ada di layar anda.\n2. Tekan pada elemen yang anda kira terpengaruh dengan bug tersebut.\n3. Pergi ke bagian `Element` dan `Hierarchy` dan screenshot ouput.\n4. Masukkan screenshot tersebut pada isu anda."
         }
       ]
     }
