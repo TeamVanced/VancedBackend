@@ -2,18 +2,18 @@
   "bugreport": [
     {
       "title": "Hata nasıl bildirilir?",
-      "description": "[GitHub Issue Center](https://github.com/YTVanced/Vanced)'da yeni kayıt oluşturarak hata bildirimi yapabilirsiniz.\n\nYeni kayıt oluşturmadan önce, var olan kayıtlar arasında aynı hatanın daha önce bildirilip bildirilmediğine bakmalısınız.",
+      "description": "[GitHub Issue Center](https://github.com/YTVanced/Vanced)'da yeni kayıt oluşturarak hata bildirimi yapabilirsin.\n\nYeni kayıt oluşturmadan önce, var olan kayıtlar arasında aynı hatanın daha önce bildirilip bildirilmediğinden emin olmalısın!",
       "fields": [
         {
           "title": "Bildirdiğim hata ne zaman incelenir?",
-          "content": "Geliştiriciler zamanlarını yeni özellikler oluşturmada ve bildirilen hataları düzeltmede harcıyorlar ve bunların tamamını elden geçirmek zaman alabilir. O yüzden mümkün mertebe sabırlı olmalısınız. Bildirdiğiniz hata, mümkün olan en kısa sürede incelenecektir."
+          "content": "Geliştiriciler zamanlarını yeni özellikler oluşturmada ve bildirilen hataları düzeltmede harcıyorlar ve bunların tamamını elden geçirmek az/çok zaman alabilir. O yüzden mümkün mertebe sabırlı olmalısın. Bildirdiğin hata, mümkün olan en kısa sürede incelenecektir."
         },
         {
           "title": "Logcat çıktısı nasıl alınır?",
-          "content": "Root kullanmayanlar:\n`logcat` çıktısı alabilmek için PC'ye ihtiyacınız var. Nasıl yapacağınıza dair adımlara [buradan](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) veya [bu video kılavuzla](https://youtu.be/ICLpwgsJJP0) ulaşabilirsiniz.\n\nRoot kullanıcıları:\nPC'ye ihtiyacınız yok. [Buradaki](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android) adımları takip ederek çıktı alabilirsiniz."
+          "content": "Root kullanmayanlar:\n`logcat` çıktısı alabilmek için PC'a ihtiyacın var. Nasıl yapacağına dair adımlara [buradan](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc), videolu anlatıma da [bu linkten](https://youtu.be/ICLpwgsJJP0) ulaşabilirsin.\n\nRoot kullanıcıları:\nPC'a ihtiyacın yok. [Buradaki](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android) adımları takip ederek çıktı alabilirsin."
         },
         {
-          "title": "Bulduğunuz sorun arayüzle mi ilgili?",
+          "title": "Arayüzle alakalı sorun mu buldun?",
           "content": "Arayüz hatalarını bildirmeden önce, ekstra detaylar elde etmen gerekiyor.\n\n[Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant) uygulamasını indirmelisin.\nArdından Vanced'ı açıp, daha önce karşılaştığın hatanın aynısını ekranda gözükecek şekilde oluşturmalı ve Developer Assistant uygulamasını çalıştırarak Layout viewer (Arayüz görüntüleyici) özelliğini açabilirsin.\n\nAçtıktan sonra şu aşamaları takip etmelisin:\n1. Bildireceğin hatanın ekranda açıkça görünüyor olduğundan emin olmalısın.\n2. Bildireceğin hata ile ilişkili olan öğeye dokunmalısın.\n3. `Element`, sonrasında `Hierarchy` sekmelerine geçiş yaparak, ekranında gözüken verilerin ekran görüntüsünü almalısın.\n4. Aldığın ekran görüntülerini, GitHub'da oluşturacağın hata kaydına eklemelisin."
         }
       ]
