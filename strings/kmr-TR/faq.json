@@ -1,102 +1,102 @@
 {
   "faq": [
     {
-      "title": "YouTube Vanced çi ye?",
-      "description": "YouTube Vanced guhertoyek guhertoya YouTube-ê bi taybetmendiyên zêde ye ku ezmûna xwe ya YouTube çêtir bike!\n\nEv taybetmendî wiha ne:\n- Lêdaneke paşîn,\n- Wêne di wêne (PiP),\n- Tema reş (dostê OLED),\n- Rakirina reklaman (hewceyî bi bicîhkirinê ye),\n- Ji bo çareserkirina max (bihêle ku vîdyo ji dîmendera xwe bilindtir be, were lêdan),\n- ...û gelek ên din jî!\n\nJi bo agahiyên zêdetir, serdana <https://vancedapp.com>"
+      "title": "What is YouTube Vanced?",
+      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
     },
     {
-      "title": "Bişkojka Dakêşanê li kûderê ye?",
-      "description": "Bêguman, Google destûrê nade guhertoyek guhertoyek guhertoya xwe ya guhertoyê ku li ser dikana wan be, ji ber vê yekê li Google Play Store'ê negerin ku ev karnameyên sexte ne.\n\nBi bikaranîna Vanced Manager ê ku dikare li ser malpera me ya fermî were dîtin, dikarin pêvekên vanced werin dagirtin û saz kirin: <https://vancedapp.com> lê hûn dikarin wê ji vir bistînin [Depoya GitHub] (https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Where is the Download button?",
+      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "YouTube bixweber rojane dike?",
-      "description": "Na, nabe.\n\nRêveberê Vanced dema ku yek heye wê teblîxekê ji we re bişîne.\n\nHer wiha hûn dikarin ji bo nûçeyên herî dawîn û nûvekirina agahdariyan tevlî [Serverê Discord](https://discord.gg/Vanced) bibin an jî [Telegram kanal](https://t.me/Vanced) bişopînin."
+      "title": "Does YouTube Vanced auto-update?",
+      "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
     },
     {
-      "title": "Vanced dikare vîdeoyan dakêşe?",
-      "description": "Vanced ti taybetmendiya daxistina vîdyoyê nahundirîne û wê qet nebe.\n\nGelek vîdyo hene ku li [welatên bijarte] (https://support.google.com/youtube/answer/6141269) bê pere dakêşin. Ji bo cîhana mayî, ji kerema xwe YouTube Premium bistînin.\n\nDîsa, Vanced WÊ TI CARÎ daxistinek vîdyoyê li ser sepan an jî tiştek mîna wê zêde bike.\n\nEv bûye sedema girtina gelek modên YouTube di berê de ji ber ku Google ji kesên ku naveroka mafên xwe ji platformê xwe dakêşin hez nake da ku jê nepirsin!!!"
+      "title": "Can Vanced download videos?",
+      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
     },
     {
-      "title": "Çima jesta xwêdan bi ser nakeve?",
-      "description": "Heke şîroveyên te li jêr hene (cihê kevin) di mîhengên Vanced > Mîhengên dariştinê de nîşan bide, wê neçalak bike û ji nû ve dest pê bike. Eger ev yek bi ser nekeve, bi zorê vê kompûnê bisekinîne û daneyên wê paqij bike."
+      "title": "Why the swipe gestures doesn't work?",
+      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
     },
     {
-      "title": "Sernav tune ne?",
-      "description": "Ev ne pirsgirêkek vanced an youTube ye. Di hemû vîdeoyan de sernav tune ne."
+      "title": "Captions not available?",
+      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
     },
     {
-      "title": "Hûn bexşînê distirên?",
-      "description": "EM BEXŞÎNAN QEBÛL NAKIN!\n\nHer cûre bexş di bin her rewşê de û her sîte, girêdan an jî postên ku ji bo bexşandinê bixwazin, bi tenê sexte ne.\n\nLê heke hûn dixwazin pêşdebirên Vanced piştgirî bikin, hûn dikarin Brave bi karanîna [vê link](https://brave.com/kev231) û AdGuard bi kar anîna [vê link](https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "Do you take donations?",
+      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "Tu çawa dîsîplîna lêkeran bixweber veşêrî?",
-      "description": "Tu dikarî di Mîhengên Veqetandî yên YouTube Vanced > Mîhengên > Gihîştin bikî. Heke mîheng venekin an nexebitin, biçin mîhengên gihîştina cîhaza xwe û amplifikatorê deng neçalak bikin, gihîştinê biguherînin, sernavê zindî."
+      "title": "How to make the player layout auto-hide?",
+      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
     },
     {
-      "title": "Çima APKyên dabeşkirinê bi kar tînin?",
-      "description": "Ji ber:\n\n1. Sepan embar wê bikar tîne da ku Vanced jî bi kar tîne.\n2. Tenê zimanên ku hûn diyar dikin ji bo kêmkirina veberhênerên hilanînê saz dike.\n3. Yekane versiyona bingehîna AKP'ê heye ku cîhaza we jê re lazim e.\n\nBê guman, Rêvebirê Vanced an pêşdebiran dikarin wê pelê normal, yek APK veguherîne, lê em ji bo vê yekê pir tembel in. Divê hûn bi tiştên me re li hev bikin...\n\nLê xemgîn nebe, Vanced Manager ji bo we hemû karên dijwar dike ji ber vê yekê tenê li ser bişkojka 'Sazkirinê' pêlê bike."
+      "title": "Why using split APKs?",
+      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
     },
     {
-      "title": "Çima rengê di ekrana destpêkê de ji dirbê cuda ye?",
-      "description": "Rengê rûbera ekrana destpêkê ji rengê sîstema Android tê girtin da ku li gor tema pergalê biguhere. Tu dikarî [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) an [Sazkerê Swift](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) an jî wekî vê appê bikar bînî da ku reng biguherînî."
+      "title": "Why the colour in the startup screen is different from the theme?",
+      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
     },
     {
-      "title": "Pelên sazkirinê ji nû ve dakêşim?",
-      "description": "Dosya dikarin ji ber sedemên cuda bên pûçkirin û piştî wê jî dikarin bibin sedema pirsgirêkan. Ji bo ku hûn ji vê yekê dûr bisekinin, hûn dikarin hilbijêrin ku wê dîsa dakêşin da ku sazkirina we bi rengek nerm derbas bibe."
+      "title": "Should I re-download the installation files?",
+      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
     },
     {
-      "title": "Çima destûra mîkrofonê ji versiyona root re tune ye?",
-      "description": "Eger Vanced-ê te nû bibe, ew dike."
+      "title": "Why does the root version don't have Microphone permission?",
+      "description": "It does if your Vanced is up-to-date."
     },
     {
-      "title": "ExoPlayer v1 çi ye?",
-      "description": "Ew versiyoneke kevntir a lêkera medyaya heyî ye ku youTube bi kar aniye. Dibe ku hûn di dema bikaranîna wê de performans û îstîkrarê çêtir bistînin."
+      "title": "What is ExoPlayer v1?",
+      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
     },
     {
-      "title": "Mîhengên veşartî çawa çalak bike?",
-      "description": "Di mîhengên Vanced de, li beşa 'About' 6-7 caran ji bo çalak bike. Ev tenê mîhengên codec yên vîdyoyê yên din çalak dike."
+      "title": "How to enable hidden settings?",
+      "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
     },
     {
-      "title": "Çima guhertoya kokê bi Mîkrog Core re naxebitîne?",
-      "description": "1. Divê hûn bi kêmanî varyanta [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) ya GApps hene ku Vanced bimeşînin.\n\n2. Tu nikarî Vanced bi microG Core bêyî Google Play Services Framework ku di hemî pakêtên GApps de heye û pirtûkxaneyeke pêwîst e.\n\n3. Heke hûn ji bo nepenîtiya xwe xemgîn in û naxwazin GApps bi kar bînin lê dîsa jî dixwazin temaşekirina YouTube bêyî reklaman bikar bînin, wê demê [versiyona web](https://youtube.com) her dem heye."
+      "title": "Why the root variant doesn't work with microG Core?",
+      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Çima kastkirin bi ser nakeve?",
-      "description": "Eger microG te nû bibe, kar dike."
+      "title": "Why casting doesn't work?",
+      "description": "It works if your microG is up-to-date."
     },
     {
-      "title": "Îmzekirina APK'ê çi ye?",
-      "description": "Hûn vê yekê dixwînin ji ber ku hûn Vanced Manager bi kar tînin an jî dibe ku we Vanced ji çavkaniyekne nefermî saz kiriye.\nTenê Rêveberê Vanced bi kar bîne!\n\nHûn dikarin Vanced Manager ji:\n- Malpera fermî <https://vancedapp.com>\n- [Depoya GitHub] (https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "What is APK Signing?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "YouTube li Play Store vedigere?",
-      "description": "Na!\nDîsa, saz neke an jî heta hewl bide ku li tu pêlavên sexte yên bi navê \"YouTube Vanced\" an jî wekî wê li Play Store an jî tu sepan dikanên ku Vanced saz bike bigere.\n\nEm tenê [Rêberê Vanced](https://play.google.com/store/apps/details?id=com.vanced.faq) hene, û ew tenê sepan fermî ye ku li Play Store tê weşandin.\n\nHeke hûn bi îkon û navê me re pêveka din bibînin, wê wekî texlît rapor bikin û lêkolînek xirab bidin.\n\nLêgerên me tenê dikarin li <https://vancedapp.com>."
+      "title": "Is YouTube Vanced on Play Store?",
+      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
     },
     {
-      "title": "Vanced çima di ekrana malê an di kişandina sepan de nîşan nade?",
-      "description": "Hûn vê yekê dixwînin ji ber ku hûn Vanced Manager bi kar tînin an jî dibe ku we Vanced ji çavkaniyekne nefermî saz kiriye.\nTenê Rêveberê Vanced bi kar bîne!\n\nHûn dikarin Vanced Manager ji:\n- Malpera fermî <https://vancedapp.com>\n- [Depoya GitHub] (https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Why is Vanced not showing up in home screen or app drawer?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Çima vîdeo nayên lêdan?",
-      "description": "Bernameyê ji nû ve biceribînin. Ew jî dibe ku ji ber pêwendiya înternetê an amûra we be."
+      "title": "Why aren't videos playing?",
+      "description": "Try restarting the app. It might also because of your internet connection or your device."
     },
     {
-      "title": "Çima sînorê min ê 480p heye?",
-      "description": "Ji ber COVID-19, Google bikaranîna daneyên gelek welatan sînordar dike. Ev li ser server pêk tê û hem bandorê li bikarhênerên Vanced û stock YouTube dike.",
+      "title": "Why am I having the 480p limit?",
+      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
       "fields": [
         {
-          "title": "Bersiv:",
-          "content": "1. Bi VPN a herêma cuda ve girêbide.\n2. [versiyona web](https://youtube.com) bi kar bîne\n3. Ji ber ku qedexekirina 480p tenê ji bo telefonan e û ne tablet e, hûn dikarin modela cîhazê di YouTube Vanced de biguherînin da ku sînordariyê derbas bikin.\n\n# ### Modela cîhazê çawa tê guhertin?\n1. YouTube Vanced veke.\n2. Here Mîhengan\n3. Li 'Mîhengên Vanced' lêde\n4. Mîhengên veşartî çalak bike:\n  - Heta ku tu peyama 'Mîhengên veşartî çalak' bistîne, li beşa 'Der barê' de pêlê bike.\n5. Here 'Codec betalkirin'\n6. Hilberîner ji 'Samsung' û modela 'SM-T865' re diyar bikin.\n7. Sepan ji nû ve dest pê bike.\n\nPiştî ku ji nû ve dest pê kir, divê sînorê 480p bê tin."
+          "title": "Workarounds:",
+          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
         }
       ]
     },
     {
-      "title": "Teblîxata microG çawa veşêrî?",
-      "description": "Ji bo veşartina microG a agahdarkirinê, tu dikarî optimîzasyona batarê ya ji bo microG neçalak bikî û cîhaza xwe ji nû ve bivîze.\n\nEger piştî rebootê, teblîxatên microG li wir be, bi girtina teblîxatê, vegirê û topê Toparbike.\n\nTeblîxatên nelirêkirinê dikarin bi awayên cuda yên girêdayî navrûya bikarhêner a Android werin kirin. Heke hûn nizanin wê çawa neçalak bikin, biceribînin Google ji bo fêrbûna wê çawa neçalak bikin."
+      "title": "How to hide the microG notification?",
+      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
-      "title": "Ma 1440p li ser ekrana min a 1080p çêtir xuya dike?",
-      "description": "Belê, lê tenê eger rêjeya vîdeoyê tiştek mîna 18:9, 21:9 be, ... Hûn dikarin 'Statîstîkên ji bo nêrdewanan' di Mîhengan de > bikaribin piştrast bikin.\n\nJi bo çalakkirina biryarên bilindtir, here mîhengên Vanced > mîhengên Vîdyoyê veke û 'Mezinahiya max' veke û paşê vê pêlavê ji nû ve bide destpêkirin."
+      "title": "Does 1440p look better on my 1080p screen?",
+      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
     }
   ]
 }
