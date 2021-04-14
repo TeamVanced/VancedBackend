@@ -77,26 +77,26 @@
       "description": "أنت تقرأ هذا لأنك لا تستخدم مدير فانسد أو ربما تكون قد قمت بتثبيت يوتيوب فانسد من مصدر غير رسمي. فقط استخدم مدير فانسد ! يمكنك تنزيل مدير فانسد بأمان من: - الموقع الرسمي <https://vancedapp.com> - [GitHub repository] (https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "لماذا مقاطع الفيديو لا تعمل؟",
+      "description": "حاول إعادة تشغيل التطبيق. قد يكون ذلك أيضاً بسبب إتصالك بالإنترنت أو جهازك."
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "لماذا لدي الحد الأقصى هو 480p ؟",
+      "description": "بسبب COVID-19 ، تقيدت غوغل إستخدام البيانات في العديد من البلدان. يحدث هذا على الخادم ويؤثر على مستخدمي يوتيوب فانسد و وتخزين مستخدمي يوتيوب.",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "الحلول:",
+          "content": "1. الإتصال بشبكة VPN من منطقة مختلفة.\n2. إستخدام [إصدار الويب] (https://youtube.com)\n3. نظراً لأن تقييد 480p مخصص للهواتف فقط وليس للأجهزة اللوحية ، يمكنك تغيير طراز الجهاز في يوتيوب فانسد للتغلب على التقييد.\n#### كيفية تغيير طراز الجهاز؟\n1. إفتح يوتيوب فانسيد.\n2. إذهب إلى الإعدادات\n3. اضغط على \"إعدادات فانسد\"\n4. تمكين الإعدادات المخفية: - قم بالتمرير لأسفل وانقر على قسم \"حول\" 6-7مرات حتى تحصل على رسالة تقول \"تم تمكين الإعدادات المخفية\".\n5. انتقل إلى \"تجاوز برنامج الترميز\"\n6. قم بتعيين الشركة المصنّعة على \"Samsung\" والطراز على\"SM-T865\".\n7. أعد تشغيل التطبيق. بعد إعادة التشغيل ، يجب أن يختفي حد 480p."
         }
       ]
     },
     {
-      "title": "How to hide the microG notification?",
-      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "title": "كيف تخفي إشعار microG؟ ",
+      "description": "لإخفاء إشعار microG، يمكنك تعطيل تحسين البطارية لـ microG وإعادة تشغيل جهازك. إذا كان الإشعار لا يزال موجوداً بعد إعادة التشغيل، فقم بتعطيل إشعارات microG بالضغط على الإشعار، وقم بإيقاف تشغيله وانقر فوق حفظ. يمكن تعطيل إشعارات التطبيق بطرق مختلفة إعتماداً على واجهة مستخدم الأندرويد. إذا كنت لا تعرف كيفية تعطيله ، فحاول استخدام غوغل لمعرفة كيفية تعطيله."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "هل تبدو دقة 1440p أفضل على شاشتي  التي بدقة 1080p؟",
+      "description": "نعم ، ولكن فقط إذا كانت نسبة الفيديو مثل 18:9 ، 21:9 ، ... يمكنك تمكين \"الإحصائيات المهووسة\" في الإعدادات> عام لتأكيدها. لتمكين دقة أعلى ، انتقل إلى إعدادات فانسد> إعدادات الفيديو وقم بتشغيل \"الدقة القصوى\" ثم أعد تشغيل التطبيق."
     }
   ]
 }
