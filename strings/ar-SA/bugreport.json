@@ -6,7 +6,7 @@
       "fields": [
         {
           "title": "متى سيتم مراجعة قضيتي؟",
-          "content": "Developers spare their time for creating new features and fixing many issues and each can take a while to finish up. \nYou just need to sit tight and wait. Your issue will be reviewed as soon as possible."
+          "content": "يخصص المطورون وقتهم لإنشاء ميزات جديدة وإصلاح العديد من المشكلات ويمكن أن يستغرق كل منهم بعض الوقت للانتهاء.\nتحتاج فقط إلى الجلوس والإنتظار. ستتم مراجعة مشكلتك في أقرب وقت ممكن."
         },
         {
           "title": "How do I take a logcat?",
