@@ -6,11 +6,11 @@
     },
     {
       "title": "Vanced Musik",
-      "description": "Vanced Musik memiliki tujuan yang sama dengan YouTube Vanced, tetapi aplikasi ini lebih fokus terhadap YouTube Musik. YouTube Musik memilik relatif lebih sedikit fitur dibandingkan Vanced tetapi masih memiliki banyak fitur yang anda harapkan seperti pemblokiran iklan dan pemutaran latar belakang, semua didalam Vanced Musik!"
+      "description": "YouTube Vanced Musik memiliki tujuan yang sama dengan YouTube Vanced, tetapi aplikasi ini lebih fokus terhadap YouTube Musik. YouTube Musik memiliki fitur yang relatif lebih sedikit dibandingkan Vanced tetapi masih memiliki banyak fitur yang anda harapkan seperti pemblokiran iklan dan pemutaran latar belakang, semua didalam YouTube Vanced Musik!"
     },
     {
       "title": "Fitur utama YouTube Vanced",
-      "description": "- Tema hitam OLED friendly\n- Memblokir semua iklan\n- Membolehkan anda untuk memutar video di latar belakang atau mode Picture in Picture (PiP) (hanya tersedia pada Android 8+)\n- Kontrol geser membolehkan anda untuk mengatur kecerahan dan volume dengan up-and-down gestures (dengan padding yang bisa diatur)\n- Fitur auto-repeat membolehkan anda untuk memutar video berulang-ulang.\n- Tampilan komentar/pemutar kecil tablet dapat diatur menjadi versi tablet yang dimana sangat serupa dengan versi lama (meskipun memiliki sedikit bug)."
+      "description": "- Tema OLED friendly gelap dan hitam _(alias abu tua)_ di samping tema putih>\n- Memblokir semua iklan\n- Membolehkan anda untuk memutar video di latar belakang atau mode Picture in Picture (PiP) (hanya tersedia pada Android 8+)\n- Kontrol geser membolehkan anda untuk mengatur kecerahan dan volume dengan up-and-down gestures (dengan padding yang bisa diatur)\n- Fitur pengulangan otomatis membolehkan anda untuk memutar video berulang-ulang.\n- Tampilan komentar/pemutar kecil tablet dapat diatur menjadi versi tablet yang dimana sangat serupa dengan versi lama (meskipun memiliki sedikit bug)."
     },
     {
       "title": "Kostumisasi",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Sponsor Block",
-      "description": "- Menyediakan abilitas untuk melewati segmen sponsor (dimana youtuber mengiklankan sebuah pelayanan atau produk di tengah tengah video)\n- Juga menyediakan pelewatan kategori lain, seperti intro, outro dan promosi diri sendiri.\n- Menggunakan API yang bisa ditemukan disini. Anda bisa mencari tahu bagaimana cara hal ini bekerja.\n- Kontrol penuh pada apakah akan otomotis melewati kategori segmen atau menampilkan tombol untuk melewati, atau tidak melewati sama sekali.\n- Menyoroti segmen di warna yang berbeda berdasarkan kategori di timeline pemutaran."
+      "description": "- Menyediakan abilitas untuk melewati segmen sponsor (dimana[YouTuber](https://en.wikipedia.org/wiki/YouTuber) mengiklankan sebuah pelayanan atau produk di tengah tengah video)\n- Juga menyediakan pelewatan kategori lain, seperti intro, outro dan promosi diri sendiri.\n- Menggunakan API yang bisa ditemukan [disini](https://sponsor.ajay.app). Anda dapat mencari tahu bagaimana cara hal ini bekerja.\n- Kontrol penuh pada apakah akan otomotis melewati kategori segmen atau menampilkan tombol untuk melewati, atau tidak melewati sama sekali.\n- Menyoroti segmen di warna yang berbeda berdasarkan kategori di timeline pemutaran."
     },
     {
       "title": "Platform",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Perbedaan antara Root dan Non-Root",
-      "description": "- Root: \nVarian root Vanced secara mulus menggantikan aplikasi YouTube resmi. Sebagai hasil, anda dapat secara langsung membuka tautan YouTube atau memanggil menggunakan asisten Google melewati aplikasi Vanced yang dimodifikasi.\n- Non-Root:\n- Apabila anda memiliki perangkat yang sulit untuk di root atau anda tidak ingin root daily driver anda, anda sebaiknya memilih varian non-root.\n- Dapat diunduh pada perangkat root juga. Dikarenakan nama paket varian non-root berbeda dari aplikasi bawaan, mereka bisa terpasang bersama. Catat bahwa anda harus memasang aplikasi tambahan (Vanced microG) untuk dapat login dengan akun YouTube/Google anda.\n- Selain itu, anda harus secara manual mengatur Vanced sebagai aplikasi default untuk membuka tautan YouTube.\n- Namun, varian non-root lebih mudah untuk digunakan, maka kami merekomendasikan anda untuk tetap berada pada varian non-root kecuali anda ingin sekali menggantikan aplikasi YouTube bawaan pada perangkat seluler anda."
+      "description": "#### Root: \nVarian root Vanced secara mulus menggantikan aplikasi YouTube resmi. Sebagai hasil, anda dapat secara langsung membuka tautan YouTube atau memanggil menggunakan asisten Google melewati aplikasi Vanced yang dimodifikasi.\n#### Non-Root:\n- Apabila anda memiliki perangkat yang sulit untuk di root atau anda tidak ingin root daily driver anda, anda sebaiknya memilih varian non-root.\n- Dapat diunduh pada perangkat root juga. Dikarenakan nama paket varian non-root berbeda dari aplikasi bawaan, mereka bisa terpasang bersama. Catat bahwa anda harus memasang aplikasi tambahan (Vanced microG) untuk dapat login dengan akun YouTube/Google anda.\n- Selain itu, anda harus secara manual mengatur Vanced sebagai aplikasi default untuk membuka tautan YouTube.\n- Namun, varian non-root lebih mudah untuk digunakan, maka kami merekomendasikan anda untuk tetap berada pada varian non-root kecuali anda ingin sekali menggantikan aplikasi YouTube bawaan pada perangkat seluler anda."
     }
   ]
 }
