@@ -10,11 +10,11 @@
         },
         {
           "title": "मैं एक logcat कैसे दूं?",
-          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this. You can follow the instructions [in here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "गैर-रूट उपयोगकर्ताओं के लिए:\nआप `logcat` outputs लेने के लिए एक पीसी की आवश्यकता होगी। यहाँ एक [पाठ गाइड] (https://github.com/YTVanced/Vanced#creating-a-logcat-use-the-android-debug-bridge-adb-on-your-pc) और एक [वीडियो गाइड] है। (https://youtu.be/ICLpwgsJJP0)।\n\nरूट उपयोगकर्ताओं के लिए:\nइसके लिए आपको एक पीसी की आवश्यकता नहीं है। आप निर्देशों का पालन कर सकते हैं [यहाँ] (https://github.com/YTVanced/Vanced#creating-a-logcat-use-termux-on-your-rooted-android)।"
         },
         {
-          "title": "Your bug is UI related?",
-          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
+          "title": "आपका बग UI संबंधित है?",
+          "content": "UI से संबंधित बग के लिए, आपके पास अतिरिक्त कदम उठाने होंगे।\n\nकृपया स्थापित करें और सेटअप करें [डेवलपर सहायक] (https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)।\nउसके बाद, V नृत्य पर जाएं और बग को पुन: उत्पन्न करें, फिर डेवलपर सहायक को ट्रिगर करके लेआउट दर्शक खोलें।\n\nअब इन चरणों का पालन करें:\n1. सुनिश्चित करें कि बग स्क्रीन पर दिखाई दे रहा है।\n2. उस तत्व पर टैप करें जो आपको लगता है कि बग से प्रभावित है।\n3. `एलिमेंट` और` पदानुक्रम` टैब पर जाएं और आउटपुट को स्क्रीनशॉट करें।\n4. उन स्क्रीनशॉट को अपने अंक में शामिल करें।"
         }
       ]
     }
