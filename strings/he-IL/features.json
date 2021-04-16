@@ -2,31 +2,31 @@
   "features": [
     {
       "title": "Vanced",
-      "description": "YouTube Vanced aims to be a better version of YouTube. It includes adblocking, the black theme, and a lot more. Use Vanced Manager to install YouTube Vanced with relative ease."
+      "description": "YouTube Vanced שואף להיות גרסה טובה יותר של YouTube. הוא כולל חסימת מודעות, ערכת נושא כהה ועוד הרבה יותר. השתמשו ב־Vanced Manager כדי להתקין את YouTube Vanced בקלות יחסית."
     },
     {
-      "title": "YouTube Music Vanced",
-      "description": "YouTube Music Vanced has the same aim as YouTube Vanced, but this app focuses on YouTube Music. This is relatively less feature-rich compared to Vanced but still features many things you come to expect like adblocking and background playback, all inside YouTube Music Vanced!"
+      "title": "שירותי המוזיקה של Vanced",
+      "description": "YouTube Music Vanced שואף לאותה מטרה כמו YouTube Vanced, אך יישום זה מתמקד ב־YouTube Music. הוא יחסית פחות עשיר בתכונות בהשוואה ל־Vanced, אך עדיין כולל דברים רבים שאתם מצפים להם, כמו חסימת מודעות והשמעה ברקע, הכול בתוך YouTube Music Vanced!"
     },
     {
-      "title": "YouTube Vanced main features",
-      "description": "- OLED friendly black theme and dark theme _(aka dark gray)_ besides white theme.\n- Blocks all ads\n- Allows you to play videos in the background or in the Picture in Picture (PiP) mode (only on Android 8+)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/tablet mini-player layout can be toggled to the tablet versions which are very similar to the old version (however, it's a bit buggy)."
+      "title": "התכונות העיקריות של YouTube Vanced",
+      "description": "- ערכת נושא שחורה וידידותית למסכי OLED וערכת נושא כהה (אפור כהה) מלבד הלבנה הרגילה.\n- חסימת כלל המודעות\n- מאפשר להפעיל סרטונים ברקע או במצב תמונה בתוך תמונה (PiP) (רק באנדרואיד 8 ומעלה)\n- פקדי החלקה מאפשרים לשלוט על הבהירות ועומצת השמע בעזרת תנועות מעלה ומטה (עם גבולות הניתנים להגדרה).\n- תכונת חזרה אוטומטית המאפשרת לולאת סרטונים החוזרת על עצמה.\n- פריסת הנגן הקטן החדש יכולה להופיע בגרסאות הטאבלט שדומות מאוד לגרסה הישנה (עם זאת, היא מעט נוטה לתקלות)."
     },
     {
-      "title": "Customization",
-      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+      "title": "התאמה אישית",
+      "description": "- מאפשר לעקוף את אפשרויות המקודד כגון אילוץ לקידוד ב־H264 למכשירים ישנים או ב־VP9, כמו גם מאפשר לאלץ הפעלת HDR או לכבות מצב 60 פריימים לשנייה אם אתם מעדיפים חוויה קולנועית. (תצורות התקן מותאמות אישית עבור תכונות אלה ניתן למצוא בשרת הדיסקורד שלנו (https://discord.gg/Vanced) או ב־XDA)\n- כפה את רזולוציית הווידאו המוגדרת כברירת מחדל כגבוהה או כנמוכה ככל שתרצה ואפילו עקוף את רזולוציית המסך שלך עבור הזרמה באיכות 4k בכל מכשיר. כמו גם מאפשר לשנות את מהירות ההפעלה המוגדרת כברירת מחדל לכל דבר שבין 0.25x ל־2x (בהנחה שהמכשיר שלך מספיק חזק בשביל זה)\n- מאפשר להחליף מודעות במסך הבית, רוב המודעות בממשק המשתמש, מודעות סחר, פוסטים בקהילה, מכירת סרטים, מידע קומפקטי בבאנרים (כגון מידע אודות על COVID-19), להסיר תגובות לחלוטין, קטגוריית סרטים ועוד דברים רבים נוספים!"
     },
     {
-      "title": "Sponsor Block",
-      "description": "- Features the ability to skip sponsor segments (where a [YouTuber](https://en.wikipedia.org/wiki/YouTuber) advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API [found here](https://sponsor.ajay.app). You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
+      "title": "SponsorBlock",
+      "description": "- כולל יכולת לדלג על קטעי חסות (כאשר בעל ערוץ [YouTuber]) מפרסם שירות או מוצר באמצע סרטון).\n- תומך גם בדילוג על קטגוריות אחרות, כמו פתיחים, קטעי סיום וקידום עצמי.\n- משתמש ב־API [נמצא כאן](https://sponsor.ajay.app). ניתן למצוא מידע נוסף על אופן הפעולה.\n- מאפשר גם להמליץ על קטעים משלכם ל־API ולתרום לקהילה הרחבה.\n- שליטה מלאה אם לדלג אוטומטית על קטגוריית קטעים שלמה או להציג כפתור לדילוג, או פשוט לא לדלג עליה בכלל.\n- מדגיש את הקטע בצבע הספציפי על סמך הקטגוריה שלו בציר הזמן של ההפעלה."
     },
     {
-      "title": "Platforms",
-      "description": "Apps are available only for Android devices and there are no plans to support any other platforms at the moment"
+      "title": "פלטפורמות",
+      "description": "היישומים שלנו זמינים רק למכשירי אנדרואיד ואין כרגע תוכניות לתמוך בפלטפורמות אחרות"
     },
     {
-      "title": "Difference between Root and Non-Root",
-      "description": "#### Root:\nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google Assistant through the modded Vanced app.\n\n#### Non-Root:\n- If you have a device that is difficult to root, or you don’t want to root your daily device on first hand, you should opt for the non-root variant.\n- Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account.\n- Moreover, you have to manually set Vanced as the default app for opening YouTube links.\n- However, the non-root variant is much simpler to install and use, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
+      "title": "הבדלים בין גרסאות עם ובלי Root",
+      "description": "#### עם Root:\nהגרסה בעלת הרשאות Root של Vanced מחליפה בצורה חלקה את אפליקציית YouTube הרשמית. כתוצאה מכך, ניתן אף לפתוח ישירות קישורי YouTube או להשתמש בהם באמצעות העוזרת הקולית של Google דרך אפליקציית Vanced המעוצבת.\n\n#### ללא Root:\n- אם יש לך מכשיר שקשה לתת לו הרשאות Root, או שאינך רוצה בכך, עליך לבחור בגרסה שאינה דורשת הרשאות Root.\n- כיוון ששם החבילה של הגרסה שאינה דורשת הרשאות Root שונה מאפליקציית YouTube הרגילה, הם יכולים להתקיים זו לצד זו. שים לב כי עליך להתקין אפליקציה נלווית נוספת (Vanced microG) כדי שתוכל להתחבר לחשבון YouTube/Google שלך.\nיתר על כן, עליך להגדיר ידנית את Vanced כאפליקציית ברירת המחדל לפתיחת קישורי YouTube.\n- עם זאת, הגרסה שאינה דורשת הרשאות Root היא הרבה יותר פשוטה להתקנה ולשימוש, לכן אנו ממליצים שתישאר עימה, אלא אם כן אתה באמת צריך להחליף את אפליקציית YouTube הרגילה במכשיר שלך."
     }
   ]
 }
