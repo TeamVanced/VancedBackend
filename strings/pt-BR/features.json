@@ -17,7 +17,7 @@
       "description": "- Permite que você substitua opções de Codec como forçar H264 para dispositivos antigos ou VP9, isso também permite que você force a reprodução em HDR ou desative 60 fps se você preferir uma experiência cinemática. (Configurações personalizadas do dispositivo para esses recursos podem ser encontradas em nosso discord ou XDA)\n- Força a resolução de vídeo padrão tão alta ou baixa quanto quiser e até mesmo sobrescreve a resolução de sua tela para essa reprodução nítida de 4k em qualquer dispositivo. Também permite que você altere a velocidade de reprodução padrão entre 0. 5x a 2x (assumindo que seu dispositivo seja poderoso o suficiente)\n- Permite que você desligue os anúncios na tela inicial, a maioria dos anúncios de UI, anúncios de Merchandise, posts da Comunidade, venda de filmes, compacte informações de banners (como informações de COVID-19), remova completamente os comentários, filmes compactos, remoção de prateleira de filmes e muito mais!"
     },
     {
-      "title": "Bloqueador de Patrocinador",
+      "title": "SponsorBlock",
       "description": "- Permite pular segmentos de patrocinadores (onde um youtuber anuncia um serviço ou produto no meio de um vídeo)\n- Também suporta pular outras categorias, como introduções, outros e autopromoção.\n- Usa a API encontrada aqui. Você pode encontrar mais informações sobre como ela funciona\n- Ele também permite que você envie seus próprios segmentos para a API e contribua com a comunidade\n- Completo o controle de escolher se vai pular automaticamente uma categoria de segmento, mostrar um botão para pular, ou não pular nada.\n- Destaca o segmento em uma cor específica conforme sua categoria na linha do tempo de reprodução."
     },
     {
