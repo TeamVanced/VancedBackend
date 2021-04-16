@@ -17,7 +17,7 @@
       "description": "- Erlaubt es Ihnen, Codec Optionen wie das Erzwingen von H264 für alte Geräte oder VP9 zu überschreiben. Dies ermöglicht Ihnen auch, die HDR-Wiedergabe zu erzwingen oder 60fps auszuschalten, wenn Sie ein filmisches Erlebnis bevorzugen. (Konfigurationen für eigene Geräte können in unserem Discord oder XDA gefunden werden)\n- Erzwinge die Standard-Videoauflösung so hoch oder niedrig wie du möchtest und überschreibe sogar deine Bildschirmauflösung für scharfe 4k Wiedergabe auf jedem Gerät. Außerdem können Sie die Standardgeschwindigkeit der Wiedergabe zwischen 0,25x und 2x verschieben(vorausgesetzt Ihr Gerät ist schnell genug)\n- Erlaubt es Ihnen, Home-Anzeigen, die meisten UI-Anzeigen, Merchandise-Werbung, Community-Posts, Film-Upselling, kompakte Banner-Info (wie die COVID-19 Info), Kommentare, kompakte Filme, Regalentfernung und vieles mehr zu entfernen!"
     },
     {
-      "title": "Sponsor Block",
+      "title": "SponsorBlock",
       "description": "- Die Fähigkeit, Sponsor Segmente zu überspringen (wo ein Youtuber eine Dienstleistung oder ein Produkt mitten in einem Video bewirbt)\n- Es unterstützt auch das Überspringen anderer Kategorien, wie Intros, Outros und Eigenwerbung.\n- Verwendet die hier aufgeführte API. Sie können weitere Informationen über die Funktionsweise des Systems finden\n- Sie können auch Ihre eigenen Segmente zur API einreichen und der breiteren Gemeinschaft beitragen\n- Vollständige Kontrolle darüber, ob Sie automatisch eine Segmentkategorie überspringen oder einen Button zum Überspringen zeigen oder einfach nicht überspringen.\n- Markiert das Segment in der jeweiligen Farbe basierend auf seiner Kategorie in der Timeline."
     },
     {
