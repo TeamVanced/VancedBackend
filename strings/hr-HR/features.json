@@ -17,7 +17,7 @@
       "description": "- Omogućuje vam da nadjačate opcije kodeka, poput forsiranja H264 za stare uređaje ili VP9, to vam također omogućuje prisilno reproduciranje HDR-a ili isključivanje 60 sličica u sekundi ako više želite kinematografsko iskustvo. (Prilagođene konfiguracije uređaja za ove značajke možete pronaći na našem Discordu ili XDA-u)\n-Forsiranje zadane rezolucije videozapisa na visoku ili nisku koliko želite, pa čak i nadjačavanje rezolucije zaslona za tu oštru reprodukciju od 4K na bilo kojem uređaju. Omogućuje vam i promjenu zadane brzine reprodukcije na bilo koju vrijednost između 0,25x i 2x (pod pretpostavkom da je vaš uređaj dovoljno SNAŽAN)\n- Omogućuje vam prebacivanje kućnih oglasa, većinu oglasa korisničkih sučelja, robne oglase, postove u zajednici, prodaju filmova, kompaktne natpisne informacije (kao što su covid informacije), potpuno uklanjanje komentara, kompaktni film, uklanjanje polica s filmovima i još mnogo toga!"
     },
     {
-      "title": "Blokiranje sponzora",
+      "title": "SponsorBlock",
       "description": "- Sadrži mogućnost preskakanja segmenata sponzora (gdje youtuber oglašava uslugu ili proizvod usred videozapisa)\n- Također podržava preskakanje drugih kategorija, kao što su uvod, kraj i samopromocija.\n- Koristi ovdje pronađeni API. Možete pronaći više informacija o tome kako to radi\n- Omogućuje vam i slanje vlastitih segmenata API-ju i doprinos široj zajednici\n- Potpuna kontrola hoće li se automatski preskočiti kategorija segmenta ili pokazati tipka za preskakanje, ili jednostavno jednostavno uopće ne preskočiti.\n- Označava segment u određenoj boji na temelju njegove kategorije na vremenskoj traci reprodukcije."
     },
     {
