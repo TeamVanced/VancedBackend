@@ -17,7 +17,7 @@
       "description": "- Tillader dig at tilsidesætte Codec indstillinger så som at tvinge H264 til gamle enheder eller VP9, dette giver dig også mulighed for at tvinge HDR-afspilning eller slukke 60fps, hvis du foretrækker en filmoplevelse. (Brugerdefineret enheds konfiguration for disse funktioner kan findes på vores discord eller på XDA)\n- Tving standard videoopløsning så høj eller lav som du ønsker, og tilsidesættelse af din skærmopløsning for at skarpe 4k afspilning på enhver enhed. Det giver dig også mulighed for at ændre standard afspilningshastighed til hvor som helst mellem 0.25x og 2x (forudsat at din enhed er kraftig nok)\n- Tillader dig at skifte home annoncer, de fleste UI-annoncer, Merchandise-annoncer, Community indlæg, film opsalg kompakte banner info (såsom COVID-19 info), fjerne kommentarer helt, kompakt film, fjernelse af filmhylen og meget mere!"
     },
     {
-      "title": "Sponsor Blokering",
+      "title": "SponsorBlock",
       "description": "- Indeholder muligheden til at springe sponsorsegmenter over (hvor en youtuber reklamerer for en tjeneste eller produkt i midten af en video)\n- Det understøtter også springe andre kategorier over, såsom introer, outroer og selvpromovering.\n- Bruger API fundet her. Du kan finde flere oplysninger om, hvordan det fungerer\n- Det giver dig også mulighed for at indsende dine egne segmenter til API og bidrage til det større fællesskab\n- Komplet kontrol over, om du automatisk skal springe over en segmentkategori eller vise en knap til at springe over, eller bare ikke springe det over overhovedet.\n- Fremhæver segmentet i den specifikke farve baseret på dets kategori i afspilningstidslinjen."
     },
     {
