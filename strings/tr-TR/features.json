@@ -17,7 +17,7 @@
       "description": "- Çözücü ayarlarını değiştirme imkânı ile eski tip cihazlarda H264 veya VP9 çözücüsü kullanarak, sinematik deneyim elde etmek için HDR formatında oynatma ve 60fps özelliğini kapatma imkânı sunar. (Cihaza özel yapılandırmalar, Discord sunucumuzda veya XDA'de bulunabilir)\n- Varsayılan video çözünürlüğünü en yüksek veya en düşük olarak ayarlama ve ayrıca ekran çözünürlüğü kısıtlamasını aşarak, her cihazda keskin 4k video çözünürlüğü ile oynatabilme imkânı sunar. Ayrıca cihazının desteklemesi durumunda oynatma hızını 0.25x ile 2x arasında değiştirebilme imkânı sunuyor.\n- Ana ekranda ve diğer yerlerde çıkan ürün satışı dahil çeşitli reklamları, topluluk iletilerini, film satışlarını, bilgilendirme kutularını (COVID-19 bilgilendirmeleri gibi), yorumlar kısmını, film fragmanlarını, film önerisi kısmı gibi birçok can sıkan yerleri gizleme/kaldırma imkânı sunar."
     },
     {
-      "title": "Sponsor Engelleme",
+      "title": "SponsorBlock",
       "description": "- Sponsor kısımlarını atlayabilme özelliği (YouTuber'ların video aralarına sıkıştırdıkları tanıtıcı reklamlar)\n- Ayrıca videoda giriş ve kapanış sahnelerini ve kişisel tanıtım kısımlarını da atlayabilme özelliği\n- Detaylarına bu linkten ulaşabileceğin API yapısını kullanır.\n- Ayrıca kendin için belirlediğin atlama kısımlarını API aracılığı ile paylaşma imkânı sunarak, topluluğa katkıda bulunabilirsin.\n- Atlama özelliği üzerinde tam hakime sahip olursun. Otomatik olarak veya buton göstermesini sağlayarak butona dokunma sonrasında atlayabilme imkânı veya istersen atlama özelliğini kapatma imkânı da sunar.\n- Atlamalık kısımları kategori bazlı renklerle zaman çubuğunda renkli biçimde de gösterebilir."
     },
     {
