@@ -9,12 +9,12 @@
           "content": "מפתחים נותנים מזמנם ליצירת תכונות חדשות ולתיקון בעיות רבות וכל אחד יכול לקחת זמן עד לסיום. \n אתה רק צריך לשבת ולחכות. הבעיה שלך תבדק בהקדם האפשרי."
         },
         {
-          "title": "How do I take a logcat?",
-          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this. You can follow the instructions [in here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "title": "כיצד אני שומר יומן שינויים נוכחי?",
+          "content": "למשתמשים ללא Root:\nתזדקקו למחשב אישי כדי להפיק יומני שינויים – \"logcat\". להלן מדריך טקסט (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) ומדריך וידאו (https://youtu.be/ICLpwgsJJP0).\n\nלמשתמשים בעלי Root:\nאתם לא צריכים מחשב בשביל זה. תוכלו פשוט לעקוב אחר ההוראות כאן: https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android."
         },
         {
           "title": "התקלה שלך קשורה לממשק המשתמש?",
-          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
+          "content": "עבור תקלות הקשורות בממשק המשתמש, עליכם לבצע כמה צעדים נוספים.\n\nאנא התקינו את Developer Assistant לפי המדריך הבא – https://play.google.com/store/apps/details?id=com.appsisle.developerassistant.\nלאחר מכן, עברו אל YouTube Vanced והעתיקו את הדיווח על התקלה, ולאחר מכן פתחו את מציג הפריסה על ידי הפעלת Assistant Developer.\n\nבצעו את השלבים הבאים:\n1. ודאו שהתקלה מופיעה על המסך.\n2. הקישו על האלמנט שלדעתכם מושפע כתוצאה מהתקלה.\n3. עברו לכרטיסיות 'אלמנט' ו'היררכיה' וצלמו מסך של חלקי הפלט.\n4. כללו את צילומי המסך בדיווח שלכם."
         }
       ]
     }
