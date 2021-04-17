@@ -14,7 +14,7 @@
         },
         {
           "title": "¿Su error está relacionado con la interfaz de usuario?",
-          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
+          "content": "Para errores relacionados con la interfaz de usuario, tendrás que tomar pasos adicionales.\n\nPor favor, instala y configura [Asistente de desarrollador](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nDespués de eso, ve a Vanced y reproduce el error, luego abre el visor de Layout activando el Asistente de Desarrolladores.\n\nAhora siga estos pasos:\n1. Asegúrese de que el error está mostrando en la pantalla.\n2. Toca el elemento que crees que está afectado por el error.\n3. Ve a las pestañas `Element` y `Hierarchy` y captura de pantalla las salidas.\n4. Incluye esas capturas de pantalla en tu problema."
         }
       ]
     }
