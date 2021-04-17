@@ -6,7 +6,7 @@
       "fields": [
         {
           "title": "מתי תיבדק ה-'Issue' שלי?",
-          "content": "Developers spare their time for creating new features and fixing many issues and each can take a while to finish up. \nYou just need to sit tight and wait. Your issue will be reviewed as soon as possible."
+          "content": "מפתחים נותנים מזמנם ליצירת תכונות חדשות ולתיקון בעיות רבות וכל אחד יכול לקחת זמן עד לסיום. \n אתה רק צריך לשבת ולחכות. הבעיה שלך תבדק בהקדם האפשרי."
         },
         {
           "title": "How do I take a logcat?",
