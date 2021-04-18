@@ -14,7 +14,7 @@
         },
         {
           "title": "Twój błąd jest związany z interfejsem?",
-          "content": "Dla błędów związanych z interfejsem użytkownika musisz wykonać dodatkowe kroki.\n\nZainstaluj i ustaw [Developer Assistant](https://play.google.com/store/apps/details?id=com. ppsisle.developerassistant).\nNastępnie przejdź do Vanced i odtwórz błąd, a następnie otwórz podgląd Układu uruchamiając Developer Assistant.\n\nTeraz, wykonaj następujące kroki:\n1. Upewnij się, że błąd jest wyświetlany na ekranie.\n2. Dotknij elementu, który uważasz, że jest dotknięty błędem.\n3. Przejdź do zakładek `Element` i `Hierarchy` oraz zrób zrzut ekranu.\n4. Dołącz te zrzuty ekranu w swoim zgłoszeniu."
+          "content": "Dla błędów związanych z interfejsem użytkownika musisz wykonać dodatkowe kroki.\n\nZainstaluj i skonfiguruj [Developer Assistant](https://play.google.com/store/apps/details?id=com. ppsisle.developerassistant).\nNastępnie przejdź do Vanced i odtwórz błąd, potem otwórz podgląd Układu uruchamiając Developer Assistant.\n\nTeraz, wykonaj następujące kroki:\n1. Upewnij się, że błąd jest wyświetlany na ekranie.\n2. Dotknij elementu, który uważasz, że jest objęty błędem.\n3. Przejdź do zakładek `Element` i `Hierarchy` oraz zrób zrzut ekranu.\n4. Dołącz te zrzuty ekranu w swoim zgłoszeniu."
         }
       ]
     }
