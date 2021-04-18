@@ -1,12 +1,12 @@
 {
   "bugreport": [
     {
-      "title": "Jak zgłaszać błędy",
-      "description": "Możesz zgłaszać błędy używając naszego [trackera zgłoszeń GitHub](https://github. om/YTVanced/Vanced)\n\n**Upewnij się, że przeczytałeś README i sprawdź, czy błąd jest już zgłoszony przed zgłoszeniem!**",
+      "title": "Jak zgłaszać błędy?",
+      "description": "Możesz zgłaszać błędy, tworząc problemy na naszym [Centrum zgłoszeń Github](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nSprawdź istniejące problemy, aby sprawdzić, czy błąd został już zgłoszony przed otwarciem zgłoszenia!",
       "fields": [
         {
-          "title": "Kiedy mój błąd zostanie zweryfikowany?",
-          "content": "Deweloperzy spędzają swój czas na tworzenie nowych funkcji i rozwiązywanie wielu problemów, a wszystko z tego może trochę potrwać. \nMusisz tylko siedzieć i czekać. Twój problem zostanie sprawdzony tak szybko, jak to możliwe."
+          "title": "Kiedy mój błąd zostanie zbadany?",
+          "content": "Deweloperzy poświęcają swój czas na tworzenie nowych funkcji i rozwiązywanie wielu problemów, a każdy z nich może trochę potrwać. \nMusisz tylko siedzieć i czekać. Twój problem zostanie sprawdzony tak szybko, jak to możliwe."
         },
         {
           "title": "Jak utworzyć logcat?",
