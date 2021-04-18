@@ -57,12 +57,12 @@
       "description": "U Vanced postavkama, dodirnite odjeljak \"O aplikaciji\" 6-7 puta da biste ih omogućili. To omogućuje samo dodatne postavke video kodeka."
     },
     {
-      "title": "Što nije u redu s microG Core?",
+      "title": "Zašto root varijanta ne radi s microG Core?",
       "description": "1. Morate imati barem [pico] (https://github.com/opengapps/opengapps/wiki/Pico-Package) GApps verziju da biste pokrenuli Vanced.\n\n2. Ne možete pokrenuti Vanced s microG Core jer mu je potreban Google Play Services Framework koji je dostupan u svim GApps paketima.\n\n3. Ako ste zabrinuti za svoju privatnost i ne želite koristiti GApps, ali i dalje želite gledati YouTube bez oglasa, tada je [web verzija] (https://youtube.com) uvijek dostupna."
     },
     {
       "title": "Zašto emitiranje ne radi?",
-      "description": "Radi ako je vaš Vanced ažuran."
+      "description": "Radi ako je vaš Vanced microG ažuran."
     },
     {
       "title": "Što je Apk potpisivanje?",
