@@ -1,19 +1,19 @@
 {
   "faq": [
     {
-      "title": "What is YouTube Vanced?",
-      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
+      "title": "ইউটিউব ভ্যান্সড কী?",
+      "description": "ইউটিউব ভ্যান্সড অতিরিক্ত বৈশিষ্ট্য সহ ইউটিউবের একটি পরিবর্তিত সংস্করণ যা আপনার ইউটিউব অভিজ্ঞতা আরও উন্নত করে তোলে!\n\nএই বৈশিষ্ট্যগুলি এর মধ্যে রয়েছে:\n- ব্যাকগ্রাউন্ড প্লেব্যাক,\n- পিকচার ইন পিকচার (পিপ),\n- কালো থিম (ওএইলডি সহায়ক),\n- বিজ্ঞাপন অপসারণ (সক্ষম করতে হবে),\n- সর্বোচ্চ রেজোলিউশন ওভাররাইড করুন (আপনার স্ক্রিনের রেজোলিউশনের চেয়েও বেশি রেজোলিউশনের ভিডিও প্লেব্যাক করতে দেয়)\n- ...এবং আরো অনেক কিছু!\n\nআরও তথ্যের জন্য, ভিজিট করুন <https://vancedapp.com>"
     },
     {
-      "title": "Where is the Download button?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "ডাউনলোড বাটনটি কোথায়?",
+      "description": "অবশ্যই, গুগল তার নিজস্ব অ্যাপ্লিকেশনটির কোন পরিবর্তিত সংস্করণ তাদের স্টোরে থাকতে দেবে না সুতরাং এটি গুগল প্লে স্টোরে অনুসন্ধান করবেন না ওখানে যেগুলি দেখায় সেগুলি ভুয়ো অ্যাপ৷\n\nভ্যান্সড অ্যাপ্লিকেশনগুলি ভ্যান্সড ম্যানেজার ব্যবহার করে ডাউনলোড এবং ইনস্টল করা যেতে পারে যা আমাদের অফিসিয়াল ওয়েবসাইটে পাওয়া যাবে: <https://vancedapp.com> তবে এটিকে আপনি [গিটহাব রেপো](https://github.com/YTVanced/VancedManager/releases/latest) থেকেও নিতে পারেন"
     },
     {
-      "title": "Does YouTube Vanced auto-update?",
-      "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
+      "title": "ইউটিউব ভ্যান্সড অটো-আপডেট হয়?",
+      "description": "না, এটি হয় না।\n\nভ্যান্সড ম্যানেজার আপনাকে বিজ্ঞপ্তি পাঠাবে যদি থাকে৷\n\nআপনি আমাদের [ডিস্কর্ড সার্ভার](https://discord.gg/Vanced) -এ যোগদান করতে পারেন বা [টেলিগ্রাম চ্যানেল](https://t.me/Vanced) অনুসরণ করতে পারেন লেটেস্ট খবর এবং আপডেট বিজ্ঞপ্তির জন্য।"
     },
     {
-      "title": "Can Vanced download videos?",
+      "title": "ভ্যান্সড কি ভিডিও ডাউনলোড করতে পারে?",
       "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
     },
     {
