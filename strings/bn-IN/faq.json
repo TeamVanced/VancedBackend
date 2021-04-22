@@ -14,42 +14,42 @@
     },
     {
       "title": "ভ্যান্সড কি ভিডিও ডাউনলোড করতে পারে?",
-      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
+      "description": "ভ্যান্সডে কোনও ভিডিও ডাউনলোডিং বৈশিষ্ট্য অন্তর্ভুক্ত নেই না এবং কখনই করবে না।\n\nবিনামূল্যে ডাউনলোডের জন্য [নির্বাচিত দেশগুলিতে] (https://support.google.com/youtube/answer/6141269) অনেক ভিডিও উপলব্ধ আছে।\n\nআবারও, ভ্যান্সড অ্যাপ্লিকেশনটিতে কখনোই কোনও ভিডিও ডাউনলোডার বা ওই জাতীয় কিছু যোগ করা হবে না৷\n\nঅতীতে অনেকগুলি ইউটিউব মড বন্ধ হয়ে যাবার পিছনে এটিই দায়ী ছিল কারন গুগল পছন্দ করে না যে লোকেরা তাদের প্ল্যাটফর্ম থেকে কপিরাইটযুক্ত সামগ্রী ডাউনলোড করুক তাই এ ব্যাপারে জিজ্ঞাসা করবেন না!!!"
     },
     {
-      "title": "Why the swipe gestures doesn't work?",
-      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
+      "title": "সোয়াইপ জেসচারগুলি কেন কাজ করছে না?",
+      "description": "কমেন্টসগুলি যদি আপনার নিচে (পুরাতন জায়গা) দেখানো হয় তবে ভ্যান্সড সেটিংস > লেআউট সেটিংস -এ গিয়ে ডিসেবল করুন এবং অ্যাপটি রিস্টার্ট করুন। যদি এটি কাজ না করে তবে অ্যাপটিকে ফোর্স স্টপ করুন এবং এর ডেটা সাফ করুন।"
     },
     {
-      "title": "Captions not available?",
-      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
+      "title": "ক্যাপশন উপলব্ধ নেই?",
+      "description": "এটি কোনও ভ্যান্সড বা ইউটিউব সম্পর্কিত সমস্যা নয়। সমস্ত ভিডিওর ক্যাপশন থাকে না।"
     },
     {
-      "title": "Do you take donations?",
-      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "আপনি/আপনারা কি অনুদান নেন?",
+      "description": "আমরা অনুদান গ্রহণ করি না!\n\nযেকোনো পরিস্থিতিতে কোনও সাইট বা লিঙ্ক বা পোস্ট যদি কোনও ধরণের অনুদানের জন্য জিজ্ঞাসা করে তা কেবল জাল।\n\nতবে আপনি যদি ভ্যান্সড ডেভেলপারদের সমর্থন করতে চান তবে আপনি [এই লিঙ্ক](https://brave.com/kev231) ব্যবহার করে ব্রেভ এবং [এই লিঙ্ক](https://adguard.com/en/welcome.html?aid=31141) ব্যবহার করে অ্যাডগার্ড ডাউনলোড করতে পারেন৷"
     },
     {
-      "title": "How to make the player layout auto-hide?",
-      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
+      "title": "প্লেয়ার লেআউটটি অটো-হাইড করব কীভাবে?",
+      "description": "আপনি এটিকে ইউটিউব ভ্যান্সড > সেটিংস > অ্যাক্সেসিবিলিটি তে কনফিগার করতে পারেন। যদি সেটিংসটি খুলতে ব্যর্থ হয় অথবা কাজ না করে, তাহলে আপনার ডিভাইসের অ্যাক্সেসিবিলিটি সেটিংসে যান এবং সাউন্ড অ্যামপ্লিফায়ার, সুইচ অ্যাক্সেস, লাইভ ক্যাপশন ডিসেবল করুন।"
     },
     {
-      "title": "Why using split APKs?",
-      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
+      "title": "স্প্লিট এপিকে কেন ব্যবহার করছেন?",
+      "description": "কারণ:\n\n১. স্টক অ্যাপটি এটি ব্যবহার করে তাই ভ্যান্সডও এটিই ব্যবহার করে।\n২. স্টোরেজের ব্যবহার কম করতে এটি শুধুমাত্র আপনার নির্দিষ্ট করা ভাষাগুলিই ইনস্টল করে।\n৩. এটিতে মূল এপিকে এর শুধু সেই সংস্করণটি রয়েছে যা আপনার ডিভাইস এর প্রয়োজন।\n\nঅবশ্যই, ভ্যান্সড ম্যানেজার বা ডেভেলপাররা এটিকে নর্মাল, একটি মাত্র এপিকে ফাইলে রূপান্তরিত করতে পারে তবে আমরা এটি করতে খুব অলস। আমাদের যা আছে তাতেই আপনাকে একটু মানিয়ে নিতে হবে...\n\nযদিও চিন্তা করবেন না, ভ্যান্সড ম্যানেজার আপনার জন্য সমস্ত কঠোর পরিশ্রম করে দেবে তাই কেবল `ইনস্টল` বাটনটি টিপুন।"
     },
     {
-      "title": "Why the colour in the startup screen is different from the theme?",
-      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
+      "title": "স্টার্টআপ স্ক্রীনের রঙ থিমের থেকে আলাদা কেন?",
+      "description": "স্টার্টআপ স্ক্রিন ব্যাকগ্রাউন্ড কালার নেওয়া হয় অ্যান্ড্রয়েড ফ্রেমওয়ার্ক কালার থেকে যাতে সিস্টেম থিম অনুসারে এটি নিশ্চিত রূপে পরিবর্তিত হয়। আপনি [সাবস্ট্র্যাটাম](https://play.google.com/store/apps/details?id=projekt.substratum) বা [সুইফ্ট লঞ্চার](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) অথবা ঐ জাতীয় কোন অ্যাপ ব্যবহার করতে পারেন রং পাল্টানোর জন্য।"
     },
     {
-      "title": "Should I re-download the installation files?",
-      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
+      "title": "আমার কি ইনস্টলেশন ফাইলগুলি আবার ডাউনলোড করা উচিত?",
+      "description": "ফাইলগুলি বিভিন্ন কারণে করাপ্ট হতে পারে এবং পরে সমস্যা তৈরি করতে পারে। এটি এড়াতে, আপনি পুনরায় ফাইলগুলি ডাউনলোড করতে পারেন যাতে আপনার ইনস্টলেশনটি মসৃণভাবে সম্পন্ন হয়।"
     },
     {
-      "title": "Why does the root version don't have Microphone permission?",
-      "description": "It does if your Vanced is up-to-date."
+      "title": "রুট ভার্সনে মাইক্রোফোনের অনুমতি নেই কেন?",
+      "description": "আপনার ভ্যান্সড আপ-টু-ডেট থাকলে এটি এমন করে।"
     },
     {
-      "title": "What is ExoPlayer v1?",
+      "title": "এক্সোপ্লেয়ার ভি১ কী?",
       "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
     },
     {
