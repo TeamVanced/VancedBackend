@@ -91,12 +91,12 @@
       ]
     },
     {
-      "title": "How to hide the microG notification?",
-      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "title": "মাইক্রোজি নোটিফিকেশন কীভাবে হাইড করব?",
+      "description": "মাইক্রোজি বিজ্ঞপ্তিটি হাইড করতে, আপনি মাইক্রোজির জন্য ব্যাটারি অপ্টিমাইজেশন অক্ষম করতে পারেন এবং আপনার ডিভাইস রিবুট করতে পারেন।\n\nরিবুট করার পরেও যদি বিজ্ঞপ্তিটি থাকে তবে বিজ্ঞপ্তিটি ট্যাপ করে ধরে রাখুন, টগল অফ করুন এবং সেভ করুন।\n\nঅ্যাপ্লিকেশন বিজ্ঞপ্তিগুলি অক্ষম করা অ্যান্ড্রয়েড ব্যবহারকারী ইন্টারফেসের উপর নির্ভর করে বিভিন্ন উপায়ে করা যেতে পারে। আপনি কীভাবে এটি অক্ষম করবেন তা না জানলে কীভাবে এটি অক্ষম করতে হয়, তা শেখার জন্য গুগল ব্যবহার করার চেষ্টা করুন।"
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "1080p এর থেকে 1440p কি আমার স্ক্রিনে‍ ভালো দেখাবে?",
+      "description": "হ্যাঁ, তবে কেবলমাত্র ভিডিওর অনুপাত যদি 18:9, 21:9, এইরকম হয় ... আপনি এটি সেটিংস > জেনারেল এ গিয়ে `একরোখা প্রযুক্তিবিদের পরিসংখ্যান সক্রিয়` সক্ষম করতে পারেন নিশ্চিত হবার জন্য।\n\nহাই রেজোলিউশন সক্ষম করতে, ভ্যান্সড সেটিংস > ভিডিও সেটিংসে যান এবং `সর্বোচ্চ রেজোলিউশন` চালু করুন তারপরে অ্যাপ্লিকেশনটি পুনরায় চালু করুন।"
     }
   ]
 }
