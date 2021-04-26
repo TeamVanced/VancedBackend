@@ -2,10 +2,10 @@
   "bugreport": [
     {
       "title": "Ako nahlásiť chyby?",
-      "description": "Chyby môžete nahlásiť pomocou nášho [Github Issue Center] (https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nPred vytvorením problému si nezabudnite prezrieť už existujúce problémy a skontrolovať, či už nebol problém nahlásený!",
+      "description": "Chyby môžete nahlásiť pomocou nášho [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nPred vytvorením problému si nezabudnite prezrieť už existujúce problémy a skontrolovať, či už problém nebol nahlásený!",
       "fields": [
         {
-          "title": "Kedy bude mnou nájdená chyba preskúmaná?",
+          "title": "Kedy bude mnou nahlásená chyba preskúmaná?",
           "content": "Vývojári trávia mnoho svojho času vytváraním nových funkcií a opravovaním mnohých problémov. Dokončenie každého z nich môže chvíľu trvať.\nMusíte len sedieť a čakať. Váš problém bude preskúmaný čo najskôr to bude možné."
         },
         {
