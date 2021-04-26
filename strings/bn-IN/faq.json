@@ -1,102 +1,102 @@
 {
   "faq": [
     {
-      "title": "What is YouTube Vanced?",
-      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
+      "title": "ইউটিউব ভ্যান্সড কী?",
+      "description": "ইউটিউব ভ্যান্সড অতিরিক্ত বৈশিষ্ট্য সহ ইউটিউবের একটি পরিবর্তিত সংস্করণ যা আপনার ইউটিউব অভিজ্ঞতা আরও উন্নত করে তোলে!\n\nএই বৈশিষ্ট্যগুলি এর মধ্যে রয়েছে:\n- ব্যাকগ্রাউন্ড প্লেব্যাক,\n- পিকচার ইন পিকচার (পিপ),\n- কালো থিম (ওএইলডি সহায়ক),\n- বিজ্ঞাপন অপসারণ (সক্ষম করতে হবে),\n- সর্বোচ্চ রেজোলিউশন ওভাররাইড করুন (আপনার স্ক্রিনের রেজোলিউশনের চেয়েও বেশি রেজোলিউশনের ভিডিও প্লেব্যাক করতে দেয়)\n- ...এবং আরো অনেক কিছু!\n\nআরও তথ্যের জন্য, ভিজিট করুন <https://vancedapp.com>"
     },
     {
-      "title": "Where is the Download button?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "ডাউনলোড বাটনটি কোথায়?",
+      "description": "অবশ্যই, গুগল তার নিজস্ব অ্যাপ্লিকেশনটির কোন পরিবর্তিত সংস্করণ তাদের স্টোরে থাকতে দেবে না সুতরাং এটি গুগল প্লে স্টোরে অনুসন্ধান করবেন না ওখানে যেগুলি দেখায় সেগুলি ভুয়ো অ্যাপ৷\n\nভ্যান্সড অ্যাপ্লিকেশনগুলি ভ্যান্সড ম্যানেজার ব্যবহার করে ডাউনলোড এবং ইনস্টল করা যেতে পারে যা আমাদের অফিসিয়াল ওয়েবসাইটে পাওয়া যাবে: <https://vancedapp.com> তবে এটিকে আপনি [গিটহাব রেপো](https://github.com/YTVanced/VancedManager/releases/latest) থেকেও নিতে পারেন"
     },
     {
-      "title": "Does YouTube Vanced auto-update?",
-      "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
+      "title": "ইউটিউব ভ্যান্সড অটো-আপডেট হয়?",
+      "description": "না, এটি হয় না।\n\nভ্যান্সড ম্যানেজার আপনাকে বিজ্ঞপ্তি পাঠাবে যদি থাকে৷\n\nআপনি আমাদের [ডিস্কর্ড সার্ভার](https://discord.gg/Vanced) -এ যোগদান করতে পারেন বা [টেলিগ্রাম চ্যানেল](https://t.me/Vanced) অনুসরণ করতে পারেন লেটেস্ট খবর এবং আপডেট বিজ্ঞপ্তির জন্য।"
     },
     {
-      "title": "Can Vanced download videos?",
-      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
+      "title": "ভ্যান্সড কি ভিডিও ডাউনলোড করতে পারে?",
+      "description": "ভ্যান্সডে কোনও ভিডিও ডাউনলোডিং বৈশিষ্ট্য অন্তর্ভুক্ত নেই না এবং কখনই করবে না।\n\nবিনামূল্যে ডাউনলোডের জন্য [নির্বাচিত দেশগুলিতে] (https://support.google.com/youtube/answer/6141269) অনেক ভিডিও উপলব্ধ আছে।\n\nআবারও, ভ্যান্সড অ্যাপ্লিকেশনটিতে কখনোই কোনও ভিডিও ডাউনলোডার বা ওই জাতীয় কিছু যোগ করা হবে না৷\n\nঅতীতে অনেকগুলি ইউটিউব মড বন্ধ হয়ে যাবার পিছনে এটিই দায়ী ছিল কারন গুগল পছন্দ করে না যে লোকেরা তাদের প্ল্যাটফর্ম থেকে কপিরাইটযুক্ত সামগ্রী ডাউনলোড করুক তাই এ ব্যাপারে জিজ্ঞাসা করবেন না!!!"
     },
     {
-      "title": "Why the swipe gestures doesn't work?",
-      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
+      "title": "সোয়াইপ জেসচারগুলি কেন কাজ করছে না?",
+      "description": "কমেন্টসগুলি যদি আপনার নিচে (পুরাতন জায়গা) দেখানো হয় তবে ভ্যান্সড সেটিংস > লেআউট সেটিংস -এ গিয়ে ডিসেবল করুন এবং অ্যাপটি রিস্টার্ট করুন। যদি এটি কাজ না করে তবে অ্যাপটিকে ফোর্স স্টপ করুন এবং এর ডেটা সাফ করুন।"
     },
     {
-      "title": "Captions not available?",
-      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
+      "title": "ক্যাপশন উপলব্ধ নেই?",
+      "description": "এটি কোনও ভ্যান্সড বা ইউটিউব সম্পর্কিত সমস্যা নয়। সমস্ত ভিডিওর ক্যাপশন থাকে না।"
     },
     {
-      "title": "Do you take donations?",
-      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "আপনি/আপনারা কি অনুদান নেন?",
+      "description": "আমরা অনুদান গ্রহণ করি না!\n\nযেকোনো পরিস্থিতিতে কোনও সাইট বা লিঙ্ক বা পোস্ট যদি কোনও ধরণের অনুদানের জন্য জিজ্ঞাসা করে তা কেবল জাল।\n\nতবে আপনি যদি ভ্যান্সড ডেভেলপারদের সমর্থন করতে চান তবে আপনি [এই লিঙ্ক](https://brave.com/kev231) ব্যবহার করে ব্রেভ এবং [এই লিঙ্ক](https://adguard.com/en/welcome.html?aid=31141) ব্যবহার করে অ্যাডগার্ড ডাউনলোড করতে পারেন৷"
     },
     {
-      "title": "How to make the player layout auto-hide?",
-      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
+      "title": "প্লেয়ার লেআউটটি অটো-হাইড করব কীভাবে?",
+      "description": "আপনি এটিকে ইউটিউব ভ্যান্সড > সেটিংস > অ্যাক্সেসিবিলিটি তে কনফিগার করতে পারেন। যদি সেটিংসটি খুলতে ব্যর্থ হয় অথবা কাজ না করে, তাহলে আপনার ডিভাইসের অ্যাক্সেসিবিলিটি সেটিংসে যান এবং সাউন্ড অ্যামপ্লিফায়ার, সুইচ অ্যাক্সেস, লাইভ ক্যাপশন ডিসেবল করুন।"
     },
     {
-      "title": "Why using split APKs?",
-      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
+      "title": "স্প্লিট এপিকে কেন ব্যবহার করছেন?",
+      "description": "কারণ:\n\n১. স্টক অ্যাপটি এটি ব্যবহার করে তাই ভ্যান্সডও এটিই ব্যবহার করে।\n২. স্টোরেজের ব্যবহার কম করতে এটি শুধুমাত্র আপনার নির্দিষ্ট করা ভাষাগুলিই ইনস্টল করে।\n৩. এটিতে মূল এপিকে এর শুধু সেই সংস্করণটি রয়েছে যা আপনার ডিভাইস এর প্রয়োজন।\n\nঅবশ্যই, ভ্যান্সড ম্যানেজার বা ডেভেলপাররা এটিকে নর্মাল, একটি মাত্র এপিকে ফাইলে রূপান্তরিত করতে পারে তবে আমরা এটি করতে খুব অলস। আমাদের যা আছে তাতেই আপনাকে একটু মানিয়ে নিতে হবে...\n\nযদিও চিন্তা করবেন না, ভ্যান্সড ম্যানেজার আপনার জন্য সমস্ত কঠোর পরিশ্রম করে দেবে তাই কেবল `ইনস্টল` বাটনটি টিপুন।"
     },
     {
-      "title": "Why the colour in the startup screen is different from the theme?",
-      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
+      "title": "স্টার্টআপ স্ক্রীনের রঙ থিমের থেকে আলাদা কেন?",
+      "description": "স্টার্টআপ স্ক্রিন ব্যাকগ্রাউন্ড কালার নেওয়া হয় অ্যান্ড্রয়েড ফ্রেমওয়ার্ক কালার থেকে যাতে সিস্টেম থিম অনুসারে এটি নিশ্চিত রূপে পরিবর্তিত হয়। আপনি [সাবস্ট্র্যাটাম](https://play.google.com/store/apps/details?id=projekt.substratum) বা [সুইফ্ট লঞ্চার](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) অথবা ঐ জাতীয় কোন অ্যাপ ব্যবহার করতে পারেন রং পাল্টানোর জন্য।"
     },
     {
-      "title": "Should I re-download the installation files?",
-      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
+      "title": "আমার কি ইনস্টলেশন ফাইলগুলি আবার ডাউনলোড করা উচিত?",
+      "description": "ফাইলগুলি বিভিন্ন কারণে করাপ্ট হতে পারে এবং পরে সমস্যা তৈরি করতে পারে। এটি এড়াতে, আপনি পুনরায় ফাইলগুলি ডাউনলোড করতে পারেন যাতে আপনার ইনস্টলেশনটি মসৃণভাবে সম্পন্ন হয়।"
     },
     {
-      "title": "Why does the root version don't have Microphone permission?",
-      "description": "It does if your Vanced is up-to-date."
+      "title": "রুট ভার্সনে মাইক্রোফোনের অনুমতি নেই কেন?",
+      "description": "আপনার ভ্যান্সড আপ-টু-ডেট থাকলে এটি এমন করে।"
     },
     {
-      "title": "What is ExoPlayer v1?",
-      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
+      "title": "এক্সোপ্লেয়ার ভি১ কী?",
+      "description": "এটি ইউটিউব দ্বারা ব্যবহৃত বর্তমান মিডিয়া প্লেয়ারের একটি পুরানো সংস্করণ। এটি ব্যবহার করার সময় আপনি আরও ভাল পারফরম্যান্স এবং স্থিতিশীলতা পেতে পারেন।"
     },
     {
-      "title": "How to enable hidden settings?",
-      "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
+      "title": "কীভাবে গোপন সেটিংস এনাবল করব?",
+      "description": "ভ্যান্সড সেটিংসে, `অ্যাবাউট` সেকশনে 6-7 বার ট্যাপ করুন। এটি শুধুমাত্র অতিরিক্ত ভিডিও কোডেক সেটিংস এনাবল করে।"
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "রুট ভেরিয়েন্টটি মাইক্রোজি কোর -এর সাথে কাজ করে না কেন?",
+      "description": "১. ভ্যান্সড চালাতে গেলে কমপক্ষে জিঅ্যাপসের [পিকো](https://github.com/opengapps/opengapps/wiki/Pico-Package) ভেরিয়েন্টটি লাগবে৷\n২. আপনি গুগল প্লে সার্ভিসেস ফ্রেমওয়ার্ক ছাড়া মাইক্রোজি কোর দিয়ে ভ্যান্সড চালাতে পারবেন না যা সমস্ত জিঅ্যাপস প্যাকেজগুলিতে উপলব্ধ এবং এটি একটি প্রয়োজনীয় লাইব্রেরি।\n৩. আপনি যদি নিজের গোপনীয়তা সম্পর্কে উদ্বিগ্ন থাকেন এবং জিঅ্যাপস ব্যবহার করতে চান না কিন্তু তবুও বিজ্ঞাপন ছাড়াই ইউটিউব দেখতে চান, তবে [ওয়েব সংস্করণ](https://youtube.com) সর্বদা উপলব্ধ আছে।"
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "It works if your microG is up-to-date."
+      "title": "কাস্টিং কাজ করছে না কেন?",
+      "description": "আপনার মাইক্রোজি আপ-টু-ডেট থাকলে এটি কাজ করবে।"
     },
     {
-      "title": "What is APK Signing?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "এপিকে সাইনিং কি?",
+      "description": "আপনি এটি পড়ছেন কারণ আপনি ভ্যান্সড ম্যানেজার ব্যবহার করছেন না বা আপনি কোনও আনঅফিসিয়াল সোর্স থেকে ভ্যান্সড ইনস্টল করেছেন।\nশুধু ভ্যান্সড ম্যানেজারই ব্যবহার করুন!\n\nআপনি ভ্যান্সড ম্যানেজার নিরাপদে ডাউনলোড করতে পারেন এখান থেকে:\n- অফিসিয়াল সাইট <https://vancedapp.com>\n- [গিটহাব রেপোজিটরি](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Is YouTube Vanced on Play Store?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
+      "title": "ইউটিউব ভ্যান্সড কি প্লে স্টোরে আছে?",
+      "description": "না!\nআবারও বলে রাখি, ভ্যান্সড ইনস্টল করার জন্য প্লে স্টোর বা অন্য কোনও অ্যাপ স্টোর থেকে \"ইউটিউব ভ্যান্সড\" নামে কোনও নকল অ্যাপ্লিকেশন বা ঐরকম কোনো অ্যাপ ইনস্টল করবেন না বা সার্চ করারও চেষ্টা করবেন না।\n\nআমাদের কেবল [ভ্যান্সড গাইড](https://play.google.com/store/apps/details?id=com.vanced.faq) আছে, এবং এটিই প্লে স্টোরে আমাদের একমাত্র অফিশিয়াল অ্যাপ।\n\nআপনি যদি আমাদের আইকন এবং নাম সহ অন্য কোনও অ্যাপ খুঁজে পান তবে তা ছদ্মবেশ হিসাবে রিপোর্ট করুন এবং তাতে একটি খারাপ রিভিউ দিন।\n\nআমাদের অ্যাপগুলি কেবলমাত্র <https://vancedapp.com> তে পাওয়া যাবে৷"
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "ভ্যান্সড কেন হোম স্ক্রিন বা অ্যাপ ড্রয়ারে দেখাচ্ছে না?",
+      "description": "আপনি এটি পড়ছেন কারণ আপনি ভ্যান্সড ম্যানেজার ব্যবহার করছেন না বা আপনি কোনও আনঅফিসিয়াল সোর্স থেকে ভ্যান্সড ইনস্টল করেছেন।\nশুধু ভ্যান্সড ম্যানেজারই ব্যবহার করুন!\n\nআপনি ভ্যান্সড ম্যানেজার নিরাপদে ডাউনলোড করতে পারেন এখান থেকে:\n- অফিসিয়াল সাইট <https://vancedapp.com>\n- [গিটহাব রেপোজিটরি](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "ভিডিও কেন প্লে হচ্ছে না?",
+      "description": "অ্যাপটি পুনরায় চালু করার চেষ্টা করুন। এটি আপনার ইন্টারনেট সংযোগ বা আপনার ডিভাইসের কারণেও হতে পারে।"
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "আমায় 480p লিমিট দেখাচ্ছে কেন?",
+      "description": "COVID-19 এর কারণে গুগল বেশ কয়েকটি দেশের ডেটা ব্যবহার সীমাবদ্ধ করছে। এটি সার্ভারে ঘটে এবং ভ্যান্সড আর স্টক ইউটিউব উভয়ের ইউজারদেরকেই প্রভাবিত করে।",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "অন্য উপায়:",
+          "content": "১. একটি ভিন্ন অঞ্চলের ভিপিএন এর সাথে সংযুক্ত করুন।\n২. [ওয়েব সংস্করণ](https://youtube.com) ব্যবহার করুন\n৩. যেহেতু 480p নিষেধাজ্ঞাটি কেবল ফোনের জন্য এবং ট্যাবলেটগুলির জন্য নয়, তাই নিষেধাজ্ঞাটি এড়ানোর জন্য আপনি ইউটিউব ভ্যান্সডে ডিভাইস মডেলটি পরিবর্তন করতে পারেন।\n\n#### ডিভাইসের মডেলটি কীভাবে পরিবর্তন করবেন?\n১. ইউটিউব ভ্যান্সড খুলুন।\n২. সেটিংসে যান\n৩. `ভ্যান্সড সেটিংস` ট্যাপ করুন\n৪. লুকানো সেটিংস এনাবল করুন:\n  - স্ক্রোল করে নিচে যান এবং `অ্যাবাউট` সেকশনে ট্যাপ করতে থাকুন যতক্ষণ না `লুকানো সেটিংস সক্ষম হয়েছে` এই মেসেজ পান।\n৫. `কোডেক ওভাররাইড` এ যান\n৬. ডিভাইস নির্মাতাকে `স্যামসাং` এবং মডেলটিকে `SM-T865` এ সেট করুন\n৭. অ্যাপটি পুনরায় চালু করুন।\n\nপুনরায় চালু করার পরে, 480p লিমিট চলে যাবে।"
         }
       ]
     },
     {
-      "title": "How to hide the microG notification?",
-      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "title": "মাইক্রোজি নোটিফিকেশন কীভাবে হাইড করব?",
+      "description": "মাইক্রোজি বিজ্ঞপ্তিটি হাইড করতে, আপনি মাইক্রোজির জন্য ব্যাটারি অপ্টিমাইজেশন অক্ষম করতে পারেন এবং আপনার ডিভাইস রিবুট করতে পারেন।\n\nরিবুট করার পরেও যদি বিজ্ঞপ্তিটি থাকে তবে বিজ্ঞপ্তিটি ট্যাপ করে ধরে রাখুন, টগল অফ করুন এবং সেভ করুন।\n\nঅ্যাপ্লিকেশন বিজ্ঞপ্তিগুলি অক্ষম করা অ্যান্ড্রয়েড ব্যবহারকারী ইন্টারফেসের উপর নির্ভর করে বিভিন্ন উপায়ে করা যেতে পারে। আপনি কীভাবে এটি অক্ষম করবেন তা না জানলে কীভাবে এটি অক্ষম করতে হয়, তা শেখার জন্য গুগল ব্যবহার করার চেষ্টা করুন।"
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "1080p এর থেকে 1440p কি আমার স্ক্রিনে‍ ভালো দেখাবে?",
+      "description": "হ্যাঁ, তবে কেবলমাত্র ভিডিওর অনুপাত যদি 18:9, 21:9, এইরকম হয় ... আপনি এটি সেটিংস > জেনারেল এ গিয়ে `একরোখা প্রযুক্তিবিদের পরিসংখ্যান সক্রিয়` সক্ষম করতে পারেন নিশ্চিত হবার জন্য।\n\nহাই রেজোলিউশন সক্ষম করতে, ভ্যান্সড সেটিংস > ভিডিও সেটিংসে যান এবং `সর্বোচ্চ রেজোলিউশন` চালু করুন তারপরে অ্যাপ্লিকেশনটি পুনরায় চালু করুন।"
     }
   ]
 }

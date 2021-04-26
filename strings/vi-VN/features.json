@@ -17,7 +17,7 @@
       "description": "- Cho phép bạn ghi đè các tùy chọn Codec như buộc H264 cho các thiết bị cũ hoặc VP9, ​​điều này cũng cho phép bạn ép buộc phát HDR hoặc tắt 60fps nếu bạn thích trải nghiệm điện ảnh hơn. (Bạn có thể tìm thấy cấu hình thiết bị tùy chỉnh cho các tính năng này trên [Máy chủ Discord] (https://discord.gg/Vanced) hoặc XDA của chúng tôi)\n - Buộc độ phân giải video mặc định cao hoặc thấp như bạn muốn và thậm chí ghi đè độ phân giải màn hình của bạn để phát 4k sắc nét trên mọi thiết bị. Nó cũng cho phép bạn thay đổi tốc độ phát mặc định thành bất kỳ đâu trong khoảng 0,25x đến 2x (giả sử thiết bị của bạn đủ mạnh)\n - Cho phép bạn chuyển đổi giữa quảng cáo gia đình, hầu hết quảng cáo giao diện người dùng, quảng cáo hàng hóa, bài đăng trên tab Cộng đồng, Phim bán thêm, thông tin biểu ngữ nhỏ gọn (chẳng hạn như thông tin COVID-19), xóa hoàn toàn nhận xét, phim nhỏ gọn, xóa kệ phim và nhiều hơn nữa!"
     },
     {
-      "title": "Sponsor Block",
+      "title": "SponsorBlock",
       "description": "- Các tính năng để có thể bỏ qua phân đoạn được tài trợ (lúc mà [YouTuber](https://en.wikipedia.org/wiki/YouTuber) quảng cáo một dịch vụ hoặc sản phẩm giữa video)\n- Nó cũng hỗ trợ bỏ qua các thể loại khác như intros, outros và tự giới thiệu.\n- Sử dụng API có thể được tìm thấy [tại đây](https://sponsor.ajay.app). Bạn có thể tìm thêm thông tin về cách nó hoạt động\n- Nó cũng cho phép tự thêm phân đoạn của bạn vào API và đóng góp để giúp phát triển cộng đồng\n- Hoàn toàn kiểm soát được xem có tự động bỏ qua phân đoạn hay không hoặc hiện nút để bỏ qua hay đơn giản chỉ là không bỏ qua danh mục đó.\n- Làm nổi bật phân đoạn với màu cụ thể dựa trên thể loại của nó trên dòng thời gian phát."
     },
     {

@@ -1,15 +1,15 @@
 {
   "faq": [
     {
-      "title": "Шта је то YouTube Vanced?",
+      "title": "What is YouTube Vanced?",
       "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
     },
     {
-      "title": "Где се налази дугме за преузимање?",
+      "title": "Where is the Download button?",
       "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Да ли се YouTube Vanced аутоматски освежава?",
+      "title": "Does YouTube Vanced auto-update?",
       "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
     },
     {
@@ -25,7 +25,7 @@
       "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
     },
     {
-      "title": "Да ли прикупљате донације?",
+      "title": "Do you take donations?",
       "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
@@ -82,10 +82,10 @@
     },
     {
       "title": "Why am I having the 480p limit?",
-      "description": "Услед КОВИД-19 ситуације Google је ограничио кориштење података у неколико држава. Ово се извршава на серверу и има утицаја на Vanced и YouTube кориснике.",
+      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
       "fields": [
         {
-          "title": "Трикови:",
+          "title": "Workarounds:",
           "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
         }
       ]

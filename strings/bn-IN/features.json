@@ -1,32 +1,32 @@
 {
   "features": [
     {
-      "title": "Vanced",
-      "description": "YouTube Vanced aims to be a better version of YouTube. It includes adblocking, the black theme, and a lot more. Use Vanced Manager to install YouTube Vanced with relative ease."
+      "title": "ভ্যান্সড",
+      "description": "ইউটিউব ভ্যান্সডের লক্ষ্য ইউটিউবের আরও ভাল সংস্করণ হয়ে ওঠা। এটিতে অ্যাডব্লকিং, কালো থিম এবং আরও অনেক কিছু রয়েছে। নিজের স্বাচ্ছন্দ্য মতো ইউটিউব ভ্যান্সড ইনস্টল করতে ভ্যান্সড ম্যানেজার ব্যবহার করুন।"
     },
     {
-      "title": "YouTube Music Vanced",
-      "description": "YouTube Music Vanced has the same aim as YouTube Vanced, but this app focuses on YouTube Music. This is relatively less feature-rich compared to Vanced but still features many things you come to expect like adblocking and background playback, all inside YouTube Music Vanced!"
+      "title": "ইউটিউব মিউজিক ভ্যান্সড",
+      "description": "ইউটিউব মিউজিক ভ্যান্সডের লক্ষ্য ইউটিউব ভ্যান্সডের মতোই তবে এই অ্যাপটির কেন্দ্রবিন্দু ইউটিউব মিউজিক। ভ্যান্সডের তুলনায় এটি তুলনামূলকভাবে কম বৈশিষ্ট্য সমৃদ্ধ তবে ইউটিউব মিউজিক ভ্যান্সডের ভিতরে অ্যাডব্লকিং এবং ব্যাকগ্রাউন্ড প্লেব্যাকের মতো অনেকগুলি বৈশিষ্ট্য রয়েছে যা আপনি প্রত্যাশা করেন!"
     },
     {
-      "title": "YouTube Vanced main features",
-      "description": "- OLED friendly black theme and dark theme _(aka dark gray)_ besides white theme.\n- Blocks all ads\n- Allows you to play videos in the background or in the Picture in Picture (PiP) mode (only on Android 8+)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/tablet mini-player layout can be toggled to the tablet versions which are very similar to the old version (however, it's a bit buggy)."
+      "title": "ইউটিউব ভ্যান্সডের মূল বৈশিষ্ট্যগুলি",
+      "description": "- সাদা থিমের পাশাপাশি ওএলইডি বান্ধব কালো থিম এবং গাঢ় থিম _ (ওরফে গাঢ় ধূসর) _।\n- সমস্ত বিজ্ঞাপন ব্লক করে\n- আপনাকে ব্যাকগ্রাউন্ডে অথবা পিকচার ইন পিকচার (পিপ) মোডে ভিডিও চালাতে দেয় (কেবল অ্যান্ড্রয়েড ৮+ এ)\n- সোয়াইপ কন্ট্রোল আপনাকে আপ-ডাউন জেসচার (কনফিগারযোগ্য প্যাডিং সহ) এর সাথে উজ্জ্বলতা এবং ভলিউম নিয়ন্ত্রণ করতে দেয়।\n- অটো-রিপিট বৈশিষ্ট্য আপনাকে রিপিট করার সময় ভিডিওগুলি লুপ করতে দেয়।\n- নতুন কমেন্ট / ট্যাবলেট মিনি-প্লেয়ার লেআউটটি ট্যাবলেট ভার্সনগুলিতে টগল করা যেতে পারে যা পুরানো সংস্করণের সাথে খুব মিল খায় (তবে, এটি কিছুটা বাগি)।"
     },
     {
-      "title": "Customization",
-      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+      "title": "কাস্টমাইজেশন",
+      "description": "- পুরনো ডিভাইসের উপর জোর করে আরোপিত H264 বা VP9 এই কোডেকগুলি ওভাররাইড করতে দেয়, এটি আপনাকে জোর করে HDR প্লেব্যাক করতে দেয় অথবা 60fps বন্ধ করতে দেয় যদি আপনি সিনেমাটিক অভিজ্ঞতা পছন্দ করেন। (এই বৈশিষ্ট্যগুলির জন্য কাস্টম ডিভাইস কনফিগারেশনগুলি আমাদের [ডিস্কর্ড সার্ভার](https://discord.gg/Vanced) বা এক্সডিএতে পাওয়া যাবে)\n- ডিফল্ট ভিডিও রেজোলিউশনটিকে আপনি যেমন চান তেমন বেশি বা কম হিসাবে সেট করুন এবং এমনকি যেকোনও ডিভাইসে সেই শার্প 4k প্লেব্যাকের জন্য স্ক্রিন রেজোলিউশনকে ওভাররাইড করুন। এটি আপনাকে ডিফল্ট প্লেব্যাক স্পীড 0.25x থেকে 2x এর মধ্যে পাল্টাতে দেয় (ধরে নেওয়া হচ্ছে আপনার ডিভাইসটি যথেষ্ট শক্তিশালী)\n- আপনাকে হোম অ্যাড, বেশিরভাগ ইউআই অ্যাড, মার্চেন্ডাইজ অ্যাড, কমিউনিটি পোস্ট, মুভি আপসেলিং, কমপ্যাক্ট ব্যানার তথ্য (যেমন COVID-19 তথ্য) টগল করার অনুমতি দেয়, কমেন্টগুলি সম্পূর্ণভাবে সরিয়ে ফেলতে দেয়, কমপ্যাক্ট মুভি, মুভি শেল্ফ রিমুভাল এবং আরো অনেক কিছু করতে দেয়!"
     },
     {
-      "title": "Sponsor Block",
-      "description": "- Features the ability to skip sponsor segments (where a [YouTuber](https://en.wikipedia.org/wiki/YouTuber) advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API [found here](https://sponsor.ajay.app). You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
+      "title": "স্পনসরব্লক",
+      "description": "- স্পনসর বিভাগগুলি (যেখানে একজন [ইউটিউবার](https://en.wikedia.org/wiki/YouTuber) একটি ভিডিওর মাঝখানে কোনও পরিষেবা বা পণ্যের বিজ্ঞাপন দেয়) এড়িয়ে যাওয়ার ক্ষমতাসম্পন্ন বৈশিষ্ট্য এটি।\n- এটি অন্যান্য বিভাগ যেমন ইন্ট্রো, আউট্রো এবং স্ব-প্রচারকে স্কিপ করা সাপোর্ট করে\n- [এখানে পাওয়া যায়](https://sponsor.ajay.app) এমন এপিআই ব্যবহার করে। এটি কীভাবে কাজ করে সে সম্পর্কে আপনি আরও তথ্য পেতে পারেন।\n- কোনও বিভাগ স্বয়ংক্রিয়ভাবে স্কিপ করা বা স্কিপিংয়ের জন্য একটি বাটন প্রদর্শন করা, বা স্কিপ না করে যাওয়ার ওপর সম্পূর্ণ নিয়ন্ত্রণ।\n- সেগমেন্টের ক্যাটাগরির ভিত্তিতে প্লেব্যাক টাইমলাইনে নির্দিষ্ট রঙের অংশটিকে হাইলাইট করে।"
     },
     {
-      "title": "Platforms",
-      "description": "Apps are available only for Android devices and there are no plans to support any other platforms at the moment"
+      "title": "প্ল্যাটফর্ম",
+      "description": "অ্যাপগুলি বর্তমানে শুধু অ্যানড্রয়েড ডিভাইসের জন্যেই উপলব্ধ এবং অন্য কোনো প্ল্যাটফর্মকে সমর্থনের পরিকল্পনা এই মুহূর্তে নেই"
     },
     {
-      "title": "Difference between Root and Non-Root",
-      "description": "#### Root:\nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google Assistant through the modded Vanced app.\n\n#### Non-Root:\n- If you have a device that is difficult to root, or you don’t want to root your daily device on first hand, you should opt for the non-root variant.\n- Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account.\n- Moreover, you have to manually set Vanced as the default app for opening YouTube links.\n- However, the non-root variant is much simpler to install and use, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
+      "title": "রুট এবং নন-রুটের মধ্যে পার্থক্য",
+      "description": "#### রুট:\nভ্যান্সডের রুট ভেরিয়েন্টটি নির্বিঘ্নে অফিশিয়াল ইউটিউব অ্যাপ্লিকেশনটিকে প্রতিস্থাপন করে। ফলস্বরূপ, ইউটিউব লিঙ্কগুলি আপনি সরাসরি খুলতে পারেন বা গুগল অ্যাসিস্ট্যান্ট ব্যবহার করে তাদের কল করতে পারেন মডেড ভ্যান্সড অ্যাপের মাধ্যমে।\n\n#### নন-রুট:\n- যদি আপনার ডিভাইসটি রুট করা কঠিন হয়, অথবা আপনার ডেইলি ব্যবহৃত ডিভাইসটিকে প্রথমেই রুট করতে না চান তবে আপনার নন-রুট ভেরিয়েন্টটি বেছে নেওয়া উচিত। \n- যেহেতু নন-রুট ভেরিয়েন্টের প্যাকেজটির নাম স্টক ইউটিউব অ্যাপ্লিকেশনের নামের থেকে আলাদা, তাই সেগুলি একই সাথে থাকতে পারে। নোট করুন যে ইউটিউব / গুগল অ্যাকাউন্টে লগ ইন করতে হলে আপনাকে অতিরিক্ত সহকারী অ্যাপ্লিকেশন (ভ্যান্সড মাইক্রোজি) ইনস্টল করতে হবে।\n- তবে নন-রুট ভেরিয়েন্টটি ইনস্টল করা এবং ব্যবহার করা সহজ, তাই আপনার ফোনে স্টক ইউটিউব অ্যাপটিকে সত্যি সত্যি প্রতিস্থাপনের প্রয়োজন না হলে আমরা আপনাকে নন-রুট ভেরিয়েন্টের সাথে থাকতেই রেকমেন্ড করি।"
     }
   ]
 }

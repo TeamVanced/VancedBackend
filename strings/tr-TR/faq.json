@@ -2,11 +2,11 @@
   "faq": [
     {
       "title": "Vanced nedir?",
-      "description": "Youtube Vanced, YouTube deneyimini arttıran, ekstra özelliklere sahip modifiye edilmiş bir sürümüdür.\n\nEkstra özelliklerden bazıları:\n- Arka planda oynatma,\n- Resim içinde Resim (PiP) (farklı uygulama üzerinde küçük video oynatıcı),\n- Siyah tema (OLED dostu),\n- Reklam kaldırma (aktifleştirme gerektirebilir),\n- Çözünürlük ayarını değiştirme (cihazının desteklediği çözünürlükten daha fazla çözünürlükte olan videoları oynatmaya olanak sağlar),\n- ... ve daha fazlası!\n\nDaha fazla bilgi için, <https://vancedapp.com>'u ziyaret edebilirsin"
+      "description": "YouTube Vanced, YouTube kullanımını daha iyi hale getirmek için ekstra özelliklerle modifiye edilmiş bir sürümüdür.\n\nEkstra özelliklerden bazıları:\n- Arka planda oynatma,\n- PiP (Açık uygulamalar üzerinde küçük video oynatıcısı)\n- Siyah tema (OLED dostu),\n- Reklam kaldırma (etkinleştirilmesi gerekebilir),\n- Çözünürlük ayarını değiştirme (cihazının desteklediği çözünürlükten daha yüksek çözünürlüğe sahip videoları oynatmaya olanak sağlar),\n- ... ve daha neler neler!\n\nDaha fazla bilgi için <https://vancedapp.com>'u ziyaret edebilirsin"
     },
     {
       "title": "İndirme butonu nerede?",
-      "description": "Anlaşılacağı üzere Google, kendi uygulamasının modifiye edilmiş sürümünü Play Store'da yayınlanmasına izin vermiyor. Bu yüzden Play Store'da aramamalısın ve orada bulunan diğer uygulamaların da sahte/fake uygulamalar olduğunu bilmelisin.\n\nVanced uygulamalarını, Vanced Manager uygulamasını kullanılarak kolayca indirebilirsin. \nVanced Manager'a <https://vancedapp.com> resmi sitesinden veya [GitHub deposundan](https://github.com/YTVanced/VancedManager/releases/latest) indirebilirsin"
+      "description": "Açıkçası Google, kendi uygulamasının modifiye edilmiş bir sürümünü Play Store'da yayınlanmasına izin vermez, vermiyor da. Bu yüzden Vanced'ı Play Store'da aramamalı ve sonuçlarda çıkacak resmi olmayan diğer uygulamaların da sahte/fake uygulamalar olduğunu bilmelisin.\n\nVanced uygulamalarını, Vanced Manager uygulamasını kullanılarak kolayca indirebilirsin. \nVanced Manager'ı <https://vancedapp.com> resmi sitesinden veya [GitHub deposundan](https://github.com/YTVanced/VancedManager/releases/latest) indirebilirsin"
     },
     {
       "title": "YouTube Vanced otomatik güncelleniyor mu?",
@@ -14,15 +14,15 @@
     },
     {
       "title": "Vanced ile video indirilebilir mi?",
-      "description": "Vanced'da video indirme özelliği yoktur ve hiçbir zaman da olmayacaktır.\n\n[İzin verilen ülkelerde](https://support.google.com/youtube/answer/6141269?hl=tr) çoğu videolar indirilebilir. İzin verilmeyen ülkelerde ise, YouTube Premium satın alınmalı veya 3. parti bir indirici kullanılabilir.\n\nTekrar hatırlatalım, Vanced ASLA VE ASLA video indirme veya benzer bir özelliğe sahip olmayacaktır.\n\nGoogle, telif hakkıyla korunan içeriklerin indirilmesini sevmiyor ve dolayısıyla geçmişte YouTube'un modifiye edilmiş sürümlerinin kapatılmasındaki ana neden buydu. O yüzden indirme özelliği istemekten vazgeçmelisin.!!"
+      "description": "Vanced'da video indirme özelliği yoktur ve hiçbir zaman da olmayacaktır.\n\nÇoğu videolar [izin verilen ülkelerde](https://support.google.com/youtube/answer/6141269?hl=tr) indirilebilir. İzin verilmeyen ülkelerde ise, YouTube Premium satın alınması gerekir.\n\nTekrar hatırlatalım, Vanced ASLA ve ASLA video indirme veya benzer bir özelliğe sahip olmayacaktır.\n\nGoogle, telif hakkıyla korunan içeriklerin indirilmesini desteklemiyor ve dolayısıyla geçmişte YouTube'un modifiye edilmiş sürümlerinin reddedilmesi ve kapatılmasındaki ana neden buydu. O yüzden indirme özelliği istemekten vazgeçmelisin.!!"
     },
     {
-      "title": "Kaydırma hareketleri/eylemleri neden çalışmıyor?",
-      "description": "Eğer yorumlar en altta (eski yerinde) gözüküyorsa, muhtemelen Vanced ayarları > Arayüz ayarları içerisindeki seçenek aktif edilmiştir. Seçeneği kapatıp, uygulamayı yeniden başlatmalısın. Eğer o da işe yaramazsa, uygulamayı zorla durdurup, verilerini silebilirsin."
+      "title": "Kaydırma hareketleri neden çalışmıyor?",
+      "description": "Eğer yorumlar kısmı en altta (eski yerinde) gözüküyorsa, muhtemelen Vanced ayarları > Arayüz ayarları içerisindeki seçenek aktif edilmiştir. Seçeneği kapatıp, uygulamayı yeniden başlatmalısın. Eğer o da işe yaramazsa, uygulamayı zorla durdurup, verilerini silebilirsin."
     },
     {
       "title": "Altyazı neden yok veya listelenmiyor?",
-      "description": "Açıkçası bu, Vanced veya YouTube ile kaynaklı bir sorun değil. Tamamen video ile ilişkili çünkü her videoda altyazı bulunmuyor."
+      "description": "Açıkçası bu tamamen videoyu ekleyen kişi/kanal ile ilişkili bir sorundur. Vanced veya YouTube bu konuyla alakalı herhangi bir çözüm sağlayamaz."
     },
     {
       "title": "Bağış alıyor musunuz?",
@@ -34,11 +34,11 @@
     },
     {
       "title": "Neden Split APKs yöntemi?",
-      "description": "Çünkü:\n\n1. Orijinal sürüm bu yöntemi kullanıyor, haliyle Vanced'da kullanıyor.\n2. Sadece belirttiğin dilleri yükleyerek depolama alanındaki tütekimi azaltır.\n3. Cihazının ihtiyaç duyduğu ana APK sürümünü barındırır.\n\nTabii ki de Vanced Manager veya geliştiriciler uygulamayı tek bir APK dosyası olarak dönüştürebilir. Fakat üşengeçliğimiz ağır bastığı için bu işlemi ve geliştirmesini yapmaktan kaçıyoruz. Elimizde olanla idare etmemiz gerekiyor...\n\nBu durumda endişelenmene gerek yok tabi. Vanced Manager kurulum esnasında tüm zorlukları hallediyor bu yüzden sadece `Yükle` butonuna basman yeterli olacaktır."
+      "description": "Çünkü:\n\n1. Orijinal uygulama, kurulum için bu yöntemi kullanıyor. Haliyle Vanced'da kullanıyor.\n2. Sadece belirlenen dilleri yükleyerek, depolama alanındaki tüketimi azaltır.\n3. Cihazınla uyumlu olan ana APK sürümünü barındırır.\n\nTabii ki de, Vanced Manager veya geliştiriciler uygulamayı bütün olarak tek bir APK dosyası olarak dönüştürebilir. Fakat üşengeçliğimiz ağır bastığı için bu işlemi ve geliştirmesini yapmaya vakit ayıramıyoruz. Elimizde olanla idare etmemiz gerekiyor...\n\nBundan dolayı endişelenmene de gerek yok hani. Vanced Manager kurulum esnasında yaşanabilecek öngörülen tüm zorlukları hallediyor. Bu yüzden kurulum için sadece `Yükle` butonuna basman yeterli olacaktır."
     },
     {
-      "title": "Açılıştaki arkaplan rengi, neden temadan farklı?",
-      "description": "Açılıştaki arkaplan rengi, cihaz teması ile aynı olmasını sağlamak amacıyla Android framework yapısından alınır. Rengi değiştirmek istersen eğer, Substratum/Swift uygulamalarını kullanabilirsin."
+      "title": "Açılış ekranındaki arkaplan rengi, neden temadan farklı?",
+      "description": "Açılıştaki arkaplan rengi cihazın teması ile aynı olması için, Android framework yapısından alınır. Rengi değiştirmek istersen eğer, [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum), [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller), vb. uygulamalarından birini kullanabilirsin."
     },
     {
       "title": "Kurulum dosyalarını yeniden indirmeli miyim?",
@@ -46,7 +46,7 @@
     },
     {
       "title": "Root sürümünde neden mikrofon izni yok?",
-      "description": "Vanced'ın güncel sürümünde var."
+      "description": "Vanced'in güncel sürümünde var."
     },
     {
       "title": "ExoPlayer v1 nedir?",

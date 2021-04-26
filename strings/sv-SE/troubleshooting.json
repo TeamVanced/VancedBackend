@@ -22,11 +22,11 @@
 				},
 				{
 					"title": "För användare som använder Gsuite konto på Non-Root version av vanced och inför anslutningsproblem ofta (fel som \"You are offline\", \"Kontrollera ditt internet\", etc)",
-					"content": "•Logga in på ditt gsuite konto adminkonsol(https://admin.google. om/)\n\n• Sök efter enhetshantering\n\n• Gå till konfigurera och inaktivera \"Mobile Management\"\n\n• Det är det och det kommer att bli fixat."
+					"content": "•Log into your Gsuite account [admin console](https://admin.google.com/)\n\n• Search for device management\n\n• Go to setup and disable \"Mobile Management\"\n\n• That's it and it will get fixed."
 				},
 				{
 					"title": "Huawei workaround 1",
-					"content": "För dem som uppdaterade microg till senaste versionen men nu står inloggningsproblem\n\n1. Avinstallera nuvarande installerad Vanced microg.\n\n2. Ladda ner \"Vanced microg 0..12.203315 version\" från mediafire v15 link och installera den. Länk till mediafire v15 här - https://del.dog/Mediafireonlyv15\n\n3. Du bör kunna logga in nu."
+					"content": "For those who updated microG to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microG.\n\n2. Download \"Vanced microG 0.2.12.203315 version\" from Mediafire v15 link and install it. [Link for Mediafire v15 here](https://del.dog/Mediafireonlyv15)\n\n3. You should be able to login now."
 				},
 				{
 					"title": "Huawei workaround 2",
@@ -34,7 +34,7 @@
 				},
 				{
 					"title": "Huawei workaround 3",
-					"content": "1. Installera först den gamla microG-versionen (ta bort den nuvarande installerade men behåll apken för den - du behöver den senare). \n\nmicrog_YouTube_Vanced_0.2.4-105_16052019_2. pk (hämta från den gamla fillänken på vancedapp.com)\n\n2. Öppna sedan YouTube Vanced och försök logga in igen tills det visar felmeddelandet. Försök att ladda om det genom att trycka på felmeddelandet. \n\n3. Installera nu den nyare microG-versionen igen och starta om vansen. Den ska vara inloggad igen och allt ska fungera igen.\n\nOBS: Se nu till att u inaktivera batterioptimering för både mikrog och vansett med dontkillmyapp. Om annars din enhet programvara kan döda microg och du kan behöva upprepa alla ovanstående steg igen för att fixa inloggning."
+					"content": "1. First, install the old Vanced microG version{particularly microg_YouTube_Vanced_0.2.4-105_16052019_2.apk using [this link](https://www.mediafire.com/file/4mw2q6ajq85g2io/microg_YouTube_Vanced_0.2.4-105_16052019_2.apk/file)}. Make sure to uninstall the current version to install the above version and save the latest APK file as you will be needing it later.\n\n2. Then open YouTube Vanced and try logging in again until it shows the error message. Try to reload it by tapping the error message. \n\n3. Now install the newer microG version again and restart vanced. It should be logged in again and everything should work again.\n\nNOTE: Now make sure u disable battery optimization for both microG and vanced using https://dontkillmyapp.com otherwise your device software might kill microG and you might have to repeat all above steps again to fix login."
 				}
 			]
 		},
@@ -137,7 +137,7 @@
 		},
 		{
 			"title": "Problem med APP-inläsning",
-			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n> Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n> Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in (YouTube Settings-https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
+			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n> Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n> Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in [YouTube Settings](https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
 		},
 		{
 			"title": "Bild-i-bildläge",
@@ -171,15 +171,23 @@
 		},
 		{
 			"title": "Fixa för SAI/Vanced Manager fel",
-			"description": "Nedan är några kända skäl som du kan möta när du inte följer instruktioner, så läs lämplig orsak med sin lösning och åtgärda ditt problem.",
+			"description": "You can use any of the workarounds listed below to remove the YouTube app from the market.",
 			"fields": [
 				{
-					"title": "LADDNING_FAILED_VERSION_NEDLADDNING",
-					"content": "Avinstallera stock yt uppdateringar. Se till att Stock YouTube-versionen är lägre än den version du installerar nu."
+					"title": "Workaround 1(Recommended)",
+					"content": "\n\nUsing [TeMiFi app](https://forum.xda-developers.com/t/app-tool-temefi-comprehensive-system-administration.3806260), Make sure the YouTube Vanced is a user app as this method won't work if Vanced is installed as a system app.\n\nIn TeMeFi select > Give root permissions > Tap on Application info > Detach package from play store > DETACH: Select package then protection level v5 > Select YouTube with package name \"com.google.android.youtube\" > Tap on 3. Invalidate the data, block any attempt.... > Yes, I accept full responsibility"
 				},
 				{
 					"title": "INSTALL_FAILED_UPDATE_INKOMPATIBE",
-					"content": "Bara avinstallera alla vansinniga app som du har installerat från någon annan källa sedan installera vanced. Annars avinstallera \"vanced microG\" > starta om enhet > sedan installera vanced microG först sedan Vanced. Om felet fortfarande kommer, använd SAI för att installera delade apks manuellt. Dessa apk filer finns i \n\"android / data / com.vanced.manager / filer / vanced / nonroot / \""
+					"content": "\n\nUsing Titanium backup app(needs pro version)\n\n• Open titanium backup \n\n• Search for youtube and Click on it \n\n• Swipe left to access special features \n\n• Click on Attach to market \n\n• Then again go to special features \n\n• Click on \"detach from market\" \n\n• Done"
+				},
+				{
+					"title": "Workaround 3",
+					"content": "NOTE: Auto-Updates must be disabled in play store before doing this.\n\n1. Create \"Detach.txt\" in the following location /sdcard/ (equivalent to /storage/emulated/0/) write \"YouTube\" in that text file without quotes. You can also download the Detach.txt from Magisk module name Detach and remove the # in front of YouTube.\n\n2. Flash Detach module in Magisk manager.\n\n3. Flash Daily Job Scheduler (djs) in Magisk manager.\n\n4. Reboot\n\n5. Open Terminal and type \"su -c detach -t\" and set it to run once every hour.\n\n6. Done!\n\nPlay Store updates its database file on a random rhythm, sometimes several times a day. Once in a while (like once every two weeks), Play Store will show an update for Youtube, but it will go away when the script has run again by djs."
+				},
+				{
+					"title": "Workaround 4",
+					"content": "Switch to Non-Root variant of Vanced. This workaround should only be used as a last resort if all of the other options fail!"
 				}
 			]
 		},
@@ -221,7 +229,7 @@
 				},
 				{
 					"title": "INSTALL_PARSE_FAILED_NO_CERTIFICATES",
-					"content": "It seems like you didn't read instructions properly and installed vanced without disabling signature verification. or you tried some method which didn't give any positive result, so the solution to both is to disable signature verification using the best method/alternative to what you used before."
+					"content": "It seems like you didn't read instructions properly and installed vanced without disabling signature verification. or you tried some method which didn't give any positive result, so the solution to both is to disable signature verification using the best method/alternative to what you used before or just use our [vanced manager](https://vancedapp.com which doesn't require you to disable signature verification."
 				},
 				{
 					"title": "INSTALL_FAILED_INVALID_INSTALL_LOCATION",
@@ -242,28 +250,24 @@
 			"description": "Om du stöter på kraschar på YouTube Vanced root varianter för vitlistning orsaker, kan du prova denna guide från denna länk (https://www.xda-developers. om/hur man fix-device-inte-certifierad-by-google-error) och se om det löser för dig.\n\n Alternativt, om länken inte hjälper, rensa din ROM för att åtgärda detta problem eller kontrollera med en annan ROM."
 		},
 		{
-			"title": "Åtgärd för svartskärms-video",
-			"description": "Lösning: rensa data från Youtube Vanced och sedan installera om det bör åtgärda problemet. Om det inte gör det, prova en omstart &\nKontrollera om problemet med svart skärm löser. \n\nOm problemet kvarstår, återställ din enhet eller ändra ROM."
+			"title": "Black screen video fix",
+			"description": "Solution: clearing data of Youtube Vanced and subsequently reinstalling it should fix the issue. If it doesn't, try a Reboot &\nCheck if black screen issue solves. \n\nIf problem persist, factory reset your device or change the ROM."
 		},
 		{
-			"title": "Landsrestriktioner",
-			"description": "På engelska är det förkalkat \"begränsat läge\"\nPå arabiska kallas det för \"<unk> <unk> <unk> \"\n\nFör att lösa problem med mindre sökresultat, gör detta\n\n1. Gå till inställningar > Allmänt\n\n2. Hitta \"begränsat läge\" och stäng av det.\n\nOm du är i ett land som Google hatar, använd en vpn."
+			"title": "Content Restrictions",
+			"description": "In English it is callled \"restricted mode\"\nIn arabic it is called \"وضع تقييد المحتوى\"\n\nTo solve issue of lesser search results, do this\n\n1. Go to settings > General\n\n2. Find \"restricted mode\" and turn it off.\n\nIf you're in a country that Google hates, use a vpn."
 		},
 		{
-			"title": "Ändra antal",
-			"description": "För att ändra antalet vyer från crores/lakhs till miljoner, gör så här:\n\n\nLösning:\n\n1. Gå till inställningar (av din telefon)\n\n2. Gå till systemet \n\n3. Gå till språkinställningar\n\n4. Lägg till ett språk som engelska (US) \n\n5. Dra detta språk över ditt nuvarande språk.\n\n6. Gå till youtube och njut av ⚡\n\nTack till @ROG_OK från telegram Vanced grupp för att hitta korrigeringen."
+			"title": "View count change",
+			"description": "To change the view count from crores/lakhs to millions, do this:\n\n\nSolution:\n\n1. Go to settings (of your phone)\n\n2. Go to system \n\n3. Go to language preferences\n\n4. Add a language as English (US) \n\n5. Drag this language above your current one.\n\n6. Go to youtube and enjoy ⚡\n\nThanks to @ROG_OK from telegram Vanced group for finding the fix."
 		},
 		{
-			"title": "Bildtexter",
-			"description": "Om du stöter på textningsproblem som slumpmässiga undertexter på olika språk på en engelsk video, här är vad du måste göra;\nStäll in bildtextspråket till ditt regionspråk i dina bildtextinställningar.\n\nFör att komma åt bildtextinställningar, gå till enhetsinställningar > tillgänglighet > bildtexter\n\nEller\n\nYouTube inställningar > bildtexter"
+			"title": "Captions",
+			"description": "If you face caption issues such as random subtitles of different languages on an english video, here's what you have to do;\nSet the caption language to your region language in your caption settings.\n\nTo access caption settings, head to device settings > accessibility > captions\n\nOr\n\nYouTube settings > captions"
 		},
 		{
-			"title": "HDR ljusstyrka Workaround",
-			"description": "Använd svepningsfunktionerna för att vrida ljusstyrkan till dess maximala"
-		},
-		{
-			"title": "Inställningar kraschar",
-			"description": "Stäng av fingeravtrycket och gå in i inställningarna och gör din inställning, när den är klar, aktivera den igen. Det kommer inte att krascha igen efter det, även om du fortsätter att gå in det om du inte starta om enheten."
+			"title": "HDR brightness Workaround",
+			"description": "Use the swiping features to turn the brightness to its maximum"
 		},
 		{
 			"title": "Settings crashes",

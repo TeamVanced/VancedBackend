@@ -22,11 +22,11 @@
 				},
 				{
 					"title": "Per gli utenti che utilizzano un account Gsuite su una versione Non-Root di vanced e riscontrano frequenti problemi di connessione (errori come \"Sei offline\", \"Verifica connessione Internet\" e così via)",
-					"content": "• Accedi alla console di amministrazione del tuo account gsuite (https://admin.google.com/)\n\n• Cerca la gestione dei dispositivi\n\n• Vai alla configurazione e disattiva \"Gestione dispositivi mobili\"\n\n• Questo è tutto ed il problema verrà risolto."
+					"content": "•Log into your Gsuite account [admin console](https://admin.google.com/)\n\n• Search for device management\n\n• Go to setup and disable \"Mobile Management\"\n\n• That's it and it will get fixed."
 				},
 				{
 					"title": "Soluzione Huawei 1",
-					"content": "Per coloro che hanno aggiornato microg alla versione più recente ma ora stanno riscontrando problemi di accesso\n\n1. Disinstalla la versione di Vanced microg attualmente installata.\n\n2. Scarica la versione \"Vanced microg 0.2.12.203315\" dal link mediafire v15 e installala. Di seguito il link per mediafire v15 - https://del.dog/Mediafireonlyv15\n\n3. Ora dovresti essere in grado di accedere."
+					"content": "For those who updated microG to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microG.\n\n2. Download \"Vanced microG 0.2.12.203315 version\" from Mediafire v15 link and install it. [Link for Mediafire v15 here](https://del.dog/Mediafireonlyv15)\n\n3. You should be able to login now."
 				},
 				{
 					"title": "Soluzione Huawei 2",
@@ -34,7 +34,7 @@
 				},
 				{
 					"title": "Soluzione Huawei 3",
-					"content": "1. Per prima cosa installa la vecchia versione microG (rimuovi quella attualmente installata ma mantieni l'apk - ne avrai bisogno in seguito).\n\nmicrog_YouTube_Vanced_0.2.4-105_16052019_2.apk (ottienila dal vecchio collegamento ai file sul sito vancedapp.com)\n\n2. Quindi apri YouTube Vanced e prova ad accedere nuovamente finché non verrà visualizzato il messaggio di errore. Prova a ricaricarlo cliccando sul messaggio di errore.\n\n3. Ora installa nuovamente la versione di microG più recente e riavvia vanced. L'accesso dovrebbe andare a buon fine e tutto dovrebbe tornare funzionare come prima.\n\nNOTA: Assicurati di disattivare l'ottimizzazione della batteria sia per microg che per vanced utilizzando dontkillmyapp.com, altrimenti il software del tuo dispositivo potrebbe uccidere microg e potresti dover ripetere tutti i passaggi precedenti per correggere l'accesso."
+					"content": "1. First, install the old Vanced microG version{particularly microg_YouTube_Vanced_0.2.4-105_16052019_2.apk using [this link](https://www.mediafire.com/file/4mw2q6ajq85g2io/microg_YouTube_Vanced_0.2.4-105_16052019_2.apk/file)}. Make sure to uninstall the current version to install the above version and save the latest APK file as you will be needing it later.\n\n2. Then open YouTube Vanced and try logging in again until it shows the error message. Try to reload it by tapping the error message. \n\n3. Now install the newer microG version again and restart vanced. It should be logged in again and everything should work again.\n\nNOTE: Now make sure u disable battery optimization for both microG and vanced using https://dontkillmyapp.com otherwise your device software might kill microG and you might have to repeat all above steps again to fix login."
 				}
 			]
 		},
@@ -76,8 +76,8 @@
 					"content": "Assicurati che \"Scheduled Digest\" sia disattivato nelle impostazioni di YouTube e che i suoni delle notifiche siano corretti e impostati.\n\nPuoi provare ad utilizzare l'app \"Gestione notifiche\" che tiene traccia di tutte le notifiche in un unico posto, quindi nel caso in cui tu stia ignorando le notifiche, potrai ugualmente accedere da quell'app."
 				},
 				{
-					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
-					"content": "• Head to manager settings and clear downloaded files\\n\\n• Then clear manager app data then continue installing vanced."
+					"title": "Se riscontri errori come \"Operazione non riuscita perché i file apk sono invalidi/danneggiati\"",
+					"content": "• Vai nelle impostazioni di Vanced Manager e cancella i file scaricati\\n\\n • Quindi cancella i dati dell'app Vanced Manager e continua l'installazione di Vanced."
 				}
 			]
 		},
@@ -112,7 +112,7 @@
 					"content": "REQUISITI:\n\nVanced Manager 2.1.0 o superiore\nUn root manager come Es File Explorer o Root Browser\nPassaggio 1: Dirigiti su /data/adb/service.d/ e modifica lo script Music.sh e/o Vanced.sh\n\nEntrambi dovrebbero contenere qualcosa di simile a questo:\n\nwhile  [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\nPassaggio 2: Modifica il valore \"do sleep 1; done\"   in   \"do sleep 2; done\"\n\nPassaggio 3: Riavvia o Riaccendi il dispositivo\n\nSe ciò non dovesse funzionare, prova ad aggiungere un periodo di pausa maggiore tra do e done\n\n——————————————————\n\nSe ciò non dovesse nuovamente funziona, forse il tuo dispositivo ha bisogno di più tempo prima di eseguire il montaggio dell'apk root di vanced youtube/music.\nTi basterà dunque modificare vanced.sh e/o music.sh,\ninserendo una nuova linea di sospensione tra la linea 'while' e 'mount' come:\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
 				},
 				{
-					"title": "If Vanced crashes in the middle of playback (when playing in background mode)",
+					"title": "Se Vanced si arresta in modo anomalo durante la riproduzione (durante la riproduzione in background)",
 					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide #bugreport on telegram or in discord with the details it requires and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
 				}
 			]
@@ -122,11 +122,11 @@
 			"description": "Se dovessi visualizzare degli annunci su YouTube Vanced o Vanced Music, leggi questo messaggio da parte di xfileFIN:\n\n> Devo poterlo visualizzare personalmente per poterlo rintracciare. Poiché nascondere semplicemente il layout non funzionerà.\nNon sono sicuro di come decidano a quali utenti mostrarli, avviene tutto lato server.\nQuello che so è che non posso nascondere il layout perché lo stesso layout viene utilizzato anche per i video reali. Il codice decide solo se mostrare o meno il badge dell'annuncio.\nBeh, potrei facilmente nascondere il badge dell'annuncio ma mostrerebbe comunque il video dell'annuncio effettivo, senza etichettarlo come annuncio.\nDevo ottenere io stesso l'annuncio per rintracciarlo nel codice poiché l'offuscamento lo rende difficile.\n\nLa schermata iniziale e gli annunci della rete di ricerca (aggiunti da Google) sono basati sulla regione e non verranno mostrati se non ti trovi nella regione in cui risulta attivo. Tali annunci non vengono aggiunti in alcun modo dal team vanced, quindi se credi che la colpa sia da attribuire a noi, sappi che potremmo già aver riso di te.: D\n\nGli sviluppatori sanno già che stai ricevendo annunci nella tua regione. Attendi pazientemente gli aggiornamenti finché tutti gli annunci non verranno bloccati. Fino ad allora, goditi vanced e non segnalare il medesimo problema sulla chat.\n\nLa soluzione temporanea per risolvere questo problema sarebbe cancellare i dati e la cache dell'app o attendere aggiornamenti futuri.",
 			"fields": [
 				{
-					"title": "Solution 1",
-					"content": "Stick to the non-root version until the developers fix this."
+					"title": "Soluzione 1",
+					"content": "Usare la versione non-root fino a quando gli sviluppatori non risolveranno il problema."
 				},
 				{
-					"title": "Solution 2",
+					"title": "Soluzione 2",
 					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nStep 1: Go to manager settings > Root Script Sleep Time (you should be on root mode for this option to appear) and set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
 				}
 			]
@@ -137,7 +137,7 @@
 		},
 		{
 			"title": "Problemi di caricamento APP",
-			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n> Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n> Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in (YouTube Settings-https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
+			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n> Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n> Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in [YouTube Settings](https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
 		},
 		{
 			"title": "Problemi picture-in-picture",
@@ -171,15 +171,23 @@
 		},
 		{
 			"title": "Correzione per gli errori di SAI/Vanced Manager",
-			"description": "Di seguito sono riportati alcune case note che si potresti affrontare nel caso non avessi seguito le istruzioni, quindi leggi le cause con le relative soluzioni e correggi il tuo problema.",
+			"description": "You can use any of the workarounds listed below to remove the YouTube app from the market.",
 			"fields": [
 				{
-					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
-					"content": "Disinstalla gli aggiornamenti di YouTube Stock. Assicurati che la versione di quest'ultima sia inferiore a quella di vanced che stai cercando di installare."
+					"title": "Workaround 1(Recommended)",
+					"content": "\n\nUsing [TeMiFi app](https://forum.xda-developers.com/t/app-tool-temefi-comprehensive-system-administration.3806260), Make sure the YouTube Vanced is a user app as this method won't work if Vanced is installed as a system app.\n\nIn TeMeFi select > Give root permissions > Tap on Application info > Detach package from play store > DETACH: Select package then protection level v5 > Select YouTube with package name \"com.google.android.youtube\" > Tap on 3. Invalidate the data, block any attempt.... > Yes, I accept full responsibility"
 				},
 				{
 					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBLE",
-					"content": "Basta disinstallare qualsiasi app vanced ottenuta da qualsiasi altra fonte quindi reinstallare vanced. Altrimenti disinstalla \"vanced microG\" > riavvia il dispositivo > dopodichè installa prima vanced microG e poi Vanced. Se dovessi riscontrare un nuovo errore, utilizza SAI per installare manualmente gli apk suddivisi manualmente. Questi file apk si trovano in \n\"android/data/com.vanced.manager/files/vanced/nonroot/ \""
+					"content": "\n\nUsing Titanium backup app(needs pro version)\n\n• Open titanium backup \n\n• Search for youtube and Click on it \n\n• Swipe left to access special features \n\n• Click on Attach to market \n\n• Then again go to special features \n\n• Click on \"detach from market\" \n\n• Done"
+				},
+				{
+					"title": "Workaround 3",
+					"content": "NOTE: Auto-Updates must be disabled in play store before doing this.\n\n1. Create \"Detach.txt\" in the following location /sdcard/ (equivalent to /storage/emulated/0/) write \"YouTube\" in that text file without quotes. You can also download the Detach.txt from Magisk module name Detach and remove the # in front of YouTube.\n\n2. Flash Detach module in Magisk manager.\n\n3. Flash Daily Job Scheduler (djs) in Magisk manager.\n\n4. Reboot\n\n5. Open Terminal and type \"su -c detach -t\" and set it to run once every hour.\n\n6. Done!\n\nPlay Store updates its database file on a random rhythm, sometimes several times a day. Once in a while (like once every two weeks), Play Store will show an update for Youtube, but it will go away when the script has run again by djs."
+				},
+				{
+					"title": "Workaround 4",
+					"content": "Switch to Non-Root variant of Vanced. This workaround should only be used as a last resort if all of the other options fail!"
 				}
 			]
 		},
@@ -221,7 +229,7 @@
 				},
 				{
 					"title": "INSTALL_PARSE_FAILED_NO_CERTIFICATES",
-					"content": "It seems like you didn't read instructions properly and installed vanced without disabling signature verification. or you tried some method which didn't give any positive result, so the solution to both is to disable signature verification using the best method/alternative to what you used before."
+					"content": "It seems like you didn't read instructions properly and installed vanced without disabling signature verification. or you tried some method which didn't give any positive result, so the solution to both is to disable signature verification using the best method/alternative to what you used before or just use our [vanced manager](https://vancedapp.com which doesn't require you to disable signature verification."
 				},
 				{
 					"title": "INSTALL_FAILED_INVALID_INSTALL_LOCATION",
@@ -242,28 +250,24 @@
 			"description": "Se dovessi riscontrare arresti anomali sulla variante root di YouTube Vanced a causa della lista bianca, puoi provare a seguire la guida disponibile a questo link (https://www.xda-developers.com/how-to-fix-device-not-certified-by-google- errore) e provare a capire se nel tuo caso è risolutiva.\n\n In alternativa, se la guida non dovesse esserti di aiuto, una reinstallazione pulita o un cambio della ROM potrebbe risolvere questo problema."
 		},
 		{
-			"title": "Correzione video con schermo nero",
-			"description": "Soluzione: cancellare i dati di Youtube Vanced e reinstallarlo successivamente dovrebbe risolvere il problema. In caso contrario, prova a riavviare e accertati che il problema dello schermo nero sia risolto.\n\nSe il problema dovesse persistere, ripristina le impostazioni di fabbrica del dispositivo o cambia ROM."
+			"title": "Black screen video fix",
+			"description": "Solution: clearing data of Youtube Vanced and subsequently reinstalling it should fix the issue. If it doesn't, try a Reboot &\nCheck if black screen issue solves. \n\nIf problem persist, factory reset your device or change the ROM."
 		},
 		{
-			"title": "Restrizioni sui contenuti",
-			"description": "In inglese è chiamata \"modalità con restrizioni\"\nIn arabo è invece chiamata \"وضع تقييد المحتوى\"\n\nPer risolvere il problema dei risultati di ricerca minori, effettua quanto segue:\n\n1. Accedi ad Jmpostazioni > Generale.\n\n2. Trova \"modalità con restrizioni\" e disattivala.\n\nSe ti trovi in un paese che Google odia, utilizza una vpn."
+			"title": "Content Restrictions",
+			"description": "In English it is callled \"restricted mode\"\nIn arabic it is called \"وضع تقييد المحتوى\"\n\nTo solve issue of lesser search results, do this\n\n1. Go to settings > General\n\n2. Find \"restricted mode\" and turn it off.\n\nIf you're in a country that Google hates, use a vpn."
 		},
 		{
-			"title": "Modifica conteggio visualizzazioni",
-			"description": "Per modificare il conteggio delle visualizzazioni da crores/lakh a milioni, effettua quanto segue:\n\n\nSoluzione:\n\n1. Accedi alle impostazioni (del tuo telefono).\n\n2. Accedi a sistema.\n\n3. Dirigiti alle preferenze della lingua.\n\n4. Aggiungi una lingua come Inglese (USA).\n\n5. Trascina questa lingua nella posizione superiore a quella attuale.\n\n6. Vai su YouTube e divertiti.\n\nUn rigraziamento all'utenre @ROG_OK del gruppo Telegram Vanced, per aver trovato la soluzione."
+			"title": "View count change",
+			"description": "To change the view count from crores/lakhs to millions, do this:\n\n\nSolution:\n\n1. Go to settings (of your phone)\n\n2. Go to system \n\n3. Go to language preferences\n\n4. Add a language as English (US) \n\n5. Drag this language above your current one.\n\n6. Go to youtube and enjoy ⚡\n\nThanks to @ROG_OK from telegram Vanced group for finding the fix."
 		},
 		{
-			"title": "Sottotitoli",
-			"description": "Se riscontrassi problemi con i sottotitoli, visualizzati casualmente in lingue differenti su un video in inglese, procedi come segue;\nImposta la lingua dei sottotitoli nella lingua della tua regione dalle impostazioni dei sottotitoli.\n\nPer accedere alle impostazioni dei sottotitoli, accedi alle impostazioni del dispositivo > accessibilità > sottotitoli\n\nO\n\nImpostazioni di YouTube > sottotitoli"
+			"title": "Captions",
+			"description": "If you face caption issues such as random subtitles of different languages on an english video, here's what you have to do;\nSet the caption language to your region language in your caption settings.\n\nTo access caption settings, head to device settings > accessibility > captions\n\nOr\n\nYouTube settings > captions"
 		},
 		{
-			"title": "Soluzione luminosità HDR",
-			"description": "Utilizza le funzionalità di scorrimento per impostare la luminosità al massimo"
-		},
-		{
-			"title": "Crash delle impostazioni",
-			"description": "Disattiva l'impronta digitale, vai nelle impostazioni e impostale a tuo piacimento, dopodichè riattivala. Dopo aver seguito queste istruzioni non riscontrerai più blocchi, anche se continuerai ad utilizzarla, questo a meno che il dispositivo non verrà riavviato."
+			"title": "HDR brightness Workaround",
+			"description": "Use the swiping features to turn the brightness to its maximum"
 		},
 		{
 			"title": "Settings crashes",

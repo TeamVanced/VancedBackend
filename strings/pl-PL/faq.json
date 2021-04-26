@@ -2,15 +2,15 @@
   "faq": [
     {
       "title": "Co to jest YouTube Vanced?",
-      "description": "YouTube Vanced to zmodyfikowana wersja YouTube z dodatkowymi funkcjami, które sprawią, że Twój YouTube będzie lepszy!\n\nTakie funkcje obejmują:\n- Odtwarzanie w tle,\n- Obraz w obrazie (PiP), \n- Czarny motyw (przyjazny dla OLED),\n- Usuwanie reklam (wymaga aktywacji),\n- Zastąp maksymalną rozdzielczość (zezwolić na odtwarzanie wideo z rozdzielczością wyższą niż ekran),\n- ...i wiele więcej!\n\nAby uzyskać więcej informacji odwiedź <https://vancedapp.com>"
+      "description": "YouTube Vanced to zmodyfikowana wersja YouTube z dodatkowymi funkcjami, które sprawią, że Twój YouTube będzie lepszy!\n\nZawiera takie funkcje :\n- Odtwarzanie w tle,\n- Obraz w obrazie (PiP), \n- Czarny motyw (przyjazny dla OLED),\n- Usuwanie reklam (wymaga aktywacji),\n- Zastąp maksymalną rozdzielczość (zezwolić na odtwarzanie wideo z rozdzielczością wyższą niż ekran),\n- ...i wiele więcej!\n\nAby uzyskać więcej informacji odwiedź <https://vancedapp.com>"
     },
     {
       "title": "Gdzie jest przycisk pobierania?",
-      "description": "Oczywiście, Google nie zezwala na to, aby zmodyfikowana wersja własnej aplikacji była w swoim sklepie, więc nie szukaj jej w Sklepie Google Play są to fałszywe aplikacje.\n\nAplikacje Vanced można pobrać i zainstalować za pomocą Menadżera Vanced, którego można znaleźć na naszej oficjalnej stronie internetowej: <https://vancedapp.com> ale możesz również pobrać go z GitHub: <https://github.com/YTVanced/VancedManager/releases/latest>"
+      "description": "Oczywiście, Google nie zezwala na to, aby zmodyfikowana wersja własnej aplikacji była w ich własnym sklepie, więc nie szukaj jej w Sklepie Google Play, są to fałszywe aplikacje.\n\nAplikacje Vanced można pobrać i zainstalować za pomocą Menadżera Vanced, którego można znaleźć na naszej oficjalnej stronie internetowej: <https://vancedapp.com> ale możesz również pobrać go z [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Czy YouTube Vanced będzie się aktualizował automatycznie?",
-      "description": "Nie, nie będzie.\n\nMenedżer Vanced wyśle Ci powiadomienie, gdy będzie aktualizacja.\n\nMożesz również dołączyć do naszego [serwera Discord](https://discord. g/wYrRPgv) lub do [kanału Telegram](https://t.me/Vanced) również po najnowsze wiadomości i aktualizacje."
+      "description": "Nie, nie będzie.\n\nMenedżer Vanced wyśle Ci powiadomienie, gdy będzie aktualizacja.\n\nMożesz również dołączyć do naszego [serwera Discord](https://discord. g/wYrRPgv) lub do [czatu Telegram](https://t.me/Vanced) po najnowsze wiadomości i aktualizacje."
     },
     {
       "title": "Czy Vanced może pobierać filmy?",
@@ -38,7 +38,7 @@
     },
     {
       "title": "Dlaczego kolor na ekranie startowym różni się od motywu?",
-      "description": "Kolor tła ekranu startowego jest pobierany z koloru frameworka systemu Android, aby upewnić się, że zmienia się w zależności od motywu systemu. Możesz użyć motywów Substratum/Swift aby zmienić kolor."
+      "description": "Kolor tła ekranu startowego jest pobierany z koloru frameworka Androida, aby upewnić się, że zmienia się w zależności od motywu systemu. Możesz użyć [Substratum](https://play.google. om/store/apps/details?id=projekt.substratum) lub [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) lub podobną aplikacje do zmiany koloru."
     },
     {
       "title": "Czy powinienem ponownie pobrać pliki instalacyjne?",
@@ -58,7 +58,7 @@
     },
     {
       "title": "Co jest nie tak z microG Core?",
-      "description": "1. Musisz mieć co najmniej wariant [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) GApps do uruchomienia Vanced.\n\n2. Nie można uruchomić Vanced za pomocą microG Core ponieważ wymaga Google Play Services Framework dostępny we wszystkich pakietach GApp.\n\n3. Jeśli jesteś zaniepokojony swoją prywatnością i nie chcesz używać GApps ale nadal chcesz korzystać z YouTube bez reklam, [wersja internetowa](https://youtube. om) jest zawsze dostępna."
+      "description": "1. Musisz mieć co najmniej wariant [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) GApps do uruchomienia Vanced.\n\n2. Nie można uruchomić Vanced za pomocą microG Core ponieważ wymaga Google Play Services Framework dostępny we wszystkich pakietach GApp.\n\n3. Jeśli jesteś zaniepokojony swoją prywatnością i nie chcesz używać GApps ale nadal chcesz korzystać z YouTube bez reklam, [wersja internetowa](https://youtube.com) jest zawsze dostępna."
     },
     {
       "title": "Dlaczego przesyłanie nie działa?",
@@ -70,7 +70,7 @@
     },
     {
       "title": "Czy YouTube Vanced jest w Sklepie Play?",
-      "description": "NIE!\nPonownie, NIE instaluj lub nawet nie próbuj wyszukać fałszywych aplikacji o nazwie \"YouTube Vanced\" lub podobnych w Sklepie Play lub w dowolnej aplikacji do zainstalowania Vanced.\n\nMamy tylko [Przewodnik Vanced](https://play.google.com/store/apps/details?id=com. anced.faq) i jest to jedyna oficjalna aplikacja opublikowana w Sklepie Play.\n\nJeśli znajdziesz jakąś inną aplikację z naszą ikoną i nazwą, zgłoś ją jako podszywającą się i nadaj jej złą opinię.\n\nNasze aplikacje można znaleźć tylko pod adresem <https://vancedapp.com>."
+      "description": "NIE!\nPonownie, NIE instaluj lub nawet nie próbuj wyszukać fałszywych aplikacji o nazwie \"YouTube Vanced\" lub podobnych w Sklepie Play lub w dowolnej aplikacji do zainstalowania Vanced.\n\nMamy tylko [Przewodnik Vanced](https://play.google.com/store/apps/details?id=com.vanced.faq) i jest to jedyna oficjalna aplikacja opublikowana w Sklepie Play.\n\nJeśli znajdziesz jakąś inną aplikację z naszą ikoną i nazwą, zgłoś ją jako podszywającą się i nadaj jej złą opinię.\n\nNasze aplikacje można znaleźć tylko pod adresem <https://vancedapp.com>."
     },
     {
       "title": "Dlaczego Vanced nie pojawia się na ekranie głównym lub na liście aplikacji?",
@@ -86,7 +86,7 @@
       "fields": [
         {
           "title": "Obejścia:",
-          "content": "1. Połącz się z VPN innego regionu.\n2. Użyj [wersji internetowej](https://youtube.com)\n3. Ponieważ ograniczenie 480p dotyczy tylko urządzeń mobilnych, a nie tabletów, możesz zmienić model urządzenia w YouTube Vanced w celu przezwyciężenia ograniczenia.\n\n#### Jak zmienić model urządzenia?\n1. Otwórz YouTube Vanced.\n2. Włącz dodatkowe opcje \n  1. Przejdź do Ustawień\n  2. Naciśnij Ustawienia Vanced\n  3. Stuknij w sekcję \"O nas\", aż otrzymasz wiadomość z włączonymi ukrytymi ustawieniami\n3. Przejdź do Nadpisania kodeku i ustaw model na \"SM-T865\" i urządzenie na \"Samsung\".\n4. Uruchom ponownie aplikację i limit 480p powinien zostać usunięty."
+          "content": "1. Połącz się z VPN innego regionu.\n2. Użyj [wersji internetowej](https://youtube.com)\n3. Ponieważ ograniczenie 480p jest tylko dla telefonów, a nie tabletów, możesz zmienić model urządzenia w YouTube Vanced aby przezwyciężyć ograniczenie.\n\n#### Jak zmienić model urządzenia?\n1. Otwórz YouTube Vanced.\n2. Przejdź do Ustawienia\n3. Dotknij `Vanced Settings`\n4. Włącz ukryte ustawienia:\n  - Przewiń w dół i stuknij w sekcji `O` do momentu otrzymania wiadomości z włączoną `Ukryte ustawienia włączone`.\n5. Przejdź do `Nadpisywanie kodeku`\n6. Ustaw producenta na `Samsung` i model na `SM-T865`.\n7. Uruchom ponownie aplikację.\n\nPo ponownym uruchomieniu, limit 480p powinien zniknąć."
         }
       ]
     },

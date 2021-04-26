@@ -10,7 +10,7 @@
         },
         {
           "title": "Logcat çıktısı nasıl alınır?",
-          "content": "Root kullanmayanlar:\n`logcat`çıktısı alabilmek için PC'a ihtiyacın var. Nasıl yapacağına dair adımlara [buradan](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc), videolu anlatıma da [bu linkten](https://youtu.be/ICLpwgsJJP0) ulaşabilirsin.\n\nRoot kullanıcıları:\nPC'a ihtiyacın yok. [Buradaki](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android) adımları takip ederek çıktı alabilirsin."
+          "content": "Root kullanmayanlar:\n`logcat` çıktısı alabilmek için PC'a ihtiyacın var. Nasıl yapacağına dair adımlara [buradan](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc), videolu anlatıma da [bu linkten](https://youtu.be/ICLpwgsJJP0) ulaşabilirsin.\n\nRoot kullanıcıları:\nPC'a ihtiyacın yok. [Buradaki](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android) adımları takip ederek çıktı alabilirsin."
         },
         {
           "title": "Arayüzle alakalı sorun mu buldun?",
