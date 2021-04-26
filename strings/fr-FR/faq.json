@@ -1,31 +1,31 @@
 {
   "faq": [
     {
-      "title": "Qu'est-ce que YouTube Vanced&#160;? ",
-      "description": "YouTube Vanced is a modified version of YouTube with features and tweaks to make your YouTube experience better!\n\nSuch features include:\n\nBackground playback\nCustom themes (normal dark or OLED black)\nBlockers for most ads\nOverride max resolution\nAnd much more!\nFor a full list, check out the \"features\" drop-down in the XDA thread. The link to that (and other general info) is(https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)"
+      "title": "Qu'est-ce que YouTube Vanced&#160;?",
+      "description": "YouTube Vanced est une version modifiée de YouTube avec des fonctionnalités supplémentaires pour améliorer votre expérience YouTube&#160;! \n\nCes fonctionnalités incluent&#160;:\n- Lecture en arrière-plan,\n- Image dans l'image (PiP),\n- Thème noir (compatible avec l'OLED),\n- Suppression des publicités (nécessite d'être activé),\n- Forcer la résolution max (autoriser la lecture de la vidéo avec une résolution supérieure à votre écran),\n- . .et bien plus encore&#160;!\n\nPour plus d'informations, visitez <https://vancedapp.com>"
     },
     {
-      "title": "Où est le bouton de téléchargement ?",
-      "description": "Bien évidemment Google n'autoriserait pas une version modifiée d'une de ses applications sur leur marché donc n'allez pas chercher sur le Play Store, toutes les applications présentes sont fausses.\n\nLes applications Vanced peuvent être téléchargées et installées depuis le Vanced Manager trouvable à l'adresse : <https://vancedapp.com> mais vous pouvez aussi l'obtenir depuis GitHub : <https://github.com/YTVanced/VancedManager/releases/latest>"
+      "title": "Où est le bouton de téléchargement&#160;?",
+      "description": "Bien évidemment Google n'autoriserait pas une version modifiée d'une de ses applications sur leur store donc n'allez pas chercher sur le Play Store, toutes les applications présentes sont bidons.\n\nLes applications Vanced peuvent être téléchargées et installées via Vanced Manager trouvable sur le site officiel&#160;: <https://vancedapp.com> mais vous pouvez aussi l'obtenir depuis [GitHub] (<https://github.com/YTVanced/VancedManager/releases/latest>)"
     },
     {
-      "title": "Est-ce que YouTube Vanced se met à jour automatiquement ?",
-      "description": "Non, ce n'est pas le cas.\n\nVanced Manager vous enverra une notification quand il y en aura une.\n\nVous pouvez également rejoindre notre serveur Discord (https://discord.gg/wYrRPgv) ou suivez le canal Telegram(https://t.me/Vanced) pour les dernières nouvelles."
+      "title": "Est-ce que YouTube Vanced se met à jour automatiquement&#160;?",
+      "description": "Non, ce n'est pas le cas.\n\nVanced Manager vous enverra une notification quand il y en aura une.\n\nVous pouvez également rejoindre notre [serveur Discord] (https://discord.gg/wYrRPgv) ou suivre le [canal Telegram] (https://t.me/Vanced) pour les dernières nouvelles."
     },
     {
-      "title": "Vanced peut-il télécharger des vidéos ?",
-      "description": "Vanced n'inclut aucune fonctionnalité de téléchargement de vidéos et ne le fera jamais.\n\nDe nombreuses vidéos sont disponibles gratuitement dans [certains pays](https://support. oogle.com/youtube/answer/6141269). Pour le reste du monde, veuillez obtenir YouTube Premium ou utiliser un téléchargeur tiers.\n\nEncore une fois, Vanced N'AJOUTERA JAMAIS ajouter un téléchargeur de vidéo à l'application ou quelque chose de similaire.\n\nCela a été la raison de l'arrêt de nombreux mods YouTube par le passé, car Google n'aime pas les gens qui téléchargent du contenu protégé par le droit d'auteur depuis leur plateforme, alors ne le demandez pas !!!"
+      "title": "Vanced peut-il télécharger des vidéos&#160;?",
+      "description": "Vanced n'inclut aucune fonctionnalité de téléchargement de vidéos et ne le fera jamais.\n\nDe nombreuses vidéos sont disponibles gratuitement dans [certains pays](https://support. oogle.com/youtube/answer/6141269). Pour le reste du monde, veuillez obtenir YouTube Premium ou utiliser un téléchargeur tiers.\n\nEncore une fois, Vanced N'AJOUTERA JAMAIS de téléchargeur de vidéo ou quelque chose de similaire à l'application.\n\nCela a été la raison de l'arrêt de nombreux mods YouTube par le passé, car Google n'aime pas les gens qui téléchargent du contenu protégé par le droit d'auteur depuis leur plateforme, alors ne le demandez pas&#160;!!!"
     },
     {
-      "title": "Pourquoi les gestes de balayage ne fonctionnent pas ?",
+      "title": "Pourquoi les gestes de balayage ne fonctionnent pas&#160;?",
       "description": "Si vous avez les commentaires affichés en bas (ancienne place) dans Paramètres Vanced > Paramètres de mise en page, désactivez le et redémarrez l'application. Si cela ne fonctionne pas, forcez l'arrêt de l'application et effacez ces données."
     },
     {
-      "title": "Sous-titres non disponibles ?",
-      "description": "Ce n'est pas un problème. Toutes les vidéos n'ont pas de sous-titres."
+      "title": "Sous-titres non disponibles&#160;?",
+      "description": "Ce n'est pas un problème de Vanced ou de YouTube. Toutes les vidéos n'ont pas de sous-titres."
     },
     {
-      "title": "Prenez-vous des dons?",
+      "title": "Acceptez-vous les dons&#160;?",
       "description": "Nous n'acceptons pas les dons!\n\nTout type de don en toute circonstance et tout site ou lien ou message qui demandent des dons est tout simplement faux.\n\nMais si vous voulez soutenir les développeurs de Vanced, vous pouvez télécharger Brave en utilisant ce lien(https://brave.com/kev231) et AdGuard en utilisant ce lien(https://adguard.com/fr/welcome.html?aid=31141)."
     },
     {
