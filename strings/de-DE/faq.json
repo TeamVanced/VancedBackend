@@ -85,7 +85,7 @@
       "description": "Aufgrund von COVID-19 beschränkt Google die Datennutzung in mehreren Ländern. Dies geschieht auf dem Server und betrifft sowohl Vanced als auch Stock-YouTube-Benutzer.",
       "fields": [
         {
-          "title": "Workarounds:",
+          "title": "Übergangslösungen:",
           "content": "1. Verbinden Sie sich mit einem VPN einer anderen Region.\n2. Nutzen Sie die [Web-Version](https://youtube.com)\n3. Da die 480p Einschränkung nur für mobile Geräte und nicht Tablets gilt, können Sie das Gerätemodell in YouTube Vanced ändern, um die Einschränkung zu überwinden.\n\n#### Wie ändere ich das Gerätemodell?\n1. Öffnen Sie YouTube Vanced.\n2. Aktivieren Sie zusätzliche Optionen \n  1. Gehen Sie zu Einstellungen\n  2. Tippen Sie auf die erweiterten Einstellungen\n  3. Tippen Sie auf die Über-Sektion, bis Sie die Nachricht \"versteckte Einstellungen aktiviert\" bekommen.\n3. Gehen Sie zu Codec überschreiben und setzen Sie Modell auf \"SM-T865\" und Gerät auf \"Samsung\".\n4. Starten Sie die App neu und das 480p-Limit sollte weg sein."
         }
       ]
