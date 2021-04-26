@@ -54,11 +54,11 @@
     },
     {
       "title": "Ako povoliť skryté nastavenia?",
-      "description": "Vo Vanced nastaveniach ťuknite 6-7-krát na sekciu `O aplikácii`. Povolia sa tým iba ďalšie nastavenia video kodeku."
+      "description": "Vo Vanced nastaveniach 6-7 krát ťuknite na sekciu `O aplikácii`. Povolia sa tým iba ďalšie nastavenia video kodeku."
     },
     {
       "title": "Prečo root verzia nefunguje s microG Core?",
-      "description": "1. Aby ste mohli spustiť Vanced, musíte mať aspoň [pico] (https://github.com/opengapps/opengapps/wiki/Pico-Package) verziu GApps.\n\n2. Vanced s microG Core nie je možné spustiť bez Google Play Services Framework, ktorý je k dispozícii vo všetkých balíkoch GApps. Táto knižnica je vyžadovaná.\n\n3. Ak sa obávate o svoje súkromie a nechcete používať GApps, ale stále chcete pozerať YouTube bez reklám, potom je vždy k dispozícii [webová verzia](https://youtube.com)."
+      "description": "1. Aby ste mohli spustiť Vanced, musíte mať aspoň [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) verziu GApps.\n\n2. Vanced s microG Core nie je možné spustiť bez Google Play Services Framework, ktorý je k dispozícii vo všetkých balíkoch GApps. Táto knižnica je vyžadovaná.\n\n3. Ak sa obávate o svoje súkromie a nechcete používať GApps, ale stále chcete pozerať YouTube bez reklám, potom je vždy k dispozícii [webová verzia](https://youtube.com)."
     },
     {
       "title": "Prečo zdieľanie obrazovky nefunguje?",
