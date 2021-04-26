@@ -25,7 +25,7 @@
       "description": "De app bestaat momenteel alleen voor Android, er zijn geen plannen op dit moment om andere platforms te ondersteunen"
     },
     {
-      "title": "Verschil tussen Root en Non-Root",
+      "title": "Verschil tussen root en non-root",
       "description": "#### Root:\nDe hoofdvariant van Vanced vervangt naadloos de officiële YouTube-app. Als gevolg hiervan kunt u YouTube-links direct openen of deze oproepen met behulp van Google Assistant via de modded Vanced app.\n\n#### Niet-Root:\n- Als je een apparaat hebt dat moeilijk te rooten is, of je wilt je dagelijkse apparaat niet in de eerste hand rooten, moet je kiezen voor de niet-root variant.\n- Aangezien de pakketnaam van de niet-root-variant verschilt van de stock YouTube app, kunnen deze naast elkaar bestaan. Merk op dat u een extra kameraad app (Vanced microG) moet installeren om in te kunnen loggen met uw YouTube/Google-account.\n- Bovendien moet je handmatig Vanced instellen als de standaardapp voor het openen van YouTube-links.\n- De niet-root-variant is echter veel eenvoudiger te installeren en te gebruiken We raden u aan om vast te houden aan de niet-root-variant tenzij u de standaard YouTube-app op uw telefoon moet vervangen."
     }
   ]
