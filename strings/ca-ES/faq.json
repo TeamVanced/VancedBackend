@@ -1,11 +1,11 @@
 {
   "faq": [
     {
-      "title": "What is YouTube Vanced?",
-      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
+      "title": "Què és YouTube Vanced?",
+      "description": "YouTube Vanced és una versió modificada de YouTube amb noves funcions afegides que milloren la teva experiència amb YouTube!\n\nAquestes funcions inclouen:\n- Reproducció en segon pla,\n- Pantalla en pantalla (PiP),\n- Tema negre (idoni per a pantalles OLED),\n- Bloqueja els anuncis (requereix activació),\n- Forçar la resolució màxima (permet reproduir video amb una resolució superior a la de la teva pantalla),\n- ... i molt més!\n\nPer a més informació visita <https://vancedapp.com>"
     },
     {
-      "title": "Where is the Download button?",
+      "title": "On és el botó de descàrrega?",
       "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
