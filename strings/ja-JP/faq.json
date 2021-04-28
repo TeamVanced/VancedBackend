@@ -77,11 +77,11 @@
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "ビデオが再生できません",
+      "description": "アプリを再起動してみてください。もしくは、インターネットの接続、デバイスの問題の可能性があります。"
     },
     {
-      "title": "Why am I having the 480p limit?",
+      "title": "なぜ 480p に制限されているのですか?",
       "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
       "fields": [
         {
