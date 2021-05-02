@@ -5,16 +5,16 @@
       "description": "YouTube Vanced is een aangepaste versie van YouTube met functies en aanpassingen om jouw YouTube ervaring te verbeteren!\n\nFuncties omvatten:\n- Afspelen op de achtergrond,\n- Scherm-in-scherm (PiP), \n- Zwart thema (geschikt voor OLED)\n- Blokkeren van advertenties (vereist inschakelen)\n- Maximum resolutie overschrijven (hogere resolutie dan je scherm)\n- ...en nog veel meer!\n\nVoor meer informatie, ga naar <https://vancedapp.com>"
     },
     {
-      "title": "Waar is de download knop?",
+      "title": "Waar is de downloadknop?",
       "description": "Natuurlijk zal Google geen aangepaste versie hun eigen app in hun winkel toelaten, dus zoek niet naar Vanced in de Google Play Store, want dat zijn nep apps (behalve Vanced Gids).\n\nVanced apps kunnen gedownload en geïnstalleerd worden met behulp van Vanced Manager die je vindt op onze officiële website: <https://vancedapp.com> maar je kan Vancedook vinden op GitHub: <https://github.com/YTVanced/VancedManager/releases/latest>"
     },
     {
       "title": "Zal YouTube Vanced automatisch bijwerken?",
-      "description": "Nee, dat doet het niet.\n\nVanced Manager stuurt je een melding als er een update is.\n\nJe kunt je ook aansluiten bij onze [Discord Server](https://discord.gg/wYrRPgv) of volg het [Telegram kanaal](https://t.me/Vanced) voor het laatste nieuws en meldingen over updates."
+      "description": "Nee, dat doet het niet.\n\nVanced Manager stuurt je een melding als er een update is.\n\nJe kan je ook aansluiten bij onze [Discord-server](https://discord.gg/wYrRPgv) of het [Telegram-kanaal](https://t.me/Vanced) volgen voor het laatste nieuws en meldingen over updates."
     },
     {
       "title": "Kan Vanced video's downloaden?",
-      "description": "Vanced bevat geen functie om video te downloaden en dat zal ook nooit gebeuren.\n\nEr zijn veel video's beschikbaar om gratis te downloaden in [geselecteerde landen](https://support.google.com/youtube/answer/6141269). Voor de rest van de wereld, neem YouTube Premium of gebruik een 3e partij downloader.\n\nNogmaals, Vanced zal nooit een video downloader toevoegen aan de app of iets vergelijkbaars, dus vraag er ook niet naar !!!\n\nDit is immers de oorzaak voor het blokkeren en bannen van veel YouTube mods in het verleden, omdat Google niet tollereert dat mensen auteursrechtelijk beschermde inhoud downloaden van hun platform !"
+      "description": "Vanced bevat geen functie om video's te downloaden en dat zal ook nooit gebeuren.\n\nIn [bepaalde landen](https://support.google.com/youtube/answer/6141269) zijn er veel video's beschikbaar om gratis te downloaden. In de rest van de wereld kan je daarvoor een abonnement op YouTube Premium nemen.\n\nNogmaals, Vanced zal nóóit een videodownloader of iets vergelijkbaars aan de app toevoegen, dus vraag er ook niet naar!\n\nIn het verleden is dit immers de oorzaak voor het blokkeren en verbannen van veel YouTube-mods gebleken, omdat Google niet tolereert dat mensen auteursrechtelijk beschermde inhoud van hun platform downloaden!"
     },
     {
       "title": "Waarom werken de veeggebaren niet?",
@@ -29,8 +29,8 @@
       "description": "Wij accepteren geen enkele gift!\n\nIedere vorm van giften/donaties, onder welke omstandigheden dan ook, en op elke site, link of post zijn vervalst.\n\nMaar als je de Vanced ontwikkelaars wil steunen, dan kan je Brave downloaden via [deze link](https://brave.com/kev231) en AdGuard via [deze link](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "Hoe kan ik de speler lay-out automatisch verbergen?",
-      "description": "Je kan dit configureren in YouTube Vanced Settings > Toegankelijkheid. Als de instellingen niet openen of niet werken, ga dan naar de toegankelijkheidsinstellingen van jouw apparaat en schakel geluidsversterker, toegang schakelen, live ondertitels uit."
+      "title": "Hoe kan ik de lay-out van de speler automatisch verbergen?",
+      "description": "Je kan dit configureren in YouTube Vanced > Instellingen > Toegankelijkheid. Als de instellingen niet openen of niet werken, ga dan naar de toegankelijkheidsinstellingen van jouw apparaat en schakel de functies Geluidsversterker, Toegang via schakelaar en Live ondertiteling uit."
     },
     {
       "title": "Waarom split APKs gebruiken?",
@@ -70,7 +70,7 @@
     },
     {
       "title": "Is YouTube Vanced beschikbaar in de Play Store?",
-      "description": "NEE!\nNogmaals, installeer geen apps, en probeer zelfs niet te zoeken naar valse apps met de naam \"YouTube Vanced\" of iets soortgelijks in de Play Store of in andere app stores om Vanced te installeren.\n\nWe hebben enkel [Vanced Gids](https://play.google.com/store/apps/details?id=com.vanced.faq), en dat is de enige officiële app gepubliceerd in de Play Store.\n\nAls je een andere app met ons pictogram en/of naam vindt, rapporteer deze dan als imitatie en geef het een slechte beoordeling.\n\nOnze apps kunnen alleen gevonden worden op <https://vancedapp.com>."
+      "description": "NEE!\nNogmaals, installeer geen apps met de naam \"YouTube Vanced\" of iets soortgelijks in de Play Store of in andere appwinkels om Vanced te installeren. Het heeft dan ook geen zin om daar naar de app te zoeken.\n\n[Vanced Gids](https://play.google.com/store/apps/details?id=com.vanced.faq) is de enige officiële app die we in de Play Store hebben gepubliceerd.\n\nAls je een andere app met ons pictogram en/of onze naam vindt, rapporteer deze dan als imitatie en geef deze een slechte beoordeling.\n\nOnze apps kunnen alleen gevonden worden op <https://vancedapp.com>."
     },
     {
       "title": "Waarom wordt Vanced niet weergegeven op het startscherm of het app overzicht?",
