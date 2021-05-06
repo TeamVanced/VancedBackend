@@ -66,7 +66,7 @@
 			]
 		},
 		{
-			"title": "Installation failed because of the app conflicts with an already installed app. Uninstall the current version of the app and try again (INSTALL_FAILED_UPDATE_INCOMPATIBLE)",
+			"title": "Package conflict error after updating to Android 11 (INSTALL_FAILED_UPDATE_INCOMPATIBLE)",
 			"description": "This happens to users with OneUI and Oxygen OS when they update their system from android 10 to android 11, some custom ROMs faced it too,\n\nHence we have 3 solutions available for you",
 			"fields": [{
 					"title": "If you are not rooted, use ADB",
