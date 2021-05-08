@@ -22,7 +22,7 @@
     },
     {
       "title": " 無法開啟字幕？",
-      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
+      "description": "這不是 Vanced 或是 Youtube 的問題，並不是每部影片都有字幕。"
     },
     {
       "title": "你們接受捐款嗎？",
@@ -37,11 +37,11 @@
       "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
     },
     {
-      "title": "Why the colour in the startup screen is different from the theme?",
+      "title": "為甚麼啟動畫面的顏色跟主題不一樣？",
       "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
     },
     {
-      "title": "Should I re-download the installation files?",
+      "title": "我應該重新下載安裝檔嗎？",
       "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
     },
     {
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "title": "How to hide the microG notification?",
+      "title": "要怎麼隱藏 microG 的通知？",
       "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {

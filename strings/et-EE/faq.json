@@ -5,32 +5,32 @@
       "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
     },
     {
-      "title": "Where is the Download button?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Kus on nupp Allalaadimine?",
+      "description": "Muidugi ei luba Google oma poes oma rakenduse muudetud versiooni olla, nii et ärge otsige seda Google Play poest, need on võltsrakendused.\n\nVanced-rakendusi saab alla laadida ja installida Vanced Manageri abil, mille leiate meie ametlikust veebisaidilt: <https://vancedapp.com>, kuid võite selle haarata ka saidilt [GitHub repo] (https://github.com/YTVanced/ VancedManager / väljaanded / uusimad)"
     },
     {
-      "title": "Does YouTube Vanced auto-update?",
+      "title": "Kas YouTube Vanced uueneb automaatselt?",
       "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
     },
     {
-      "title": "Can Vanced download videos?",
+      "title": "Kas Vanced saab videoid alla laadida?",
       "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
     },
     {
-      "title": "Why the swipe gestures doesn't work?",
+      "title": "Miks pühkimisžestid ei tööta?",
       "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
     },
     {
-      "title": "Captions not available?",
-      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
+      "title": "Subtiitrid pole saadaval?",
+      "description": "See pole Vancedi ega YouTube'iga seotud probleem. Kõigil videotel pole pealdisi."
     },
     {
-      "title": "Do you take donations?",
-      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "Kas sa võtate annetusi?",
+      "description": "Annetusi me EI võta vastu!\n\nIgasugused annetused ja annetusi nõudvad saidid või lingid või postitused on lihtsalt võltsitud.\n\nAga kui soovite toetada Vancedi arendajaid, võite Brave'i alla laadida [see link](https://brave.com/kev231) ja AdGuard kasutades [see link](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "How to make the player layout auto-hide?",
-      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
+      "title": "Kuidas muuta mängija paigutus automaatselt peidetuks?",
+      "description": "Selle saate konfigureerida jaotises YouTube Vanced> Seaded> Juurdepääsetavus. Kui seadeid ei õnnestu avada või need ei tööta, minge seadme juurdepääsetavuse seadetesse ja keelake helivõimendi, juurdepääs lülitile, otseülekanne."
     },
     {
       "title": "Why using split APKs?",
@@ -45,27 +45,27 @@
       "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
     },
     {
-      "title": "Why does the root version don't have Microphone permission?",
-      "description": "It does if your Vanced is up-to-date."
+      "title": "Miks pole rootversioonil mikrofoni luba?",
+      "description": "Seda saab teha, kui teie Vanced on ajakohane."
     },
     {
-      "title": "What is ExoPlayer v1?",
-      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
+      "title": "Mis on ExoPlayer v1?",
+      "description": "See on YouTube'i praeguse meediumipleieri vanem versioon. Selle kasutamisel võite saada parema jõudluse ja stabiilsuse."
     },
     {
       "title": "How to enable hidden settings?",
       "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
+      "title": "Miks juurvariant ei tööta microG Core'iga?",
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "It works if your microG is up-to-date."
+      "title": "Miks casting ei toimi?",
+      "description": "See töötab, kui teie microG on ajakohane."
     },
     {
-      "title": "What is APK Signing?",
+      "title": "Mis on APK allkirjastamine?",
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
@@ -77,12 +77,12 @@
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "Miks videoid ei esitata?",
+      "description": "Proovige rakendus taaskäivitada. See võib juhtuda ka Interneti-ühenduse või seadme tõttu."
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "Miks on mul 480p piirang?",
+      "description": "COVID-19 tõttu piirab Google mitme riigi andmekasutust. See juhtub serveris ja mõjutab nii Vancedsi kui ka YouTube'i aktsiakasutajaid.",
       "fields": [
         {
           "title": "Workarounds:",
@@ -95,7 +95,7 @@
       "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
+      "title": "Kas 1440p näeb minu 1080p ekraanil parem välja?",
       "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
     }
   ]

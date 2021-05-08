@@ -1,102 +1,102 @@
 {
   "faq": [
     {
-      "title": "YouTube Vanced とは?",
-      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
+      "title": "YouTube Vanced とは？",
+      "description": "YouTube Vanced はあなたの YouTube 体験をより豊かにする便利な機能を備えた改造版の YouTube アプリです。\n\n例えばこのような機能が含まれています:\n- バックグラウンド再生\n- ピクチャー イン ピクチャー（PiP）\n- ダークテーマ（有機 EL 向け）\n- 広告ブロック（デフォルトではオフ）\n- 最高画質の上書き（デバイスの画面以上の画質で動画を再生）\n- ...などなど！\n\n詳細についてはこちら\n<https://vancedapp.com>"
     },
     {
-      "title": "ダウンロードボタンはどこにありますか?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "どこからダウンロードできますか？",
+      "description": "当然ながら、Google のアプリの改造版を Google Play ストアに公開することは認められません。Play ストアにある Vanced アプリは偽物ですのでご利用はお控えください。\n\nVanced アプリのダウンロードとインストールは公式ホームページ <https://vancedapp.com> で公開されている Vanced Manager から行ってください。Vanced Manager は [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest) からもダウンロードできます。"
     },
     {
-      "title": "YouTube Vanced は自動的に更新されますか?",
-      "description": "いいえ。\n\nVanced Manager は更新が可能になり次第、通知を送信します。\n\nまた、[Discord サーバー](https://discord.gg/wYrRPgv) に参加するか、[Telegram チャンネル](https://t.me/Vanced)をフォローすることで最新のニュースを受け取ることもできます。"
+      "title": "YouTube Vanced は自動更新されますか？",
+      "description": "いいえ。\n\nVanced Manager は新しいバージョンが公開され次第、通知を送信します。\n\nまた、[Discord サーバー](https://discord.gg/wYrRPgv) に参加するか、[Telegram チャンネル](https://t.me/Vanced) をフォローすることで最新のニュースを受け取ることもできます。"
     },
     {
-      "title": "Vanced は動画をダウンロードできますか?",
-      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
+      "title": "Vanced は動画をダウンロードできますか？",
+      "description": "Vanced には動画をダウンロードする機能はなく、これからも絶対に実装しません。\n\n[いくつかの国](https://support.google.com/youtube/answer/6141269)ではほとんどの動画を無料でダウンロードできますが、その他の国では YouTube Premium が必要です。\n\nもう一度繰り返しますが、Vanced は絶対にダウンロード機能や類似の機能を実装しません。\n\nGoogle は著作権保護されたコンテンツをダウンロードされることに対して厳格であるため、ダウンロード機能を実装したことでいくつもの改造版 YouTube アプリが閉鎖されてきました。Vanced がダウンロード機能を実装することはありませんのでリクエストしないでください。"
     },
     {
-      "title": "スワイプジェスチャーが動作しないのはなぜですか?",
-      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
+      "title": "スワイプジェスチャーが動作しないのはなぜですか？",
+      "description": "Vanced 設定 > レイアウト設定で、コメントの場所を下部（古い場所）に設定している場合、スワイプジェスチャーは動作しません。上部（新しい場所）に設定してアプリを再起動してください。それでもスワイプジェスチャーが動作しない場合は、アプリを強制終了し、データを消去してください。"
     },
     {
-      "title": "字幕が利用できませんか?",
-      "description": "それは問題ではありません。すべての動画に字幕があるわけではありません。"
+      "title": "字幕を利用できませんか？",
+      "description": "Vanced や YouTube の問題ではありません。すべての動画に字幕があるわけではありません。"
     },
     {
-      "title": "寄付を受け付けていますか?",
-      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "寄付を受け付けていますか？",
+      "description": "寄付は受け付けていません！\n\n状況や寄付の種類に関わらず、寄付を求めるサイトやリンク、投稿はすべて偽物です。.\n\nVanced 開発者をサポートしたい場合はリンクから [Brave ブラウザ](https://brave.com/kev231)または[AdGuard](https://adguard.com/en/welcome.html?aid=31141)をダウンロードしてください。"
     },
     {
-      "title": "How to make the player layout auto-hide?",
-      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
+      "title": "プレイヤーのレイアウトを自動的に非表示にする方法は？",
+      "description": "設定 > ユーザー補助から設定できます。設定を開けないまたは設定できない場合は、デバイスのユーザー補助設定で Sound Amplifier、Voice Access、Live Caption を無効にしてください。"
     },
     {
-      "title": "なぜ分割 APK を使用するのですか?",
-      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
+      "title": "なぜ分割 APK を使用するのですか？",
+      "description": "大きく3つの理由があります:\n\n1. 通常版のアプリが分割 APK を使用しているため\n2. 必要な言語のみインストールするのでストレージの使用量を削減できるため\n3. デバイスが必要とする core APK は 1 種類であるため\n\nもちろん、通常の APK に変換することも技術的には可能ですが Vanced 開発者は行わないことにしています。今あるものをご活用ください。\n\nVanced Manager が手間のかかる作業をすべて行い、あなたは`Install`ボタンを押すだけでアプリをご利用いただけます。"
     },
     {
-      "title": "Why the colour in the startup screen is different from the theme?",
-      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
+      "title": "起動画面の色がテーマと異なるのはなぜですか？",
+      "description": "起動画面の背景色はシステムのテーマによって決定される Android フレームワークの色が反映されています。[Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) や [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) などのアプリを利用して変更することができます。"
     },
     {
-      "title": "Should I re-download the installation files?",
-      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
+      "title": "インストールファイルを再ダウンロードする必要がありますか？",
+      "description": "さまざまな理由でファイルが破損する可能性があり、その後問題が発生する場合があります。この問題を回避しスムーズなインストールを行うため、再ダウンロードを選択できます。"
     },
     {
-      "title": "Why does the root version don't have Microphone permission?",
-      "description": "It does if your Vanced is up-to-date."
+      "title": "root 版にマイクの権限がないのはなぜですか？",
+      "description": "Vanced の最新バージョンでは必要です。"
     },
     {
-      "title": "ExoPlayer v1 とは?",
-      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
+      "title": "ExoPlayer v1 とは？",
+      "description": "これは、YouTube で使用されているメディアプレーヤーの古いバージョンです。使用するとパフォーマンスと安定性が向上する可能性があります。"
     },
     {
-      "title": "非表示設定を有効にするには?",
-      "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
+      "title": "隠し設定を有効にするには？",
+      "description": "Vanced 設定で、6~7回「Vanced について」セクションをタップすることで有効になります。これにより、追加のコーデック設定が有効になります。"
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "root variant で microG が動作しないのはなぜですか？",
+      "description": "1. Vanced を使用するには、GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant 以上が必要です。\n\n2. GApps パッケージで利用可能な Google Play サービスフレームワークがない場合には、Vanced で microG Core を利用できません。また、ライブラリーが必要です。\n\n3. プライバシーに関する懸念があり GApps を使わずに YouTube をご覧になりたい場合は、[ウェブ版](https://youtube.com)をご利用ください。"
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "It works if your microG is up-to-date."
+      "title": "なぜ Cast できないのですか？",
+      "description": "microG のアップデートが必要です。"
     },
     {
-      "title": "APK 署名とは何ですか?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "APK 署名とは何ですか？",
+      "description": "この質問は Vanced Manager をご利用でないか、非公式ソースから Vanced をダウンロードしているときに発生します。Vanced Manager をお使いください！\n\nVanced Manager は以下のリンクから安全にダウンロードできます:\n- 公式サイト <https://vancedapp.com>\n- [GitHub リポジトリ](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "YouTube Vanced は Play Store で入手できますか?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
+      "title": "YouTube Vanced は Play ストアからダウンロードできますか？",
+      "description": "いいえ！\nPlay ストアで「YouTube Vanced」と検索したり、Vanced を名乗るアプリや類似のアプリをインストールするのはお控えください。\n\nPlay ストアに公開されている公式アプリは [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) のみです。\n\nもしアイコンを盗用した偽アプリを発見した場合は、なりすましとして報告し低評価をつけてください。\n\n公式アプリは <https://vancedapp.com> のみでリリースされます。"
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "なぜホーム画面やアプリのドロワーに Vanced が表示されないのですか？",
+      "description": "この質問は Vanced Manager をご利用でないか、非公式ソースから Vanced をダウンロードしているときに発生します。Vanced Manager をお使いください！\n\nVanced Manager は以下のリンクから安全にダウンロードできます:\n- 公式サイト <https://vancedapp.com>\n- [GitHub リポジトリ](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "なぜビデオが再生できないのですか？",
+      "description": "アプリを再起動してみてください。回復しない場合は、インターネット接続やデバイスの問題である可能性があります。"
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "なぜ 480p に制限されているのですか？",
+      "description": "COVID-19 の影響により、Google はいくつかの国でデータ使用を制限しています。これはサーバー上の制限のため、Vanced ユーザーと Stock YouTube ユーザーの両方に影響を与えます。",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "よくある不具合の回避方法:",
+          "content": "1. 異なる地域に VPN を接続する\n2. [ウェブ版](https://youtube.com)を使う\n3. 480p の制限は携帯電話のみに適用され、タブレットには適用されないため、YouTube Vanced でデバイスのモデル名を変更して、制限を回避することができます。\n\n#### デバイスのモデル名を変更する方法\n1. YouTube Vanced を開く\n2. 設定を開く\n3. 「Vanced 設定」を開く\n4. 以下の手順で隠し設定を有効にする:\n  - 1 番下までスクロールし「Vanced について」のセクションを「隠し設定が有効になりました」というメッセージがタップされるまで繰り返しタップします。\n5. 「コーデックの上書き」セクションを開く\n6. メーカーを「Samsung」、モデルを「SM-T865」に設定する\n7. アプリを再起動する\n\n再起動後は、480p 制限が解除されています。"
         }
       ]
     },
     {
-      "title": "どうやって microG の通知を非表示にしますか?",
-      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "title": "どうやって microG の通知を非表示にしますか？",
+      "description": "microG の通知を隠すには、バッテリー最適化を無効にしてデバイスを再起動してください。\n\n再起動後も通知が表示されている場合には、microG の通知を長押ししてバッテリー最適化を無効にしてください。\n\nAndroid の システム UI 上から通知を非表示にすることもできます。Android で通知を無効にする方法は Google のヘルプをご覧ください。"
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "1080p の画面で 1440p に設定する意味がありますか？",
+      "description": "18 : 9 や 21 : 9 比率の動画である場合は有効です。設定 > 全般で「統計情報」を有効にして確認できます。\n\nより高い解像度を有効にするには、Vanced 設定 > 動画設定 に移動し、「最高画質」をオンにしてアプリを再起動します。"
     }
   ]
 }

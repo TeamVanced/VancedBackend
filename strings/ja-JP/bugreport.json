@@ -1,20 +1,20 @@
 {
   "bugreport": [
     {
-      "title": "バグを報告するには?",
-      "description": "私達の [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center) でissueを作成することで、バグ報告ができます。\n\nissueを開く前に、その問題がすでに報告されいないことを確認してください!",
+      "title": "バグを報告するには？",
+      "description": "私達の [Github Issue Center]（https://github.com/YTVanced/Vanced#vanced-issue-center）で issue を作成することで、バグ報告ができます。\n\nissue を作成する前に、その問題がすでに報告されいないことを確認してください！",
       "fields": [
         {
-          "title": "私のissueはいつreviewされますか?",
-          "content": "開発者は、新しい機能を作成したり、多くの問題を解決するための時間を割いています。それは、終わるまでに時間がかかることがあります。 \nあなたに求められることは、じっと座って待つことです。issueはできるだけ早くレビューされます。"
+          "title": "私の issue はいつ review されますか？",
+          "content": "開発者は、新機能の追加や、問題の修正に多くの時間を割いており、これらの作業には時間がかかることがあります。 \nできるだけ早く issue のレビューを行うよう心がけていますのでもうしばらくお待ちください。"
         },
         {
-          "title": "logcatを取るにはどうすればいいですか?",
-          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this. You can follow the instructions [in here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "title": "logcat を取るにはどうすればいいですか？",
+          "content": "通常版（no-root 版）\nlogcat の取得には PC が必要です。[テキストガイド](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc)と[動画ガイド](https://youtu.be/ICLpwgsJJP0)をご覧ください。\n\nroot 版\nlogcat の取得に PC は不要です。[こちら](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)のページをご覧ください。"
         },
         {
-          "title": "UI に関連するバグですか?",
-          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
+          "title": "UI に関連するバグの場合",
+          "content": "UI に関連するバグの場合、追加の手順が必要です。\n\n[Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)をインストールして初期設定をしてください。\nその後、Vanced に移動してバグを再現し、DeveloperAssistant を起動してレイアウトビューアを開きます。\n\n以下の手順に従ってください:\n1. スクリーンにバグ部分が表示されるようにしてください\n2. バグによる影響を受けていると思われる要素をタップしてください\n3. 「Element」と「Hierarchy」のタブを開き、スクリーンショットを撮ってください\n4. issue にスクリーンショットを添付してください"
         }
       ]
     }
