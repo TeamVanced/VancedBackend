@@ -57,8 +57,8 @@
       "description": "Vanced ayarlarında, `Hakkında` kısmına 6-7 defa dokunarak, gizlenmiş ek video çözücüsü ayarlarını etkinleştirebilirsin. "
     },
     {
-      "title": "YouTube Vanced'ı, nasıl varsayılan uygulama yapabilirim?",
-      "description": "\n As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n \nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube. \n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "title": "YouTube Vanced'ı, varsayılan uygulama olarak nasıl ayarlarım?",
+      "description": "Başlıkta yazan soruyu kullanıcıların birçoğu, bu soruyu sürekli sorup duruyor. \"YouTube Vanced uygulamasını, diğer uygulamalarda linke bastığımızda, varsayılan olarak açılmasını nasıl ayarlarız?\" falan şeklinde.\n\nRoot sürümünde YouTube Vanced, orijinal YouTube uygulaması ile yer değiştirdiği için varsayılan olarak ayarlanmaktadır.\n\nRoot olmayan sürümünde ise çözüm, OneUI, MIUI ve \"gerisi\" olacak şekilde ayrı ayrı şekilde aşağıda anlatıldı. Piyasada bulunan her işletim sistemi için özel olarak çözüm sağlayamayacağımız için, Google'da arama yapman da gerekebilir.",
       "fields": [
         {
           "title": "OneIO kullanıcıları:",
@@ -69,7 +69,7 @@
           "content": "Ayarlardan \"Varsayılan uygulamalar\"ı aramalı veya Uygulamalar > Uygulamaları yönet > [sağ köşedeki üç noktaya dokun] > Varsayılan uygulamalar > Bağlantıları aç, adımlarını izlemelisin. Uygulamalar listelendikten sonra listenin aşağısında YouTube veya YouTube Vanced'ı bulup dokun. Sonrasında \"**Destekleyen bağlantıları aç**\" ayarını, \"**Açık**\" olarak seçmelisin."
         },
         {
-          "title": "AOSP & other custom skin users(includes OOS, ColorOS, EMUI, etc.):",
+          "title": "AOSP & özelleştirilmiş diğer arayüzler (OOS, ColorOS, EMUI, vb.):",
           "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced. \n\n2. Open Google Chrome. \n\n3. Search for some YouTube videos on Google. \n\n4. Open links with YouTube vanced app and set as always. \n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
         }
       ]
@@ -80,7 +80,7 @@
     },
     {
       "title": "Yayınlama özelliği neden çalışmıyor?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "description": "v16.16.38 root olmayan sürümünde microG kaynaklı hata bulunmaktadır. Sorun çözülene kadar beklemeli veya v15 sürümüne dönüş yapman gerekiyor. Google Play Hizmetlerini kullanan root sürümünde her hangi bir sorun yaşanmamaktadır."
     },
     {
       "title": "APK imzası nedir?",
