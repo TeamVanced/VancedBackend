@@ -57,12 +57,30 @@
       "description": "בהגדרות Vanced, הקש על 'אודות' 6-7 פעמים כדי לאפשר הגדרות נסתרות. תחת ההגדרות הנסתרות ישנן רק הגדרות מקודד וידאו נוספות."
     },
     {
+      "title": "איך להפוך את YouTube Vanced לאפליקציית ברירת המחדל שלי?",
+      "description": "> For root, it is already set by default since YouTube Vanced gets replaced with Stock YouTube. \n2> For non-root: \n3As the title says, a lot of users been asking many times how they can make vanced as default for opening links from other apps(mainly when they open from a browser, messaging apps and many other apps). This functionality can better be fixed permanently with the root version as it just replaces the stock YouTube app anyway. But non-root doesn't replace it as it got a different package name and gets installs as a normal standard app. \n4The solution has been divided between OneUI, MIUI and the rest since we can't possibly provide solutions to every OS there is.",
+      "fields": [
+        {
+          "title": "משתמשי OneUI:",
+          "content": "עליך לגרום לאפליקציית YouTube לפתוח קישורים באפליקציה אחרת. הגדר את האפשרות \"עבור לכתובות אתרים נתמכות\" ל\"באפליקציה אחרת\"."
+        },
+        {
+          "title": "משתמשי MIUI:",
+          "content": "פתח את ההגדרות של אפליקציית \"ברירת המחדל\" ובחר 'פתיחת קישורים'. שם אתה צריך לבחור ב־YouTube ולדחות פתיחת קישורים דרכה וב־Youtube Vanced, לבחור לקבל את כל הקישורים הנתמכים וזה יתחיל לעבוד."
+        },
+        {
+          "title": "משתמשי רומים מבוססי אנדרואיד וערכות נושא מותאמות אישית (כולל OOS, ColorOS, EMUI וכו'):",
+          "content": "1. בחרו באפשרות \"שאל בכל פעם\" גם לאפליקציית YouTube הרגילה וגם ל־Vanced. \n\n2. פתחו את Google Chrome. \n\n3. חפשו כמה סרטוני YouTube בגוגל. \n\n4. פתחו קישורים עם YouTube Vanced והגדירו אותה כמו תמיד. \n\n5. חזרו להגדרות שבהן הגדרתם \"שאל בכל פעם\" ל־YouTube, וכעת שנו את זה ל\"אל תפתח באפליקציה הזו\"."
+        }
+      ]
+    },
+    {
       "title": "מדוע הגרסה בעלת הרשאות Root אינה עובדת עם גרסת הליבה של microG?",
-      "description": "1. צריך שיהיה לך לפחות את גרסת pico (להתקנה מכאן: https://github.com/opengapps/opengapps/wiki/Pico-Package) של GApps כדי להריץ את Vanced.\n\n2. אינך יכול להריץ Vanced עם microG Core ללא מסגרת שירותי Google Play אשר זמינה בכל חבילות GApps וזו ספריה נדרשת.\n\n3. אם אתה חושש מהפרטיות שלך ואינך רוצה להשתמש ב־GApps אך עדיין רוצה להשתמש ב־YouTube ללא מודעות, גרסת האינטרנט (בכתובת https://youtube.com) תמיד זמינה לרשותך."
+      "description": "1. צריך שיהיה לך לפחות את גרסת [pico](להתקנה מכאן: https://github.com/opengapps/opengapps/wiki/Pico-Package) של GApps כדי להריץ את Vanced.\n\n2. אינך יכול להריץ Vanced עם microG Core ללא מסגרת שירותי Google Play אשר זמינה בכל חבילות GApps וזו ספריה נדרשת.\n\n3. אם אתה חושש מהפרטיות שלך ואינך רוצה להשתמש ב־GApps אך עדיין רוצה להשתמש ב־YouTube ללא מודעות, גרסת האינטרנט (בכתובת https://youtube.com) תמיד זמינה לרשותך."
     },
     {
       "title": "למה ההזרמה לא עובדת?",
-      "description": "זה עובד רק אם גרסת microG שברשותך מעודכנת."
+      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
     },
     {
       "title": "מהי חתימת APK?",
@@ -77,7 +95,7 @@
       "description": "אתה קורא את ההודעה הזו כיוון שאתה לא משתמש ב־Vanced Manager או שהתקנת את Vanced ממקור לא רשמי.\nפשוט השתמש ב־Vanced Manager!\n\nאתה יכול להוריד את Vanced Manager בבטחה מ:\n- האתר הרשמי <https://vancedapp.com>\n- עמוד הגיטהאב <https://github.com/YTVanced/VancedManager/releases/latest>"
     },
     {
-      "title": "מדוע סרטונים לא מופעלים?",
+      "title": "מדוע סרטונים לא פועלים?",
       "description": "נסה להפעיל מחדש את האפליקציה. זה יכול להיות גם בגלל חיבור האינטרנט שלך או המכשיר שלך."
     },
     {
