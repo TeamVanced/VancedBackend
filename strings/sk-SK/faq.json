@@ -58,7 +58,7 @@
     },
     {
       "title": "Ako nastaviť YouTube Vanced ako predvolenú aplikáciu?",
-      "description": "\n As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n \nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube. \n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Ako hovorí nadpis, veľa používateľov sa už mnohokrát pýta, ako môžu nastaviť YouTube Vanced ako predvolený pri otváraní odkazov z iných aplikácií (ako sú prehliadače, aplikácie na odosielanie správ a iné aplikácie).\n\nPoužívatelia s rootom nemajú žiadny problém, pretože YouTube Vanced to urobí za nich po nahradení pôvodnej aplikácie YouTube.\n\nPre používateľov bez rootu sa riešenie delí na OneUI, MIUI a ostatných. Nemôžeme tu poskytovať riešenia pre každý OS, tažke použite na to Google.",
       "fields": [
         {
           "title": "Používatelia OneUI:",
@@ -69,7 +69,7 @@
           "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
         },
         {
-          "title": "AOSP & other custom skin users(includes OOS, ColorOS, EMUI, etc.):",
+          "title": "Používatelia AOSP a ostatných UI (OOS, ColorOS, EMUI, atď..):",
           "content": "1. Vyberte \"Vždy sa opýtať\" pre pôvodnú YouTube aplikáciu a vanced. \n\n2. Otvorte Google Chrome. \n\n3. Vyhľadajte nejaké YouTube videá na Googli. \n\n4. Otvorte odkazy v aplikácii YouTube vanced a nastavte Otvárať v tejto aplikácii. \n\n5. Vráťte sa naspäť do nastavení, tam kde ste nastavili \"Vždy sa opýtať\" pre YouTube, zmeňte na \"Neotvárať v tejto aplikácii\"."
         }
       ]
