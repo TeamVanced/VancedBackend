@@ -58,7 +58,7 @@
     },
     {
       "title": "Jak nastavit YouTube Vanced jako výchozí aplikaci?",
-      "description": "\n Jak název napovídá, spousta uživatelů se mnohokrát ptá, jak můžou nastavit YouTube Vanced jako výchozí pro otevírání odkazů z jiných aplikací (jako jsou prohlížeče, aplikace pro zasílání zpráv a jakékoli jiné aplikace).\n \nUživatelé root verze se nemusejí obávat, protože ve výchozím nastavení je aplikace YouTube nahrazena aplikací YouTube Vanced. \n\nPro užívatele non-root verze byla řešení rozdělena mezi OneUI, MIUI a ostatní.  Nemůžeme poskytnout řešení pro každý operační systém, který je k dispozici, a budete si je možná muset vyhledat sami.",
+      "description": "Jak název napovídá, spousta uživatelů se mnohokrát ptá, jak můžou nastavit YouTube Vanced jako výchozí pro otevírání odkazů z jiných aplikací (jako jsou prohlížeče, aplikace pro zasílání zpráv a jakékoli jiné aplikace).\n \nUživatelé root verze se nemusejí obávat, protože ve výchozím nastavení je aplikace YouTube nahrazena aplikací YouTube Vanced. \n\nPro užívatele non-root verze byla řešení rozdělena mezi OneUI, MIUI a ostatní.  Nemůžeme poskytnout řešení pro každý operační systém, který je k dispozici, a budete si je možná muset vyhledat sami.",
       "fields": [
         {
           "title": "Uživatelé OneUI:",
@@ -69,7 +69,7 @@
           "content": "Otevřete Nastavení a vyhledejte \"Výchozí aplikace\" nebo přejděte do Aplikace > Správa aplikací > [stiskněte tři tečky v pravém rohu] > Výchozí aplikace > Otevírání odkazů. V seznamu aplikací najděte YouTube nebo YouTube Vanced a klepněte na ni. Pak nastavte nastavení \"**Otevírat podporované odkazy**\" jako \"**Otevírat**\" místo \"Vždy se dotázat\" nebo \"Neotevírat\"."
         },
         {
-          "title": "Uživatelé AOSP a ostatních nadstaveb (zahrnuje OOS, ColorOS, EMUI, atd.):",
+          "title": "Uživatelé AOSP a ostatních UI (OOS, ColorOS, EMUI, atd.):",
           "content": "1. Vyberte \"vždy se dotázat\" pro výchozí aplikaci YouTube i Vanced.\n\n2. Otevřete Google Chrome.\n\n3. Vyhledejte na Google nějaká YouTube videa.\n\n4. Otevřete odkazy pomocí aplikace YouTube Vanced a nastavte možnost \"vždy\".\n\n5. Vraťte se do nastavení, jde jste YouTube nastavili na \"vždy se dotázat\" a změňte to na \"neotevírat v této aplikaci\"."
         }
       ]
