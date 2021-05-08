@@ -57,12 +57,30 @@
       "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
     },
     {
+      "title": "How to make YouTube Vanced as default app?",
+      "description": "> For root, it is already set by default since YouTube Vanced gets replaced with Stock YouTube. \n2> For non-root: \n3As the title says, a lot of users been asking many times how they can make vanced as default for opening links from other apps(mainly when they open from a browser, messaging apps and many other apps). This functionality can better be fixed permanently with the root version as it just replaces the stock YouTube app anyway. But non-root doesn't replace it as it got a different package name and gets installs as a normal standard app. \n4The solution has been divided between OneUI, MIUI and the rest since we can't possibly provide solutions to every OS there is.",
+      "fields": [
+        {
+          "title": "OneUI users:",
+          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+        },
+        {
+          "title": "MIUI users:",
+          "content": "Open \"default app\" settings and select opening links. There you have to select YouTube and deny opening links and in Youtube Vanced, accept all supported links and it'll start to work."
+        },
+        {
+          "title": "AOSP & other custom skin users(includes OOS, ColorOS, EMUI, etc.):",
+          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced. \n\n2. Open Google Chrome. \n\n3. Search for some YouTube videos on Google. \n\n4. Open links with YouTube vanced app and set as always. \n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+        }
+      ]
+    },
+    {
       "title": "Why the root variant doesn't work with microG Core?",
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
       "title": "Why casting doesn't work?",
-      "description": "It works if your microG is up-to-date."
+      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
     },
     {
       "title": "What is APK Signing?",
