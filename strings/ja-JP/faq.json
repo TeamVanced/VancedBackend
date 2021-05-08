@@ -2,22 +2,22 @@
   "faq": [
     {
       "title": "YouTube Vanced とは？",
-      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
+      "description": "YouTube Vanced はあなたの YouTube 体験をより豊かにする便利な機能を備えた改造版の YouTube アプリです。\n\n例えばこのような機能が含まれています:\n- バックグラウンド再生\n- ピクチャー イン ピクチャー（PiP）\n- ダークテーマ（有機 EL 向け）\n- 広告ブロック（デフォルトではオフ）\n- 最高画質の上書き（デバイスの画面以上の画質で動画を再生）\n- ...などなど！\n\n詳細についてはこちら\n<https://vancedapp.com>"
     },
     {
-      "title": "ダウンロードボタンはどこにありますか?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "どこからダウンロードできますか？",
+      "description": "当然ながら、Google のアプリの改造版を Google Play ストアに公開することは認められません。Play ストアにある Vanced アプリは偽物ですのでご利用はお控えください。\n\nVanced アプリのダウンロードとインストールは公式ホームページ <https://vancedapp.com> で公開されている Vanced Manager から行ってください。Vanced Manager は [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest) からもダウンロードできます。"
     },
     {
-      "title": "YouTube Vanced は自動的に更新されますか?",
-      "description": "いいえ。\n\nVanced Manager は更新が可能になり次第、通知を送信します。\n\nまた、[Discord サーバー](https://discord.gg/wYrRPgv) に参加するか、[Telegram チャンネル](https://t.me/Vanced)をフォローすることで最新のニュースを受け取ることもできます。"
+      "title": "YouTube Vanced は自動更新されますか？",
+      "description": "いいえ。\n\nVanced Manager は新しいバージョンが公開され次第、通知を送信します。\n\nまた、[Discord サーバー](https://discord.gg/wYrRPgv) に参加するか、[Telegram チャンネル](https://t.me/Vanced) をフォローすることで最新のニュースを受け取ることもできます。"
     },
     {
-      "title": "Vanced は動画をダウンロードできますか?",
-      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
+      "title": "Vanced は動画をダウンロードできますか？",
+      "description": "Vanced には動画をダウンロードする機能はなく、これからも絶対に実装しません。\n\n[いくつかの国](https://support.google.com/youtube/answer/6141269)ではほとんどの動画を無料でダウンロードできますが、その他の国では YouTube Premium が必要です。\n\nもう一度繰り返しますが、Vanced は絶対にダウンロード機能や類似の機能を実装しません。\n\nGoogle は著作権保護されたコンテンツをダウンロードされることに対して厳格であるため、ダウンロード機能を実装したことでいくつもの改造版 YouTube アプリが閉鎖されてきました。Vanced がダウンロード機能を実装することはありませんのでリクエストしないでください。"
     },
     {
-      "title": "スワイプジェスチャーが動作しないのはなぜですか?",
+      "title": "スワイプジェスチャーが動作しないのはなぜですか？",
       "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
     },
     {
