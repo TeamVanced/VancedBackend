@@ -57,12 +57,30 @@
       "description": "Vanced 設定で、6~7回「Vanced について」セクションをタップすることで有効になります。これにより、追加のコーデック設定が有効になります。"
     },
     {
-      "title": "root variant で microG が動作しないのはなぜですか？",
-      "description": "1. Vanced を使用するには、GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant 以上が必要です。\n\n2. GApps パッケージで利用可能な Google Play サービスフレームワークがない場合には、Vanced で microG Core を利用できません。また、ライブラリーが必要です。\n\n3. プライバシーに関する懸念があり GApps を使わずに YouTube をご覧になりたい場合は、[ウェブ版](https://youtube.com)をご利用ください。"
+      "title": "YouTube Vanced をデフォルトのアプリに設定する方法は？",
+      "description": "\n ブラウザやメッセージアプリなどから YouTube のリンクを開くときに使用するデフォルトのアプリに Vanced を設定する方法です。これは特によくある質問です。\n \nroot 版では、YouTube Vanced は公式アプリ置き換えているためすでにデフォルトに設定されています。 \n\nnon-root 版では、OneUI や MIUI などがあり解決方法が異なるためここで共通の解決方法を示すことはできません。ご使用の OS にあった設定方法をウェブ検索してください。",
+      "fields": [
+        {
+          "title": "OneUI ユーザー:",
+          "content": "YouTube アプリを他のアプリでリンクを開くように設定する必要があります。「Go to supported URLs」を「in other app」に設定してください。"
+        },
+        {
+          "title": "MIUI ユーザー:",
+          "content": "「設定」を開き「デフォルトのアプリ」を検索するか アプリ> アプリを管理 > [右上の 3 点ドット] > デフォルトのアプリ > リンクを開く に移動します。公式版 YouTube の「対応リンクを開く」の設定を「開かない」に設定し、YouTube Vancedの「対応リンクを開く」の設定を「開く」に設定する。"
+        },
+        {
+          "title": "AOSP およびその他のカスタム UI ユーザー（OOS、ColorOS、EMUI など）:",
+          "content": "1. 公式版 YouTube アプリと Vanced で「毎回リンクを開く」に設定する \n\n2. Google Chrome を開く \n\n3. YouTube の動画を検索する \n\n4. リンクを YouTube Vanced で開き、常時に設定する \n\n5. 設定に戻り、公式 YouTube アプリの設定を「毎回確認する」から「このアプリで開かない」に変更する"
+        }
+      ]
+    },
+    {
+      "title": "root 版で microG が動作しないのはなぜですか？",
+      "description": "1. Vanced を使用するには、GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 以上が必要です。\n\n2. GApps パッケージで利用可能な Google Play サービスフレームワークがない場合には、Vanced で microG Core を利用できません。また、ライブラリーが必要です。\n\n3. プライバシーに関する懸念があり GApps を使わずに YouTube をご覧になりたい場合は、[ウェブ版](https://youtube.com)をご利用ください。"
     },
     {
       "title": "なぜ Cast できないのですか？",
-      "description": "microG のアップデートが必要です。"
+      "description": "最新の v16.16.38 non-root 版をお使いの場合、microG にバグがあります。 それが解決されるまでアップデートをお待ちいただくか、バージョン15にロールバックしてください。root 版ユーザーは Google Play サービスを使用している場合、Cast に問題はありません。"
     },
     {
       "title": "APK 署名とは何ですか？",
@@ -85,7 +103,7 @@
       "description": "COVID-19 の影響により、Google はいくつかの国でデータ使用を制限しています。これはサーバー上の制限のため、Vanced ユーザーと Stock YouTube ユーザーの両方に影響を与えます。",
       "fields": [
         {
-          "title": "よくある不具合の回避方法:",
+          "title": "不具合の回避方法:",
           "content": "1. 異なる地域に VPN を接続する\n2. [ウェブ版](https://youtube.com)を使う\n3. 480p の制限は携帯電話のみに適用され、タブレットには適用されないため、YouTube Vanced でデバイスのモデル名を変更して、制限を回避することができます。\n\n#### デバイスのモデル名を変更する方法\n1. YouTube Vanced を開く\n2. 設定を開く\n3. 「Vanced 設定」を開く\n4. 以下の手順で隠し設定を有効にする:\n  - 1 番下までスクロールし「Vanced について」のセクションを「隠し設定が有効になりました」というメッセージがタップされるまで繰り返しタップします。\n5. 「コーデックの上書き」セクションを開く\n6. メーカーを「Samsung」、モデルを「SM-T865」に設定する\n7. アプリを再起動する\n\n再起動後は、480p 制限が解除されています。"
         }
       ]

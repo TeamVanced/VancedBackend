@@ -57,12 +57,30 @@
       "description": "Vanced ayarlarında, `Hakkında` kısmına 6-7 defa dokunarak, gizlenmiş ek video çözücüsü ayarlarını etkinleştirebilirsin. "
     },
     {
-      "title": "MicroG Core'deki sorun nedir?",
+      "title": "YouTube Vanced'ı, varsayılan uygulama olarak nasıl ayarlarım?",
+      "description": "Başlıkta yazan soruyu kullanıcıların birçoğu, bu soruyu sürekli sorup duruyor. \"YouTube Vanced uygulamasını, diğer uygulamalarda linke bastığımızda, varsayılan olarak açılmasını nasıl ayarlarız?\" falan şeklinde.\n\nRoot sürümünde YouTube Vanced, orijinal YouTube uygulaması ile yer değiştirdiği için varsayılan olarak ayarlanmaktadır.\n\nRoot olmayan sürümünde ise çözüm, OneUI, MIUI ve \"gerisi\" olacak şekilde ayrı ayrı şekilde aşağıda anlatıldı. Piyasada bulunan her işletim sistemi için özel olarak çözüm sağlayamayacağımız için, Google'da arama yapman da gerekebilir.",
+      "fields": [
+        {
+          "title": "OneIO kullanıcıları:",
+          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+        },
+        {
+          "title": "MIUI kullanıcıları:",
+          "content": "Ayarlardan \"Varsayılan uygulamalar\"ı aramalı veya Uygulamalar > Uygulamaları yönet > [sağ köşedeki üç noktaya dokun] > Varsayılan uygulamalar > Bağlantıları aç, adımlarını izlemelisin. Uygulamalar listelendikten sonra listenin aşağısında YouTube veya YouTube Vanced'ı bulup dokun. Sonrasında \"**Destekleyen bağlantıları aç**\" ayarını, \"**Açık**\" olarak seçmelisin."
+        },
+        {
+          "title": "AOSP & özelleştirilmiş diğer arayüzler (OOS, ColorOS, EMUI, vb.):",
+          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced. \n\n2. Open Google Chrome. \n\n3. Search for some YouTube videos on Google. \n\n4. Open links with YouTube vanced app and set as always. \n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+        }
+      ]
+    },
+    {
+      "title": "Root sürümü neden microG ile uyumlu değil?",
       "description": "1. GApps'in en az [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) paketi içeriğine sahip olduğundan emin olmalısın.\n\n2. Tüm GApps paketlerinde bulunan Google Play Services Framework'ü olmadan Vanced ve microG Core'u çalıştıramazsın.\n\n3. Gizliliğin hakkında endişeleniyor ve GApps kullanmak istemiyor ama, YouTube'u da reklamsız kullanmaya devam etmek istiyorsan, [web sitesini](https://youtube.com) kullanmaya devam edebilirsin."
     },
     {
       "title": "Yayınlama özelliği neden çalışmıyor?",
-      "description": "MicroG'nin son sürümünü yüklediysen çalışır."
+      "description": "v16.16.38 root olmayan sürümünde microG kaynaklı hata bulunmaktadır. Sorun çözülene kadar beklemeli veya v15 sürümüne dönüş yapman gerekiyor. Google Play Hizmetlerini kullanan root sürümünde her hangi bir sorun yaşanmamaktadır."
     },
     {
       "title": "APK imzası nedir?",

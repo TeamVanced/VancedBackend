@@ -57,12 +57,30 @@
       "description": "Vo Vanced nastaveniach 6-7 krát ťuknite na sekciu `O aplikácii`. Povolia sa tým iba ďalšie nastavenia video kodeku."
     },
     {
+      "title": "Ako nastaviť YouTube Vanced ako predvolenú aplikáciu?",
+      "description": "\n As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n \nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube. \n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "fields": [
+        {
+          "title": "Používatelia OneUI:",
+          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+        },
+        {
+          "title": "Používatelia MIUI:",
+          "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
+        },
+        {
+          "title": "AOSP & other custom skin users(includes OOS, ColorOS, EMUI, etc.):",
+          "content": "1. Vyberte \"Vždy sa opýtať\" pre pôvodnú YouTube aplikáciu a vanced. \n\n2. Otvorte Google Chrome. \n\n3. Vyhľadajte nejaké YouTube videá na Googli. \n\n4. Otvorte odkazy v aplikácii YouTube vanced a nastavte Otvárať v tejto aplikácii. \n\n5. Vráťte sa naspäť do nastavení, tam kde ste nastavili \"Vždy sa opýtať\" pre YouTube, zmeňte na \"Neotvárať v tejto aplikácii\"."
+        }
+      ]
+    },
+    {
       "title": "Prečo root verzia nefunguje s microG Core?",
       "description": "1. Aby ste mohli spustiť Vanced, musíte mať aspoň [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) verziu GApps.\n\n2. Vanced s microG Core nie je možné spustiť bez Google Play Services Framework, ktorý je k dispozícii vo všetkých balíkoch GApps. Táto knižnica je vyžadovaná.\n\n3. Ak sa obávate o svoje súkromie a nechcete používať GApps, ale stále chcete pozerať YouTube bez reklám, potom je vždy k dispozícii [webová verzia](https://youtube.com)."
     },
     {
       "title": "Prečo zdieľanie obrazovky nefunguje?",
-      "description": "Funguje, ak je váš microG aktuálny."
+      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
     },
     {
       "title": "Čo je to podpisovanie súborov APK?",
