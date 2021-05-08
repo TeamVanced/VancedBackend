@@ -1,5 +1,5 @@
 {
-	"troubleshooting": [
+	"data": [
 		{
 			"title": "Temel sorun giderme",
 			"description": "A) Aşağıdaki uygulamaların verilerini ve ön belleklerini silin \n\n(I) Root olmayan varyant için Vanced/Vanced Music ve microG\n(II) Root varyant için Vanced/Vanced Music ve Google Play Servisleri\n\nB) YouTube Vanced'i baştan kurun\n\nÖNEMLİ UYARI: İşlemler arasında cihazınızı yeniden başlatın"

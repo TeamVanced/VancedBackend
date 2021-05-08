@@ -1,5 +1,5 @@
 {
-	"troubleshooting": [
+	"data": [
 		{
 			"title": "Basis probleemoplossing",
 			"description": "A) Wis gegevens en cache van \n\n(I) Vanced/Vanced Music en microG voor de non-root versie\n(II) Vanced/Vanced Music en Google Play Services voor de root versie\n\nB) Herinstalleer YouTube Vanced\n\nBELANGRIJKE OPMERKING: Opnieuw opstarten tussen stap A en B"

@@ -1,5 +1,5 @@
 {
-  "bugreport": [
+  "data": [
     {
       "title": "Miten ilmoitan bugeista?",
       "description": "Voit ilmoittaa bugeista käyttämällä meidän [GitHub-ongelmanseurantaa](https://github.com/YTVanced/Vanced)\n\n**Muista lukea README ja tarkista, onko bugistasi jo ilmoitettu ennen raportoimista!**",

@@ -1,5 +1,5 @@
 {
-	"troubleshooting": [
+	"data": [
 		{
 			"title": "Základní řešení problémů",
 			"description": "A) Vymažte data a mezipaměť aplikací \n\n(I) Vanced/Vanced Music a microG pro variantu Non-Root\n(II) Vanced/Vanced Music a Služby Google Play pro variantu Root\n\nB) Přeinstalujte YouTube Vanced\n\nDŮLEŽITÉ OZNÁMENÍ: Zařízení mezi procesy restartujte"

@@ -1,5 +1,5 @@
 {
-  "faq": [
+  "data": [
     {
       "title": "Mikä on YouTube Vanced?",
       "description": "YouTube Vanced on muokattu versio YouTubesta, jossa on lisäominaisuuksia, jotka tekevät YouTube-kokemuksestasi paremman!\n\nTällaisia ominaisuuksia ovat:\n- Taustatoisto,\n- Kuva kuvassa (PiP), \n- Musta teema (OLED ystävällinen),\n- Mainosten poisto (vaatii käyttöönoton),\n- Ohita maksimiresoluutio (sallii videon toiston resoluutiolla, joka on suurempi kuin näyttösi),\n- ...ja paljon muuta!\n\nLisätietoja osoitteessa <https://vancedapp.com>"

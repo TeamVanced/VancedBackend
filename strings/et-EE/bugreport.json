@@ -1,5 +1,5 @@
 {
-  "bugreport": [
+  "data": [
     {
       "title": "Kuidas teavitada vigadest?",
       "description": "You can report bugs by creating issues on our [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nMake sure to look through the existing issues to check if your problem was already reported before opening your issue!",

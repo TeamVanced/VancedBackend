@@ -1,5 +1,5 @@
 {
-	"troubleshooting": [
+	"data": [
 		{
 			"title": "Grundläggande felsökning",
 			"description": "A) Rensa data och cache för \n\n(I) Vanced/Vanced Music och microG för icke-rot-variant\n(II) Vanced/Vanced Music och Google Play-tjänster för rotvariant\n\nB) Installera om YouTube Vanced\n\nVIKTIGT: Starta om mellan processer"

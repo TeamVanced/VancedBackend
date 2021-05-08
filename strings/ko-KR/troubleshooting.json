@@ -1,5 +1,5 @@
 {
-	"troubleshooting": [
+	"data": [
 		{
 			"title": "일반적인 문제 해결 방법",
 			"description": "A) 아래 항목의 캐시와 앱 데이터를 지우십시오\n\n(I) 비루트 버전의 경우 Vanced/Vanced Music, microG\n(II) 루트 버전의 경우 Vanced/Vanced Music, Google Play 서비스\n\nB) YouTube Vanced를 재설치하십시오\n\n중요: 재설치 과정 도중 기기를 재시작하십시오"

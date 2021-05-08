@@ -1,5 +1,5 @@
 {
-  "bugreport": [
+  "data": [
     {
       "title": "Hvordan rapporterer man fejl?",
       "description": "Du kan rapportere fejl ved at oprette issues på vores [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nSørg for at gennemse eksisterende issues for at kontrollere, om dit problem allerede er rapporteret i forvejen, før du åbner dit issue!",

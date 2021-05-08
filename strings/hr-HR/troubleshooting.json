@@ -1,5 +1,5 @@
 {
-	"troubleshooting": [
+	"data": [
 		{
 			"title": "Osnovno rješavanje problema",
 			"description": "A) Obrišite podatke i predmemoriju \n\n(I) Vanced/Vanced Music i microG za Non-Root verziju\n(II) Vanced/Vanced Music i Usluge Trgovine Play za Root verziju\n\nB) Ponovo instalirajte YouTube Vanced\n\nVAŽNA OBAVIJEST: Ponovo pokrenite između postupaka"
