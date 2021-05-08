@@ -57,16 +57,16 @@
       "description": "Dans les paramètres de Vanced, appuyez 6-7 fois sur la section `À propros` pour l'activer. Cela n'active que les paramètres supplémentaires de codec vidéo."
     },
     {
-      "title": "How to make YouTube Vanced as default app?",
-      "description": "> For root, it is already set by default since YouTube Vanced gets replaced with Stock YouTube. \n2> For non-root: \n3As the title says, a lot of users been asking many times how they can make vanced as default for opening links from other apps(mainly when they open from a browser, messaging apps and many other apps). This functionality can better be fixed permanently with the root version as it just replaces the stock YouTube app anyway. But non-root doesn't replace it as it got a different package name and gets installs as a normal standard app. \n4The solution has been divided between OneUI, MIUI and the rest since we can't possibly provide solutions to every OS there is.",
+      "title": "Comment paramétrer YouTube Vanced en tant qu'application par défaut ?",
+      "description": "\n Comme le dit le titre, de nombreux utilisateurs ont demandé plusieurs fois comment paramétrer YouTube Vanced comme application par défaut pour ouvrir des liens depuis d'autres applications (comme les navigateurs, les applications de messagerie et toute autre application).\n \nPour le mode root, ce problème n'a pas lieu d'être puisque YouTube Vanced remplace Stock YouTube ; YouTube Vanced est alors l'application par défaut pour ouvrir des liens. \n\nPour ceux qui utilise la méthode non-root, plusieurs solutions ont été créées pour pallier à ce problème. Ces solutions ont été réparties de la manière suivante : OneUI, MIUI et le reste. Nous ne pouvons pas fournir de solutions pour chaque système d'exploitation : il se peut que vous deviez rechercher par vous-même la solution sur internet.",
       "fields": [
         {
-          "title": "OneUI users:",
+          "title": "Utilisateurs OneUI :",
           "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
         },
         {
-          "title": "MIUI users:",
-          "content": "Open \"default app\" settings and select opening links. There you have to select YouTube and deny opening links and in Youtube Vanced, accept all supported links and it'll start to work."
+          "title": "Utilisateurs MIUI :",
+          "content": "Ouvrez les Paramètres et cherchez \"Applications par défaut\" ou accédez à Applications > Gérer les applications > [appuyer sur les trois points dans le coin en haut à droite] > Applications par défaut > Ouvrir les liens. Une fois que les applications sont listées, faites défiler vers le bas jusqu'à ce que vous trouviez YouTube ou YouTube Vanced et cliquez dessus. Ensuite, définissez le paramètre \"**Ouvrir les liens pris en charge**\" comme \"**Ouvrir**\" au lieu de \"Demander à chaque fois\" ou \"Ne pas ouvrir\"."
         },
         {
           "title": "AOSP & other custom skin users(includes OOS, ColorOS, EMUI, etc.):",
@@ -79,15 +79,15 @@
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Why casting doesn't work?",
+      "title": "Pourquoi le casting ne fonctionne pas ?",
       "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
     },
     {
-      "title": "What is APK Signing?",
+      "title": "Qu'est-ce que la signature d'un APK ?",
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Is YouTube Vanced on Play Store?",
+      "title": "Est-ce que YouTube Vanced est disponible sur le PlayStore ?",
       "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
     },
     {
@@ -99,7 +99,7 @@
       "description": "Try restarting the app. It might also because of your internet connection or your device."
     },
     {
-      "title": "Why am I having the 480p limit?",
+      "title": "Pourquoi suis-je limité à 480p ?",
       "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
       "fields": [
         {
@@ -109,11 +109,11 @@
       ]
     },
     {
-      "title": "How to hide the microG notification?",
+      "title": "Comment masquer la notification microG ?",
       "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
+      "title": "Est-ce que le 1440p est plus joli sur mon écran 1080p ?",
       "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
     }
   ]
