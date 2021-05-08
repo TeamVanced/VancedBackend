@@ -58,7 +58,7 @@
     },
     {
       "title": "Comment paramétrer YouTube Vanced en tant qu'application par défaut ?",
-      "description": "\n Comme le dit le titre, de nombreux utilisateurs ont demandé plusieurs fois comment paramétrer YouTube Vanced comme application par défaut pour ouvrir des liens depuis d'autres applications (comme les navigateurs, les applications de messagerie et toute autre application).\n \nPour le mode root, ce problème n'a pas lieu d'être puisque YouTube Vanced remplace Stock YouTube ; YouTube Vanced est alors l'application par défaut pour ouvrir des liens. \n\nPour ceux qui utilise la méthode non-root, plusieurs solutions ont été créées pour pallier à ce problème. Ces solutions ont été réparties de la manière suivante : OneUI, MIUI et le reste. Nous ne pouvons pas fournir de solutions pour chaque système d'exploitation : il se peut que vous deviez rechercher par vous-même la solution sur internet.",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "Utilisateurs OneUI :",
@@ -69,8 +69,8 @@
           "content": "Ouvrez les Paramètres et cherchez \"Applications par défaut\" ou accédez à Applications > Gérer les applications > [appuyer sur les trois points dans le coin en haut à droite] > Applications par défaut > Ouvrir les liens. Une fois que les applications sont listées, faites défiler vers le bas jusqu'à ce que vous trouviez YouTube ou YouTube Vanced et cliquez dessus. Ensuite, définissez le paramètre \"**Ouvrir les liens pris en charge**\" comme \"**Ouvrir**\" au lieu de \"Demander à chaque fois\" ou \"Ne pas ouvrir\"."
         },
         {
-          "title": "AOSP & other custom skin users(includes OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced. \n\n2. Open Google Chrome. \n\n3. Search for some YouTube videos on Google. \n\n4. Open links with YouTube vanced app and set as always. \n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced.\n\n2. Open Google Chrome.\n\n3. Search for some YouTube videos on Google.\n\n4. Open links with YouTube vanced app and set as always.\n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
         }
       ]
     },
