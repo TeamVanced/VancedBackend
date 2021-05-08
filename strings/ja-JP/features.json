@@ -10,15 +10,15 @@
     },
     {
       "title": "YouTube Vanced の主な特徴",
-      "description": "- OLED friendly black theme and dark theme _(aka dark gray)_ besides white theme.\n- Blocks all ads\n- Allows you to play videos in the background or in the Picture in Picture (PiP) mode (only on Android 8+)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/tablet mini-player layout can be toggled to the tablet versions which are very similar to the old version (however, it's a bit buggy)."
+      "description": "- ライトテーマに加えて、有機 EL に最適なブラックテーマとダークグレーテーマを搭載\n- すべての広告をブロック\n- バックグラウンド再生やピクチャーインピクチャー（PiP）（Android 8 以上で利用可能）\n- 上下のスライドで明るさと音量を調節するスワイプコントロール\n- ループ再生が可能なオートリピート\n- コメント位置 / タブレット ミニプレイヤーを設定して古いバージョンの外観を再現することもできます（バグを含みます）"
     },
     {
       "title": "カスタマイズ",
-      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+      "description": "- 古いデバイスには H264 を、 HDR 再生を強制したい場合は VP9 を、映画のような体験のために 60fps をオフにすることもできます。（これらの機能をデバイスに設定するには、[Discord サーバー](https://discord.gg/Vanced)または XDA をご覧ください）\n- 画質を必要に応じて高または低に設定したり、4K 再生のためにデバイスの画質を上書きすることもできます。また、再生スピードを 0.25x から 2x の任意の数値に設定できます。（デバイスの性能に依存します）\n- ホーム広告や様々な UI 広告、関連商品の広告、コミュニティの投稿、プロモーション動画、コンパクト バナー（COVID-19 情報など）、コメント欄、コンパクト動画、ムービー棚などを削除するか選択できます！"
     },
     {
       "title": "SponsorBlock",
-      "description": "- Features the ability to skip sponsor segments (where a [YouTuber](https://en.wikipedia.org/wiki/YouTuber) advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API [found here](https://sponsor.ajay.app). You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
+      "description": "- スポンサーセグメント（[YouTuber](https://en.wikipedia.org/wiki/YouTuber) による動画中のサービスや製品の紹介）をスキップする機能\n- イントロやアウトロ、自己紹介もスキップできます。\n- [こちら](https://sponsor.ajay.app)の API を使用しています。機能の詳しい説明をご覧いただけます。\n- また、独自のセグメントを API に送信して、より広いコミュニティに貢献することもできます。\n- セグメントのカテゴリごとに自動的にスキップするか、スキップボタンを表示するか、スキップしないかをコントロールできます。\n- セグメントのカテゴリごとにタイムラインに特定の色で強調表示します。"
     },
     {
       "title": "プラットフォーム",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Root と非 Root の違い",
-      "description": "#### Root:\nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google Assistant through the modded Vanced app.\n\n#### Non-Root:\n- If you have a device that is difficult to root, or you don’t want to root your daily device on first hand, you should opt for the non-root variant.\n- Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account.\n- Moreover, you have to manually set Vanced as the default app for opening YouTube links.\n- However, the non-root variant is much simpler to install and use, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
+      "description": "#### Root:\nVanced の root 版は、公式のYouTubeアプリをシームレスに置き換えます。リンクをタップしたり、Google アシスタントを使用して改造版の Vanced アプリで YouTube を開くことができます。\n\n#### Non-Root:\n- デバイスで root 権限を取得できない場合や、毎日使うデバイスで root 権限を取得したくない場合、non-root 版をお選びください。\n- non-root 版のパッケージ名は公式 YouTube アプリとは異なるため、共存できます。  YouTube / Googleアカウントでログインするには、Vanced microG をインストールする必要があります。\n- さらに、YouTube リンクを開くためのデフォルトアプリとして Vanced を手動で設定する必要があります。\n- ただし、non-root 版はインストールして使いはじめるのは簡単であるため、公式 YouTube アプリを完全に置き換える必要がない限り、non-root 版を使用することをお勧めします。"
     }
   ]
 }
