@@ -14,7 +14,7 @@
         },
         {
           "title": "UI に関連するバグの場合",
-          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
+          "content": "UI に関連するバグの場合、追加の手順が必要です。\n\n[Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)をインストールして初期設定をしてください。\nその後、Vanced に移動してバグを再現し、DeveloperAssistant を起動してレイアウトビューアを開きます。\n\n以下の手順に従ってください:\n1. スクリーンにバグ部分が表示されるようにしてください\n2. バグによる影響を受けていると思われる要素をタップしてください\n3. 「Element」と「Hierarchy」のタブを開き、スクリーンショットを撮ってください\n4. issue にスクリーンショットを添付してください"
         }
       ]
     }
