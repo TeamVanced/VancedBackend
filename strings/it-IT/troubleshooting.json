@@ -17,23 +17,27 @@
 					"content": "1. Cancella i DATI di Vanced microG e Google Play services\n2. DISINSTALLA sia \"Vanced microG\" che Vanced.\n\n3. Riavvia se vuoi.\n\n4. Reinstalla entrambi gli APKs [microG e Vanced), assicurandoti di installare microG prima di Vanced. Installa tramite Vanced Manager o l'app SAI, utilizzando i file forniti nella #nota di installazione del gruppo.\n\n5. Ora accedi.\n\nNOTA: se Vanced dovesse ancora mostrare errori di connessione (anche dopo aver installato prima microG) o di ricezione delle notifiche, ecc., Assicurati di disattivare l'ottimizzazione della batteria per le app Vanced e microG.\n\nLe istruzioni per farlo variano a seconda del produttore del dispositivo. Puoi seguire guide come https://dontkillmyapp.com o cercarne di nuove."
 				},
 				{
-					"title": "Se Vanced si disconnette dal tuo account Google",
-					"content": "Succede perché l'ottimizzazione della batteria del sistema operativo del tuo dispositivo uccide i servizi/le attività di microg responsabili degli accessi.\n\nPer risolvere questo problema, disattiva l'ottimizzazione della batteria per microG utilizzando https://dontkillmyapp.com OPPURE cercane di nuove"
+					"title": "If you are getting an error that says \"Trouble connecting to Google servers\", please do either of the following to fix the issue.",
+					"content": "• Uninstall vanced microG and reinstall it again. \n\n• Use the Huawei spoof button within microG sign-in page."
 				},
 				{
-					"title": "Per gli utenti che utilizzano un account Gsuite su una versione Non-Root di vanced e riscontrano frequenti problemi di connessione (errori come \"Sei offline\", \"Verifica connessione Internet\" e così via)",
-					"content": "•Log into your Gsuite account [admin console](https://admin.google.com/)\n\n• Search for device management\n\n• Go to setup and disable \"Mobile Management\"\n\n• That's it and it will get fixed."
+					"title": "If Vanced logs out of your Google account",
+					"content": "It happens because your device OS' heavy battery optimization killing microG services/activities which are responsible for logins.\n\nTo fix this, disable battery optimization for microG using https://dontkillmyapp.com OR searching it up"
 				},
 				{
-					"title": "Soluzione Huawei 1",
-					"content": "Use the Huawei spoof button when signing in wih latest available vanced microG using vanced manager."
+					"title": "For users who are using Gsuite account on Non-Root version of vanced and facing connection issues frequently (errors like \"You are offline\", \"Please check your internet\", etc)",
+					"content": "1. Log into your Gsuite account [admin console](https://admin.google.com/)\n\n2. Search for device management\n\n3. Go to setup and disable \"Mobile Management\"\n\n4. That's it and it will get fixed."
 				},
 				{
-					"title": "Soluzione Huawei 2",
+					"title": "Huawei workaround 1",
+					"content": "Use the Huawei spoof button when signing in with latest available vanced microG using vanced manager."
+				},
+				{
+					"title": "Huawei workaround 2",
 					"content": "For those who updated microG to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microG.\n\n2. Download \"Vanced microG 0.2.12.203316 version\" from mega cloud storage mirror [Link to Vanced microG](https://del.dog/vancedv15above)\n\n3. You should be able to login now."
 				},
 				{
-					"title": "Soluzione Huawei 3",
+					"title": "Huawei workaround 3",
 					"content": "1. Uninstall both vanced and microG if you already installed. Then reinstall only microG(latest available)\n\n2. Then open microG app settings\n\n3. Turn off both \"Google Cloud Messaging\" and \"Google device registration\".\n\n4. Add your account through microG itself.\n\n5. Then install Vanced."
 				},
 				{
@@ -47,143 +51,143 @@
 			"fields": [
 				{
 					"title": "Per Vanced manager bloccato sul logo/problema di crash",
-					"content": "Cancella i dati dell'app manager > Disattiva Internet> Apri l'app manager > Attiva Internet."
+					"content": "There are 2 solutions available. \n\n 1. Clear app data of manager > Turn internet off > Open manager app > Turn the internet on. \n\n2 2. For users with RTL languages set on the device, please update your vanced manager to 2.6.0 from our official vanced website."
 				},
 				{
-					"title": "INSTALL_FAILED_INVALID_APK: Nessun pacchetto pronto",
-					"content": "Installa YouTube stock dal Play Store, quindi aggiornalo a vanced utilizzando vanced manager."
+					"title": "INSTALL_FAILED_INVALID_APK: No packages staged or vanced manager gets stuck at \"Please be patient\" screen, do this",
+					"content": "Install the stock YouTube app from the play store then update vanced over it using vanced manager. Make sure you have the latest release of vanced manager from our [official website](https://vancedapp.com) and 21.4+ of magisk"
 				},
 				{
-					"title": "Se l'ultima versione di Vanced manager si blocca nella schermata \"Per favore sii paziente\", fai quanto segue",
-					"content": "Installa YouTube stock dal Play Store, quindi aggiornalo a vanced utilizzando vanced manager."
+					"title": "If you face \"Error downloading microG/Vanced\" or installation got stuck while installing microG/vanced app",
+					"content": "Clear manager app data then continue installing and DON'T SWITCH TO OTHER APPS UNTIL IT COMPLETES THE PROCESS."
 				},
 				{
-					"title": "Se dovessi riscontrare il seguente messaggio: \"Errore durante il download di Microg/Vanced\", o l'installazione dell'app microg/vanced dovesse bloccarsi",
-					"content": "Cancella i dati dell'app manager, quindi continua l'installazione e NON PASSARE AD ALTRE APP FINO A QUANDO IL PROCESSO NON VERRÀ COMPLETATO."
+					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
+					"content": "\n\n • Head to manager settings and clear downloaded files. \n\n • Then clear manager app data then continue installing vanced."
 				}
 			]
 		},
 		{
-			"title": "Correzione delle notifiche",
+			"title": "Package conflict error after updating to Android 11 (INSTALL_FAILED_UPDATE_INCOMPATIBLE)",
 			"description": "Per la correzione delle notifiche, dello sfondo bianco o della mancata rilevazione di Vanced in \"Google Cloud Messaging\", vedi in basso",
 			"fields": [
 				{
 					"title": "Per Non-Root",
-					"content": "1. Installa prima Vanced microG e poi YouTube Vanced.\n\n2. Accedi con il tuo account Google\n\n3.\na) Disattiva l'ottimizzazione della batteria per microg (suggeriamo la guida dontkillmyapp.com).\n\nb) **Apri le impostazioni aggiuntive \"Vanced microG\", quindi continua con questa guida:\n\ni) https://youtu.be/Q-5YFmFWVok"
+					"content": "1). Install Android Debug Bridge using this [Guide](https://www.xda-developers.com/install-adb-windows-macos-linux). \n\n2) Unlock your phone. \n\n3) Enable Developer Mode (tap 10 times on Build number in Settings - About phone -Software information). \n\n4) Enable USB debugging in Settings - Developer options. \n\n5) Connect your phone to PC. \n\n6) Open Command Prompt (CMD) and change directory: \"cd C:/Windows/adb/\" and press Enter. \n\n7) As your phone is connected and CMD is open, in CMD run command \"adb devices\". There will be a prompt on your phone, something like \"Would you like to connect your phone to PC?\" Press Yes. \n\n8) Run cmd command \"adb uninstall com.vanced.android.youtube\". \n\n9) After this you may install Vanced Manager and install the latest version of YouTube Vanced"
 				},
 				{
 					"title": "Se Vanced non fosse rilevato in GCM o risultasse non registrato",
 					"content": "Prova ENTRAMBI i seguenti passaggi:\n\n1. Rimuovi il tuo account Google dalle impostazioni dell'account. L'account utilizzato da vanced ha il vecchio colore di sfondo blu con il piccolo logo a forma di g.\n\n2. Cancella i dati di microG quindi accedi.\n\nO\n\nSe la soluzione alternativa sopracitata non dovesse funzionare, reinstalla vanced."
 				},
 				{
-					"title": "Per Root",
-					"content": "Assicurati che \"Scheduled Digest\" sia disattivato nelle impostazioni di YouTube e che i suoni delle notifiche siano corretti e impostati.\n\nPuoi provare ad utilizzare l'app \"Gestione notifiche\" che tiene traccia di tutte le notifiche in un unico posto, quindi nel caso in cui tu stia ignorando le notifiche, potrai ugualmente accedere da quell'app."
+					"title": "This solution is for YouTube Music Vanced only, not for YouTube Vanced",
+					"content": "Try manually updating YouTube Music Vanced through the APK file using [this link](https://del.dog/vancedv15above)."
 				},
 				{
-					"title": "Se riscontri errori come \"Operazione non riuscita perché i file apk sono invalidi/danneggiati\"",
-					"content": "• Vai nelle impostazioni di Vanced Manager e cancella i file scaricati\\n\\n • Quindi cancella i dati dell'app Vanced Manager e continua l'installazione di Vanced."
+					"title": "If both of the above methods fail",
+					"content": "Apparently, doing a factory reset can fix this error. Do this at last resort."
 				}
 			]
 		},
 		{
 			"title": "Problemi di chiusura forzata",
-			"description": "Se l'app Vanced si arresta in modo anomalo/forzato all'avvio",
+			"description": "For fixing notification on both non-root or root varaints, see below",
 			"fields": [
 				{
-					"title": "Nonroot",
+					"title": "For Non-Root variant",
 					"content": "1) Se l'app Vanced non-root dovesse chiudersi forzatamente prima di installare MicroG, disinstalla sia l'app Vanced che MicroG. Quindi installa prima MicroG, poi Vanced. Dopodichè il problema dovrebbe essere risolto.\n\n2) Se l'app Vanced non-root dovesse chiudersi forzatamente senza installare microg, installa microg. [Se non vuoi accedere, non accedere e installa solo l'apk microg, poiché vanced necessita di microg per la connessione con i servizi Google]"
 				},
 				{
+					"title": "For Root variant",
+					"content": "Make sure \"Scheduled Digest\" is off in youtube settings and your notifications sounds are correct and set.\n\nYou can try using \"notification manager\" app which keeps track of all your notification at one place so in case if you are dismissing your notifications, you can access the same again from that app."
+				}
+			]
+		},
+		{
+			"title": "If YouTube Vanced is not showing up under Google Cloud Messaging(GCM) or it shows up as unregistered",
+			"description": "Try EITHER of the following:\n\n1. Remove your microg account from account settings. The account used by vanced has a dark grey background with G logo on it. \n\n2. Clear data of microG then login. \n\nOR\n\nIf above workaround doesn't work, reinstall vanced."
+		},
+		{
+			"title": "Force closing issues",
+			"description": "If Vanced app is crashing/force closing on startup",
+			"fields": [
+				{
+					"title": "Nonroot",
+					"content": "1) If you installed YouTube vanced before vanced microG app, uninstall both YouTube vanced and vanced microG. Then install vanced microG first, then Vanced and vanced will stop force closing.\n\n2) If you didn't install vanced microG, please install it and force closing will stop. [Don't log in if you don't want to]"
+				},
+				{
 					"title": "Root",
-					"content": "1) Se la tua versione root di Vanced dovesse chiudersi forzatamente all'apertura disinstalla gli aggiornamenti dell'app YouTube. Se ciò non dovesse aiutare, disattiva/disinstalla il tuo tema substratum/swift.\nIn ultima istanza, se nulla di tutto ciò avesse funzionato, fornisci un file di logcat alla community/staff.\n\n2) Se la tua versione root di Vanced si chiude forzatamente durante l'utilizzo, mentre risulta essere in primo piano/attiva o in fase di riproduzione video, cattura un file di logcat e trova:\n\n(a) - Unsatisfiedlinkerror: \nSol: - Apri il file manager e accedi alla memoria di root.\nQuindi apri \"system/app/youtube/lib\" OPPURE \"Data/app/com.google.android.youtube/lib\" e rinomina\n\nda arm64-v8a ad arm64\n\nda armeabi-v7a ad arm\n\ne il problema verrà risolto.\n\nInoltre, se entrambi \"arm e arm64\" non fossero presenti nel percorso sopracitato, prova a scaricarli entrambi dall'apk ufficiale di YouTube o chiedi ai tuoi amici ed effettua l'estrazione in quel percorso\n\n(b) - Notehitelisted \"com.google.android.youtube\":\nSol: - Verifica l'aggiunta alla lista bianca da qui(todo)\n\nSe non sai come ottenere i log, dai un'occhiata alla nota di segnalazione bug"
+					"content": "1) If your root version of Vanced is force closing upon opening the app, uninstall stock YouTube app updates. If this doesn't help, disable/uninstall your substratum/swift themes overlays.\nAt last resort, if nothing helps, give the community/staff a logcat.\n\n2) If your root version of Vanced is force closing in middle of app when it's in foreground/active or playing a video, grab your logcats and find:\n\n(a)- Unsatisfiedlinkerror: \nSol:- Open file manager and go to root storage.\nThen open \"system/app/youtube/lib\" OR \"Data/app/com.google.android.youtube/lib\" and rename \n\narm64-v8a to arm64\n\narmeabi-v7a to arm\n\nand it will get fixed.\n\nAlso, if both \"arm and arm64\" are not there in that directory above, try getting both from official YT apk or ask your friends and extract it there in that directory\n\n(b)- Notehitelisted \"com.google.android.youtube\":\nSol:- If you're experiencing crashes on YouTube Vanced root variants for whitelisting reasons, you can try this guide from [this link](https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error) and see if it helps. If Link didn't help, clean flash your ROM or test with a different ROM to resolve this issue. If you don't know how to get logs, check the bugreport template."
 				},
 				{
-					"title": "Se Vanced si arresta in modo anomalo durante la riproduzione (durante la riproduzione in secondo piano)",
-					"content": "Poiché questo problema è causato solo dall'ottimizzazione della batteria aggressiva presente in varie interfacce OEM come MIUI, Emui, ColorOS, ecc..., si consiglia di disattivare l'ottimizzazione della batteria sia per l'app Vanced che per l'app MicroG.\n\nLe istruzioni per farlo variano a seconda del produttore del dispositivo, quindi non possiamo davvero aiutarti a disattivarlo. Puoi provare a utilizzare un sito come \"dontkillmyapp.com\", OPPURE ad utilizzare Google e cercare \"[produttore del telefono] [modello del telefono] [versione Android] disattiva l'ottimizzazione della batteria\"\n\nTuttavia, se dovessi riscontrare ancora questo problema, fornisci una segnalazione bug (#bugreport) su Telegram o su discord con i dettagli richiesti ed i relativi log in modo che i Moderatori possano dare un'occhiata a cosa sta effettivamente causando il problema. Inoltre, assicurati di prendere i registri specifici per vanced, NON quelli dell'intero SISTEMA."
+					"title": "If Vanced crashes in the middle of playback (when playing in background mode)",
+					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide us with a bugreport on telegram group or discord server with all the necessary details and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
 				}
 			]
 		},
 		{
-			"title": "Disinstalla al riavvio",
-			"description": "Se la versione root di YouTube Vanced/YouTube Music Vanced dovesse scomparire/disinstallarsi/ripristinarsi alla versione stock dopo un riavvio,\n\nAbbiamo 2 soluzioni disponibili per te",
+			"title": "Uninstall on reboot",
+			"description": "If the root version of YouTube Vanced/ YouTube Music Vanced is disappearing/uninstalling/reverting back to stock on reboot,\n\nWe have 2 solutions available for you",
 			"fields": [
 				{
-					"title": "Soluzione 1",
-					"content": "Mantieni la versione non-root finchè non verrà trovata una soluzione."
+					"title": "Solution 1",
+					"content": "Stick to the non-root version until the developers fix this."
 				},
 				{
-					"title": "Soluzione 2",
-					"content": "REQUISITI:\n\nVanced Manager 2.1.0 o superiore\nUn root manager come Es File Explorer o Root Browser\nPassaggio 1: Dirigiti su /data/adb/service.d/ e modifica lo script Music.sh e/o Vanced.sh\n\nEntrambi dovrebbero contenere qualcosa di simile a questo:\n\nwhile  [ \"`getprop sys.boot_completed | tr -d '\n'`\" != \"1\" ] ; do sleep 1; done \n\nPassaggio 2: Modifica il valore \"do sleep 1; done\"   in   \"do sleep 2; done\"\n\nPassaggio 3: Riavvia o Riaccendi il dispositivo\n\nSe ciò non dovesse funzionare, prova ad aggiungere un periodo di pausa maggiore tra do e done\n\n——————————————————\n\nSe ciò non dovesse nuovamente funziona, forse il tuo dispositivo ha bisogno di più tempo prima di eseguire il montaggio dell'apk root di vanced youtube/music.\nTi basterà dunque modificare vanced.sh e/o music.sh,\ninserendo una nuova linea di sospensione tra la linea 'while' e 'mount' come:\n\n#!/system/bin/sh\nwhile [ \"`getprop sys.boot_completed | tr -d '\n' `\" != \"1\" ]; do sleep 1; done\nsleep 10\nmount -o bind /data/adb/Vanced/base.apk /data/app/com.google.android.youtube-...."
-				},
-				{
-					"title": "Se Vanced si arresta in modo anomalo durante la riproduzione (durante la riproduzione in background)",
-					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide #bugreport on telegram or in discord with the details it requires and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
+					"title": "Solution 2",
+					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nGo to Vanced manager settings and fine Root Script Sleep Time (you should be on root mode for this option to appear). Then set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
 				}
 			]
 		},
 		{
-			"title": "Annunci in Vanced",
-			"description": "Se dovessi visualizzare degli annunci su YouTube Vanced o Vanced Music, leggi questo messaggio da parte di xfileFIN:\n\n> Devo poterlo visualizzare personalmente per poterlo rintracciare. Poiché nascondere semplicemente il layout non funzionerà.\nNon sono sicuro di come decidano a quali utenti mostrarli, avviene tutto lato server.\nQuello che so è che non posso nascondere il layout perché lo stesso layout viene utilizzato anche per i video reali. Il codice decide solo se mostrare o meno il badge dell'annuncio.\nBeh, potrei facilmente nascondere il badge dell'annuncio ma mostrerebbe comunque il video dell'annuncio effettivo, senza etichettarlo come annuncio.\nDevo ottenere io stesso l'annuncio per rintracciarlo nel codice poiché l'offuscamento lo rende difficile.\n\nLa schermata iniziale e gli annunci della rete di ricerca (aggiunti da Google) sono basati sulla regione e non verranno mostrati se non ti trovi nella regione in cui risulta attivo. Tali annunci non vengono aggiunti in alcun modo dal team vanced, quindi se credi che la colpa sia da attribuire a noi, sappi che potremmo già aver riso di te.: D\n\nGli sviluppatori sanno già che stai ricevendo annunci nella tua regione. Attendi pazientemente gli aggiornamenti finché tutti gli annunci non verranno bloccati. Fino ad allora, goditi vanced e non segnalare il medesimo problema sulla chat.\n\nLa soluzione temporanea per risolvere questo problema sarebbe cancellare i dati e la cache dell'app o attendere aggiornamenti futuri.",
+			"title": "Advertisements in Vanced",
+			"description": "If you are seeing ads in YouTube Vanced or Vanced Music, read this by xfileFIN:\n\n> I need to get it myself to track it down. As simple layout hiding won't work for that.\nNot sure how they decide who gets them, it's all server side.\nWhat I do know is that I can't just hide the layout because the same layout is used for the actual videos as well. The code just decides whether or not it shows the ad badge.\nWell I could easily hide the ad badge but it would still show the actual ad video, just without labeling it as ad.\nI need to get the ad myself to track it down in the code since obfuscation makes it hard.\n\nThe home screen and search ads (added by Google) are region-specific and will not be displayed if you are not in the region where they are active. Those advertisements were not added in any way by the Vanced team, so if you pointed a finger at us, we would laugh at you. \n\n With the v16 release, the advertisements have been fully removed. If you happen to see them in your app, please turn off any toggles you turned on mistake relating to ad removal from the vanced settings menu. You can also try clearing data and see if it resolves. When using the cast feature, note that vanced won't block ads while casting."
+		},
+		{
+			"title": "History",
+			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n> ⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in [YouTube Settings](https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n> ⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
+		},
+		{
+			"title": "APP loading issues",
 			"fields": [
 				{
-					"title": "Soluzione 1",
-					"content": "Usare la versione non-root fino a quando gli sviluppatori non risolveranno il problema."
-				},
-				{
-					"title": "Soluzione 2",
-					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nStep 1: Go to manager settings > Root Script Sleep Time (you should be on root mode for this option to appear) and set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
-				}
-			]
-		},
-		{
-			"title": "Cronologia",
-			"description": "Se dovessi riscontrare problemi nel salvare i video guardati/ricercati nella cronologia, segui questi passaggi:\n\n• Per gli utenti root, indipendentemente dalla variante (Non-Root o Root) utilizzata,\n\n> Assicurati di aver aggiunto *s.youtube.com alla lista bianca del tuo sistema di Blocco Pubblicitario.\n\n⚠️NOTA per gli utenti Adaway. Se la lista bianca dell'URL non dovesse funzionare, clicca su \"fonti host\", deseleziona il filtro \"stevenblack\" e salva le modifiche, quindi riavvia e la tua cronologia tornerà a funzionare.\n\n• Per gli utenti non root.\n\n> Assicurati di aver installato la versione di YouTube Vanced 14.10.53 o superiore, per assicurarti che la cronologia venga salvata correttamente. Se la cronologia risultasse ancora non aggiornata, allora dovrai collegare il tuo account brand dalle (Impostazioni di YouTube -https://www.youtube.com/account_advanced) affinchè la cronologia possa tornare a funzionare. (Questo processo cancellerà la cronologia esistente).\n\n⚠️NOTA per gli utenti Adaway che utilizzano il Blocco Pubblicitario basato VPN anziché su root: se non stai utilizzando account brand, assicurati di aggiungere *s.youtube.com alla lista bianca e di applicare le modifiche.⚠️"
-		},
-		{
-			"title": "Problemi di caricamento APP",
-			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n> Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n> Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in [YouTube Settings](https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
-		},
-		{
-			"title": "Problemi picture-in-picture",
-			"fields": [
-				{
-					"title": "If Vanced got stuck on splash screen",
+					"title": "If Vanced got stuck on splash screen, do this;",
 					"content": "1. Switch Airplane mode on.\n2. Open Youtube Vanced.\n\n3. Tap on close in changelog popup.\n4. Turn off Airplane mode.\n5. Reopen vanced.\n\nThanks to rocco6victorFrom XDA"
 				},
 				{
-					"title": "If Vanced keeps on loading infinitely",
+					"title": "If Vanced keeps on loading infinitely, do this;",
 					"content": "1. Disable battery optimization for both YouTube Vanced and microG app using dontkillmyapp.com then reboot your device.\n2. It should get fixed now."
 				}
 			]
 		},
 		{
-			"title": "Problemi con il download dell'app",
-			"description": "⚠️Please don't report PIP related issues.⚠️\n• Pip is controlled by system as Vanced uses android native pip. Blame ROM for any issues with your PIP.\nOther apps like MX Player, VLC, etc uses its own PIP instead of android native hence they will never face such issues which persist in apps using native.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture\n\nOn latest V15.43.32, pip is stock yt bug so please wait for Google to fix it fully first."
+			"title": "Picture-in-Picture issues",
+			"description": "⚠️Please don't report PIP related issues.⚠️\n• Pip is controlled by system as Vanced uses android native pip. Blame ROM for any issues with your PIP.\nOther apps like MX Player, VLC, etc uses its own PIP instead of android native hence they will never face such issues which persist in apps using native.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture"
 		},
 		{
-			"title": "Scollega",
+			"title": "App download issues",
 			"fields": [
 				{
-					"title": "Alternativa 1",
-					"content": "Nel caso in cui i metodi sopraelencati per scollegare l'app non avessero funzionato, puoi provare quelli qui in basso:\n\nUtilizza l'app Titanium Backup (in versione pro)\n\n• Apri Titanium Backup.\n\n• Cerca e clicca la voce 'youtube'.\n\n• Scorri a sinistra per accedere alle funzionalità speciali.\n\n• Clicca su Collega allo store.\n\n• Quindi dirigiti nuovamente sulle funzionalità speciali.\n\n• Clicca su 'scollega dallo store'.\n\n• Fatto"
+					"title": "If you are having trouble downloading vanced files using vancedapp.com or can't open our site due to server/region restrictions",
+					"content": "You can get our new manager right [here](https://github.com/YTVanced/VancedManager/releases/)\n\nNOTE: Here you have to choose \"manager.apk\" in latest release > assets. Don't choose zips or anything else as they are not apks."
 				},
 				{
-					"title": "Alternativa 2",
-					"content": "NOTA: Gli aggiornamenti automatici dovranno essere attivati dal Play Store prima effettuare le seguenti operazioni.\n\n1. Crea il file \"Detach.txt\" nel percorso seguente /sdcard/ (equivalente a /storage/emulated/0/) e modificalo aggiungendo \"YouTube\" (senza virgolette) al suo interno. È anche possibile scaricare tale file dal modulo Magisk \"Detach\", modificandolo con un editor testuale per rimuovere il simbolo \"#\" dopo la scritta \"YouTube\".\n\n2. Esegui il flash del modulo \"Detach\" da Magisk Manager.\n\n3. Esegui il flash di Daily Job Scheduler (djs) da Magisk manager.\n\n4. Riavvia il dispositivo.\n\n5. Apri il terminale, digita \"su -c detach -t\" e imposta l'esecuzione su \"esegui una volta ogni ora\".\n\n6. Fatto!\n\nIl Play Store aggiorna i suoi file di database ad un ritmo casuale, più frequentemente o più raramente nell'arco di una giornata/settimana. Il Play Store mostrerà un aggiornamento di Youtube, che andrà via da sé quando lo script verrà nuovamente eseguito da djs."
+					"title": "If you are having trouble downloading and installing vanced via manager, you can still use SAI/manual method to install vanced.",
+					"content": "• Use the MediaFire mirror to download the required files.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Use the AFH Mirror to download the required files.\n>https://androidfilehost.com/?w=files&flid=170196\n\nNOTES:\n\nA) Since we have all separate apk files on mediafire/afh now, you have to zip all \"base, architecture and language\" apk's & install it via SAI. All 3 apk are must.\nB) Manual installation can only be done either via root since it requires accessing root storage."
 				}
 			]
 		},
 		{
-			"title": "Correzione per gli errori di SAI/Vanced Manager",
+			"title": "Detach from market",
 			"description": "You can use any of the workarounds listed below to remove the YouTube app from the market.",
 			"fields": [
 				{
 					"title": "Workaround 1(Recommended)",
-					"content": "\n\nUsing [TeMiFi app](https://forum.xda-developers.com/t/app-tool-temefi-comprehensive-system-administration.3806260), Make sure the YouTube Vanced is a user app as this method won't work if Vanced is installed as a system app.\n\nIn TeMeFi select > Give root permissions > Tap on Application info > Detach package from play store > DETACH: Select package then protection level v5 > Select YouTube with package name \"com.google.android.youtube\" > Tap on 3. Invalidate the data, block any attempt.... > Yes, I accept full responsibility"
+					"content": "\n\nUsing [TeMiFi app](https://forum.xda-developers.com/t/app-tool-temefi-comprehensive-system-administration.3806260), Make sure the YouTube Vanced is a user app as this method won't work if Vanced is installed as a system app.\n\n1. Open TeMiFi app and Give root permissions. \n\n2. Tap on Application info and tap on Detach package from play store option. \n\n3. Tap on DETACH: Select package then protection level v5 \n\n4. Select YouTube with package name \"com.google.android.youtube\" \n\n5. Tap on 3. Invalidate the data, block any attempt.... \n\n6. Yes, I accept full responsibility \n\n7. Proft!"
 				},
 				{
-					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBLE",
-					"content": "\n\nUsing Titanium backup app(needs pro version)\n\n• Open titanium backup \n\n• Search for youtube and Click on it \n\n• Swipe left to access special features \n\n• Click on Attach to market \n\n• Then again go to special features \n\n• Click on \"detach from market\" \n\n• Done"
+					"title": "Workaround 2",
+					"content": "\n\nUsing Titanium backup app(needs pro version)\n\n1. Open titanium backup \n\n2. Search for youtube and Click on it \n\n3. Swipe left to access special features \n\n4. Click on Attach to market \n\n5. Then again go to special features \n\n6. Click on \"detach from market\" \n\n7. Done"
 				},
 				{
 					"title": "Workaround 3",
@@ -196,8 +200,8 @@
 			]
 		},
 		{
-			"title": "Problemi di live streaming",
-			"description": "Soluzione: Segui questa guida > https://youtu.be/R9asMVCQkAU. Inoltre, disattiva i tuoi blocchi pubblicitari esterni/vpn/proxy/impostazioni personalizzate in vanced. Mantieni le impostazioni predefinite se non vuoi avere problemi.",
+			"title": "Fix For SAI/Vanced Manager errors",
+			"description": "Below are some known reasons you might face when you don't follow instructions, so read the appropriate cause with its solution and fix your problem.",
 			"fields": [
 				{
 					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
@@ -250,8 +254,8 @@
 			]
 		},
 		{
-			"title": "Lista bianca",
-			"description": "Se dovessi riscontrare arresti anomali sulla variante root di YouTube Vanced a causa della lista bianca, puoi provare a seguire la guida disponibile a questo link (https://www.xda-developers.com/how-to-fix-device-not-certified-by-google- errore) e provare a capire se nel tuo caso è risolutiva.\n\n In alternativa, se la guida non dovesse esserti di aiuto, una reinstallazione pulita o un cambio della ROM potrebbe risolvere questo problema."
+			"title": "Live-Stream issues",
+			"description": "Solution: Follow this guide > https://youtu.be/R9asMVCQkAU. Also, disable your external ad-blockers/vpn/proxy/custom settings in vanced. Keep stock settings if you don't wanna see any issues."
 		},
 		{
 			"title": "Black screen video fix",
@@ -267,15 +271,15 @@
 		},
 		{
 			"title": "Captions",
-			"description": "If you face caption issues such as random subtitles of different languages on an english video, here's what you have to do;\nSet the caption language to your region language in your caption settings.\n\nTo access caption settings, head to device settings > accessibility > captions\n\nOr\n\nYouTube settings > captions"
+			"description": "\n\n If you face caption issues such as random subtitles of different languages on an english video, here's what you have to do; \n\n1. Open browser and go to youtube desktop site. If you are on a mobile, tap on \"Request desktop website\". \n\n2. Now tap on your profile icon from top right corner and tap on Settings. \n\n3. Then head to \"Playback and performance\" and uncheck the \"Always show captions\" box. \n\n4. Close browser and go to YouTube Vanced app info and clear cache(not data) [not sure if this is necessary, just writing what i did to fix it for myself] \n\n5. Then open YouTube app and go to settings > captions > set Language to default if it's not. Otherwise skip this step. \n\n6. Auto captions will be fixed"
 		},
 		{
 			"title": "HDR brightness Workaround",
-			"description": "Use the swiping features to turn the brightness to its maximum"
+			"description": "Use the swiping features to turn the brightness to its maximum."
 		},
 		{
 			"title": "Settings crashes",
-			"description": "Turn off your fingerprint and go in the settings and do your setting, after it's done, turn it back on. It won't crash again after that, even if you keep going in it unless you restart your device."
+			"description": "Turn off your fingerprint scanner and go to the settings to configure it; once finished, turn it back on. It will not crash again unless you restart your device."
 		}
 	]
 }
