@@ -57,64 +57,64 @@
       "description": "Vanced 設定で、6~7回「Vanced について」セクションをタップすることで有効になります。これにより、追加のコーデック設定が有効になります。"
     },
     {
-      "title": "How to make YouTube Vanced as default app?",
-      "description": "\n As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n \nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube. \n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "title": "YouTube Vanced をデフォルトのアプリに設定する方法は？",
+      "description": "\n ブラウザやメッセージアプリなどから YouTube のリンクを開くときに使用するデフォルトのアプリに Vanced を設定する方法です。これは特によくある質問です。\n \nroot 版では、YouTube Vanced は公式アプリ置き換えているためすでにデフォルトに設定されています。 \n\nnon-root 版では、OneUI や MIUI などがあり解決方法が異なるためここで共通の解決方法を示すことはできません。ご使用の OS にあった設定方法をウェブ検索してください。",
       "fields": [
         {
-          "title": "OneUI users:",
-          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+          "title": "OneUI ユーザー:",
+          "content": "YouTube アプリを他のアプリでリンクを開くように設定する必要があります。「Go to supported URLs」を「in other app」に設定してください。"
         },
         {
-          "title": "MIUI users:",
-          "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
+          "title": "MIUI ユーザー:",
+          "content": "「設定」を開き「デフォルトのアプリ」を検索するか アプリ> アプリを管理 > [右上の 3 点ドット] > デフォルトのアプリ > リンクを開く に移動します。公式版 YouTube の「対応リンクを開く」の設定を「開かない」に設定し、YouTube Vancedの「対応リンクを開く」の設定を「開く」に設定する。"
         },
         {
-          "title": "AOSP & other custom skin users(includes OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced. \n\n2. Open Google Chrome. \n\n3. Search for some YouTube videos on Google. \n\n4. Open links with YouTube vanced app and set as always. \n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+          "title": "AOSP およびその他のカスタム UI ユーザー（OOS、ColorOS、EMUI など）:",
+          "content": "1. 公式版 YouTube アプリと Vanced で「毎回リンクを開く」に設定する \n\n2. Google Chrome を開く \n\n3. YouTube の動画を検索する \n\n4. リンクを YouTube Vanced で開き、常時に設定する \n\n5. 設定に戻り、公式 YouTube アプリの設定を「毎回確認する」から「このアプリで開かない」に変更する"
         }
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "root 版で microG が動作しないのはなぜですか？",
+      "description": "1. Vanced を使用するには、GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 以上が必要です。\n\n2. GApps パッケージで利用可能な Google Play サービスフレームワークがない場合には、Vanced で microG Core を利用できません。また、ライブラリーが必要です。\n\n3. プライバシーに関する懸念があり GApps を使わずに YouTube をご覧になりたい場合は、[ウェブ版](https://youtube.com)をご利用ください。"
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "なぜ Cast できないのですか？",
+      "description": "最新の v16.16.38 non-root 版をお使いの場合、microG にバグがあります。 それが解決されるまでアップデートをお待ちいただくか、バージョン15にロールバックしてください。root 版ユーザーは Google Play サービスを使用している場合、Cast に問題はありません。"
     },
     {
-      "title": "What is APK Signing?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "APK 署名とは何ですか？",
+      "description": "この質問は Vanced Manager をご利用でないか、非公式ソースから Vanced をダウンロードしているときに発生します。Vanced Manager をお使いください！\n\nVanced Manager は以下のリンクから安全にダウンロードできます:\n- 公式サイト <https://vancedapp.com>\n- [GitHub リポジトリ](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Is YouTube Vanced on Play Store?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
+      "title": "YouTube Vanced は Play ストアからダウンロードできますか？",
+      "description": "いいえ！\nPlay ストアで「YouTube Vanced」と検索したり、Vanced を名乗るアプリや類似のアプリをインストールするのはお控えください。\n\nPlay ストアに公開されている公式アプリは [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) のみです。\n\nもしアイコンを盗用した偽アプリを発見した場合は、なりすましとして報告し低評価をつけてください。\n\n公式アプリは <https://vancedapp.com> のみでリリースされます。"
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "なぜホーム画面やアプリのドロワーに Vanced が表示されないのですか？",
+      "description": "この質問は Vanced Manager をご利用でないか、非公式ソースから Vanced をダウンロードしているときに発生します。Vanced Manager をお使いください！\n\nVanced Manager は以下のリンクから安全にダウンロードできます:\n- 公式サイト <https://vancedapp.com>\n- [GitHub リポジトリ](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "なぜビデオが再生できないのですか？",
+      "description": "アプリを再起動してみてください。回復しない場合は、インターネット接続やデバイスの問題である可能性があります。"
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "なぜ 480p に制限されているのですか？",
+      "description": "COVID-19 の影響により、Google はいくつかの国でデータ使用を制限しています。これはサーバー上の制限のため、Vanced ユーザーと Stock YouTube ユーザーの両方に影響を与えます。",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "不具合の回避方法:",
+          "content": "1. 異なる地域に VPN を接続する\n2. [ウェブ版](https://youtube.com)を使う\n3. 480p の制限は携帯電話のみに適用され、タブレットには適用されないため、YouTube Vanced でデバイスのモデル名を変更して、制限を回避することができます。\n\n#### デバイスのモデル名を変更する方法\n1. YouTube Vanced を開く\n2. 設定を開く\n3. 「Vanced 設定」を開く\n4. 以下の手順で隠し設定を有効にする:\n  - 1 番下までスクロールし「Vanced について」のセクションを「隠し設定が有効になりました」というメッセージがタップされるまで繰り返しタップします。\n5. 「コーデックの上書き」セクションを開く\n6. メーカーを「Samsung」、モデルを「SM-T865」に設定する\n7. アプリを再起動する\n\n再起動後は、480p 制限が解除されています。"
         }
       ]
     },
     {
-      "title": "How to hide the microG notification?",
-      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "title": "どうやって microG の通知を非表示にしますか？",
+      "description": "microG の通知を隠すには、バッテリー最適化を無効にしてデバイスを再起動してください。\n\n再起動後も通知が表示されている場合には、microG の通知を長押ししてバッテリー最適化を無効にしてください。\n\nAndroid の システム UI 上から通知を非表示にすることもできます。Android で通知を無効にする方法は Google のヘルプをご覧ください。"
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "1080p の画面で 1440p に設定する意味がありますか？",
+      "description": "18 : 9 や 21 : 9 比率の動画である場合は有効です。設定 > 全般で「統計情報」を有効にして確認できます。\n\nより高い解像度を有効にするには、Vanced 設定 > 動画設定 に移動し、「最高画質」をオンにしてアプリを再起動します。"
     }
   ]
 }
