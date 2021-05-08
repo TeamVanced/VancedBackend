@@ -46,7 +46,7 @@
     },
     {
       "title": "root 版にマイクの権限がないのはなぜですか？",
-      "description": "Vanced の最新バージョンにはあります。"
+      "description": "Vanced の最新バージョンでは必要です。"
     },
     {
       "title": "ExoPlayer v1 とは？",
@@ -57,19 +57,19 @@
       "description": "Vanced 設定で、6~7回「Vanced について」セクションをタップすることで有効になります。これにより、追加のコーデック設定が有効になります。"
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "root variant で microG が動作しないのはなぜですか？",
+      "description": "1. Vanced を使用するには、GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant 以上が必要です。\n\n2. GApps パッケージで利用可能な Google Play サービスフレームワークがない場合には、Vanced で microG Core を利用できません。また、ライブラリーが必要です。\n\n3. プライバシーに関する懸念があり GApps を使わずに YouTube をご覧になりたい場合は、[ウェブ版](https://youtube.com)をご利用ください。"
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "It works if your microG is up-to-date."
+      "title": "なぜ Cast できないのですか？",
+      "description": "microG のアップデートが必要です。"
     },
     {
-      "title": "APK 署名とは何ですか?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "APK 署名とは何ですか？",
+      "description": "この質問は Vanced Manager をご利用でないか、非公式ソースから Vanced をダウンロードしているときに発生します。Vanced Manager をお使いください！\n\nVanced Manager は以下のリンクから安全にダウンロードできます:\n- 公式サイト <https://vancedapp.com>\n- [GitHub リポジトリ](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "YouTube Vanced は Play Store で入手できますか?",
+      "title": "YouTube Vanced は Play ストアからダウンロードできますか？",
       "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
     },
     {
