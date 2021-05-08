@@ -58,7 +58,7 @@
     },
     {
       "title": "How to make YouTube Vanced as default app?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "كما يقول العنوان ، كان الكثير من المستخدمين يسألون عدة مرات كيف يمكنهم جعل YouTube Vanced افتراضيًا لفتح الروابط من تطبيقات أخرى (مثل المتصفحات وتطبيقات المراسلة وأي تطبيق آخر).\n\nبالنسبة إلى الروت، لا داعي للقلق لأنه تم تعيينه افتراضيًا بالفعل حيث يتم استبدال YouTube Vanced بـ يوتيوب الأصلي.\n\nبالنسبة لغير الروت، تم تقسيم الحلول بين OneUI و MIUI والباقي. لا يمكننا توفير حلول لكل نظام تشغيل موجود ، وقد تحتاج إلى استخدام Google بنفسك.",
       "fields": [
         {
           "title": "OneUI users:",
@@ -69,8 +69,8 @@
           "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced.\n\n2. Open Google Chrome.\n\n3. Search for some YouTube videos on Google.\n\n4. Open links with YouTube vanced app and set as always.\n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+          "title": "AOSP وواجهة مستخدم مخصصة أخرى (OOS و ColorOS و EMUI وما إلى ذلك):",
+          "content": "1. اختر \"اسأل في كل مرة\" لكل من تطبيق يوتيوب الأصلي و vanced.\n\n2. افتح Google Chrome.\n\n3. ابحث عن بعض مقاطع فيديو YouTube على Google.\n\n4. افتح الروابط مع تطبيق YouTube vanced وقم بتعيينها كما هو الحال دائمًا.\n\n5. ارجع إلى الإعدادات حيث قمت بتعيين \"السؤال في كل مرة\" على YouTube ، وقم بتغيير ذلك إلى \"عدم الفتح في هذا التطبيق\"."
         }
       ]
     },
