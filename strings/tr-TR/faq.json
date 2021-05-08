@@ -69,7 +69,7 @@
           "content": "Ayarlardan \"Varsayılan uygulamalar\"ı aramalı veya Uygulamalar > Uygulamaları yönet > [sağ köşedeki üç noktaya dokun] > Varsayılan uygulamalar > Bağlantıları aç, adımlarını izlemelisin. Uygulamalar listelendikten sonra listenin aşağısında YouTube veya YouTube Vanced'ı bulup dokun. Sonrasında \"**Destekleyen bağlantıları aç**\" ayarını, \"**Açık**\" olarak seçmelisin."
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "title": "AOSP & özelleştirilmiş diğer arayüzler (OOS, ColorOS, EMUI, vb.):",
           "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced.\n\n2. Open Google Chrome.\n\n3. Search for some YouTube videos on Google.\n\n4. Open links with YouTube vanced app and set as always.\n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
         }
       ]
