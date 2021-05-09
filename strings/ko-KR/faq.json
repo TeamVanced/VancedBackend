@@ -110,7 +110,7 @@
     },
     {
       "title": "MicroG 알림을 숨기는 방법",
-      "description": "microG 알림을 숨기려면,\n\n1. Vanced microG를 배터리 최적화에서 해제하고 기기를 재시작하십시오.\n\n2. 위 방법이 통하지 않는다면, microG 알림을 길게 누른 다음, 알림을 끄고, 저장하여서 microG 알림을 끄면 됩니다.\n\n>Android 사용자 인터페이스에 따라 앱 알림을 비활성화하는 방법이 다를 수 있습니다. 비활성화하는 방법을 잘 모르겠다면, Google에서 방법을 알아보시기 바랍니다."
+      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
       "title": "1440p가 1080p 화면에서도 더 좋은 화질을 제공해주나요?",
