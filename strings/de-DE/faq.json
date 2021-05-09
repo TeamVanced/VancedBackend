@@ -70,37 +70,37 @@
         },
         {
           "title": "AOSP & andere benutzerdefinierte UIs (OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced.\n\n2. Open Google Chrome.\n\n3. Search for some YouTube videos on Google.\n\n4. Open links with YouTube vanced app and set as always.\n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+          "content": "1. Wähle \"Jedes Mal fragen\" für die stock YouTube app und YouTube Vanced.\n\n2. Öffne Google Chrome.\n\n3. Suche nach einem YouTube Video auf Google.\n\n4. Öffne den Link mit YouTube Vanced mit der Option \"Immer\".\n\n5. Kehre zurück in die Einstellungen wo Sie \"Jedes Mal fragen\" bei YouTube gesetzt haben und ändern sie dies zu \"In dieser App nicht öffnen\"."
         }
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "Warum funktioniert die root Variante nicht mit microG Core?",
+      "description": "1. Sie benötigen mindestens die [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) Variante von GApps um Vanced benutzen zu können.\n\n2. Sie können Vanced mit microG nicht benutzen, ohne das Google Play Service Framework installiert zu haben, welches in allen GApps Varianten inkludiert ist, da es eine erforderliche Bibliothek ist.\n\n3. Wenn Sie besorgt sind wegen Ihrer Privatsphäre und nicht GApps verwenden wollen aber trotzdem YouTube schauen wollen ohne Werbeanzeigen, dann ist die Web Version (https://youtube.com) immer verfügbar."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "Warum funktioniert Casten/Streamen nicht?",
+      "description": "Für Benutzer mit der neusten v16.16.38 Version non-root Variante gibt es einen Bug in upstream microG. Bis dieser behoben ist, warten Sie bitte auf ein Update oder installieren Sie eine v15 Version. Root Benutzer werden keine Probleme haben, solange diese die Google Play-Dienste benutzen."
     },
     {
-      "title": "What is APK Signing?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Was ist APK Signing?",
+      "description": "Sie lesen dies, weil Sie nicht Vanced Manager benutzen oder Vanced von einer inoffiziellen Quelle installiert haben.\nBenutze einfach Vanced Manager!\n\nSie können Vanced Manager sicher herunterladen von:\n- [Offizielle Seite](https://vancedapp.com)\n- [GitHub Repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Is YouTube Vanced on Play Store?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+      "title": "Ist YouTube Vanced im Play Store?",
+      "description": "NEIN!\nNoch einmal, versuchen Sie NICHT fake Apps namens \"YouTube Vanced\" oder ähnliches aus dem Play Store oder anderen Stores zu suchen oder zu installieren.\n\nWir haben nur [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) welche die einzige offizielle veröffentlichte App im Play Store ist.\n\nWenn Sie irgendeine andere App mit unseren Namen oder Symbol finden, dann melden sie diese als Imitation und geben ihr eine schlechte Bewertung.\n\nUnsere Apps können nur hier gefunden werden: [official site](https://vancedapp.com)"
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Warum sehe ich Vanced nicht auf meinem Startbildschirm oder in meinem App-Drawer?",
+      "description": "Sie lesen dies, weil Sie nicht Vanced Manager benutzen oder Vanced von einer inoffiziellen Quelle installiert haben.\nBenutze einfach Vanced Manager!\n\nSie können Vanced Manager sicher herunterladen von:\n- Offizielle Seite <https://vancedapp.com>\n- [GitHub Repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "Warum spielen die Videos nicht ab?",
+      "description": "Versuche die App neu zu starten. Es könnte auch an Ihrer Internetverbindung oder Gerät liegen."
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "Warum habe ich ein 480p limit?",
+      "description": "Wegen COVID-19 hat Google die Datennutzung in mehreren Ländern eingeschränkt. Das passiert auf den Servern und betrifft Vanced und stock YouTube Benutzer.",
       "fields": [
         {
           "title": "Workarounds:",
