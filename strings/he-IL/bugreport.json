@@ -1,5 +1,5 @@
 {
-  "bugreport": [
+  "data": [
     {
       "title": "כיצד לדווח על תקלות?",
       "description": "אפשר לדווח על באגים על ידי יצירת 'issues' [ב־'Github Issue Center's] שלנו\n(https://github.com/YTVanced/Vanced#vanced-issue-center).\n\nלפני פתיחת ה־'Issue' שלכם, בדקו ליתר ביטחון בשאר ה־'Issues' הקיימים למקרה שהבעיה שלכם כבר דווחה!",

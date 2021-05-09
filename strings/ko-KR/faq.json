@@ -1,5 +1,5 @@
 {
-  "faq": [
+  "data": [
     {
       "title": "Vanced란",
       "description": "YouTube Vanced는 YouTube를 더욱 잘 쓸 수 있도록 기능과 개선점을 추가하여 개조한 버전입니다!\n\n아래와 같은 기능들을 쓸 수 있습니다.\n\n백그라운드 재생\n사용자 지정 테마(기존 어두운 테마 혹은 OLED 검정 테마)\n광고 차단\n동영상 품질 제한 무시 등!\n모든 기능들을 보려면, XDA 게시글의 \"features\" 부분(https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)을 읽어 보세요. 모든 기능 목록이나 기타 일반적인 정보를 확인하실 수 있습니다."

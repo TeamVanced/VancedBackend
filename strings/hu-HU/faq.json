@@ -1,5 +1,5 @@
 {
-  "faq": [
+  "data": [
     {
       "title": "Mi a YouTube Vanced?",
       "description": "A YouTube Vanced a YouTube módosított változata extra funkciókkal, amelyek jobbá teszik a YouTube élményt!\n\nJellemzők:\n- Lejátszás a háttérben,\n- Kép a képben mód (PiP),\n- Fekete téma (OLED barát),\n- Hirdetések eltávolítása (bekapcsolást igényel),\n- Maximális felbontás felülbírálása (lehetővé teszi olyan videók lejátszását, amelyek felbontása még a kijelzőjénél is nagyobb),\n- ...és még sok más!\n\nTovábbi információkért, látogass el a <https://vancedapp.com> oldalra"

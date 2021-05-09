@@ -1,5 +1,5 @@
 {
-	"troubleshooting": [
+	"data": [
 		{
 			"title": "基本疑难解答",
 			"description": "一、清除下列应用的数据和缓存\n\n1. 对于非 Root 版，Vanced/Vanced Music 和 microG\n2. 对于 Root 版，Vanced/Vanced Music 和 Google Play 服务\n\n二、重新安装 YouTube Vanced\n\n重要提示：请在上述两步之间重启一次"

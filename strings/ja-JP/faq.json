@@ -1,5 +1,5 @@
 {
-  "faq": [
+  "data": [
     {
       "title": "YouTube Vanced とは？",
       "description": "YouTube Vanced はあなたの YouTube 体験をより豊かにする便利な機能を備えた改造版の YouTube アプリです。\n\n例えばこのような機能が含まれています:\n- バックグラウンド再生\n- ピクチャー イン ピクチャー（PiP）\n- ダークテーマ（有機 EL 向け）\n- 広告ブロック（デフォルトではオフ）\n- 最高画質の上書き（デバイスの画面以上の画質で動画を再生）\n- ...などなど！\n\n詳細についてはこちら\n<https://vancedapp.com>"

@@ -1,5 +1,5 @@
 {
-  "faq": [
+  "data": [
     {
       "title": "Vanced nedir?",
       "description": "YouTube Vanced, YouTube kullanımını daha iyi hale getirmek için ekstra özelliklerle modifiye edilmiş bir sürümüdür.\n\nEkstra özelliklerden bazıları:\n- Arka planda oynatma,\n- PiP (Açık uygulamalar üzerinde küçük video oynatıcısı)\n- Siyah tema (OLED dostu),\n- Reklam kaldırma (etkinleştirilmesi gerekebilir),\n- Çözünürlük ayarını değiştirme (cihazının desteklediği çözünürlükten daha yüksek çözünürlüğe sahip videoları oynatmaya olanak sağlar),\n- ... ve daha neler neler!\n\nDaha fazla bilgi için <https://vancedapp.com>'u ziyaret edebilirsin"

@@ -1,5 +1,5 @@
 {
-	"troubleshooting": [
+	"data": [
 		{
 			"title": "Основно отстраняване на проблеми",
 			"description": "А) Изчистете данните и кеша на\n\n(I) Vanced/Vanced Music и microG for за варианта без root достъп\n(II) Vanced/Vanced Music и Google Play Services за варианта с root достъп\n\nB) Инсталирайте отново YouTube Vanced\n\nВАЖНО НАПОМНЯНЕ: Рестартирайте устройството преди всяка стъпка"

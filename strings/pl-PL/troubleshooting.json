@@ -1,5 +1,5 @@
 {
-	"troubleshooting": [
+	"data": [
 		{
 			"title": "Podstawowe rozwiązywania problemów",
 			"description": "A) Wyczyść dane i pamięć podręczną  dla \n\n(I) Vanced/Muzyki Vanced i microG dla wariantu bez roota\n(II) Vanced/Muzyki Vanced i Usług Google Play dla wariantu root\n\nB) Zainstaluj ponownie YouTube Vanced\n\nWAŻNE UWAGA: Uruchom ponownie system między czynnościami"

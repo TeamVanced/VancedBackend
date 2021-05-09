@@ -1,5 +1,5 @@
 {
-	"troubleshooting": [
+	"data": [
 		{
 			"title": "Základné riešenie problémov",
 			"description": "A) Vymažte údaje a vyrovnávaciu pamäť z \n\n(I) Vanced/Vanced Music a microG pre Non-Root verziu\n(II) Vanced/Vanced Music a Služby Google Play pre Root verziu\n\nB) Preinštalujte YouTube Vanced\n\nDÔLEŽITÉ UPOZORNENIE: Medzi procesmi reštartujte zariadenie"

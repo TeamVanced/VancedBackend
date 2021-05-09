@@ -1,5 +1,5 @@
 {
-  "bugreport": [
+  "data": [
     {
       "title": "버그를 제보하는 방법",
       "description": "[GitHub 이슈 트래커](https://github.com/YTVanced/Vanced)로 버그를 제보할 수 있습니다.\n\n**버그 제보 전 우선 README 파일을 읽고 같은 버그가 이미 제보되지는 않았는지 확인해야 합니다!**",
