@@ -58,11 +58,11 @@
     },
     {
       "title": "Jak nastavit YouTube Vanced jako výchozí aplikaci?",
-      "description": "Jak název napovídá, spousta uživatelů se mnohokrát ptá, jak můžou nastavit YouTube Vanced jako výchozí pro otevírání odkazů z jiných aplikací (jako jsou prohlížeče, aplikace pro zasílání zpráv a jakékoli jiné aplikace).\n \nUživatelé root verze se nemusejí obávat, protože ve výchozím nastavení je aplikace YouTube nahrazena aplikací YouTube Vanced. \n\nPro užívatele non-root verze byla řešení rozdělena mezi OneUI, MIUI a ostatní.  Nemůžeme poskytnout řešení pro každý operační systém, který je k dispozici, a budete si je možná muset vyhledat sami.",
+      "description": "Jak název napovídá, spousta uživatelů se mnohokrát ptá, jak můžou nastavit YouTube Vanced jako výchozí pro otevírání odkazů YouTubez jiných aplikací (jako jsou prohlížeče, aplikace pro zasílání zpráv a jakékoli jiné aplikace).\n \nUživatelé root verze se nemusejí obávat, protože ve výchozím nastavení je aplikace YouTube nahrazena aplikací YouTube Vanced. \n\nPro užívatele non-root verze byla řešení rozdělena mezi OneUI, MIUI a ostatní.  Nemůžeme poskytnout řešení pro každý operační systém, který je k dispozici, a budete si je možná muset vyhledat sami.",
       "fields": [
         {
           "title": "Uživatelé OneUI:",
-          "content": "Musíte nastavit aplikaci YouTube, aby se odkazy otevíraly v jiné aplikaci. Nastavte \"Přejít na podporované URL\" na \"v jiné aplikaci\"."
+          "content": "1. Stiskněte a přidržte ikonu YouTube nebo YouTube Vanced a otevřete informace o aplikaci.\n2. Přejděte dolů do sekce „Nastavení aplikace“\n3. Stiskněte možnost **Nastavit jako výchozí**\n4. Nastavte možnost \"**Přejít na nastavení podporovaných URL**\" na \"**V této aplikaci**\"."
         },
         {
           "title": "Uživatelé MIUI:",
@@ -84,11 +84,11 @@
     },
     {
       "title": "Co je to podepisování APK?",
-      "description": "Toto čtete, protože nepoužíváte Vanced Manager nebo jste nainstalovali Vanced z neoficiálního zdroje. \nStačí použít Vanced Manager!\n\nVanced Manager si můžete bezpečně stáhnout z těchto odkazů:\n- Oficiální stránka <https://vancedapp.com> \n- [Repozitář GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Toto čtete, protože nepoužíváte Vanced Manager nebo jste nainstalovali Vanced z neoficiálního zdroje. \nStačí použít Vanced Manager!\n\nVanced Manager si můžete bezpečně stáhnout z těchto odkazů:\n- [Oficiální stránka](https://vancedapp.com) \n- [Repozitář GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Najdu YouTube Vanced v Obchodě Play?",
-      "description": "NE!\nZnovu, NEINSTALUJTE ani se nepokoušejte hledat žádné falešné aplikace s názvem „YouTube Vanced“ nebo podobné v Obchodě Play nebo v žádných obchodech s aplikacemi.\n\nMáme pouze [Průvodce Vanced](https://play.google.com/store/apps/details?id=com.vanced.faq) a je to jediná oficiální aplikace publikovaná v Obchodu Play.\n\nPokud najdete jinou aplikaci s naší ikonou a jménem, nahlaste ji jako předstírání identity a zanechte negativní hodnocení.\n\nNaše aplikace najdete pouze na <https://vancedapp.com>."
+      "description": "NE!\nZnovu, NEINSTALUJTE ani se nepokoušejte hledat žádné falešné aplikace s názvem „YouTube Vanced“ nebo podobné v Obchodě Play nebo v žádných obchodech s aplikacemi.\n\nMáme pouze [Průvodce Vanced](https://play.google.com/store/apps/details?id=com.vanced.faq) a je to jediná oficiální aplikace publikovaná v Obchodu Play.\n\nPokud najdete jinou aplikaci s naší ikonou a jménem, nahlaste ji jako předstírání identity a zanechte negativní hodnocení.\n\nNaše aplikace najdete pouze na [oficiální stránce](https://vancedapp.com)."
     },
     {
       "title": "Proč se Vanced nezobrazuje na domovské obrazovce nebo v seznamu aplikací?",
@@ -110,7 +110,7 @@
     },
     {
       "title": "Jak skrýt oznámení microG?",
-      "description": "Chcete-li oznámení microG skrýt, můžete vypnout optimalizaci baterie pro microG a restartovat zařízení.\n\nPokud se oznámení po restartu stále zobrazuje, vypněte oznámení microG podržením oznámení, vypněte jej a klepněte na Uložit.\n\nVypnutí oznámení aplikace lze provést různými způsoby v závislosti na uživatelském rozhraní systému Android. Pokud nevíte, jak to vypnout, zkuste použít vyhledávání Google a řešení najít."
+      "description": "Chcete-li oznámení microG skrýt, \n\n1. Můžete vypnout optimalizaci baterie pro Vanced microG a restartovat zařízení.\n\n2. Pokud výše uvedená metoda nefunguje, vypněte oznámení microG podržením oznámení, vypněte jej a klepněte na Uložit.\n\n>Vypnutí oznámení aplikace lze provést různými způsoby v závislosti na uživatelském rozhraní systému Android. Pokud nevíte, jak to vypnout, zkuste použít vyhledávání Google a řešení najít."
     },
     {
       "title": "Vypadá rozlišení 1440p lépe na mé obrazovce s rozlišením 1080p?",

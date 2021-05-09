@@ -58,11 +58,11 @@
     },
     {
       "title": "Comment paramétrer YouTube Vanced en tant qu'application par défaut ?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Comme le dit le titre, de nombreux utilisateurs ont demandé plusieurs fois comment paramétrer YouTube Vanced comme application par défaut pour ouvrir des liens depuis d'autres applications (comme les navigateurs, les applications de messagerie et toute autre application).\n \nPour le mode root, ce problème n'a pas lieu d'être puisque YouTube Vanced remplace Stock YouTube ; YouTube Vanced est alors l'application par défaut pour ouvrir des liens. \n\nPour ceux qui utilise la méthode non-root, plusieurs solutions ont été créées pour pallier à ce problème. Ces solutions ont été réparties de la manière suivante : OneUI, MIUI et le reste. Nous ne pouvons pas fournir de solutions pour chaque système d'exploitation : il se peut que vous deviez rechercher par vous-même la solution sur internet.",
       "fields": [
         {
           "title": "Utilisateurs OneUI :",
-          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon to open the app info.\n2. Scroll down to the `App settings` section\n3. Hit the **Set as default** option\n4. Set the \"**Go to supported URLs setting**\" as \"**In this app**\" option."
         },
         {
           "title": "Utilisateurs MIUI :",
@@ -84,11 +84,11 @@
     },
     {
       "title": "Qu'est-ce que la signature d'un APK ?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Est-ce que YouTube Vanced est disponible sur le PlayStore ?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
+      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
     },
     {
       "title": "Why is Vanced not showing up in home screen or app drawer?",
@@ -110,7 +110,7 @@
     },
     {
       "title": "Comment masquer la notification microG ?",
-      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Pour masquer la notification microG, \n\n1. Vous pouvez désactiver l'optimisation de la batterie pour microG et redémarrer votre appareil.\n\n2. Si la méthode ci-dessus ne fonctionne pas, désactivez les notifications microG en faisant un clique long sur la notification, désactivez la et appuyez sur enregistrer.\n\nLa désactivation des notifications d'application peut être faite de différentes manières selon l'interface utilisateur Android. Si vous ne savez pas comment la désactiver, utilisez Google pour apprendre à la désactiver."
     },
     {
       "title": "Est-ce que le 1440p est plus joli sur mon écran 1080p ?",

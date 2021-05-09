@@ -58,11 +58,11 @@
     },
     {
       "title": "Hoe stel je YouTube Vanced in als standaardapp?",
-      "description": "Zoals de titel zegt hebben veel gebruikers reeds dikwijls gevraagd hoe ze YouTube Vanced de standaard kunnen maken voor het openen van links uit andere apps (zoals browsers, berichtenapps en andere apps).\n\nVoor root hoef je je geen zorgen te maken omdat het al standaard is ingesteld sinds YouTube Vanced de originele YouTube vervangt.\n\nVoor niet-root zijn oplossingen verschillend bij OneUI, MIUI en de rest. We kunnen geen oplossingen aanbieden voor iedere OS, en je moet mogelijk zelf wat zoeken via Google.",
+      "description": "Zoals de titel zegt hebben veel gebruikers reeds dikwijls gevraagd hoe ze YouTube Vanced de standaard kunnen maken voor het openen van links uit andere apps (zoals browsers, berichtenapps en andere apps).\n\nVoor root hoef je je geen zorgen te maken omdat het al standaard is ingesteld aangezien YouTube Vanced de originele YouTube vervangt.\n\nVoor niet-root zijn oplossingen verschillend bij OneUI, MIUI en de rest. We kunnen geen oplossingen aanbieden voor iedere OS, en je moet mogelijk zelf wat zoeken via Google.",
       "fields": [
         {
           "title": "OneUI gebruikers:",
-          "content": "Je moet de YouTube-app links laten openen met een andere app. Stel de \"Ga naar ondersteunde URLs\" in op \"in andere app\"."
+          "content": "1. Klik en hou ingedrukt op YouTube of YouTube Vanced app pictogram om de app informatie te openen.\n2. Scroll naar beneden naar `App instellingen`\n3. Klik op **Als standaard instellen**\n4. Stel de \"**Ga naar ondersteunde URL's instelling**\" in als \"**In deze app**\"."
         },
         {
           "title": "MIUI gebruikers:",
@@ -84,11 +84,11 @@
     },
     {
       "title": "Wat is een APK handtekening?",
-      "description": "Je leest dit omdat je Vanced Manager niet gebruikt of omdat je mogelijk Vanced hebt geïnstalleerd vanuit een onofficiële bron. \nGebruik enkel Vanced Manager!\n\nJe kan Vanced Manager veilig downloaden van:\n- Officiële site <https://vancedapp.com> \n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Je leest dit omdat je Vanced Manager niet gebruikt of omdat je mogelijk Vanced hebt geïnstalleerd vanuit een onofficiële bron. \nGebruik enkel Vanced Manager!\n\nJe kan Vanced Manager veilig downloaden van:\n- [Officiële site](https://vancedapp.com) \n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Is YouTube Vanced beschikbaar in de Play Store?",
-      "description": "NEE!\nNogmaals, installeer geen apps met de naam \"YouTube Vanced\" of iets soortgelijks in de Play Store of in andere appwinkels om Vanced te installeren. Het heeft dan ook geen zin om daar naar de app te zoeken.\n\n[Vanced Gids](https://play.google.com/store/apps/details?id=com.vanced.faq) is de enige officiële app die we in de Play Store hebben gepubliceerd.\n\nAls je een andere app met ons pictogram en/of onze naam vindt, rapporteer deze dan als imitatie en geef deze een slechte beoordeling.\n\nOnze apps kunnen alleen gevonden worden op <https://vancedapp.com>."
+      "description": "NEE!\nNogmaals, installeer geen app's of zoek niet naar app's met de naam \"YouTube Vanced\" of iets gelijkaardig in de Play Store of in andere appwinkels.\n\n[Vanced Gids](https://play.google.com/store/apps/details?id=com.vanced.faq) is de enige officiële app die we in de Play Store hebben gepubliceerd.\n\nAls je een andere app met ons pictogram en/of onze naam vindt, rapporteer deze dan als imitatie en geef deze een slechte beoordeling.\n\nOnze apps kunnen alleen gevonden worden op [Officiële site](https://vancedapp.com)."
     },
     {
       "title": "Waarom wordt Vanced niet weergegeven op het startscherm of het app overzicht?",
@@ -110,7 +110,7 @@
     },
     {
       "title": "Hoe Vanced microG meldingen verbergen?",
-      "description": "Om microG meldingen te verbergen kan je de batterij optimalisatie voor microG uitschakelen en je apparaat opnieuw opstarten.\n\nAls de melding er nog steeds is na het herstarten, schakel dan microG meldingen uit door de notificatie ingedrukt te houden, schakel deze uit en klik op Bewaren.\n\nHet uitschakelen van app meldingen kan op verschillende manieren gebeuren, afhankelijk van de Android gebruikersinterface. Als je niet weet hoe je dit moet uitschakelen, probeer dan Google te gebruiken om te weten te komen hoe je het moet uitschakelen."
+      "description": "Om microG meldingen te verbergen:\n\n1. De batterijoptimalisatie voor Vanced microG uitschakelen en je apparaat opnieuw opstarten.\n\n2. Als die methode niet werkt, schakel dan microG meldingen uit door de notificatie ingedrukt te houden, ze uit te schakelen en te bewaren.\n\n>Het uitschakelen van app meldingen kan op verschillende manieren gebeuren, afhankelijk van de Android gebruikersinterface. Als je niet weet hoe je dit moet uitschakelen, probeer dan via Google te zoeken hoe je dit moet uitschakelen."
     },
     {
       "title": "Ziet 1440p er beter uit op mijn 1080p scherm?",

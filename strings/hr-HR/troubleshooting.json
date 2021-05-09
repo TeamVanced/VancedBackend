@@ -2,7 +2,7 @@
 	"data": [
 		{
 			"title": "Osnovno rješavanje problema",
-			"description": "A) Obrišite podatke i predmemoriju \n\n(I) Vanced/Vanced Music i microG za Non-Root verziju\n(II) Vanced/Vanced Music i Usluge Trgovine Play za Root verziju\n\nB) Ponovo instalirajte YouTube Vanced\n\nVAŽNA OBAVIJEST: Ponovo pokrenite između postupaka"
+			"description": "A) Wipe data and cache of \n\n(I) Vanced/Vanced Music and microG for Non-Root Variant\n\n (II) Vanced/Vanced Music and Google Play Services for Root Variant\n\nB) Reinstall YouTube Vanced\n\n> IMPORTANT NOTICE: Reboot between processes"
 		},
 		{
 			"title": "Problemi s prijavom",
@@ -18,7 +18,7 @@
 				},
 				{
 					"title": "If you are getting an error that says \"Trouble connecting to Google servers\", please do either of the following to fix the issue.",
-					"content": "• Uninstall vanced microG and reinstall it again. \n\n• Use the Huawei spoof button within microG sign-in page."
+					"content": "1. Uninstall vanced microG and reinstall it again.\n\n2. Use the Huawei spoof button within microG sign-in page."
 				},
 				{
 					"title": "If Vanced logs out of your Google account",
@@ -73,11 +73,11 @@
 			"fields": [
 				{
 					"title": "Za Non-Root",
-					"content": "1). Install Android Debug Bridge using this [Guide](https://www.xda-developers.com/install-adb-windows-macos-linux). \n\n2) Unlock your phone. \n\n3) Enable Developer Mode (tap 10 times on Build number in Settings - About phone -Software information). \n\n4) Enable USB debugging in Settings - Developer options. \n\n5) Connect your phone to PC. \n\n6) Open Command Prompt (CMD) and change directory: \"cd C:/Windows/adb/\" and press Enter. \n\n7) As your phone is connected and CMD is open, in CMD run command \"adb devices\". There will be a prompt on your phone, something like \"Would you like to connect your phone to PC?\" Press Yes. \n\n8) Run cmd command \"adb uninstall com.vanced.android.youtube\". \n\n9) After this you may install Vanced Manager and install the latest version of YouTube Vanced"
+					"content": "1. Install Android Debug Bridge using this [Guide](https://www.xda-developers.com/install-adb-windows-macos-linux). \n\n2. Unlock your phone. \n\n3. Enable Developer Mode (tap 10 times on Build number in Settings - About phone -Software information). \n\n4. Enable USB debugging in Settings - Developer options. \n\n5. Connect your phone to PC. \n\n6. Open Command Prompt (CMD) and change directory: \"cd C:/Windows/adb/\" and press Enter. \n\n7. As your phone is connected and CMD is open, in CMD run command \"adb devices\". There will be a prompt on your phone, something like \"Would you like to connect your phone to PC?\" Press Yes. \n\n8. Run cmd command \"adb uninstall com.vanced.android.youtube\". \n\n9. After this you may install Vanced Manager and install the latest version of YouTube Vanced"
 				},
 				{
 					"title": "Ako se Vanced ne prikazuje pod GCM-om ili se prikazuje kao neregistriran",
-					"content": "Pokušajte bilo što od sljedećeg:\n\n1. Uklonite svoj Google račun iz postavki računa. Račun koji koristi Vanced ima staru plavu boju pozadine s malim g logotipom.\n\n2. Izbrišite podatke microG-a, a zatim se prijavite.\n\nILI\n\nAko gornje zaobilazno rješenje ne uspije, ponovo ga instalirajte."
+					"content": "1. Use root explorer and navigate to root storage. \n\n2. Then find this folder when you are installing YT Vanced  \"data/app/com.vanced.android.youtube-....\" or when you are installing YT Music \"com.vanced.android.apps.youtube.music-....\"  \n\n3. If you found such folders, just delete them then continue installing YT Vanced or YT music via Vanced Manager."
 				},
 				{
 					"title": "This solution is for YouTube Music Vanced only, not for YouTube Vanced",
@@ -95,7 +95,7 @@
 			"fields": [
 				{
 					"title": "For Non-Root variant",
-					"content": "1) Ako se Non-Root aplikacija Vanced prisilno zatvori prije instaliranja MicroG-a, deinstalirajte i Vanced aplikaciju i MicroG. Zatim prvo instalirajte MicroG, a zatim Vanced. Problem bi trebao biti riješen.\n\n2) Ako se Non-Root aplikacija Vanced prisilno zatvara bez instaliranja MicroG-a, instalirajte MicroG. [Ako se ne želite prijaviti, nemojte se prijavljivati i instalirajte samo MicroG aplikaciju jer Vanced ima ovisnost o MicroG-u za povezivanje s Googleovim uslugama]"
+					"content": "1. Install Vanced microG first then YouTube Vanced.\n\n2. Login with your Google account\n\n3. Disable battery optimization for Vanced microG(the guide dontkillmyapp.com is suggested).\n\n4. Open \"Vanced microG\" additional settings either using vanced manager or by going into application info.\n\n5. Then continue on with this [guide](https://youtu.be/Q-5YFmFWVok)."
 				},
 				{
 					"title": "For Root variant",
@@ -135,7 +135,7 @@
 				},
 				{
 					"title": "Solution 2",
-					"content": "REQUIREMENTS: \n\nVanced Manager 2.2.0 or newer\nGo to Vanced manager settings and fine Root Script Sleep Time (you should be on root mode for this option to appear). Then set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
+					"content": "REQUIREMENTS: Vanced Manager 2.2.0 or newer\n\n Open Vanced manager and go to settings and find Root Script Sleep Time (you should be on root mode for this option to appear).\n\n2. Then set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
 				}
 			]
 		},
@@ -162,7 +162,7 @@
 		},
 		{
 			"title": "Picture-in-Picture issues",
-			"description": "⚠️Please don't report PIP related issues.⚠️\n• Pip is controlled by system as Vanced uses android native pip. Blame ROM for any issues with your PIP.\nOther apps like MX Player, VLC, etc uses its own PIP instead of android native hence they will never face such issues which persist in apps using native.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture"
+			"description": "⚠️Please don't report PIP related issues.⚠️\n\n• PIP is managed by the Android system because YouTube uses native PIP, and the same is true for YouTube Vanced. Other apps (such as MX Player, VLC, and others) make use of a custom-made PIP. As a result, any problems with PIP should be reported to Google instead.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture"
 		},
 		{
 			"title": "App download issues",
@@ -173,7 +173,7 @@
 				},
 				{
 					"title": "If you are having trouble downloading and installing vanced via manager, you can still use SAI/manual method to install vanced.",
-					"content": "• Use the MediaFire mirror to download the required files.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Use the AFH Mirror to download the required files.\n>https://androidfilehost.com/?w=files&flid=170196\n\nNOTES:\n\nA) Since we have all separate apk files on mediafire/afh now, you have to zip all \"base, architecture and language\" apk's & install it via SAI. All 3 apk are must.\nB) Manual installation can only be done either via root since it requires accessing root storage."
+					"content": "• Use the MediaFire mirror to download the required files.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Use the AFH Mirror to download the required files.\n>https://androidfilehost.com/?w=files&flid=170196\n\nNOTES:\n\nA) Since we have all separate apk files on Mediafire and android file host(AFH) now, you have to zip all \"base, architecture and language\" apk's & install it via SAI. All 3 apk are must.\n\nB) Manual installation can only be done either via root since it requires accessing root storage."
 				}
 			]
 		},

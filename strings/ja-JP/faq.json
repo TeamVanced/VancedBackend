@@ -58,11 +58,11 @@
     },
     {
       "title": "YouTube Vanced をデフォルトのアプリに設定する方法は？",
-      "description": "\n ブラウザやメッセージアプリなどから YouTube のリンクを開くときに使用するデフォルトのアプリに Vanced を設定する方法です。これは特によくある質問です。\n \nroot 版では、YouTube Vanced は公式アプリ置き換えているためすでにデフォルトに設定されています。 \n\nnon-root 版では、OneUI や MIUI などがあり解決方法が異なるためここですべてに共通の解決方法を示すことはできません。ご使用の OS にあった設定方法をウェブ検索してください。",
+      "description": "ブラウザやメッセージアプリなどから YouTube のリンクを開くときに使用するデフォルトのアプリに Vanced を設定する方法です。これは特によくある質問です。\n \nroot 版では、YouTube Vanced は公式アプリを置き換えているためすでにデフォルトに設定されています。 \n\nnon-root 版では、OneUI や MIUI などがあり解決方法が異なるためここですべてに共通の解決方法を示すことはできません。ご使用の OS にあった設定方法をウェブ検索してください。",
       "fields": [
         {
           "title": "OneUI ユーザー:",
-          "content": "YouTube アプリを他のアプリでリンクを開くように設定する必要があります。「対応する URL に移動」を「他のアプリ」に設定してください。"
+          "content": "1. YouTube Vanced のアイコンを長押ししてアプリ情報を開く\n2. アプリ設定 セクションをスクロールする\n3. 「標準アプリとして設定」をタップする\n4. 「対応する URL に移動」を「このアプリで起動」に設定する"
         },
         {
           "title": "MIUI ユーザー:",
@@ -84,11 +84,11 @@
     },
     {
       "title": "APK 署名とは何ですか？",
-      "description": "この質問は Vanced Manager をご利用でないか、非公式ソースから Vanced をダウンロードしているときに発生します。Vanced Manager をお使いください！\n\nVanced Manager は以下のリンクから安全にダウンロードできます:\n- 公式サイト <https://vancedapp.com>\n- [GitHub リポジトリ](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "この質問は Vanced Manager をご利用でないか、非公式ソースから Vanced をダウンロードしているときに発生します。Vanced Manager をお使いください！\n\nVanced Manager は以下のリンクから安全にダウンロードできます:\n- [公式サイト](https://vancedapp.com)\n- [GitHub リポジトリ](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "YouTube Vanced は Play ストアからダウンロードできますか？",
-      "description": "いいえ！\nPlay ストアで「YouTube Vanced」と検索したり、Vanced を名乗るアプリや類似のアプリをインストールするのはお控えください。\n\nPlay ストアに公開されている公式アプリは [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) のみです。\n\nもしアイコンを盗用した偽アプリを発見した場合は、なりすましとして報告し低評価をつけてください。\n\n公式アプリは <https://vancedapp.com> のみでリリースされます。"
+      "description": "いいえ！\nPlay ストアで「YouTube Vanced」と検索したり、Vanced を名乗るアプリや類似のアプリをインストールするのはお控えください。\n\nPlay ストアに公開されている公式アプリは [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) のみです。\n\nもしアイコンを盗用した偽アプリを発見した場合は、なりすましとして報告し低評価をつけてください。\n\n公式アプリは[公式サイト](https://vancedapp.com)からのみリリースされます。"
     },
     {
       "title": "なぜホーム画面やアプリのドロワーに Vanced が表示されないのですか？",
@@ -100,7 +100,7 @@
     },
     {
       "title": "なぜ 480p に制限されているのですか？",
-      "description": "COVID-19 の影響により、Google はいくつかの国でデータ使用を制限しています。これはサーバー上の制限のため、Vanced ユーザーと Stock YouTube ユーザーの両方に影響を与えます。",
+      "description": "COVID-19 の影響により、Google はいくつかの国でデータ使用を制限しています。これはサーバー上の制限のため、Vanced ユーザーと公式版 YouTube ユーザーの両方に影響を与えます。",
       "fields": [
         {
           "title": "不具合の回避方法:",
@@ -110,7 +110,7 @@
     },
     {
       "title": "どうやって microG の通知を非表示にしますか？",
-      "description": "microG の通知を隠すには、バッテリー最適化を無効にしてデバイスを再起動してください。\n\n再起動後も通知が表示されている場合には、microG の通知を長押ししてバッテリー最適化を無効にしてください。\n\nAndroid の システム UI 上から通知を非表示にすることもできます。Android で通知を無効にする方法は Google のヘルプをご覧ください。"
+      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
       "title": "1080p の画面で 1440p に設定する意味がありますか？",
