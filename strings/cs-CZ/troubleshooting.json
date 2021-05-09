@@ -1,19 +1,19 @@
 {
 	"data": [
 		{
-			"title": "Základní řešení problémů",
+			"title": "Basic troubleshooting",
 			"description": "A) Wipe data and cache of \n\n(I) Vanced/Vanced Music and microG for Non-Root Variant\n\n (II) Vanced/Vanced Music and Google Play Services for Root Variant\n\nB) Reinstall YouTube Vanced\n\n> IMPORTANT NOTICE: Reboot between processes"
 		},
 		{
-			"title": "Problémy s přihlášením",
-			"description": "Níže uvádíme snímky obrazovky některých běžných chyb, abyste mohli zjistit, které řešení musíte použít.",
+			"title": "Login issues",
+			"description": "Below are some of the common errors with their screenshots so that you can get to know which solution you have to follow.",
 			"fields": [
 				{
-					"title": "Pokud se vám zobrazuje chyba \"zkontrolujte své připojení k Internetu\"",
-					"content": "Postupujte podle tohoto videoprůvodce: https://youtu.be/S5sTXRTrD5Y. Zkuste také vymazat data aplikace microG."
+					"title": "If you're getting an error saying \"please check your internet connection\"",
+					"content": "Please follow this video guide: https://youtu.be/S5sTXRTrD5Y. Try clearing microG's app data too."
 				},
 				{
-					"title": "Pokud máte problémy s přihlášením a vidíte chybovou hlášku \"Jste offline, prozkoumejte stažené soubory\"",
+					"title": "If you are facing issues relating to login saying, \"You're offline, explore downloads\"",
 					"content": "1. Clear DATA of both Vanced microG and Google Play services\n2. UNINSTALL both \"Vanced microG\" and Vanced.\n\n3. Reboot if you want.\n\n4. Reinstall both APKs[microG and Vanced) but make sure you install microG before you install Vanced. Install via Vanced Manager or sai using files provided in #installation note in group\n\n5. Now login.\n\nNOTE: If you're still having issues with Vanced giving connection errors (even after installing microG first), receiving notifications, etc, make sure you disable battery optimization for the Vanced and microG app. \n\nInstructions to do so vary on your device manufacturer. You can follow guides like https://dontkillmyapp.com or search it up."
 				},
 				{
@@ -50,7 +50,7 @@
 			"title": "Vanced Manager",
 			"fields": [
 				{
-					"title": "Vanced Manager uvízl na logu nebo spadnul",
+					"title": "For Vanced manager stuck on logo/crash issue",
 					"content": "There are 2 solutions available. \n\n 1. Clear app data of manager > Turn internet off > Open manager app > Turn the internet on. \n\n2 2. For users with RTL languages set on the device, please update your vanced manager to 2.6.0 from our official vanced website."
 				},
 				{
