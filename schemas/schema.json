@@ -99,73 +99,7 @@
         {
             "type": "object",
             "properties": {
-                "bugreport": {
-                    "type": "array",
-                    "items": {
-                        "oneOf": [
-                            {
-                                "$ref": "#/definitions/title_with_description"
-                            },
-                            {
-                                "$ref": "#/definitions/title_with_fields"
-                            },
-                            {
-                                "$ref": "#/definitions/title_with_description_and_fields"
-                            }
-                        ]
-                    }
-                }
-            },
-            "additionalProperties": false
-        },
-        {
-            "type": "object",
-            "properties": {
-                "faq": {
-                    "type": "array",
-                    "items": {
-                        "oneOf": [
-                            {
-                                "$ref": "#/definitions/title_with_description"
-                            },
-                            {
-                                "$ref": "#/definitions/title_with_fields"
-                            },
-                            {
-                                "$ref": "#/definitions/title_with_description_and_fields"
-                            }
-                        ]
-                    }
-                }
-            },
-            "additionalProperties": false
-        },
-        {
-            "type": "object",
-            "properties": {
-                "features": {
-                    "type": "array",
-                    "items": {
-                        "oneOf": [
-                            {
-                                "$ref": "#/definitions/title_with_description"
-                            },
-                            {
-                                "$ref": "#/definitions/title_with_fields"
-                            },
-                            {
-                                "$ref": "#/definitions/title_with_description_and_fields"
-                            }
-                        ]
-                    }
-                }
-            },
-            "additionalProperties": false
-        },
-        {
-            "type": "object",
-            "properties": {
-                "troubleshooting": {
+                "data": {
                     "type": "array",
                     "items": {
                         "oneOf": [
