@@ -110,7 +110,7 @@
     },
     {
       "title": "Wie verstecke ich die microG Benachrichtigung?",
-      "description": "Um die microG Benachrichitung zu verstecken,\n\n1. Deaktiviere die Akku-Optimierung für Vanced microG und starte dein Gerät neu.\n\n2. Wenn die obige Methode nicht funktioniert, dann deaktiviere die microG Benachrichtigungen, indem Sie die Benachrichtigung gedrückt halten, ausschalten und speichern.\n\n>App-Benachrichtigungen können je nach Android-Benutzeroberfläche auf unterschiedliche Weise deaktiviert werden. Wenn Sie nicht wissen wie, dann verwenden Sie Google um dies herauszufinden."
+      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
       "title": "Sieht 1440p auf meinem 1080p-Bildschirm besser aus?",
