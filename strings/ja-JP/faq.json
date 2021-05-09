@@ -58,7 +58,7 @@
     },
     {
       "title": "YouTube Vanced をデフォルトのアプリに設定する方法は？",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "\n ブラウザやメッセージアプリなどから YouTube のリンクを開くときに使用するデフォルトのアプリに Vanced を設定する方法です。これは特によくある質問です。\n \nroot 版では、YouTube Vanced は公式アプリ置き換えているためすでにデフォルトに設定されています。 \n\nnon-root 版では、OneUI や MIUI などがあり解決方法が異なるためここですべてに共通の解決方法を示すことはできません。ご使用の OS にあった設定方法をウェブ検索してください。",
       "fields": [
         {
           "title": "OneUI ユーザー:",
@@ -69,8 +69,8 @@
           "content": "設定を開き「デフォルトのアプリ」を検索するか アプリ> アプリを管理 > [右上の 3 点ドット] > デフォルトのアプリ > リンクを開く に移動します。公式版 YouTube の「対応リンクを開く」の設定を「開かない」に設定し、YouTube Vancedの「対応リンクを開く」の設定を「開く」に設定する。"
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced.\n\n2. Open Google Chrome.\n\n3. Search for some YouTube videos on Google.\n\n4. Open links with YouTube vanced app and set as always.\n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+          "title": "AOSP およびその他のカスタム UI ユーザー（OOS、ColorOS、EMUI など）:",
+          "content": "1. 公式版 YouTube アプリと Vanced で「毎回リンクを開く」に設定する \n\n2. Google Chrome を開く \n\n3. YouTube の動画を検索する \n\n4. リンクを YouTube Vanced で開き、常時に設定する \n\n5. 設定に戻り、公式 YouTube アプリの設定を「毎回確認する」から「このアプリで開かない」に変更する"
         }
       ]
     },
