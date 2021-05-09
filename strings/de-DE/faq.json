@@ -103,18 +103,18 @@
       "description": "Wegen COVID-19 hat Google die Datennutzung in mehreren Ländern eingeschränkt. Das passiert auf den Servern und betrifft Vanced und stock YouTube Benutzer.",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "Übergangslösungen:",
+          "content": "1. Verbinde dich mit einem VPN in einem anderen Region.\n2. Benutze die [Webversion](https://youtube.com)\n3. Da die 480p Beschränkung nur für Telefone und nicht für Tablets gilt, könne Sie das Gerätemodell in den YouTube Vanced Einstellungen ändern, um die Beschränkung zu umgehen.\n\n#### Wie ändert man das Gerätemodell?\n1. Öffne YouTube Vanced.\n2. Gehe zu den Einstellungen\n3. Tippe auf `Vanced Einstellungen`\n4. Aktiviere die versteckten Einstellungen:\n - Scrolle herunter und tippe auf die `Über` Sektion, bis Sie die Nachricht `Versteckte Einstellungen wurden aktiviert` bekommen.\n5. Gehe zu `Überschreibe Codec`\n6. Setze den Hersteller zu `Samsung` und das Modell zu `SM-T865`.\n7. Starte die App neu.\n\nNach dem Neustart sollte das 480p Limit weg sein."
         }
       ]
     },
     {
-      "title": "How to hide the microG notification?",
-      "description": "To hide microG the notification, \n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "title": "Wie verstecke ich die microG Benachrichtigung?",
+      "description": "Um die microG Benachrichitung zu verstecken,\n\n1. Deaktiviere die Akku-Optimierung für Vanced microG und starte dein Gerät neu.\n\n2. Wenn die obige Methode nicht funktioniert, dann deaktiviere die microG Benachrichtigungen, indem Sie die Benachrichtigung gedrückt halten, ausschalten und speichern.\n\n>App-Benachrichtigungen können je nach Android-Benutzeroberfläche auf unterschiedliche Weise deaktiviert werden. Wenn Sie nicht wissen wie, dann verwenden Sie Google um dies herauszufinden."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "Sieht 1440p auf meinem 1080p-Bildschirm besser aus?",
+      "description": "Ja, aber nur, wenn das Video-Verhältnis so etwas wie 18:9, 21:9, ... ist. Sie können `Statistiken für Interessierte` in Einstellungen > Allgemein aktivieren, um dies herauszufinden.\n\nUm höhere Auflösungen zu aktivieren, gehen Sie zu den Vanced Einstellungen > Videoeinstellungen und aktivieren Sie \"Maximale Auflösung\" und starten Sie die App neu."
     }
   ]
 }
