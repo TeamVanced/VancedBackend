@@ -62,7 +62,7 @@
       "fields": [
         {
           "title": "Uživatelé OneUI:",
-          "content": "1. Stiskněte a přidržte ikonu YouTube nebo YouTube Vanced a otevřete informace o aplikaci.\n2. Přejděte dolů do sekce `Nastavení aplikace`\n3. Stiskněte **Nastavit jako výchozí** možnost\n4. Nastavte možnost \"**Přejít na nastavení podporovaných URL**\" jako \"**V této aplikaci**\"."
+          "content": "1. Stiskněte a přidržte ikonu YouTube nebo YouTube Vanced a otevřete informace o aplikaci.\n2. Přejděte dolů do sekce „Nastavení aplikace“\n3. Stiskněte možnost **Nastavit jako výchozí**\n4. Nastavte možnost \"**Přejít na nastavení podporovaných URL**\" na \"**V této aplikaci**\"."
         },
         {
           "title": "Uživatelé MIUI:",
