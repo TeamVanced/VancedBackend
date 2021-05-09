@@ -26,7 +26,7 @@
     },
     {
       "title": "Root と非 Root の違い",
-      "description": "#### Root:\nVanced の root 版は、公式のYouTubeアプリをシームレスに置き換えます。リンクをタップしたり、Google アシスタントを使用して改造版の Vanced アプリで YouTube を開くことができます。\n\n#### Non-Root:\n- デバイスで root 権限を取得できない場合や、毎日使うデバイスで root 権限を取得したくない場合、non-root 版をお選びください。\n- non-root 版のパッケージ名は公式 YouTube アプリとは異なるため、共存できます。  YouTube / Googleアカウントでログインするには、Vanced microG をインストールする必要があります。\n- さらに、YouTube リンクを開くためのデフォルトアプリとして Vanced を手動で設定する必要があります。\n- ただし、non-root 版はインストールして使いはじめるのは簡単であるため、公式 YouTube アプリを完全に置き換える必要がない限り、non-root 版を使用することをお勧めします。"
+      "description": "#### Root:\nVanced の root 版は、公式の YouTube アプリをシームレスに置き換えます。リンクをタップしたり、Google アシスタントを使用して改造版の Vanced アプリで YouTube を開くことができます。\n\n#### Non-Root:\n- デバイスで root 権限を取得できない場合や、毎日使うデバイスで root 権限を取得したくない場合、non-root 版をお選びください。\n- non-root 版のパッケージ名は公式 YouTube アプリとは異なるため、共存できます。  YouTube / Googleアカウントでログインするには、Vanced microG をインストールする必要があります。\n- さらに、YouTube リンクを開くためのデフォルトアプリとして Vanced を手動で設定する必要があります。\n- ただし、non-root 版はインストールして使いはじめるのは簡単であるため、公式 YouTube アプリを完全に置き換える必要がない限り、non-root 版を使用することをお勧めします。"
     }
   ]
 }
