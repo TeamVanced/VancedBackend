@@ -58,7 +58,7 @@
     },
     {
       "title": "איך להפוך את YouTube Vanced לאפליקציית ברירת המחדל שלי?",
-      "description": "\n As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n \nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube. \n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "משתמשי OneUI:",
@@ -69,7 +69,7 @@
           "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
         },
         {
-          "title": "משתמשי רומים מבוססי אנדרואיד וערכות נושא מותאמות אישית (כולל OOS, ColorOS, EMUI וכו'):",
+          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
           "content": "1. בחרו באפשרות \"שאל בכל פעם\" גם לאפליקציית YouTube הרגילה וגם ל־Vanced. \n\n2. פתחו את Google Chrome. \n\n3. חפשו כמה סרטוני YouTube בגוגל. \n\n4. פתחו קישורים עם YouTube Vanced והגדירו אותה כמו תמיד. \n\n5. חזרו להגדרות שבהן הגדרתם \"שאל בכל פעם\" ל־YouTube, וכעת שנו את זה ל\"אל תפתח באפליקציה הזו\"."
         }
       ]

@@ -58,29 +58,29 @@
     },
     {
       "title": "YouTube Vanced를 기본 앱으로 만드려면 어떻게 해야 하나요?",
-      "description": "\n As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n \nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube. \n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "제목에서 알 수 있듯이, 많은 사용자가 다른 앱(브라우저, 메신저 등의 앱)에서 링크를 열 때 기본적으로 YouTube Vanced에서 열도록 설정하는 방법을 자주 묻고 있습니다.\n\n루트 버전 사용자의 경우, 이미 YouTube Vanced가 기본 YouTube 앱을 대체했으므로 이에 대하여 고민하지 않으셔도 됩니다.\n\n비루트 버전 사용자의 경우, 해결 방안이 OneUI, MIUI 및 나머지에 적용되는 방안으로 나뉩니다. 모든 OS에 대한 해결책을 제공해드릴 수 없으며, 이 사안을 직접 Google에 문의해야 할 수도 있습니다.",
       "fields": [
         {
           "title": "OneUI 사용자:",
-          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+          "content": "YouTube 앱에서 다른 앱을 통해 링크를 열도록 설정해야 합니다. \"지원되는 링크 열기\" 설정을 \"다른 앱에서\"로 설정하십시오."
         },
         {
           "title": "MIUI 사용자:",
-          "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
+          "content": "설정을 열고 '기본 앱'을 검색하거나 앱 > 앱 관리 > 우상단 3점 메뉴 누르기 > 기본 앱 > 링크 열기로 이동합니다. 앱이 나열되면 YouTube나 YouTube Vanced가 보일 때까지 아래로 스크롤한 뒤 이를 누릅니다. 그리고 \"**지원되는 링크 열기**\" 설정을 \"매번 묻기\"나 \"열지 않기\" 대신 \"*열기*\"로 설정합니다."
         },
         {
-          "title": "AOSP & other custom skin users(includes OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced. \n\n2. Open Google Chrome. \n\n3. Search for some YouTube videos on Google. \n\n4. Open links with YouTube vanced app and set as always. \n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+          "title": "AOSP & 기타 커스텀 UI(OOS, ColorOS, EMUI 등):",
+          "content": "1. 기본 YouTube 앱과 Vanced의 설정을 \"매번 묻기\"로 설정합니다.\n\n2. Google Chrome을 엽니다.\n\n3. Google에서 아무 YouTube 동영상이나 검색합니다.\n\n4. YouTube Vanced 앱으로 링크를 연 다음 '항상'으로 설정합니다.\n\n5. YouTube 설정을 \"매번 묻기\"로 설정했던 창으로 돌아와서, \"이 앱으로 열지 않기\"로 설정을 바꿉니다."
         }
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "왜 루트 버전은 microG 코어와 함께 동작하지 않나요?",
+      "description": "1. Vanced를 구동하려면 최소한 [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 버전의 GApps가 필요합니다.\n\n2. 모든 GApps 패키지에서 쓸 수 있는 Google Play 서비스 프레임워크가 필요하므로 microG 코어만으로는 Vanced를 구동할 수 없습니다.\n\n3. 개인정보에 대한 우려가 있으며 GApps를 사용하고 싶지 않은데 그래도 광고 차단 기능을 이용하고 싶은 경우, [웹 버전](https://youtube.com)을 이용하시면 됩니다."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "캐스팅 문제",
+      "description": "16.16.38 비루트 버전을 사용한다면, 업스트림 microG에 버그가 있습니다. 해당 문제가 해결되기 전까지는 업데이트를 기다리거나 버전을 15로 되돌려주시기 바랍니다. 루트 사용자의 경우 Google Play 서비스를 사용하고 있다면 캐스팅에 문제가 없을 것입니다."
     },
     {
       "title": "APK 서명이란?",
@@ -88,11 +88,11 @@
     },
     {
       "title": "YouTube Vanced가 Play 스토어에 있나요?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
+      "description": "아닙니다!\n다시 말하지만, Play Store나 다른 App Store에서 \"YouTube Vanced\"나 그와 유사한 이름의 가짜 앱을 설치하거나 이를 검색하려고 시도조차도 하지 마십시오.\n\n저희가 Play Store에 출시한 유일한 공식 앱은 [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) 말고는 없습니다.\n\n저희의 아이콘과 이름을 사용하는 다른 앱들을 찾으신다면 도용이나 사칭으로 신고하고 낮은 별점을 주십시오.\n\n저희 앱은 <https://vancedapp.com>에서만 찾을 수 있습니다."
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "왜 Vanced가 홈 화면이나 앱서랍에 표시되지 않나요?",
+      "description": "아마 Vanced Manager를 사용하고 있지 않거나 비공식적인 출처에서 Vanced를 설치하여서 이 글을 읽고 계신 것 같습니다.\n그냥 Vanced Manager를 쓰십시오!\n\n아래에서 Vanced Manager를 안전하게 내려받으실 수 있습니다:\n- 공식 사이트 <https://vancedapp.com>\n- [GitHub 저장소](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "동영상 재생이 안 됩니다",
@@ -104,17 +104,17 @@
       "fields": [
         {
           "title": "해결책:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "content": "1. 다른 지역의 VPN으로 연결하십시오.\n2. [웹 버전](https://youtube.com)을 이용하십시오.\n3. 480p 제한은 태블릿이 아닌 폰에만 걸려 있으므로, 제한을 우회하기 위해 YouTube Vanced에서 기기 모델을 바꿀 수 있습니다.\n\n#### 기기 모델을 바꾸려면 어떻게 해야 하나요?\n1. YouTube Vanced를 엽니다.\n2. 설정으로 갑니다.\n3. 'Vanced 설정'을 누릅니다.\n4. 숨겨진 설정을 활성화합니다:\n  - 스크롤을 내리고 '숨겨진 메뉴가 활성화되었습니다' 메시지가 뜰 때까지 '정보' 섹션을 계속 두드리십시오.\n5. '코덱 덮어쓰기'로 가십시오.\n6. 기기 제조사를 'samsung'으로, 모델명을 'SM-T865'로 설정하십시오.\n7. 앱을 재시작하십시오.\n\n재시작하면 480p 제한이 사라질 것입니다."
         }
       ]
     },
     {
       "title": "MicroG 알림을 숨기는 방법",
-      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "microG 알림을 숨기려면 microG를 배터리 최적화에서 해제하고 기기를 재시작하십시오.\n\n재시작 후에도 알림이 계속 남아 있다면, microG 알림을 길게 누른 다음, 알림을 끄고, 저장하여서 microG 알림을 끄면 됩니다.\n\nAndroid 사용자 인터페이승에 따라 앱 알림을 비활성화하는 방법이 다를 수 있습니다. 비활성화하는 방법을 잘 모르겠다면, Google에서 방법을 알아보시기 바랍니다."
     },
     {
       "title": "1440p가 1080p 화면에서도 더 좋은 화질을 제공해주나요?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "description": "그렇습니다. 하지만 동영상 비율이 18:9, 21:9 등일 때만 해당합니다. 이를 확인하려면 설정 > 일반에서 '전문 통계 사용 설정'을 켜면 됩니다.\n\n더 높은 품질을 활성화하려면, Vanced 설정 > 영상 설정에 간 다음 \"영상 화질 제한(해제)\"을 켜고 앱을 재시작하세요."
     }
   ]
 }

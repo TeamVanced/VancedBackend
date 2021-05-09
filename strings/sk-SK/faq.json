@@ -58,18 +58,18 @@
     },
     {
       "title": "Ako nastaviť YouTube Vanced ako predvolenú aplikáciu?",
-      "description": "\n As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n \nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube. \n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Ako hovorí nadpis, veľa používateľov sa už mnohokrát pýta, ako môžu nastaviť YouTube Vanced ako predvolený pri otváraní odkazov z iných aplikácií (ako sú prehliadače, aplikácie na odosielanie správ a iné aplikácie).\n\nPoužívatelia s rootom nemajú žiadny problém, pretože YouTube Vanced to urobí za nich po nahradení pôvodnej aplikácie YouTube.\n\nPre používateľov bez rootu sa riešenie delí na OneUI, MIUI a ostatných. Nemôžeme tu poskytovať riešenia pre každý OS, tažke použite na to Google.",
       "fields": [
         {
           "title": "Používatelia OneUI:",
-          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+          "content": "Musíte nastaviť aplikáciu YouTube na otváranie odkazov s inou aplikáciou. Nastavte možnosť „Prejsť na podporované URL adresy“ na „v inej aplikácii“."
         },
         {
           "title": "Používatelia MIUI:",
-          "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
+          "content": "Otvorte Nastavenia a vyhľadajte „Predvolené aplikácie“ alebo prejdite do časti Aplikácie > Správa aplikácií > [stlačte tri bodky v pravom rohu] > Predvolené aplikácie > Otváranie odkazov. Keď sa v zozname zobrazia aplikácie, posuňte sa nadol, kým nenájdete YouTube alebo YouTube Vanced, a ťuknite naň. Potom nastavte možnosť „**Otvoriť podporované odkazy**“ na „**Otvoriť**“ namiesto „Vždy sa spýtať“ alebo „Neotvárať“."
         },
         {
-          "title": "AOSP & other custom skin users(includes OOS, ColorOS, EMUI, etc.):",
+          "title": "Používatelia AOSP a ostatných UI (OOS, ColorOS, EMUI, atď..):",
           "content": "1. Vyberte \"Vždy sa opýtať\" pre pôvodnú YouTube aplikáciu a vanced. \n\n2. Otvorte Google Chrome. \n\n3. Vyhľadajte nejaké YouTube videá na Googli. \n\n4. Otvorte odkazy v aplikácii YouTube vanced a nastavte Otvárať v tejto aplikácii. \n\n5. Vráťte sa naspäť do nastavení, tam kde ste nastavili \"Vždy sa opýtať\" pre YouTube, zmeňte na \"Neotvárať v tejto aplikácii\"."
         }
       ]
@@ -80,7 +80,7 @@
     },
     {
       "title": "Prečo zdieľanie obrazovky nefunguje?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "description": "Pre používateľov s najnovšou non-root verziou v16.16.38 sa v upstream microG nachádza chyba. Kým sa to nevyrieši, počkajte na aktualizácie alebo sa vráťte späť k verziám v15. Používatelia s root verziou nebudú mať s zdieľaním obrazovky problémy, ak používajú služby Google Play."
     },
     {
       "title": "Čo je to podpisovanie súborov APK?",
@@ -103,7 +103,7 @@
       "description": "Kvôli COVID-19, Google obmedzuje využitie dát vo viacerých krajinách. Deje sa to na serveri a ovplyvňuje to rovnako ako používateľov Vanced, tak aj používateľov originálnej aplikácie YouTube.",
       "fields": [
         {
-          "title": "Možné riešenia:",
+          "title": "Dočasné riešenia:",
           "content": "1. Pripojte sa k VPN sieti inej oblasti.\n2. Použite [webovú verziu](https://youtube.com)\n3. Vzhľadom k tomu, že obmedzenie 480p je iba pre telefóny a nie tablety, môžete zmeniť typ zariadenia v aplikácii YouTube Vanced a obísť tak obmedzenie.\n\n#### Ako zmeniť typ zariadenia?\n1. Otvorte YouTube Vanced.\n2. Prejdite do Nastavení\n3. Ťuknite na `Nastavenia Vanced`\n4. Povoľte skryté nastavenia:\n  - Choďte nadol a stláčajte tlačidlo „O aplikácii“, kým sa nezobrazí správa „Skryté nastavenia boli povolené“.\n5. Prejdite na `Prepísať kodek`\n6. Nastavte výrobcu na `Samsung` a model na` SM-T865`.\n7. Reštartujte aplikáciu.\n\nPo reštartovaní by mal byť limit 480p preč."
         }
       ]

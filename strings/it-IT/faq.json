@@ -58,7 +58,7 @@
     },
     {
       "title": "Come rendere YouTube Vanced una app predefinita?",
-      "description": "\n Come dice il titolo, un sacco di utenti hanno chiesto molte volte come possono rendere YouTube Vanced come predefinito per l'apertura di link da altre applicazioni (come browser, applicazioni di messaggistica e qualsiasi altra applicazione).\n \nPer il root, non devi preoccuparti perché è già impostato per impostazione predefinita dal momento che YouTube Vanced viene sostituito con Stock YouTube. \n\nPer il non-root, le soluzioni sono state divise tra OneUI, MIUI e il resto. Non possiamo fornire soluzioni per ogni sistema operativo esistente, e potresti aver bisogno di cercare su Google da solo.",
+      "description": "Come dice il titolo, un sacco di utenti hanno chiesto molte volte come possono rendere YouTube Vanced come predefinito per l'apertura di link da altre applicazioni (come browser, applicazioni di messaggistica e qualsiasi altra applicazione).\n \nPer il root, non devi preoccuparti perché è già impostato per impostazione predefinita dal momento che YouTube Vanced viene sostituito con Stock YouTube. \n\nPer il non-root, le soluzioni sono state divise tra OneUI, MIUI e il resto. Non possiamo fornire soluzioni per ogni sistema operativo esistente, e potresti aver bisogno di cercare su Google da solo.",
       "fields": [
         {
           "title": "Utenti OneUI:",
@@ -69,7 +69,7 @@
           "content": "Apri Impostazioni e cerca \"Applicazioni predefinite\" o vai su App > Gestisci app > [premi i tre punti nell'angolo destro] > Applicazioni predefinite > Apertura link. Dopo aver aspettato che le app vengano elencate, scorri verso il basso fino a trovare YouTube o YouTube Vanced e toccarlo. Quindi, imposta l'impostazione \"**Apri link supportati**\" come \"**Aperto**\" invece di \"Chiedi ogni volta\" o \"Non aprire\"."
         },
         {
-          "title": "Utenti AOSP & altre skin personalizzate (include OOS, ColorOS, EMUI, ecc.):",
+          "title": "Utenti AOSP & altre UI personalizzate (include OOS, ColorOS, EMUI, ecc.):",
           "content": "1. Scegli \"chiedere ogni volta\" sia per l'app di YouTube Stock sia Vanced. \n\n2. Apri Google Chrome. \n\n3. Cerca alcuni video di YouTube su Google. \n\n4. Aprire link con l'ap YouTube Vanced e imposta \"Sempre\". \n\n5. Torna alle impostazioni in cui si imposta \"chiedere ogni volta\" su YouTube, cambiarlo in \"non aprire in questa app\"."
         }
       ]
