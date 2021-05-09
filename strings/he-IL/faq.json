@@ -69,7 +69,7 @@
           "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "title": "ממשקי משתמש מבוססי אנדרואיד ומותאמים אישית (OOS, ColorOS, EMUI וכו'):",
           "content": "1. בחרו באפשרות \"שאל בכל פעם\" גם לאפליקציית YouTube הרגילה וגם ל־Vanced. \n\n2. פתחו את Google Chrome. \n\n3. חפשו כמה סרטוני YouTube בגוגל. \n\n4. פתחו קישורים עם YouTube Vanced והגדירו אותה כמו תמיד. \n\n5. חזרו להגדרות שבהן הגדרתם \"שאל בכל פעם\" ל־YouTube, וכעת שנו את זה ל\"אל תפתח באפליקציה הזו\"."
         }
       ]
@@ -110,7 +110,7 @@
     },
     {
       "title": "כיצד להסתיר את ההתראה מ־microG?",
-      "description": "To hide microG the notification, \n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "כדי להסתיר את ההתראה של microG, \n\n1. באפשרותך להשבית את מיטוב הסוללה עבור microG ולהפעיל מחדש את המכשיר.\n\n2. אם ההודעה עדיין קיימת לאחר אתחול מחדש, השבת את התראות microG על ידי החזקת ההודעה, הקשה על חסימת התראות ולאחר מכן שמירה.\n\n>השבתת התראות מאפליקציות יכולה להיעשות בדרכים שונות בהתאם לממשק המשתמש של מכשירך. אם אינך יודע כיצד להשבית אותו, נסה להשתמש בגוגל כדי ללמוד כיצד להשבית אותו."
     },
     {
       "title": "האם רזולוציית 1440p תיראה טוב יותר על המסך בעל רזולוציית 1080p שלי?",
