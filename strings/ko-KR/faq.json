@@ -58,7 +58,7 @@
     },
     {
       "title": "YouTube Vanced를 기본 앱으로 만드려면 어떻게 해야 하나요?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "제목에서 알 수 있듯이, 많은 사용자가 다른 앱(브라우저, 메신저 등의 앱)에서 YouTube 링크를 열 때 기본적으로 YouTube Vanced에서 열도록 설정하는 방법을 자주 묻고 있습니다.\n\n루트 버전 사용자의 경우, 이미 YouTube Vanced가 기본 YouTube 앱을 대체했으므로 이에 대하여 고민하지 않으셔도 됩니다.\n\n비루트 버전 사용자의 경우, 해결 방안이 OneUI, MIUI 및 나머지에 적용되는 방안으로 나뉩니다. 모든 OS에 대한 해결책을 제공해드릴 수 없으며, 이 사안을 직접 Google에 문의해야 할 수도 있습니다.",
       "fields": [
         {
           "title": "OneUI 사용자:",
@@ -84,11 +84,11 @@
     },
     {
       "title": "APK 서명이란?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "아마 Vanced Manager를 사용하고 있지 않거나 비공식적인 출처에서 Vanced를 설치하여서 이 글을 읽고 계신 것 같습니다.\n그냥 Vanced Manager를 쓰십시오!\n\n아래에서 Vanced Manager를 안전하게 내려받으실 수 있습니다:\n- [공식 사이트] (https://vancedapp.com)\n- [GitHub 저장소](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "YouTube Vanced가 Play 스토어에 있나요?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+      "description": "아닙니다!\n다시 말하지만, Play Store나 다른 App Store에서 \"YouTube Vanced\"나 그와 유사한 이름의 가짜 앱을 설치하거나 이를 검색하려고 시도조차도 하지 마십시오.\n\n저희가 Play Store에 출시한 유일한 공식 앱은 [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) 말고는 없습니다.\n\n저희의 아이콘과 이름을 사용하는 다른 앱들을 찾으신다면 도용이나 사칭으로 신고하고 낮은 별점을 주십시오.\n\n저희 앱은 [공식 사이트](https://vancedapp.com)에서만 찾을 수 있습니다."
     },
     {
       "title": "왜 Vanced가 홈 화면이나 앱서랍에 표시되지 않나요?",
@@ -110,7 +110,7 @@
     },
     {
       "title": "MicroG 알림을 숨기는 방법",
-      "description": "To hide microG the notification, \n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "microG 알림을 숨기려면,\n\n1. Vanced microG를 배터리 최적화에서 해제하고 기기를 재시작하십시오.\n\n2. 위 방법이 통하지 않는다면, microG 알림을 길게 누른 다음, 알림을 끄고, 저장하여서 microG 알림을 끄면 됩니다.\n\n>Android 사용자 인터페이스에 따라 앱 알림을 비활성화하는 방법이 다를 수 있습니다. 비활성화하는 방법을 잘 모르겠다면, Google에서 방법을 알아보시기 바랍니다."
     },
     {
       "title": "1440p가 1080p 화면에서도 더 좋은 화질을 제공해주나요?",
