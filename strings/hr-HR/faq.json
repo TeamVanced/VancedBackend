@@ -58,11 +58,11 @@
     },
     {
       "title": "Kako učiniti Youtube Vanced zadanom aplikacijom?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "OneUI korisnici:",
-          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon to open the app info.\n2. Scroll down to the `App settings` section\n3. Hit the **Set as default** option\n4. Set the \"**Go to supported URLs setting**\" as \"**In this app**\" option."
         },
         {
           "title": "MIUI korisnici:",
@@ -84,11 +84,11 @@
     },
     {
       "title": "What is APK Signing?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Is YouTube Vanced on Play Store?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
+      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
     },
     {
       "title": "Why is Vanced not showing up in home screen or app drawer?",
@@ -110,7 +110,7 @@
     },
     {
       "title": "How to hide the microG notification?",
-      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "To hide microG the notification, \n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
       "title": "Does 1440p look better on my 1080p screen?",
