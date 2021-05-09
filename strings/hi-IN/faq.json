@@ -5,56 +5,74 @@
       "description": "YouTube Vanced अपने YouTube अनुभव को बेहतर बनाने के लिए अतिरिक्त सुविधाओं के साथ YouTube का संशोधित संस्करण है!\n\nऐसी विशेषताओं में शामिल हैं:\n- पृष्ठभूमि प्लेबैक,\n- पिक्चर इन पिक्चर (PiP),\n- ब्लैक थीम (OLED के अनुकूल),\n- विज्ञापन निकालना (सक्षम करने की आवश्यकता),\n- ओवरराइड अधिकतम रिज़ॉल्यूशन (अपनी स्क्रीन से अधिक रिज़ॉल्यूशन वाले वीडियो के प्लेबैक की अनुमति दें),\n- ...और भी बहुत कुछ!\n\nअधिक जानकारी के लिए जाएं:\n<https://vancedapp.com>"
     },
     {
-      "title": "Where is the Download button?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store those are fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "डाउनलोड बटन कहां है?",
+      "description": "बेशक, Google अपने स्वयं के ऐप के संशोधित संस्करण को उनके स्टोर पर नहीं होने देगा, इसलिए Google Play Store पर इसे न देखें जो कि नकली ऐप हैं।\n\nVanced Manager का उपयोग करके Vanced एप्स को डाउनलोड और इंस्टॉल किया जा सकता है जो हमारी आधिकारिक वेबसाइट पर पाया जा सकता है: <https://vancedapp.com> लेकिन आप इसे [GitHub repo] (https://github.com/YTVanced/VancedManager/releases/latest) से भी ले सकते हैं।"
     },
     {
-      "title": "Does YouTube Vanced auto-update?",
-      "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
+      "title": "क्या YouTube Vanced ऑटो अपडेट करता है?",
+      "description": "नहीं, यह नहीं करता।\n\nजब कोई एक होता है तो Vanced Manager आपको एक सूचना भेजेगा।\n\nआप हमारे [Discord Server] (https://discord.gg/Vanced) से भी जुड़ सकते हैं या लेटेस्ट खबरों और अपडेट नोटिफिकेशन के लिए [Telegram चैनल] (https://t.me/Vanced) को फॉलो कर सकते हैं।"
     },
     {
-      "title": "Can Vanced download videos?",
-      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
+      "title": "क्या Vanced वीडियो डाउनलोड कर सकता है?",
+      "description": "Vanced में कोई भी वीडियो डाउनलोडिंग फीचर शामिल नहीं है और न ही कभी होगा।\n\n[चयनित देशों] (https://support.google.com/youtube/answer/6141269) में मुफ्त में डाउनलोड करने के लिए कई वीडियो उपलब्ध हैं। शेष दुनिया के लिए, कृपया YouTube प्रीमियम प्राप्त करें।\n\nफिर से, Vanced कभी भी एक वीडियो डाउनलोडर या ऐसा कुछ ऐप में नही जोड़ेगा।\n\nयह अतीत में कई YouTube mods के बंद होने का कारण रहा है क्योंकि Google को लोग अपने प्लेटफ़ॉर्म से कॉपीराइट की गई सामग्री डाउनलोड करना पसंद नहीं करते हैं, इसलिए इसके लिए न कहें!!!"
     },
     {
-      "title": "Why the swipe gestures doesn't work?",
-      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
+      "title": "स्वाइप जेस्चर काम क्यों नहीं करता है?",
+      "description": "यदि आपके पास Vanced सेटिंग्स> लेआउट सेटिंग्स में सबसे नीचे (पुरानी जगह) पर दिखाई गई टिप्पणियां हैं, तो उसे अक्षम करें और एप्लिकेशन को पुनरारंभ करें। यदि वह काम नहीं करता है, तो एप्लिकेशन को बंद करें और उसका डेटा साफ़ करें।"
     },
     {
-      "title": "Captions not available?",
-      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
+      "title": "कैप्शन उपलब्ध नहीं हैं?",
+      "description": "यह एक Vanced या YouTube से संबंधित समस्या नहीं है। सभी वीडियो में कैप्शन नहीं है।"
     },
     {
-      "title": "Do you take donations?",
-      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "क्या आप दान लेते हैं?",
+      "description": "हम दान स्वीकार नहीं करते हैं!\n\nकिसी भी परिस्थिति में किसी भी प्रकार के दान और किसी भी साइट या लिंक या पोस्ट जो दान के लिए पूछते हैं, बस नकली हैं।\n\nलेकिन अगर आप Vanced Developers का समर्थन करना चाहते हैं, तो आप [इस लिंक] (https://brave.com/kev231) और AdGuard का उपयोग करके [इस लिंक] (https://adguard.com/en/welcome.html?aid=31141) का उपयोग करके Brave डाउनलोड कर सकते हैं।"
     },
     {
-      "title": "How to make the player layout auto-hide?",
-      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
+      "title": "प्लेयर लेआउट को ऑटो-हाइड कैसे करें?",
+      "description": "आप इसे YouTube Vanced> Settings> Accessibility में कॉन्फ़िगर कर सकते हैं। यदि सेटिंग्स खोलने या काम करने में विफल रहती हैं, तो अपनी डिवाइस एक्सेसिबिलिटी सेटिंग्स पर जाएं और ध्वनि एम्पलीफायर को अक्षम करें, एक्सेस बदले करें, लाइव कैप्शन बंद करें।"
     },
     {
-      "title": "Why using split APKs?",
-      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
+      "title": "स्प्लिट एपीके का इस्तेमाल क्यों कर रहे हैं?",
+      "description": "चूंकि:\n\n1. स्टॉक ऐप इसका उपयोग करता है इसलिए Vanced इसका भी उपयोग करता है।\n2. यह केवल उन भाषाओं को स्थापित करता है जिन्हें आप भंडारण की खपत को कम करने के लिए निर्दिष्ट करते हैं।\n3. इसमें कोर APK का एकमात्र संस्करण है जिसे आपके डिवाइस की आवश्यकता है।\n\nबेशक, Vanced Manager या Developers इसे एक सामान्य, एकल APK फ़ाइल में बदल सकते हैं, लेकिन हम इसे करने के लिए बहुत आलसी हैं। आपको बस हमारे साथ होने की जरूरत है...\n\nहालांकि चिंता मत करिए, Vanced Manager आपके लिए पूरी मेहनत करता है इसलिए केवल `Install` बटन पर टैप करें।"
     },
     {
-      "title": "Why the colour in the startup screen is different from the theme?",
-      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
+      "title": "स्टार्टअप स्क्रीन में रंग थीम से अलग क्यों है?",
+      "description": "स्टार्टअप स्क्रीन की पृष्ठभूमि का रंग एंड्रॉइड फ्रेमवर्क रंग से लिया गया है ताकि यह सुनिश्चित हो सके कि यह सिस्टम थीम के अनुसार बदलता है। आप [Substratum] (https://play.google.com/store/apps/details?id=projekt.substratum) या [Swift Installer] (https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) का उपयोग कर सकते हैं।"
     },
     {
-      "title": "Should I re-download the installation files?",
-      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
+      "title": "क्या मुझे स्थापना फ़ाइलों को फिर से डाउनलोड करना चाहिए?",
+      "description": "विभिन्न कारणों से फाइलें दूषित हो सकती हैं और बाद में समस्याएं पैदा कर सकती हैं। इससे बचने के लिए, आप अपनी स्थापना को सुचारू रूप से चलाने के लिए इसे फिर से डाउनलोड करना चुन सकते हैं।"
     },
     {
-      "title": "Why does the root version don't have Microphone permission?",
-      "description": "It does if your Vanced is up-to-date."
+      "title": "रूट संस्करण में माइक्रोफ़ोन की अनुमति क्यों नहीं है?",
+      "description": "अगर आपका Vanced अप-टू-डेट है तो यह करता है।"
     },
     {
-      "title": "What is ExoPlayer v1?",
-      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
+      "title": "एक्सोप्लेयर v१ क्या है?",
+      "description": "यह YouTube द्वारा उपयोग किए जाने वाले वर्तमान मीडिया प्लेयर का एक पुराना संस्करण है। इसका उपयोग करते समय आपको बेहतर प्रदर्शन और स्थिरता मिल सकती है।"
     },
     {
-      "title": "How to enable hidden settings?",
-      "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
+      "title": "छिपी हुई सेटिंग्स को कैसे सक्षम करें?",
+      "description": "Vanced सेटिंग्स में, इसे सक्षम करने के लिए `About` सेक्शन पर 6-7 बार टैप करें। यह केवल अतिरिक्त वीडियो कोडेक सेटिंग्स को सक्षम करता है।"
+    },
+    {
+      "title": "How to make YouTube Vanced as default app?",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "fields": [
+        {
+          "title": "OneUI users:",
+          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+        },
+        {
+          "title": "MIUI users:",
+          "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
+        },
+        {
+          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced.\n\n2. Open Google Chrome.\n\n3. Search for some YouTube videos on Google.\n\n4. Open links with YouTube vanced app and set as always.\n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+        }
+      ]
     },
     {
       "title": "Why the root variant doesn't work with microG Core?",
@@ -62,7 +80,7 @@
     },
     {
       "title": "Why casting doesn't work?",
-      "description": "It works if your microG is up-to-date."
+      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
     },
     {
       "title": "What is APK Signing?",

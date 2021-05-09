@@ -5,16 +5,16 @@
       "description": "YouTube Vanced is een aangepaste versie van YouTube met functies en aanpassingen om jouw YouTube ervaring te verbeteren!\n\nFuncties omvatten:\n- Afspelen op de achtergrond,\n- Scherm-in-scherm (PiP), \n- Zwart thema (geschikt voor OLED)\n- Blokkeren van advertenties (vereist inschakelen)\n- Maximum resolutie overschrijven (hogere resolutie dan je scherm)\n- ...en nog veel meer!\n\nVoor meer informatie, ga naar <https://vancedapp.com>"
     },
     {
-      "title": "Waar is de download knop?",
+      "title": "Waar is de downloadknop?",
       "description": "Natuurlijk zal Google geen aangepaste versie hun eigen app in hun winkel toelaten, dus zoek niet naar Vanced in de Google Play Store, want dat zijn nep apps (behalve Vanced Gids).\n\nVanced apps kunnen gedownload en geïnstalleerd worden met behulp van Vanced Manager die je vindt op onze officiële website: <https://vancedapp.com> maar je kan Vancedook vinden op GitHub: <https://github.com/YTVanced/VancedManager/releases/latest>"
     },
     {
       "title": "Zal YouTube Vanced automatisch bijwerken?",
-      "description": "Nee, dat doet het niet.\n\nVanced Manager stuurt je een melding als er een update is.\n\nJe kunt je ook aansluiten bij onze [Discord Server](https://discord.gg/wYrRPgv) of volg het [Telegram kanaal](https://t.me/Vanced) voor het laatste nieuws en meldingen over updates."
+      "description": "Nee, dat doet het niet.\n\nVanced Manager stuurt je een melding als er een update is.\n\nJe kan je ook aansluiten bij onze [Discord-server](https://discord.gg/wYrRPgv) of het [Telegram-kanaal](https://t.me/Vanced) volgen voor het laatste nieuws en meldingen over updates."
     },
     {
       "title": "Kan Vanced video's downloaden?",
-      "description": "Vanced bevat geen functie om video te downloaden en dat zal ook nooit gebeuren.\n\nEr zijn veel video's beschikbaar om gratis te downloaden in [geselecteerde landen](https://support.google.com/youtube/answer/6141269). Voor de rest van de wereld, neem YouTube Premium of gebruik een 3e partij downloader.\n\nNogmaals, Vanced zal nooit een video downloader toevoegen aan de app of iets vergelijkbaars, dus vraag er ook niet naar !!!\n\nDit is immers de oorzaak voor het blokkeren en bannen van veel YouTube mods in het verleden, omdat Google niet tollereert dat mensen auteursrechtelijk beschermde inhoud downloaden van hun platform !"
+      "description": "Vanced bevat geen functie om video's te downloaden en dat zal ook nooit gebeuren.\n\nIn [bepaalde landen](https://support.google.com/youtube/answer/6141269) zijn er veel video's beschikbaar om gratis te downloaden. In de rest van de wereld kan je daarvoor een abonnement op YouTube Premium nemen.\n\nNogmaals, Vanced zal nóóit een videodownloader of iets vergelijkbaars aan de app toevoegen, dus vraag er ook niet naar!\n\nIn het verleden is dit immers de oorzaak voor het blokkeren en verbannen van veel YouTube-mods gebleken, omdat Google niet tolereert dat mensen auteursrechtelijk beschermde inhoud van hun platform downloaden!"
     },
     {
       "title": "Waarom werken de veeggebaren niet?",
@@ -29,8 +29,8 @@
       "description": "Wij accepteren geen enkele gift!\n\nIedere vorm van giften/donaties, onder welke omstandigheden dan ook, en op elke site, link of post zijn vervalst.\n\nMaar als je de Vanced ontwikkelaars wil steunen, dan kan je Brave downloaden via [deze link](https://brave.com/kev231) en AdGuard via [deze link](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "Hoe kan ik de speler lay-out automatisch verbergen?",
-      "description": "Je kan dit configureren in YouTube Vanced Settings > Toegankelijkheid. Als de instellingen niet openen of niet werken, ga dan naar de toegankelijkheidsinstellingen van jouw apparaat en schakel geluidsversterker, toegang schakelen, live ondertitels uit."
+      "title": "Hoe kan ik de lay-out van de speler automatisch verbergen?",
+      "description": "Je kan dit configureren in YouTube Vanced > Instellingen > Toegankelijkheid. Als de instellingen niet openen of niet werken, ga dan naar de toegankelijkheidsinstellingen van jouw apparaat en schakel de functies Geluidsversterker, Toegang via schakelaar en Live ondertiteling uit."
     },
     {
       "title": "Waarom split APKs gebruiken?",
@@ -42,7 +42,7 @@
     },
     {
       "title": "Moet ik de installatiebestanden opnieuw downloaden?",
-      "description": "Bestanden kunnen om verschillende redenen beschadigd worden en kunnen daarna problemen veroorzaken. Om dit te voorkomen, kan je ervoor kiezen om deze opnieuw te downloaden om ervoor te zorgen dat de installatie soepel verloopt."
+      "description": "Bestanden kunnen om verschillende redenen beschadigd raken en kunnen daarna problemen veroorzaken. Om dit te voorkomen, kan je ervoor kiezen om deze opnieuw te downloaden om ervoor te zorgen dat de installatie soepel verloopt."
     },
     {
       "title": "Waarom heeft de root versie geen microfoon machtiging?",
@@ -57,24 +57,42 @@
       "description": "In Vanced instellingen klik je 6-7 keer op de sectie \"Over\" om dit in te schakelen. Dit schakelt enkel extra video codec instellingen in."
     },
     {
+      "title": "Hoe stel je YouTube Vanced in als standaardapp?",
+      "description": "Zoals de titel zegt hebben veel gebruikers reeds dikwijls gevraagd hoe ze YouTube Vanced de standaard kunnen maken voor het openen van links uit andere apps (zoals browsers, berichtenapps en andere apps).\n\nVoor root hoef je je geen zorgen te maken omdat het al standaard is ingesteld sinds YouTube Vanced de originele YouTube vervangt.\n\nVoor niet-root zijn oplossingen verschillend bij OneUI, MIUI en de rest. We kunnen geen oplossingen aanbieden voor iedere OS, en je moet mogelijk zelf wat zoeken via Google.",
+      "fields": [
+        {
+          "title": "OneUI gebruikers:",
+          "content": "Je moet de YouTube-app links laten openen met een andere app. Stel de \"Ga naar ondersteunde URLs\" in op \"in andere app\"."
+        },
+        {
+          "title": "MIUI gebruikers:",
+          "content": "Open instellingen en zoek naar \"Standaard apps\" of navigeer naar Apps > Beheer apps > [klik op de drie stippen in de rechterhoek] > Standaard apps > Links openen. In de lijst met apps scroll je naar beneden totdat je YouTube of YouTube Vanced en klik erop. Stel vervolgens de instelling \"**Open ondersteunde links**\" in als \"**Openen**\" in plaats van \"Telkens vragen\" of \"Niet openen\"."
+        },
+        {
+          "title": "AOSP & andere aangepaste UI's (OOS, ColorOS, EMUI, etc.):",
+          "content": "1. Kies \"Altijd vragen\" voor zowel de originele YouTube app als YouTube Vanced.\n\n2. Open Google Chrome.\n\n3. Zoek naar enkele YouTube video's op Google.\n\n4. Open de links met YouTube Vanced en stel deze in op \"altijd\".\n\n5. Ga terug naar de instellingen waar je \"Altijd vragen\" op YouTube hebt ingesteld en wijzig dat in \"Niet openen met deze app\"."
+        }
+      ]
+    },
+    {
       "title": "Waarom werkt de root-versie niet met microG Core?",
       "description": "1. Je moet in ieder geval de [pico] versie van GApps (https://github.com/opengapps/opengapps/wiki/Pico-Package) hebben om Vanced te gebruiken.\n\n2. Je kan Vanced niet laten werken met microG Core, omdat het Google Play Services Framework nodig heeft, dat beschikbaar is in alle GApps pakketten.\n\n3. Als je je zorgen maakt over jouw privacy en GApps niet wil gebruiken, maar YouTube wil kijken zonder advertenties, dan is de [web versie](https://youtube.com) nog steeds beschikbaar."
     },
     {
       "title": "Waarom werkt casten niet?",
-      "description": "Het werkt als je microG up-to-date is."
+      "description": "Voor gebruikers met de nieuwste v16.16.38 non-root variant, is er een bug in upstream microG. Tot dat is opgelost, wacht je best op updates of ga terug naar v15 versies. Root gebruikers zullen geen problemen ondervinden bij het casten als ze gebruik maken van Google Play Services."
     },
     {
-      "title": "Wat is Apk handtekening?",
-      "description": "Je leest dit omdat je Vanced Manager niet gebruikt of omdat je mogelijk Vanced hebt geïnstalleerd vanuit een onofficiële bron. \nGebruik gewoon Vanced Manager!\n\nJe kan Vanced Manager veilig downloaden van:\n- Officiële site <https://vancedapp.com> \n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Wat is een APK handtekening?",
+      "description": "Je leest dit omdat je Vanced Manager niet gebruikt of omdat je mogelijk Vanced hebt geïnstalleerd vanuit een onofficiële bron. \nGebruik enkel Vanced Manager!\n\nJe kan Vanced Manager veilig downloaden van:\n- Officiële site <https://vancedapp.com> \n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Is YouTube Vanced beschikbaar in de Play Store?",
-      "description": "NEE!\nNogmaals, installeer geen apps, en probeer zelfs niet te zoeken naar valse apps met de naam \"YouTube Vanced\" of iets soortgelijks in de Play Store of in andere app stores om Vanced te installeren.\n\nWe hebben enkel [Vanced Gids](https://play.google.com/store/apps/details?id=com.vanced.faq), en dat is de enige officiële app gepubliceerd in de Play Store.\n\nAls je een andere app met ons pictogram en/of naam vindt, rapporteer deze dan als imitatie en geef het een slechte beoordeling.\n\nOnze apps kunnen alleen gevonden worden op <https://vancedapp.com>."
+      "description": "NEE!\nNogmaals, installeer geen apps met de naam \"YouTube Vanced\" of iets soortgelijks in de Play Store of in andere appwinkels om Vanced te installeren. Het heeft dan ook geen zin om daar naar de app te zoeken.\n\n[Vanced Gids](https://play.google.com/store/apps/details?id=com.vanced.faq) is de enige officiële app die we in de Play Store hebben gepubliceerd.\n\nAls je een andere app met ons pictogram en/of onze naam vindt, rapporteer deze dan als imitatie en geef deze een slechte beoordeling.\n\nOnze apps kunnen alleen gevonden worden op <https://vancedapp.com>."
     },
     {
       "title": "Waarom wordt Vanced niet weergegeven op het startscherm of het app overzicht?",
-      "description": "Je leest dit omdat je Vanced Manager niet gebruikt of omdat je mogelijk Vanced hebt geïnstalleerd vanuit een onofficiële bron. \nGebruik gewoon Vanced Manager!\n\nJe kan Vanced Manager veilig downloaden van:\n- Officiële site <https://vancedapp.com> \n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Je leest dit omdat je Vanced Manager niet gebruikt of omdat je mogelijk Vanced hebt geïnstalleerd vanuit een onofficiële bron. \nGebruik enkel Vanced Manager!\n\nJe kan Vanced Manager veilig downloaden van:\n- Officiële site <https://vancedapp.com> \n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Waarom worden geen video's afgespeeld?",
@@ -85,7 +103,7 @@
       "description": "Vanwege COVID-19 beperkt Google het gegevensgebruik in verschillende landen. Dit gebeurt op de server en heeft invloed op zowel Vanced als de standaard YouTube-gebruikers.",
       "fields": [
         {
-          "title": "Tussenoplossingen",
+          "title": "Tussenoplossingen:",
           "content": "1. Verbind met een VPN van een andere regio.\n2. Gebruik de [webversie](https://youtube.com)\n3. Aangezien de 480p-beperking enkel van toepassing is op mobiele apparaten en niet op tablets, kan je het model van jouw apparaat in YouTube Vanced wijzigen om de beperking te omzeilen.\n\n#### Hoe het apparaatmodel wijzigen?\n1. Open YouTube Vanced.\n2. Schakel aanvullende opties in \n  1. Ga naar Instellingen\n  2. Klik op Vanced instellingen\n  3. Klik op de \"Over\" sectie totdat er een bericht verschijnt dat verborgen instellingen zijn ingeschakeld.\n3. Ga naar Codec overschrijven en stel model in op \"SM-T865\" en apparaat op \"Samsung\".\n4. Herstart de app en de limiet van 480p moet normaliter verwijderd zijn."
         }
       ]
