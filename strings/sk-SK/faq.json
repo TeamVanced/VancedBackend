@@ -110,7 +110,7 @@
     },
     {
       "title": "Ako skryť upozornenie microG?",
-      "description": "Ak chcete upozornenie microG skryť,\n\n1. Je potrebné deaktivovať optimalizáciu batérie pre microG a reštartovať zariadenie.\n\n2. Ak metóda vyššie nefunguje, deaktivujte upozornenie microG podržaním tohto upozornenia, kde ho následne vypnite a ťuknite na Uložiť.\n\n>Zakázanie upozornení aplikácií je možné vykonať rôznymi spôsobmi v závislosti od používateľského rozhrania systému Android. Ak neviete, ako upozornenie vypnúť na vašom zariadení, skúste použiť Google a nájsť riešenie."
+      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
       "title": "Vyzerá rozlíšenie 1440p lepšie na mojej obrazovke s rozlíšením 1080p?",
