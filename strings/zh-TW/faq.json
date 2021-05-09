@@ -69,7 +69,7 @@
           "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "title": "AOSP 及其他 UI (OOS、ColorOS、EMUI...等)：",
           "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced.\n\n2. Open Google Chrome.\n\n3. Search for some YouTube videos on Google.\n\n4. Open links with YouTube vanced app and set as always.\n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
         }
       ]
