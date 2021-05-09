@@ -103,7 +103,7 @@
       "description": "Vzhledem k situaci kolem COVID-19, Google v určitých zemích omezuje využití dat. To se děje na serveru a ovlivňuje to jak uživatele Vanced, tak uživatele výchozí aplikace YouTube.",
       "fields": [
         {
-          "title": "Možná zástupná řešení:",
+          "title": "Dočasná řešení:",
           "content": "1. Připojte se k VPN jiného regionu.\n2. Použijte [webovou verzi](https://youtube.com)\n3. Vzhledem k tomu, že omezení 480p je pouze pro mobilní zařízení a ne pro tablety, můžete změnit model zařízení v aplikaci YouTube Vanced.\n\n#### Jak změnit model zařízení?\n1. Otevřete YouTube Vanced.\n2. Povolte další možnosti \n  1. Přejděte do Nastavení\n  2. Klepněte na Nastavení Vanced\n  3. Klepněte na sekci O aplikaci, dokud se neobjeví zpráva se zapnutím skrytých nastavení.\n3. Přejděte na Přepsat kodek a nastavte model na \"SM-T865\" a zařízení na \"Samsung\".\n4. Restartujte aplikaci a limit 480p by měl být pryč."
         }
       ]
