@@ -58,18 +58,18 @@
     },
     {
       "title": "YouTube Vanced를 기본 앱으로 만드려면 어떻게 해야 하나요?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "제목에서 알 수 있듯이, 많은 사용자가 다른 앱(브라우저, 메신저 등의 앱)에서 링크를 열 때 기본적으로 YouTube Vanced에서 열도록 설정하는 방법을 자주 묻고 있습니다.\n\n루트 버전 사용자의 경우, 이미 YouTube Vanced가 기본 YouTube 앱을 대체했으므로 이에 대하여 고민하지 않으셔도 됩니다.\n\n비루트 버전 사용자의 경우, 해결 방안이 OneUI, MIUI 및 나머지에 적용되는 방안으로 나뉩니다. 모든 OS에 대한 해결책을 제공해드릴 수 없으며, 이 사안을 직접 Google에 문의해야 할 수도 있습니다.",
       "fields": [
         {
           "title": "OneUI 사용자:",
-          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+          "content": "YouTube 앱에서 다른 앱을 통해 링크를 열도록 설정해야 합니다. \"지원되는 링크 열기\" 설정을 \"다른 앱에서\"로 설정하십시오."
         },
         {
           "title": "MIUI 사용자:",
           "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "title": "AOSP & 기타 커스텀 UI(OOS, ColorOS, EMUI 등):",
           "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced.\n\n2. Open Google Chrome.\n\n3. Search for some YouTube videos on Google.\n\n4. Open links with YouTube vanced app and set as always.\n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
         }
       ]
@@ -79,8 +79,8 @@
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "캐스팅 문제",
+      "description": "16.16.38 비루트 버전을 사용한다면, 업스트림 microG에 버그가 있습니다. 해당 문제가 해결되기 전까지는 업데이트를 기다리거나 버전을 15로 되돌려주시기 바랍니다. 루트 사용자의 경우 Google Play 서비스를 사용하고 있다면 캐스팅에 문제가 없을 것입니다."
     },
     {
       "title": "APK 서명이란?",
@@ -114,7 +114,7 @@
     },
     {
       "title": "1440p가 1080p 화면에서도 더 좋은 화질을 제공해주나요?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "description": "그렇습니다. 하지만 동영상 비율이 18:9, 21:9 등일 때만 해당합니다. 이를 확인하려면 설정 > 일반에서 '전문 통계 사용 설정'을 켜면 됩니다.\n\n더 높은 품질을 활성화하려면, Vanced 설정 > 영상 설정에 간 다음 \"영상 화질 제한(해제)\"을 켜고 앱을 재시작하세요."
     }
   ]
 }
