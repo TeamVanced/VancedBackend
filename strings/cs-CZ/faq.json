@@ -57,12 +57,30 @@
       "description": "V nastavení Vanced klepněte na sekci „O aplikaci“ 6-7krát a povolte to. Tím se povolí pouze další nastavení video kodeku."
     },
     {
-      "title": "Proč nefunguje varianta root s microG Core?",
-      "description": "1. Abyste mohli spustit Vanced, musíte mít alespoň [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variantu GApps\n\n2. Vanced s microG Core nelze spustit, protože potřebuje Google Play Services Framework, který je k dispozici ve všech balíčcích GApps a jejich knihovnách.\n\n3. Pokud se obáváte o své soukromí a nechcete používat GApps, ale přesto chcete sledovat YouTube bez reklam, je vždy k dispozici [webová verze](https://youtube.com)."
+      "title": "Jak nastavit YouTube Vanced jako výchozí aplikaci?",
+      "description": "Jak název napovídá, spousta uživatelů se mnohokrát ptá, jak můžou nastavit YouTube Vanced jako výchozí pro otevírání odkazů z jiných aplikací (jako jsou prohlížeče, aplikace pro zasílání zpráv a jakékoli jiné aplikace).\n \nUživatelé root verze se nemusejí obávat, protože ve výchozím nastavení je aplikace YouTube nahrazena aplikací YouTube Vanced. \n\nPro užívatele non-root verze byla řešení rozdělena mezi OneUI, MIUI a ostatní.  Nemůžeme poskytnout řešení pro každý operační systém, který je k dispozici, a budete si je možná muset vyhledat sami.",
+      "fields": [
+        {
+          "title": "Uživatelé OneUI:",
+          "content": "Musíte nastavit aplikaci YouTube, aby se odkazy otevíraly v jiné aplikaci. Nastavte \"Přejít na podporované URL\" na \"v jiné aplikaci\"."
+        },
+        {
+          "title": "Uživatelé MIUI:",
+          "content": "Otevřete Nastavení a vyhledejte \"Výchozí aplikace\" nebo přejděte do Aplikace > Správa aplikací > [stiskněte tři tečky v pravém rohu] > Výchozí aplikace > Otevírání odkazů. V seznamu aplikací najděte YouTube nebo YouTube Vanced a klepněte na ni. Pak nastavte nastavení \"**Otevírat podporované odkazy**\" jako \"**Otevírat**\" místo \"Vždy se dotázat\" nebo \"Neotevírat\"."
+        },
+        {
+          "title": "Uživatelé AOSP a ostatních UI (OOS, ColorOS, EMUI, atd.):",
+          "content": "1. Vyberte \"vždy se dotázat\" pro výchozí aplikaci YouTube i Vanced.\n\n2. Otevřete Google Chrome.\n\n3. Vyhledejte na Google nějaká YouTube videa.\n\n4. Otevřete odkazy pomocí aplikace YouTube Vanced a nastavte možnost \"vždy\".\n\n5. Vraťte se do nastavení, jde jste YouTube nastavili na \"vždy se dotázat\" a změňte to na \"neotevírat v této aplikaci\"."
+        }
+      ]
+    },
+    {
+      "title": "V čem spočívá problém ohledně microG Core?",
+      "description": "1. Abyste mohli spustit Vanced, musíte mít alespoň [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variantu GApps\n\n2. Vanced s microG Core nelze spustit, protože potřebuje Google Play Services Framework, který je k dispozici ve všech balíčcích GApps.\n\n3. Pokud se obáváte o své soukromí a nechcete používat GApps, ale přesto chcete sledovat YouTube bez reklam, je vždy k dispozici [webová verze](https://youtube.com)."
     },
     {
       "title": "Proč nefunguje Vysílání?",
-      "description": "Funguje, pokud je vaše microG aktuální."
+      "description": "Uživatelé verze 16.16.38 ve variantě bez root oprávnění se setkali s chybou nacházející se v microG, které je vyvíjeno nezávisle. Dokud nebude tato chyba opravena, vraťte se na některou z verzí v15 a počkejte prosím na aktualizaci. Uživatelé s oprávněním root nebudou mít s Vysíláním problémy, pokud používají Služby Google Play."
     },
     {
       "title": "Co je to podepisování APK?",
@@ -85,8 +103,8 @@
       "description": "Vzhledem k situaci kolem COVID-19, Google v určitých zemích omezuje využití dat. To se děje na serveru a ovlivňuje to jak uživatele Vanced, tak uživatele výchozí aplikace YouTube.",
       "fields": [
         {
-          "title": "Možná zástupná řešení:",
-          "content": "1. Připojte se k VPN jiného regionu.\n2. Použijte [webovou verzi](https://youtube.com)\n3. Vzhledem k tomu, že omezení 480p je pouze pro mobilní zařízení a ne pro tablety, můžete změnit model zařízení v aplikaci YouTube Vanced.\n\n#### Jak změnit model zařízení?\n1. Otevřete YouTube Vanced.\n2. Přejděte do Nastavení\n3. Klepněte na \"Nastavení Vanced\"\n4. Povolte skrytá nastavení:\n  - Klepněte na sekci \"O aplikaci\", dokud se neobjeví zpráva se zapnutím skrytých nastavení.\n5. Přejděte na Přepsat kodek\n6. Nastavte model na \"SM-T865\" a zařízení na \"Samsung\".\n7. Restartujte aplikaci a limit 480p by měl být pryč."
+          "title": "Dočasná řešení:",
+          "content": "1. Připojte se k VPN jiného regionu.\n2. Použijte [webovou verzi](https://youtube.com)\n3. Vzhledem k tomu, že omezení 480p je pouze pro mobilní zařízení a ne pro tablety, můžete změnit model zařízení v aplikaci YouTube Vanced.\n\n#### Jak změnit model zařízení?\n1. Otevřete YouTube Vanced.\n2. Povolte další možnosti \n  1. Přejděte do Nastavení\n  2. Klepněte na Nastavení Vanced\n  3. Klepněte na sekci O aplikaci, dokud se neobjeví zpráva se zapnutím skrytých nastavení.\n3. Přejděte na Přepsat kodek a nastavte model na \"SM-T865\" a zařízení na \"Samsung\".\n4. Restartujte aplikaci a limit 480p by měl být pryč."
         }
       ]
     },
@@ -96,7 +114,7 @@
     },
     {
       "title": "Vypadá rozlišení 1440p lépe na mé obrazovce s rozlišením 1080p?",
-      "description": "Ano, ale pouze v případě, že je video v poměru stran 18:9, 21:9, ... Můžete zapnout „Statistiky pro šprty“ v Nastavení > Obecné a potvrdit to.\n\nChcete-li povolit vyšší rozlišení, přejděte do Nastavení Vanced > Nastavení videa a zapněte „Maximální rozlišení“, poté aplikaci restartujte."
+      "description": "Ano, ale pouze v případě, že je video v poměru stran 18:9, 21:9, ... Můžete zapnout `Statistiky pro šprty` v Nastavení > Obecné a potvrdit to.\n\nChcete-li povolit vyšší rozlišení, přejděte do Nastavení Vanced > Nastavení videa a zapněte „Maximální rozlišení“, poté aplikaci restartujte."
     }
   ]
 }

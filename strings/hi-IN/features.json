@@ -1,32 +1,32 @@
 {
   "data": [
     {
-      "title": "Vanced",
-      "description": "YouTube Vanced aims to be a better version of YouTube. It includes adblocking, the black theme, and a lot more. Use Vanced Manager to install YouTube Vanced with relative ease."
+      "title": "वैंस्ड",
+      "description": "YouTube Vanced का उद्देश्य YouTube का एक बेहतर संस्करण है। इसमें एडब्लॉकिंग, ब्लैक थीम और बहुत कुछ शामिल है। YouTube Vanced को सापेक्ष आसानी से स्थापित करने के लिए Vanced Manager का उपयोग करें।"
     },
     {
-      "title": "YouTube Music Vanced",
-      "description": "YouTube Music Vanced has the same aim as YouTube Vanced, but this app focuses on YouTube Music. This is relatively less feature-rich compared to Vanced but still features many things you come to expect like adblocking and background playback, all inside YouTube Music Vanced!"
+      "title": "यूट्यूब म्यूजिक वैंस्ड",
+      "description": "YouTube Music Vanced का उद्देश्य YouTube Vanced है, लेकिन यह ऐप YouTube Music पर केंद्रित है। यह Vanced की तुलना में अपेक्षाकृत कम सुविधा संपन्न है, लेकिन फिर भी बहुत सी ऐसी चीजें हैं जिनकी आपको उम्मीद है जैसे कि YouTube Music Vanced के अंदर, Adblocking और बैकग्राउंड प्लेबैक की तरह!"
     },
     {
-      "title": "YouTube Vanced main features",
-      "description": "- OLED friendly black theme and dark theme _(aka dark gray)_ besides white theme.\n- Blocks all ads\n- Allows you to play videos in the background or in the Picture in Picture (PiP) mode (only on Android 8+)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/tablet mini-player layout can be toggled to the tablet versions which are very similar to the old version (however, it's a bit buggy)."
+      "title": "YouTube मुख्य विशेषताएँ",
+      "description": "- सफ़ेद थीम के अलावा ओएलईडी फ्रेंडली ब्लैक थीम और डार्क थीम _ (उर्फ डार्क ग्रे) _।\n- सभी विज्ञापनों को अवरुद्ध करता है\n- आपको बैकग्राउंड में या पिक्चर इन पिक्चर (PiP) मोड में वीडियो चलाने की अनुमति देता है (केवल एंड्रॉइड 8+ पर)\n- स्वाइप कंट्रोल आपको अप और डाउन जेस्चर (कंफर्टेबल पैडिंग के साथ) ब्राइटनेस और वॉल्यूम को कंट्रोल करने की अनुमति देता है।\n- ऑटो-रिपीट फीचर आपको रिपीट पर वीडियो को लूप करने की सुविधा देता है।\n- नई टिप्पणी / टैबलेट मिनी-प्लेयर लेआउट को टैबलेट संस्करणों के लिए टॉगल किया जा सकता है जो पुराने संस्करण के समान हैं (हालांकि, यह थोड़ा बगी है)।"
     },
     {
-      "title": "Customization",
-      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+      "title": "अनुकूलन",
+      "description": "- आप पुराने उपकरणों या VP9 के लिए H264 मजबूर करने के रूप में Codec विकल्पों को ओवरराइड करने की अनुमति देता है, यह भी अगर आप एक सिनेमाई अनुभव पसंद करते हैं तो आप एचडीआर प्लेबैक को बल देने या 60fps को बंद करने की अनुमति देता है। (इन सुविधाओं के लिए कस्टम डिवाइस कॉन्फिगरेशन हमारे [डिस्क्सॉर्ड सर्वर] (https://discord.gg/Vanced) या XDA पर मिल सकते हैं)\n- डिफ़ॉल्ट वीडियो रिज़ॉल्यूशन को जितना चाहें उतना कम या कम करें और किसी भी डिवाइस पर उस तेज 4k प्लेबैक के लिए अपने स्क्रीन रिज़ॉल्यूशन को ओवरराइड करें। यह आपको डिफ़ॉल्ट प्लेबैक गति को 0.25x से 2x के बीच कहीं भी बदलने की अनुमति देता है (यह मानते हुए कि आपका डिवाइस पर्याप्त शक्तिशाली है)\n- आपको घर के विज्ञापनों, अधिकांश यूआई विज्ञापनों, व्यापारिक विज्ञापनों, सामुदायिक पोस्ट, मूवी अपस्टेलिंग, कॉम्पैक्ट बैनर जानकारी (जैसे COVID-19 जानकारी) को टॉगल करने की अनुमति देता है, टिप्पणियों को पूरी तरह से हटा दें, कॉम्पैक्ट फिल्म, मूवी शेल्फ हटाने और कई और अधिक!"
     },
     {
-      "title": "SponsorBlock",
-      "description": "- Features the ability to skip sponsor segments (where a [YouTuber](https://en.wikipedia.org/wiki/YouTuber) advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API [found here](https://sponsor.ajay.app). You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
+      "title": "स्पॉन्सरब्लॉक",
+      "description": "- प्रायोजक सेगमेंट को छोड़ने की क्षमता है (जहां एक [YouTuber] (https://en.wikipedia.org/wiki/YouTuber) एक वीडियो के बीच में किसी सेवा या उत्पाद का विज्ञापन करता है)\n- यह अन्य श्रेणियों, जैसे इंट्रो, आउट्रोस और सेल्फ-प्रमोशन को भी छोड़ देने का समर्थन करता है।\n- एपीआई [यहाँ पाया] (https://sponsor.ajay.app) का उपयोग करता है। आप इस बारे में अधिक जानकारी पा सकते हैं कि यह कैसे काम करता है\n- यह आपको एपीआई के लिए अपने स्वयं के खंड प्रस्तुत करने और व्यापक समुदाय में योगदान करने की भी अनुमति देता है\n- इस पर पूर्ण नियंत्रण कि क्या किसी सेगमेंट की श्रेणी को स्वचालित रूप से छोड़ना है या स्किपिंग के लिए एक बटन दिखाना है, या बस इसे स्किप नहीं करना है।\n- प्लेबैक समयरेखा में इसकी श्रेणी के आधार पर विशिष्ट रंग में खंड हाइलाइट करता है।"
     },
     {
-      "title": "Platforms",
-      "description": "Apps are available only for Android devices and there are no plans to support any other platforms at the moment"
+      "title": "प्लेटफार्म",
+      "description": "ऐप्स केवल एंड्रॉइड डिवाइस के लिए उपलब्ध हैं और फिलहाल किसी भी अन्य प्लेटफॉर्म का समर्थन करने की कोई योजना नहीं है"
     },
     {
-      "title": "Difference between Root and Non-Root",
-      "description": "#### Root:\nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google Assistant through the modded Vanced app.\n\n#### Non-Root:\n- If you have a device that is difficult to root, or you don’t want to root your daily device on first hand, you should opt for the non-root variant.\n- Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account.\n- Moreover, you have to manually set Vanced as the default app for opening YouTube links.\n- However, the non-root variant is much simpler to install and use, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
+      "title": "Root और Non-root में अंतर",
+      "description": "#### रूट:\nVanced की रूट वेरिएंट मूल रूप से आधिकारिक YouTube ऐप को बदल देती है। नतीजतन, आप सीधे YouTube लिंक खोल सकते हैं या उन्हें modded Vanced ऐप के माध्यम से Google सहायक का उपयोग करके कॉल कर सकते हैं।\n\n#### गैर-रूट:\n- यदि आपके पास एक ऐसा उपकरण है जो रूट करना मुश्किल है, या आप अपने दैनिक डिवाइस को पहले रूट पर नहीं रखना चाहते हैं, तो आपको गैर-रूट संस्करण का विकल्प चुनना चाहिए।\n- चूंकि गैर-रूट संस्करण का पैकेज नाम स्टॉक YouTube ऐप से अलग है, इसलिए वे सह-अस्तित्व में हो सकते हैं। ध्यान दें कि आपको अपने YouTube / Google खाते से लॉग इन करने में सक्षम होने के लिए एक अतिरिक्त साथी ऐप (Vanced microG) स्थापित करने की आवश्यकता है।\n- इसके अलावा, आपको YouTube लिंक खोलने के लिए डिफ़ॉल्ट रूप से Vanced को डिफॉल्ट ऐप के रूप में सेट करना होगा।\n- हालांकि, गैर-रूट संस्करण स्थापित करने और उपयोग करने के लिए बहुत सरल है, इसलिए हम आपको गैर-रूट संस्करण के साथ छड़ी करने की सलाह देते हैं जब तक कि आपको वास्तव में अपने फोन पर स्टॉक YouTube एप्लिकेशन को बदलने की आवश्यकता न हो।"
     }
   ]
 }

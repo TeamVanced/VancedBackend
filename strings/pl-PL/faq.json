@@ -57,16 +57,34 @@
       "description": "W ustawieniach vanced, dotknij sekcji \"O nas\" 6-7 razy, aby odblokować tajne menu. To menu włącza tylko dodatkowe ustawienia kodeka wideo."
     },
     {
-      "title": "Co jest nie tak z microG Core?",
+      "title": "Jak ustawić YouTube Vanced jako domyślną aplikację?",
+      "description": "Jak mówi tytuł, wielu użytkowników wielokrotnie pytało jak mogą ustawić YouTube Vanced jako domyślne dla otwierania linków z innych aplikacji (takich jak przeglądarki, aplikacje wysyłające wiadomości i inne aplikacje).\n\nDla roota nie musisz się martwić, ponieważ jest już ustawiony domyślnie, ponieważ YouTube Vanced zostaje zastąpiony na YouTube.\n\nDla innych niż root, rozwiązania zostały podzielone na OneUI, MIUI i pozostałe. Nie możemy zapewnić rozwiązań dla każdego systemu operacyjnego i być może będziesz musiał wyszukać samemu.",
+      "fields": [
+        {
+          "title": "Użytkownicy OneUI:",
+          "content": "Musisz sprawić, aby aplikacja YouTube otworzyła linki za pomocą innej aplikacji. Ustaw \"Otwórz obsługiwane łącza\" na \"w innej aplikacji\"."
+        },
+        {
+          "title": "Użytkownicy MIUI:",
+          "content": "Otwórz Ustawienia i wyszukaj \"Domyślne aplikacje\" lub przejdź do aplikacji > Zarządzaj aplikacjami > [naciśnij trzy kropki w prawym rogu] > Domyślne aplikacje > Otwieranie linków. Po wyświetleniu na liście aplikacji, przewiń w dół, aż znajdziesz YouTube lub YouTube Vanced i dotknij go. Następnie ustaw ustawienie \"**Otwórz obsługiwane linki**\" jako \"**Otwórz**\" zamiast \"Zapytaj za każdym razem\" lub \"Nie otwieraj\"."
+        },
+        {
+          "title": "AOSP i inne niestandardowe interfejsy (OOS, ColorOS, EMUI itp.):",
+          "content": "1. Wybierz \"Zapytaj za każdym razem\" zarówno dla aplikacji YouTube na giełdzie jak i jako darmowe.\n\n2. Otwórz Google Chrome.\n\n3. Wyszukaj filmy z YouTube na Google.\n\n4. Otwórz linki z ulepszonym YouTube Vanced i ustaw na zawsze.\n\n5. Wróć do ustawień, w których ustawiłeś \"zapytaj za każdym razem\" na YouTube, zmień je na \"nie otwieraj w tej aplikacji\"."
+        }
+      ]
+    },
+    {
+      "title": "Dlaczego wariant root nie działa z microG Core?",
       "description": "1. Musisz mieć co najmniej wariant [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) GApps do uruchomienia Vanced.\n\n2. Nie można uruchomić Vanced za pomocą microG Core ponieważ wymaga Google Play Services Framework dostępny we wszystkich pakietach GApp.\n\n3. Jeśli jesteś zaniepokojony swoją prywatnością i nie chcesz używać GApps ale nadal chcesz korzystać z YouTube bez reklam, [wersja internetowa](https://youtube.com) jest zawsze dostępna."
     },
     {
       "title": "Dlaczego przesyłanie nie działa?",
-      "description": "Działa jeśli Twój microG jest aktualny."
+      "description": "Dla użytkowników z najnowszą wersją v16.16.38 bez roota, jest błąd w microG. Do czasu rozwiązania proszę czekać na aktualizacje lub cofnąć do wersji v15. Użytkownicy root nie będą mieli problemów z przesyłaniem, jeśli korzystają z usług Google Play."
     },
     {
-      "title": "Co to jest podpisywanie Apk?",
-      "description": "Czytasz to, ponieważ nie używasz Menadżera Vanced lub instalujesz Vanced z nieoficjalnego źródła. \nWystarczy użyć Vanced Manager!\n\nMożesz bezpiecznie pobrać Menadżera Vanced z:\n- Oficjalnej strony <https://vancedapp.com> \n- [repozytorium GitHub](https://github. om/YTVanced/VancedManager/releases/latest)"
+      "title": "Co to jest podpisywanie APK?",
+      "description": "Czytasz to, ponieważ nie używasz Menadżera Vanced lub instalujesz Vanced z nieoficjalnego źródła. \nWystarczy użyć Menadżera Vanced!\n\nMożesz bezpiecznie pobrać Menadżera Vanced z:\n- Oficjalnej strony <https://vancedapp.com> \n- [repozytorium GitHub](https://github. om/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Czy YouTube Vanced jest w Sklepie Play?",
@@ -74,10 +92,10 @@
     },
     {
       "title": "Dlaczego Vanced nie pojawia się na ekranie głównym lub na liście aplikacji?",
-      "description": "Czytasz to, ponieważ nie używasz Menadżera Vanced lub instalujesz Vanced z nieoficjalnego źródła. \nWystarczy użyć Vanced Manager!\n\nMożesz bezpiecznie pobrać Menadżera Vanced z:\n- Oficjalnej strony <https://vancedapp.com> \n- [repozytorium GitHub](https://github. om/YTVanced/VancedManager/releases/latest)"
+      "description": "Czytasz to, ponieważ nie używasz Menadżera Vanced lub instalujesz Vanced z nieoficjalnego źródła. \nWystarczy użyć Menadżera Vanced!\n\nMożesz bezpiecznie pobrać Menadżera Vanced z:\n- Oficjalnej strony <https://vancedapp.com> \n- [repozytorium GitHub](https://github. om/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Dlaczego nie odtwarzają się filmy?",
+      "title": "Dlaczego filmy nie odtwarzają się?",
       "description": "Spróbuj uruchomić ponownie aplikację. Może to również być spowodowane połączeniem internetowym lub urządzeniem."
     },
     {
@@ -86,7 +104,7 @@
       "fields": [
         {
           "title": "Obejścia:",
-          "content": "1. Połącz się z VPN innego regionu.\n2. Użyj [wersji internetowej](https://youtube.com)\n3. Ponieważ ograniczenie 480p jest tylko dla telefonów, a nie tabletów, możesz zmienić model urządzenia w YouTube Vanced aby przezwyciężyć ograniczenie.\n\n#### Jak zmienić model urządzenia?\n1. Otwórz YouTube Vanced.\n2. Przejdź do Ustawienia\n3. Dotknij `Vanced Settings`\n4. Włącz ukryte ustawienia:\n  - Przewiń w dół i stuknij w sekcji `O` do momentu otrzymania wiadomości z włączoną `Ukryte ustawienia włączone`.\n5. Przejdź do `Nadpisywanie kodeku`\n6. Ustaw producenta na `Samsung` i model na `SM-T865`.\n7. Uruchom ponownie aplikację.\n\nPo ponownym uruchomieniu, limit 480p powinien zniknąć."
+          "content": "1. Połącz się z VPN innego regionu.\n2. Użyj [wersji internetowej](https://youtube.com)\n3. Ponieważ ograniczenie 480p jest tylko dla telefonów, a nie tabletów, możesz zmienić model urządzenia w YouTube Vanced aby przezwyciężyć ograniczenie.\n\n#### Jak zmienić model urządzenia?\n1. Otwórz YouTube Vanced.\n2. Przejdź do Ustawienia\n3. Dotknij `Ustawienia Vanced`\n4. Włącz ukryte ustawienia:\n  - Przewiń w dół i stuknij w sekcji `O nas` do momentu otrzymania wiadomości z włączoną `Ukryte ustawienia włączone`.\n5. Przejdź do `Nadpisywanie kodeku`\n6. Ustaw producenta na `Samsung` i model na `SM-T865`.\n7. Uruchom ponownie aplikację.\n\nPo ponownym uruchomieniu, limit 480p powinien zniknąć."
         }
       ]
     },

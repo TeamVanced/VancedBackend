@@ -57,28 +57,46 @@
       "description": "В расширенных настройках нажмите на раздел \"О программе\" 6-7 раз, чтобы разблокировать секретное меню. Это меню позволяет использовать дополнительные настройки видеокодека."
     },
     {
+      "title": "Как сделать YouTube Vanced по умолчанию?",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "fields": [
+        {
+          "title": "Пользователи OneUI:",
+          "content": "You have to make the YouTube app open links with another app. Set the \"Go to supported URLs\" to \"in other app\"."
+        },
+        {
+          "title": "Пользователи MIUI:",
+          "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
+        },
+        {
+          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced.\n\n2. Open Google Chrome.\n\n3. Search for some YouTube videos on Google.\n\n4. Open links with YouTube vanced app and set as always.\n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+        }
+      ]
+    },
+    {
       "title": "Почему вариант root не работает с microG Core?",
-      "description": "1. Вам нужно нужен хотя установить [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) вариант GApps для запуска Vanced.\n\n2. Вы не можете запустить Vanced с microG Core потому что он требует Google Play Services Framework, который доступен во всех пакетах GApps.\n\n3. Если вы обеспокоены конфиденциальностью и не хотите использовать GApps, но все ещё хотите использовать Vanced, то вы можете использовать [веб-версию](https://youtube.com) сайта."
+      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Почему трансляция экрана не работает?",
-      "description": "Трансляция экрана работает если у вас последняя версия MicroG."
+      "title": "Why casting doesn't work?",
+      "description": "Для пользователей последней версией v16.16.38 non-root версии, в исходном коде microG есть баг. До решения бага, пожалуйста ждите обновлений или вернитесь на версию v15. Пользователи root не будут испытывать проблемы с трансляцией экрана при использовании сервисов Google Play."
     },
     {
-      "title": "Что такое подпись APK?",
+      "title": "What is APK Signing?",
       "description": "Вы читаете это, потому что вы не используете Vanced Manager или вы могли установить Vanced из неофициального источника. \nИспользуйте Vanced Manager!\n\nВы можете безопасно скачать Vanced Manager с:\n- Официального сайта <https://vancedapp.com> \n- [Репозитория GitHub](https://github. om/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "YouTube Vanced есть в Play Маркете?",
-      "description": "СТОП!\nНе устанавливайте или не пытайтесь найти поддельные приложения под названием \"YouTube Vanced\" или подобные приложения для установки Vanced.\n\nУ нас есть только [Vanced Guide](https://play.google.com/store/apps/details?id=com. anced.faq), и это единственное официальное приложение опубликованное в Play Store.\n\nЕсли вы найдете любое другое приложение с нашим значком и именем, сообщите об этом как мошенничество и напишите плохой отзыв.\n\nНаши приложения можно найти только на <https://vancedapp.com>."
+      "title": "Есть ли YouTube Vanced в Play Маркете?",
+      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
     },
     {
       "title": "Почему Vanced не видно на главном экране или в меню приложений?",
-      "description": "Вы читаете это, потому что вы не используете Vanced Manager или вы, возможно, установили Vanced из неофициального источника. \nИспользуйте Vanced Manager!\n\nВы можете безопасно скачать Vanced Manager с:\n- Официального сайта <https://vancedapp.com> \n- [Репозитория GitHub](https://github. om/YTVanced/VancedManager/releases/latest)"
+      "description": "Вы читаете это, потому что вы не используете Vanced Manager или вы могли установить Vanced из неофициального источника. \nИспользуйте Vanced Manager!\n\nВы можете безопасно скачать Vanced Manager с:\n- Официального сайта <https://vancedapp.com> \n- [Репозитория GitHub](https://github. om/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Почему видео не воспроизводится?",
-      "description": "Попробуйте перезапустить приложение. Это также может быть связано с вашим интернет-соединением или устройством."
+      "title": "Почему видео не воспроизводятся?",
+      "description": "Попробуйте перезапустить приложение. Также это может быть связано с вашим интернет-соединением или устройством."
     },
     {
       "title": "Почему у меня есть ограничение в 480p?",
@@ -86,13 +104,13 @@
       "fields": [
         {
           "title": "Обходные решения:",
-          "content": "1. Подключитесь через VPN используя другой регион.\n2. Используйте [веб-версию](https://youtube.com)\n3. Поскольку ограничение 480p существует только для мобильных устройств и не для планшетов, вы можете изменить модель устройства в YouTube Vanced для преодоления ограничения.\n\n#### Как изменить модель устройства?\n1. Откройте YouTube Vanced.\n2. Включите дополнительные опции \n  1. Перейдите в Настройки\n  2. Нажмите Встроенные настройки\n  3. Нажмите на раздел \"О программе\" до тех пор, пока вы не получите сообщение о том, что скрытые настройки включены.\nПерейдите в режим переопределения кодека и установите модель \"SM-T865\" и устройство в Samsung.\n4. Перезапустите приложение и лимит 480p пропадет."
+          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
         }
       ]
     },
     {
       "title": "Как скрыть уведомление от microG?",
-      "description": "Чтобы скрыть уведомления microG, вы можете отключить оптимизацию батареи для MicroG и перезагрузить устройство.\n\nЕсли уведомление все еще есть после перезагрузки, отключите уведомления microG, удерживая уведомление, отключите их и нажмите \"Сохранить\".\n\nОтключение уведомлений от приложения может осуществляться различными способами в зависимости от пользовательского интерфейса Android. Если вы не знаете, как его отключить, попробуйте использовать Google для изучения того, как его отключить."
+      "description": "Чтобы скрыть уведомление microG, вы можете отключить оптимизацию батареи для MicroG и перезагрузить устройство.\n\nЕсли уведомление все еще есть после перезагрузки, отключите уведомления microG, удерживая уведомление, отключите их и нажмите \"Сохранить\".\n\nОтключение уведомлений от приложения может осуществляться различными способами в зависимости от пользовательского интерфейса Android. Если вы не знаете, как его отключить, попробуйте использовать Google для изучения того, как его отключить."
     },
     {
       "title": "Выглядит ли 1440p лучше на моем 1080p экране?",

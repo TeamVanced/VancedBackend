@@ -6,7 +6,7 @@
       "fields": [
         {
           "title": "Kdy bude mnou nalezená chyba přezkoumána?",
-          "content": "Vývojáři tráví mnoho času vytvářením nových funkcí a opravou mnoha problémů a dokončení může každému chvíli trvat. \nMusíte jen sedět a čekat. Váš příspěvek bude přezkoumán co nejdříve to půjde."
+          "content": "Vývojáři tráví mnoho času vytvářením nových funkcí a opravou mnoha problémů a dokončení každého z nich může chvíli trvat. \nMusíte být trpěliví. Váš příspěvek bude přezkoumán co nejdříve to půjde."
         },
         {
           "title": "Jak vytvořím logcat?",

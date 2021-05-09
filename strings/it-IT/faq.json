@@ -57,46 +57,64 @@
       "description": "Nelle impostazioni avanzate, tocca la sezione \"Informazioni\" 6-7 volte per sbloccare un menu segreto. Questo menu attiverà solo le impostazioni aggiuntive del codec video."
     },
     {
-      "title": "Core",
-      "description": "Se avessi problemi relativi a microG e vanced, e cercassi una risposta, ecco un elenco di ciò che finora è possibile fare:\n\n1. Per poter eseguire vanced è necessario avere, almeno, il pacchetto Pico Gapps installato.\n\n2. Non è possibile eseguire vanced con il pacchetto microG core, in quanto è necessaria la presenza di Google Play Services Framework, disponibile in tutti i pacchetti Gapp.\n\n3. Se sei preoccupato per la tua privacy e non vuoi utilizzare Gapps, ma sei ancora interessato a Vanced, allora ci sono vecchi telefoni Nokia ancora disponibili sul mercato. :)"
-    },
-    {
-      "title": "Chromecast",
-      "description": "A partire dalla versione 14.21.54 di Vanced e dalla versione 0.2.6.17455 di MicroG, Chromecast dovrebbe funzionare per impostazione predefinita. Se ciò non dovesse accadere, connettiti a chromecast con la versione stock di youtube. È anche possibile aggiungere video/controllo utilizzando YouTube Vanced.\n\nNOTA: Microg V0.2.11 corregge Chromecast, quindi accertati di aver aggiornato a questa versione se stai eseguendo la 0.2.10 o inferiore."
-    },
-    {
-      "title": "Firma Apk",
-      "description": "Nelle versioni più recenti di Vanced fino alla 15.40.38, è necessario disattivare la verifica della firma apk per completare correttamente l'installazione utilizzando Split Apk Installer, anche se molti utenti scelgono l'opzione \"firma apk\" in SAI che causa crash in Vanced. \n\n*Non attivare opzioni che non ti è stato chiesto di attivare! *\n\nAl fine di risolvere i crash, è sufficiente reinstallare Vanced ma questa volta disattiva l'opzione \"firma apk\" in SAI."
-    },
-    {
-      "title": "Play Store",
-      "description": "⚠️Ti preghiama di non installare nessuna app fasulla chiamata \"YouTube Vanced\" dal Play Store o da qualsiasi altro store. Non pubblicheremo né caricheremo alcun tipo di app vanced lì. ⚠️\n\nSe dovessi trovare qualche app con il nostro logo e nome, dai prima un'occhiata rapida alla descrizione e tutte le sue recensioni. E se non dovesse sembrarti affidabile, segnala l'app a Google Play e non scaricarla per alcun motivo, in quanto potrebbe contenere file dannosi/adware che rallenterebbero o danneggerebbero il tuo dispositivo Android.\n\nLa nostra app può essere scaricata solo dai link ufficiali da noi stessi forniti. Unisciti al nostro canale per tutti gli aggiornamenti (https://t.me/Vanced) o utilizza il nostro server discord.\n\nResta al sicuro :)"
-    },
-    {
-      "title": "Scaffale App",
-      "description": "Se l'app YouTube Vanced non fosse visibile nel tuo scaffale app, segui questi passaggi:\n\n• Installa l'app stock di YouTube dal Google Play Store.\n\n• Apri l'app fino a quando la pagina iniziale non verrà visualizzata (non è certo se ciò sia necessario o meno. Questa è una semplice ricostruzione basata sull'esperienza di altri utenti).\n\n• Dirigiti su Impostazioni > Applicazioni > YouTube. Dovrebbe apparirti un pulsante \"Disinstalla\" in alto a sinistra. NON disinstallare nulla! Accertati solo che sia presente!\n\n• Riavvia\n\n• Dirigiti su Impostazioni > Applicazioni > YouTube. Ora invece dovrebbe apparirti un pulsante \"Disattiva\". NON Disattivare nulla! Accertati solo che sia presente!\n\n• Nello stesso menu; clicca il pulsante con i tre punti nell'angolo in alto a destra e successivamente clicca su \"Rimuovi/Disinstalla aggiornamenti\".\n\nOra l'app YouTube Vanced dovrebbe essere mostrata nel tuo launcher.\n\nO\n\n[Segui questo link](https://forum.xda-developers.com/showpost.php?p=75068670&postcount=299) se la soluzione sopraindicata non dovesse aver funzionato."
-    },
-    {
-      "title": "Video Non In Riproduzione",
-      "description": "Se un video è in fase di caricamento su un browser/app e non risulta riproducibile, si tratta di un problema HWC o mediaserver. Cambia la tua ROM o aggiornala all'ultima versione per risolvere il problema. Altrimenti, segnala il problema agli sviluppatori della ROM.\n\nSe stai usando interfacce personalizzate, puoi provare a verificare se il problema è nell'app youtube e segnalarlo alla community del tuo dispositivo, in modo che possano implementare una correzione nel prossimo aggiornamento.\n\nNon c'è altro che possiamo fare dal momento che il problema è lato ROM."
-    },
-    {
-      "title": "Il problema dei 480p è dovuto alla Pandemia da Covid-19",
-      "description": "NON è un bug/problema. La causa è da attribuirsi a blocchi regionali di youtube, atti a limitare l'utilizzo di traffico per consentire una navigazione Internet meno problematica possibile.\n\nTuttavia, YouTube ha aumentato la soglia di questo limite ora. Quindi puoi benissimo ignorare quanto scritto qui in basso. Se hai ancora la possibilità di visualizzare video ad un massimo di 480p, mentre la risoluzione video mostrata sul desktop risultasse più elevata, allora è possibile utilizzare una delle soluzioni alternative qui in basso come correzione temporanea, fino a quando Google non rimuoverà il limite nella tua regione/sulla tua rete.\n\nNOTA: \n\n• Qualsiasi cosa accade su YouTube accade su YouTube Vanced dal momento che tutto è controllato dai server di YouTube.",
+      "title": "Come rendere YouTube Vanced una app predefinita?",
+      "description": "Come dice il titolo, un sacco di utenti hanno chiesto molte volte come possono rendere YouTube Vanced come predefinito per l'apertura di link da altre applicazioni (come browser, applicazioni di messaggistica e qualsiasi altra applicazione).\n \nPer il root, non devi preoccuparti perché è già impostato per impostazione predefinita dal momento che YouTube Vanced viene sostituito con Stock YouTube. \n\nPer il non-root, le soluzioni sono state divise tra OneUI, MIUI e il resto. Non possiamo fornire soluzioni per ogni sistema operativo esistente, e potresti aver bisogno di cercare su Google da solo.",
       "fields": [
         {
-          "title": "Alternative",
-          "content": "1) Puoi provare con una VPN se sei fortunato. YouTube ha imposto questo limite nella maggior parte dei paesi, quindi dovrai scegliere la nuova regione con saggezza.\n\n2) Guarda in modalità desktop [www(dot)youtube(dot)com].\n\n3) Poiché la restrizione a 480p è limitata ai soli dispositivi mobili e non tablet, possiamo cambiare il modello del dispositivo in YouTube Vanced per superare questa restrizione.\n\na) Apri YouTube Vanced.\n\nb) Attiva le opzioni aggiuntive accedendo ad Impostazioni -> Impostazioni Vanced -> e cliccando la sezione Informazioni finché non verrà comparirà un messaggio che avviserà l'avvenuto sblocco del menu nascosto.\n\nc) Accedi alla voce Codec override -> Sovrascrivi produttore/modello telefono e modifica le informazioni in esso contenute. Ad esempio con \"SM-T865\" come modello e \"Samsung\" come produttore.\n\nd) Riavvia l'applicazione ed il limite a 480p dovrebbe risultare disattivato.\n\ne) Fatto!"
+          "title": "Utenti OneUI:",
+          "content": "È necessario creare collegamenti aperti con l'app di YouTube con un'altra app. Imposta l'opzione \"Vai agli URL supportati\" a \"in un'altra app\"."
+        },
+        {
+          "title": "Utenti MIUI:",
+          "content": "Apri Impostazioni e cerca \"Applicazioni predefinite\" o vai su App > Gestisci app > [premi i tre punti nell'angolo destro] > Applicazioni predefinite > Apertura link. Dopo aver aspettato che le app vengano elencate, scorri verso il basso fino a trovare YouTube o YouTube Vanced e toccarlo. Quindi, imposta l'impostazione \"**Apri link supportati**\" come \"**Aperto**\" invece di \"Chiedi ogni volta\" o \"Non aprire\"."
+        },
+        {
+          "title": "Utenti AOSP & altre UI personalizzate (include OOS, ColorOS, EMUI, ecc.):",
+          "content": "1. Scegli \"chiedere ogni volta\" sia per l'app di YouTube Stock sia Vanced. \n\n2. Apri Google Chrome. \n\n3. Cerca alcuni video di YouTube su Google. \n\n4. Aprire link con l'ap YouTube Vanced e imposta \"Sempre\". \n\n5. Torna alle impostazioni in cui si imposta \"chiedere ogni volta\" su YouTube, cambiarlo in \"non aprire in questa app\"."
         }
       ]
     },
     {
-      "title": "Come nascondere la notifica di Vanced microG",
-      "description": "Per nascondere la notifica di microG, disattiva l'ottimizzazione della batteria per microG. Se la notifica fosse ancora presente, riavvia il dispositivo ed il problema verrà risolto.\n\nSe la notifica continuasse ad essere mostrata, \n\n1. Ti basterà cliccare e tenere premuta la notifica\n\n2. Cliccare l'icona impostazioni a destra e,\n\n3. Disattivare la notifica da lì (esclusione risparmio batteria), la notifica non apparirà più."
+      "title": "Perché la variante root non funziona con microG Core?",
+      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Alta Risoluzione",
-      "description": "Se il dispositivo supporta solo la risoluzione 720p/1080p, è ancora possibile riprodurre video fino a 4k, ma il video verrà scalato alla risoluzione nativa del dispositivo ed il risultato non sarà un vero 4k. \n\nLa vera risoluzione 4k può essere visualizzata solo su dispositivi di punta von ad esempio SD855.\n\nPer attivare risoluzioni elevate, dirigiti su impostazioni Vanced > impostazioni video, attiva i \"controlli di risoluzione\" e riavvia l'app."
+      "title": "Why casting doesn't work?",
+      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+    },
+    {
+      "title": "What is APK Signing?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Is YouTube Vanced on Play Store?",
+      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
+    },
+    {
+      "title": "Why is Vanced not showing up in home screen or app drawer?",
+      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+    },
+    {
+      "title": "Why aren't videos playing?",
+      "description": "Try restarting the app. It might also because of your internet connection or your device."
+    },
+    {
+      "title": "Why am I having the 480p limit?",
+      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "fields": [
+        {
+          "title": "Workarounds:",
+          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+        }
+      ]
+    },
+    {
+      "title": "How to hide the microG notification?",
+      "description": "To hide microG the notification, you can disable battery optimization for microG and reboot your device.\n\nIf the notification is still there after reboot, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\nDisabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+    },
+    {
+      "title": "Does 1440p look better on my 1080p screen?",
+      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
     }
   ]
 }
