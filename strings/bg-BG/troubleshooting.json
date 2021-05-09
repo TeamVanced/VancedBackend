@@ -1,20 +1,20 @@
 {
 	"data": [
 		{
-			"title": "Основно отстраняване на проблеми",
+			"title": "Basic troubleshooting",
 			"description": "A) Wipe data and cache of \n\n(I) Vanced/Vanced Music and microG for Non-Root Variant\n\n (II) Vanced/Vanced Music and Google Play Services for Root Variant\n\nB) Reinstall YouTube Vanced\n\n> IMPORTANT NOTICE: Reboot between processes"
 		},
 		{
-			"title": "Проблеми при влизане в акаунта",
-			"description": "По-долу са показани някой от честите грешки със снимки за да знаете кое евентуално решение да ползвате.",
+			"title": "Login issues",
+			"description": "Below are some of the common errors with their screenshots so that you can get to know which solution you have to follow.",
 			"fields": [
 				{
-					"title": "Ако имате грешка която показва ,,моля проверете интернет връзката''",
-					"content": "Моля прегледайте следното видео ръководство: https://youtu.be/S5sTXRTrD5Y. Опитайте да изчистите данните на microG също."
+					"title": "If you're getting an error saying \"please check your internet connection\"",
+					"content": "Please follow this video guide: https://youtu.be/S5sTXRTrD5Y. Try clearing microG's app data too."
 				},
 				{
-					"title": "Ако не можете да влезете в акаунта си и получавате грешка ,,Вие сте офлайн, разгледайте изтеглянията''",
-					"content": "1. Clear DATA of both Vanced microG and Google Play services\n2. UNINSTALL both \"Vanced microG\" and Vanced.\n\n3. Reboot if you want.\n\n4. Reinstall both APKs[microG and Vanced) but make sure you install microG before you install Vanced. Install via Vanced Manager or sai using files provided in #installation note in group\n\n5. Now login.\n\nNOTE: If you're still having issues with Vanced giving connection errors (even after installing microG first), receiving notifications, etc, make sure you disable battery optimization for the Vanced and microG app. \n\nInstructions to do so vary on your device manufacturer. You can folloe guides like https://dontkillmyapp.com or search it up."
+					"title": "If you are facing issues relating to login saying, \"You're offline, explore downloads\"",
+					"content": "1. Clear DATA of both Vanced microG and Google Play services\n2. UNINSTALL both \"Vanced microG\" and Vanced.\n\n3. Reboot if you want.\n\n4. Reinstall both APKs[microG and Vanced) but make sure you install microG before you install Vanced. Install via Vanced Manager or sai using files provided in #installation note in group\n\n5. Now login.\n\nNOTE: If you're still having issues with Vanced giving connection errors (even after installing microG first), receiving notifications, etc, make sure you disable battery optimization for the Vanced and microG app. \n\nInstructions to do so vary on your device manufacturer. You can follow guides like https://dontkillmyapp.com or search it up."
 				},
 				{
 					"title": "If you are getting an error that says \"Trouble connecting to Google servers\", please do either of the following to fix the issue.",
@@ -50,7 +50,7 @@
 			"title": "Vanced Manager",
 			"fields": [
 				{
-					"title": "За замръзвания на началния екран или сривове в Vanced Manager",
+					"title": "For Vanced manager stuck on logo/crash issue",
 					"content": "There are 2 solutions available. \n\n 1. Clear app data of manager > Turn internet off > Open manager app > Turn the internet on. \n\n2 2. For users with RTL languages set on the device, please update your vanced manager to 2.6.0 from our official vanced website."
 				},
 				{
@@ -69,14 +69,14 @@
 		},
 		{
 			"title": "Package conflict error after updating to Android 11 (INSTALL_FAILED_UPDATE_INCOMPATIBLE)",
-			"description": "For notification fix, a white background or Vanced not appearing under \"Google Cloud Messaging\", see below",
+			"description": "This happens to users with OneUI and Oxygen OS when they update their system from android 10 to android 11, some custom ROMs faced it too,\n\nHence we have 3 solutions available for you",
 			"fields": [
 				{
-					"title": "For Non-Root",
+					"title": "If you are not rooted, use ADB",
 					"content": "1. Install Android Debug Bridge using this [Guide](https://www.xda-developers.com/install-adb-windows-macos-linux). \n\n2. Unlock your phone. \n\n3. Enable Developer Mode (tap 10 times on Build number in Settings - About phone -Software information). \n\n4. Enable USB debugging in Settings - Developer options. \n\n5. Connect your phone to PC. \n\n6. Open Command Prompt (CMD) and change directory: \"cd C:/Windows/adb/\" and press Enter. \n\n7. As your phone is connected and CMD is open, in CMD run command \"adb devices\". There will be a prompt on your phone, something like \"Would you like to connect your phone to PC?\" Press Yes. \n\n8. Run cmd command \"adb uninstall com.vanced.android.youtube\". \n\n9. After this you may install Vanced Manager and install the latest version of YouTube Vanced"
 				},
 				{
-					"title": "If Vanced is not showing up under GCM or it shows up as unregistered",
+					"title": "If you are rooted,",
 					"content": "1. Use root explorer and navigate to root storage. \n\n2. Then find this folder when you are installing YT Vanced  \"data/app/com.vanced.android.youtube-....\" or when you are installing YT Music \"com.vanced.android.apps.youtube.music-....\"  \n\n3. If you found such folders, just delete them then continue installing YT Vanced or YT music via Vanced Manager."
 				},
 				{
@@ -90,7 +90,7 @@
 			]
 		},
 		{
-			"title": "Force closing issues",
+			"title": "Notification fix",
 			"description": "For fixing notification on both non-root or root varaints, see below",
 			"fields": [
 				{
