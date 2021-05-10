@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Докладване за грешки",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "ЧЗВ",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Функции",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Отстраняване на неизправности",
       "json": "troubleshooting.json"
     }
   ]
