@@ -58,7 +58,7 @@
     },
     {
       "title": "如何将 YouTube Vanced 设为默认应用？",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "正如标题所说，很多用户已经多次询问，如何能让 YouTube Vanced 成为打开来自其他应用程序的 YouTube 链接的默认应用（如浏览器、聊天应用等）。\n\n对于 Root 用户，您无需担心，因为 YouTube Vanced 已替换了原版 YouTube，所以 YouTube Vanced 已被设为默认应用。\n\n对于非 Root 用户，我们撰写了针对 OneUI、MIUI 及其他系统的不同解决方案。我们无法为所有系统都撰写一份解决方案，因此您可能需要自行 Google 搜索。",
       "fields": [
         {
           "title": "OneUI 用户：",
