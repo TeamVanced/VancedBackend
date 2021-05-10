@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "오류 보고",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "자주 묻는 질문",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "기능",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "문제 해결",
       "json": "troubleshooting.json"
     }
   ]
