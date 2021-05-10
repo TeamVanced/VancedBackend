@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Hata bildirme",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "S.S.S.",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Özellikler",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Sorun giderme",
       "json": "troubleshooting.json"
     }
   ]
