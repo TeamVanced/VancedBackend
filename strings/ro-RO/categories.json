@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Raport erori",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "Întrebări frecvente",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Funcţii",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Depanare",
       "json": "troubleshooting.json"
     }
   ]
