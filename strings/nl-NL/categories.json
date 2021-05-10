@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Foutrapport",
       "json": "bugreport.json"
     },
     {
@@ -9,11 +9,11 @@
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Functies",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Probleemoplossing",
       "json": "troubleshooting.json"
     }
   ]
