@@ -2,14 +2,14 @@
   "data": [
     {
       "title": "Vanced",
-      "description": "YouTube Vanced, YouTube uygulamasından daha iyi olmayı hedefler ve reklam engelleme, siyah tema gibi daha fazla özelliklere sahiptir. Vanced Manager uygulamasını kullanarak cihazına uygun olan YouTube Vanced son sürümünü indirebilirsin."
+      "description": "YouTube Vanced, YouTube uygulamasından daha iyi olmayı hedefleyen; reklam engelleme, siyah tema gibi bir çok ekstra özelliklere sahip olan sürümüdür. Vanced Manager uygulamasını kullanarak YouTube Vanced'ın cihazınla uyumlu olan en son sürümünü indirebilirsin."
     },
     {
-      "title": "Vanced Müzik",
-      "description": "Vanced Müzik'te YouTube Vanced'da olduğu gibi aynı amaca sahiptir fakat YouTube Müzik için geliştiriliyor. Vanced'a kıyasen daha az özelliklere sahip ama yine de ihtiyaç duyduğun reklam engelleme ve arka planda oynatma gibi ana özellikler, Vanced Müzik'te seni bekliyor!"
+      "title": "Vanced Music Vanced",
+      "description": "YouTube Music Vanced, YouTube Vanced'da olduğu gibi aynı amaca sahip fakat, YouTube Music için geliştiriliyor. YouTube Vanced'a kıyasen daha az özelliklere sahip olabilir ama yine de genel olarak ihtiyaç duyulan reklam engelleme ve arka planda oynatma gibi ana özelliklere sahip!"
     },
     {
-      "title": "YouTube Vanced ana özellikleri",
+      "title": "YouTube Vanced'ın ana özellikleri",
       "description": "- OLED dostu siyah tema\n- Reklam engelleyici\n- Arka planda ve Resim içinde Resim (PiP) (sadece Android 8+ için) modunda video oynatma özelliği\n- Yukarı-aşağı kaydırma kontrolleri ile anında parlaklık ve ses ayarlarını değiştirebilme\n- Tekrar oynatma özelliği\n- Yeni yorumlar kısmı ve tablet mini oynatıcısı özellikleri. Tablet sürümüne geçiş yapabilme özelliği ile eski sürüme benzer görünüm elde etme (gerçi biraz sorun yaşatabilir)"
     },
     {
@@ -17,7 +17,7 @@
       "description": "- Çözücü ayarlarını değiştirme imkânı ile eski tip cihazlarda H264 veya VP9 çözücüsü kullanarak, sinematik deneyim elde etmek için HDR formatında oynatma ve 60fps özelliğini kapatma imkânı sunar. (Cihaza özel yapılandırmalar, Discord sunucumuzda veya XDA'de bulunabilir)\n- Varsayılan video çözünürlüğünü en yüksek veya en düşük olarak ayarlama ve ayrıca ekran çözünürlüğü kısıtlamasını aşarak, her cihazda keskin 4k video çözünürlüğü ile oynatabilme imkânı sunar. Ayrıca cihazının desteklemesi durumunda oynatma hızını 0.25x ile 2x arasında değiştirebilme imkânı sunuyor.\n- Ana ekranda ve diğer yerlerde çıkan ürün satışı dahil çeşitli reklamları, topluluk iletilerini, film satışlarını, bilgilendirme kutularını (COVID-19 bilgilendirmeleri gibi), yorumlar kısmını, film fragmanlarını, film önerisi kısmı gibi birçok can sıkan yerleri gizleme/kaldırma imkânı sunar."
     },
     {
-      "title": "SponsorBlock",
+      "title": "SponsorBlock (reklam engelleme)",
       "description": "- Sponsor kısımlarını atlayabilme özelliği (YouTuber'ların video aralarına sıkıştırdıkları tanıtıcı reklamlar)\n- Ayrıca videoda giriş ve kapanış sahnelerini ve kişisel tanıtım kısımlarını da atlayabilme özelliği\n- Detaylarına bu linkten ulaşabileceğin API yapısını kullanır.\n- Ayrıca kendin için belirlediğin atlama kısımlarını API aracılığı ile paylaşma imkânı sunarak, topluluğa katkıda bulunabilirsin.\n- Atlama özelliği üzerinde tam hakime sahip olursun. Otomatik olarak veya buton göstermesini sağlayarak butona dokunma sonrasında atlayabilme imkânı veya istersen atlama özelliğini kapatma imkânı da sunar.\n- Atlamalık kısımları kategori bazlı renklerle zaman çubuğunda renkli biçimde de gösterebilir."
     },
     {
