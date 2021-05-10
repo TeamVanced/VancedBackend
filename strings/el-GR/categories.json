@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Αναφορά Σφαλμάτων",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "Συχνές Ερωτήσεις",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Χαρακτηριστικά",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Αντιμετώπιση Προβλημάτων",
       "json": "troubleshooting.json"
     }
   ]
