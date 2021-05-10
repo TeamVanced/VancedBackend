@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Отчет об ошибке",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "Частые вопросы",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Особенности",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Устранение проблем",
       "json": "troubleshooting.json"
     }
   ]
