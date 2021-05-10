@@ -57,8 +57,8 @@
       "description": "În setări Vanced atingeți secțiunea `Despre' de 6-7 ori pentru a o activa. Acest lucru permite doar setările suplimentare de codec video."
     },
     {
-      "title": "How to make YouTube Vanced as default app?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "title": "Cum să setezi YouTube Vanced ca aplicaţie implicită?",
+      "description": "După cum spune titlul, mulți utilizatori au întrebat de multe ori cum pot face YouTube Vanced ca implicit pentru a deschide link-uri YouTube din alte aplicații (cum ar fi browserele, aplicații de mesagerie și orice altă aplicație).\n\nPentru varianta cu root, nu trebuie să vă faceţi griji, deoarece este deja setat în mod implicit, deoarece YouTube Vanced este înlocuit cu YouTube stoc.\n\nPentru varianta non-root, soluţiile au fost diferite între OneUI, MIUI şi restul. Nu putem oferi soluții pentru fiecare sistem de operare și este posibil să avețicautati pe Google",
       "fields": [
         {
           "title": "OneUI users:",
