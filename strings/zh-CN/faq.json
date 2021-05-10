@@ -62,25 +62,25 @@
       "fields": [
         {
           "title": "OneUI 用户：",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon to open the app info.\n2. Scroll down to the `App settings` section\n3. Hit the **Set as default** option\n4. Set the \"**Go to supported URLs setting**\" as \"**In this app**\" option."
+          "content": "1. 点击并长按 YouTube 或 YouTube Vanced 应用图标，打开应用信息\n2. 向下滚动到`应用设置`部分\n3. 点击**设置为默认**选项\n4. 将“**打开支持的链接**”设置为“**在此应用中打开**”选项"
         },
         {
           "title": "MIUI 用户：",
-          "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
+          "content": "打开设置并搜索“默认应用”，或前往应用程序 > 管理应用 > [点击右角的三点] > 默认应用 > 打开链接。应用列表加载完毕后，向下滚动至 YouTube 或 YouTube Vanced 并点击。然后，将“**打开支持的链接**”设置为“**打开**”，而不是“每次询问”或“不要打开”。"
         },
         {
           "title": "AOSP 及其他定制系统（氧 OS、ColorOS、EMUI 等）：",
-          "content": "1. Choose \"ask every time\" for both the Stock YouTube app and vanced.\n\n2. Open Google Chrome.\n\n3. Search for some YouTube videos on Google.\n\n4. Open links with YouTube vanced app and set as always.\n\n5. Come back to settings where you set \"ask every time\" to YouTube, change that to \"don't open in this app\"."
+          "content": "1. 为原版 YouTube 应用和 Vanced 选择“每次询问”。\n\n2. 打开 Google Chrome。\n\n3. 在 Google 上搜索任意 YouTube 视频。\n\n4. 使用 YouTube Vanced 应用打开链接，并设置为始终。\n\n5. 回到设置中，将 YouTube 的设置从“每次询问”更改为“不要在此应用中打开”。"
         }
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "为什么 Root 版本无法与 microG 核心兼容？",
+      "description": "1. 您至少需要 GApps 的 [Pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 版本才能运行 Vanced。\n\n2. 您无法使用 microG 核心来使用 Vanced，因为 Google Play 服务框架是 Vanced 必需的运行库。所有 GApps 安装包中均包含 Google Play 服务框架。\n\n3. 如果您担心您的隐私，不想使用 GApps，但还是想观看无广告的 YouTube，那么[网页版](https://youtube.com)更适合您。"
     },
     {
       "title": "为什么投屏不起作用？",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "description": "对于使用最新版 v16.16.38 的无 Root 用户，microG 的缺陷可能影响您的正常使用。请等待新版本发布，或退回至 v15 版本。使用 Google Play 服务的 Root 用户不会遇到投屏问题。"
     },
     {
       "title": "什么是 APK 签名？",
@@ -88,11 +88,11 @@
     },
     {
       "title": "YouTube Vanced 上架 Play 商店了吗？",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+      "description": "没有！\n再次重申，请不要从 Play 商店或其他商店上搜索并安装 YouTube Vanced。\n\n我们只有 [Vanced 指南](https://play.google.com/store/apps/details?id=com.vanced.faq) 上架了 Play 商店，这是唯一发布在 Play 商店的官方应用。\n\n如果您看到其他应用盗用了我们的图标和名字，请将其举报为假冒，并留下差评。\n\n我们的应用仅在[官方网站](https://vancedapp.com)上提供。"
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "为什么 Vanced 没有显示在主页或应用抽屉中？",
+      "description": "您遇到此问题是因为您没有使用 Vanced Manager，或者您是从非官方来源安装的 Vanced。\n请使用 Vanced Manager！\n\n您可以从以下网站安全地下载 Vanced Manager：\n- 官方网站 <https://vancedapp.com> \n- [GitHub 库](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "为什么视频无法播放？",
@@ -104,13 +104,13 @@
       "fields": [
         {
           "title": "解决方法：",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "content": "1. 连接至不同地区的 VPN\n2. 使用[网页版](https://youtube.com)\n3. 因为 480P 限制只施加于手机端而不是平板端，您可以在 YouTube Vanced 中更改设备型号来绕过限制\n\n#### 如何更改设备型号？\n1. 打开 YouTube Vanced\n2. 前往设置\n3. 点击 `Vanced 设置`\n4. 启用额外选项\n  - 向下滑动，不断点击`关于`项，直到弹出消息提示`隐藏设置已启用`\n5. 前往`编解码器覆盖`\n6. 将品牌和型号设为 `Samsung` 和 `SM-T865`\n7. 重启应用\n\n应用重启后，480P 限制应该已经解除。"
         }
       ]
     },
     {
       "title": "如何隐藏 microG 的通知？",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "如果您想隐藏 microG 通知，\n\n1. 您可以为 microG 禁用电池优化，并重启您的设备。\n\n2. 如果上述方法不起作用，请通过长按通知，关闭开关并点击保存，来禁用 microG 通知。\n\n>禁用应用通知的方法可能因 Android 系统界面不同而略有差异。如果您不知道如何禁用，请使用 Google 搜索并学习如何禁用通知。"
     },
     {
       "title": "1440P 在我的 1080P 屏幕上看起来是否更好？",
