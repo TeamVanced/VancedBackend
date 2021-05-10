@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "错误报告",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "常见问题",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "功能特色",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "故障排查",
       "json": "troubleshooting.json"
     }
   ]
