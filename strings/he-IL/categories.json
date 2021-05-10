@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "דיווח על באגים",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "שאלות נפוצות",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "תכונות",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "פתרון בעיות",
       "json": "troubleshooting.json"
     }
   ]
