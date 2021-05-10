@@ -22,7 +22,7 @@
     },
     {
       "title": "Ondertitels niet beschikbaar?",
-      "description": "Dit is geen Vanced of YouTube gerelateerd probleem. Niet alle video's hebben bijnamen."
+      "description": "Dit is geen Vanced of YouTube gerelateerd probleem. Niet alle video's hebben ondertitels."
     },
     {
       "title": "Aanvaarden jullie giften?",
@@ -33,7 +33,7 @@
       "description": "Je kan dit configureren in YouTube Vanced > Instellingen > Toegankelijkheid. Als de instellingen niet openen of niet werken, ga dan naar de toegankelijkheidsinstellingen van jouw apparaat en schakel de functies Geluidsversterker, Toegang via schakelaar en Live ondertiteling uit."
     },
     {
-      "title": "Waarom split APKs gebruiken?",
+      "title": "Waarom split APK's gebruiken?",
       "description": "Daarom:\n\n1. De standaard app gebruikt het, dus Vanced gebruikt het ook.\n2. Het installeert alleen de talen die je specificeert om het opslag verbruik te verminderen.\n3. Het heeft enkel de versie van de kern-APK die jouw apparaat nodig heeft.\n\nNatuurlijk kunnen de Vanced Manager ontwikkelaars het omzetten naar een normaal, enkel APK bestand, maar we zijn er te lui voor. Je moet verder met wat we hebben...\n\nMaar maak je geen zorgen, Vanced Manager doet al het harde werk voor je door te klikken op de knop 'Installeren'."
     },
     {
