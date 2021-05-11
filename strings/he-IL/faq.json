@@ -80,7 +80,7 @@
     },
     {
       "title": "למה ההזרמה לא עובדת?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "description": "למשתמשים בגרסה האחרונה (v16.16.38) שאינה גרסת Root יש באג ב־microG. עד שזה יתוקן, אנא המתינו לעדכונים או חזרו לגרסאות v15. למשתמשים עם Root לא יהיו בעיות בהעברה אם הם משתמשים בשירותי Google Play."
     },
     {
       "title": "מהי חתימת APK?",
