@@ -5,11 +5,11 @@
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "Câu hỏi thường gặp",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Tính năng",
       "json": "features.json"
     },
     {
