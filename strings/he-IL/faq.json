@@ -58,15 +58,15 @@
     },
     {
       "title": "איך להפוך את YouTube Vanced לאפליקציית ברירת המחדל שלי?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "כפי שנכתב בכותרת, הרבה משתמשים שאלו פעמים רבות כיצד הם יכולים להפוך את YouTube Vanced לברירת המחדל לפתיחת קישורי YouTube מאפליקציות אחרות (כמו דפדפנים, אפליקציות להעברת הודעות וכל אפליקציה אחרת).\n\nעבור משתמשים בעלי Root, אין צורך לדאוג, כיוון ש־YouTube Vanced כבר מוגדר כברירת מחדל, מאחר שהוא מחליף לחלוטין את הגרסה המקורית של YouTube.\n\nעבור משתמשים שאינם בעלי Root, הפתרונות מחולקים בין ממשקי OneUI, MIUI והשאר. אנחנו לא יכולים לספק פתרונות לכל מערכת הפעלה שקיימת, וייתכן שתצטרכו לחפש את זה בגוגל בעצמכם.",
       "fields": [
         {
           "title": "משתמשי OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon to open the app info.\n2. Scroll down to the `App settings` section\n3. Hit the **Set as default** option\n4. Set the \"**Go to supported URLs setting**\" as \"**In this app**\" option."
+          "content": "1. הקש והחזק את מקש YouTube או סמל האפליקציה YouTube Vanced כדי לפתוח את פרטי היישום.\n2. גלול מטה לקטע 'הגדרות אפליקציה'\n3. לחץ על האפשרות **הגדר כברירת מחדל**\n4. הגדר את האפשרות \"**עבור להגדרת כתובות אתרים נתמכות**\" כ־\"**באפליקציה זו**\"."
         },
         {
           "title": "משתמשי MIUI:",
-          "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
+          "content": "פתח את ההגדרות וחפש \"אפליקציות ברירת מחדל\" או נווט אל אפליקציות> נהל אפליקציות> [לחץ על שלוש הנקודות בפינה הימנית]> אפליקציות ברירת מחדל> פתיחת קישורים. לאחר שרשימת האפליקציות נטענה, גלול מטה עד שתמצא את YouTube או את YouTube Vanced והקש עליו. לאחר מכן, הגדר את ההגדרה \"**פתח קישורים נתמכים**\" כ־\"**פתח** \"במקום \"שאל בכל פעם\" או \"אל תפתח\"."
         },
         {
           "title": "ממשקי משתמש מבוססי אנדרואיד ומותאמים אישית (OOS, ColorOS, EMUI וכו'):",
