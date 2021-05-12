@@ -2,19 +2,19 @@
   "data": [
     {
       "title": "Що таке Youtube Vanced?",
-      "description": "YouTube Vanced - це модифікована версія YouTube з додатковими функціями і поліпшеннями для того, щоб зробити використання YouTube трішки краще!\n\nТакі додаткові функції, як:\n\n- Відтворення у фоні\n- Картинка в картинці\n- Призначені для користувача теми (звичайний темний колір або чорний для OLED)\n- Блокування більшості видів реклами\n- Зміна максимальної здатності відео\n- ...І багато іншого!\n\nДля додаткової інформації, відвідайте <https://vancedapp.com>"
+      "description": "YouTube Vanced - це модифікована версія YouTube з додатковими функціями і покращеннями для того, щоб зробити використання YouTube ще краще!\n\nТакі додаткові функції, як:\n\n- Відтворення у фоні\n- Картинка в картинці\n- Призначені для користувача теми (звичайний темний колір або чорний для OLED)\n- Блокування більшості видів реклами\n- Зміна максимальної здатності відео (дозволяє відтворення відео з роздільною здатністю, вищою, ніж ваш екран)\n- ...І багато іншого!\n\nДля додаткової інформації, відвідайте <https://vancedapp.com>"
     },
     {
       "title": "Де кнопка Завантаження?",
-      "description": "Компанія Google не дозволяє публікацію свого модифікованого додатка в магазині, тому не шукайте його в Play Market, всі ці додатки є підробками.\n\nВи можете завантажити його з офіційного сайту: <https://vancedapp.com>, а також з репозиторію на GitHub: <https://github.com/YTVanced/VancedManager/releases/latest>"
+      "description": "Звичайно, Google не дозволить модифіковану версію власної програми бути в магазині, тому не шукайте її в Google Play Маркеті, там тільки фальшиві програми.\n\nПрограми Vanced можна завантажити і встановити за допомогою Vanced Manager, який можна знайти на нашому офіційному сайті: <https://vancedapp.com>, але ви також можете взяти його з [репозиторія GitHub](https://github.com/YTVancedManager/releases/latest)"
     },
     {
       "title": "Чи буде YouTube Vanced автоматично оновлюватись?",
-      "description": "Ні не буде.\n\nVanced Manager надішле вам повідомлення, коли оновлення вийде.\n\nВи також можете приєднатися до нашого [сервера Discord](https://discord. g/wYrRPgv) або до [каналу в Telegram](https://t.me/Vanced) для отримання останніх новин і сповіщення про оновлення."
+      "description": "Ні не буде.\n\nVanced Manager надішле вам сповіщення, коли оновлення буде доступне.\n\nВи також можете приєднатися до нашого [Discord Сервера](https://discord.gg/wYrRPgv) або до [каналу в Telegram](https://t.me/Vanced) для отримання останніх новин і інформації про оновлення."
     },
     {
       "title": "Чи може Vanced завантажувати відео?",
-      "description": "Vanced не має функції завантаження відео і вона ніколи не буде додана.\n\nБагато відео доступні для завантаження безкоштовно в [деяких країнах] (https://support. oogle.com/youtube/answer/6141269). Для решти світу, будь ласка, завантажте YouTube Premium або використовуйте сторонній завантажувач.\n\nЗнову ж таки, команда Vanced НІКОЛИ не додасть завантаження відео в додаток або щось подібне.\n\nЦе причина закриття багатьох модів YouTube в минулому, оскільки Google не любить коли люди завантажують контент, захищений авторським правом, тому не питайте про це!!!"
+      "description": "Vanced не має функції завантаження відео і ніколи не матиме.\n\nБагато відео доступні для завантаження безкоштовно в [деяких країнах] (https://support.google.com/youtube/answer/6141269). Для решти світу, будь ласка, отримайте YouTube Premium або використовуйте сторонній завантажувач.\n\nЗнову ж таки, команда Vanced НІКОЛИ не додасть функцію завантаження відео або щось подібне в додаток.\n\nЦе причина закриття багатьох модифікацій YouTube в минулому, оскільки Google не любить, коли люди завантажують контент, захищений авторським правом, тому не просіть про це!!!"
     },
     {
       "title": "Чому свайп-жести не працюють?",
@@ -66,25 +66,25 @@
         },
         {
           "title": "Користувачам MIUI:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Відкрийте Налаштування\n2. Перейдіть до **Додатки**,\n3. **Управління додатками**,\n4. Далі торкніться трьох крапок у правому куті,\n5. **Додатки за замовчуванням**,\n6. **Відкриття посилання**.\n7. Зачекайте, поки всі ваші програми не перерахуються…\n8. Знайдіть YouTube або YouTube Vanced і натисніть на нього.\n9. Натисніть \"**Відкриття підтримуваних посилань**\" і оберіть \"**Відкривати**\""
         },
         {
           "title": "AOSP & інші користувацькі системи (OOS, ColorOS, EMUI та ін.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. Відкрийте **Налаштування**\n2. Перейдіть до **Додатки**\n3. Натисніть **Програми за замовчуванням**\n4. Знайдіть **YouTube** або **YouTube Vanced**\n5. Торкніться опції \"**Перейти до підтримуваних посилань**\" та оберіть \"**Відкривати в цьому додатку**\"\n\nЯкщо ви все ще маєте проблеми з цим, вам потрібно виконати пошук статтей/відео на [Google](https://www.google.com/search?q=%22android%22+how+open+youtube+links+with+youtube), або ви можете встановити сторонню програму з [Play Маркет](https://play. google.com/store/search?q=open%20with), щоб зберегти себе від цього клопоту…"
         }
       ]
     },
     {
       "title": "Чому root версія не працює з ядром microG?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "description": "1. Вам потрібно мати хоча б [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) варіант GApps для запуску Vanced.\n\n2. Ви не зможете запустити Vanced з ядром microG, бо він вимагає Google Play Services Framework, який доступний у всіх пакетах GApps і це необхідна бібліотека.\n\n3. Якщо ви стурбовані конфіденційністю & не хочете використовувати GApps, але все ще хочете використовувати YouTube без реклами, тоді ви можете використовувати [веб-версію] (https://youtube.com)."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "Чому трансляція не працює?",
+      "description": "Для користувачів без root-прав, що мають останню версії v16.16.38, є помилка у microG. Поки це не вирішено, будь ласка, зачекайте оновлень або поверніться до 15 версії. Користувачі з root-правами не мають проблем з трансляцією, якщо вони користуються сервісами Google Play."
     },
     {
       "title": "Що таке підпис APK?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Ви читаєте це, тому що ви не використовуєте Vanced Manager, або ви, можливо, встановили Vanced з неофіційного джерела. \nПросто використайте Vanced Manager!\n\nВи можете безпечно завантажити Vanced Manager з:\n- [Офіційного сайту](https://vancedapp.com)\n- [Репозиторія GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Чи є YouTube Vanced на Play Маркет?",
@@ -92,7 +92,7 @@
     },
     {
       "title": "Чому Vanced не відображається на домашньому екрані чи в меню додатків?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Ви читаєте це, тому що ви не використовуєте Vanced Manager, або ви, можливо, встановили Vanced з неофіційного джерела. \nПросто використайте Vanced Manager!\n\nВи можете безпечно завантажити Vanced Manager з:\n- [Офіційного сайту](https://vancedapp.com)\n- [Репозиторія GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Чому відеоролики не відтворюються?",
@@ -110,11 +110,11 @@
     },
     {
       "title": "Як приховати сповіщення від microG?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Щоб приховати сповіщення microG,\n\n1. Ви можете відключити оптимізацію батареї для microG і перезавантажити ваш пристрій.\n\n2. Якщо це не спрацювало, вимкніть сповіщення microG, утримуючи сповіщення, вимкніть їх і натисніть \"Зберегти\".\n\n>Відключення сповіщення додатка може здійснюватися різними способами в залежності від інтерфейсу системи Android. Якщо ви не знаєте, як його відключити, спробуйте використати Google для пошуку того, як їх відключити."
     },
     {
       "title": "Чи виглядає 1440p краще на моєму 1080p екрані?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "description": "Так, але тільки якщо співвідношення сторін екрану 18:9 або 21:9, ... Ви можете ввімкнути `Статистика для сісадмінів` в \"Налаштування > Основні\" щоб переконатися.\n\nЩоб ввімкнути більш високу роздільну здатність відео, перейдіть в \"Налаштування Vanced > Налаштування відео\" і ввімкніть \"Максимальна роздільна здатність\" та перезавантажте додаток."
     }
   ]
 }
