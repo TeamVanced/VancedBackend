@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Hata bildirme",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "S.S.S.",
+      "json": "faq.json"
+    },
+    {
+      "category": "Özellikler",
+      "json": "features.json"
+    },
+    {
+      "category": "Sorun giderme",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

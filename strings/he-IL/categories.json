@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "דיווח על באגים",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "שאלות נפוצות",
+      "json": "faq.json"
+    },
+    {
+      "category": "תכונות",
+      "json": "features.json"
+    },
+    {
+      "category": "פתרון בעיות",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

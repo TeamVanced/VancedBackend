@@ -58,19 +58,19 @@
     },
     {
       "title": "Ako nastaviť YouTube Vanced ako predvolenú aplikáciu?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Ako hovorí nadpis, veľa používateľov sa už mnohokrát pýta, ako môžu nastaviť YouTube Vanced ako predvolený pri otváraní YouTube odkazov z iných aplikácií (ako sú prehliadače, aplikácie na odosielanie správ a iné aplikácie).\n\nPoužívatelia s rootom nemajú žiadny problém, pretože YouTube Vanced to urobí za nich po nahradení pôvodnej aplikácie YouTube.\n\nPre používateľov bez rootu sa riešenie delí na OneUI, MIUI a ostatných. Nemôžeme tu poskytovať riešenia pre každý OS, tažke použite na to Google.",
       "fields": [
         {
           "title": "Používatelia OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon to open the app info.\n2. Scroll down to the `App settings` section\n3. Hit the **Set as default** option\n4. Set the \"**Go to supported URLs setting**\" as \"**In this app**\" option."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
         },
         {
           "title": "Používatelia MIUI:",
-          "content": "Otvorte Nastavenia a vyhľadajte „Predvolené aplikácie“ alebo prejdite do časti Aplikácie > Správa aplikácií > [stlačte tri bodky v pravom rohu] > Predvolené aplikácie > Otváranie odkazov. Keď sa v zozname zobrazia aplikácie, posuňte sa nadol, kým nenájdete YouTube alebo YouTube Vanced, a ťuknite naň. Potom nastavte možnosť „**Otvoriť podporované odkazy**“ na „**Otvoriť**“ namiesto „Vždy sa spýtať“ alebo „Neotvárať“."
+          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "Používatelia AOSP a ostatných UI (OOS, ColorOS, EMUI, atď..):",
-          "content": "1. Vyberte \"Vždy sa opýtať\" pre pôvodnú YouTube aplikáciu a vanced. \n\n2. Otvorte Google Chrome. \n\n3. Vyhľadajte nejaké YouTube videá na Googli. \n\n4. Otvorte odkazy v aplikácii YouTube vanced a nastavte Otvárať v tejto aplikácii. \n\n5. Vráťte sa naspäť do nastavení, tam kde ste nastavili \"Vždy sa opýtať\" pre YouTube, zmeňte na \"Neotvárať v tejto aplikácii\"."
+          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
         }
       ]
     },
@@ -110,7 +110,7 @@
     },
     {
       "title": "Ako skryť upozornenie microG?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Ak chcete upozornenie microG skryť,\n\n1. Je potrebné deaktivovať optimalizáciu batérie pre microG a reštartovať zariadenie.\n\n2. Ak metóda vyššie nefunguje, deaktivujte upozornenie microG podržaním tohto upozornenia, kde ho následne vypnite a ťuknite na Uložiť.\n\n>Zakázanie upozornení aplikácií je možné vykonať rôznymi spôsobmi v závislosti od používateľského rozhrania systému Android. Ak neviete, ako upozornenie vypnúť na vašom zariadení, skúste použiť Google a nájsť riešenie."
     },
     {
       "title": "Vyzerá rozlíšenie 1440p lepšie na mojej obrazovke s rozlíšením 1080p?",

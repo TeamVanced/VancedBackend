@@ -62,15 +62,15 @@
       "fields": [
         {
           "title": "OneUI 사용자:",
-          "content": "1. YouTube나 YouTube Vanced 앱의 아이콘을 길게 눌러 앱 정보를 엽니다.\n2. '앱 설정' 섹션으로 스크롤을 내립니다.\n3. **기본으로 설정** 설정을 누릅니다.\n4. \"**지원되는 URL로 이동 설정**\"을 \"**앱 내에서**\"로 설정합니다."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
         },
         {
           "title": "MIUI 사용자:",
-          "content": "설정을 열고 '기본 앱'을 검색하거나 앱 > 앱 관리 > 우상단 3점 메뉴 누르기 > 기본 앱 > 링크 열기로 이동합니다. 앱이 나열되면 YouTube나 YouTube Vanced가 보일 때까지 아래로 스크롤한 뒤 이를 누릅니다. 그리고 \"**지원되는 링크 열기**\" 설정을 \"매번 묻기\"나 \"열지 않기\" 대신 \"*열기*\"로 설정합니다."
+          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "AOSP & 기타 커스텀 UI(OOS, ColorOS, EMUI 등):",
-          "content": "1. 기본 YouTube 앱과 Vanced의 설정을 \"매번 묻기\"로 설정합니다.\n\n2. Google Chrome을 엽니다.\n\n3. Google에서 아무 YouTube 동영상이나 검색합니다.\n\n4. YouTube Vanced 앱으로 링크를 연 다음 '항상'으로 설정합니다.\n\n5. YouTube 설정을 \"매번 묻기\"로 설정했던 창으로 돌아와서, \"이 앱으로 열지 않기\"로 설정을 바꿉니다."
+          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
         }
       ]
     },

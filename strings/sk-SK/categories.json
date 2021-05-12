@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Hlásenie o chybe",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "Najčastejšie otázky",
+      "json": "faq.json"
+    },
+    {
+      "category": "Funkcie",
+      "json": "features.json"
+    },
+    {
+      "category": "Riešenie problémov",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

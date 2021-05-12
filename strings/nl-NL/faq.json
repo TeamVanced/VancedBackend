@@ -22,7 +22,7 @@
     },
     {
       "title": "Ondertitels niet beschikbaar?",
-      "description": "Dit is geen Vanced of YouTube gerelateerd probleem. Niet alle video's hebben bijnamen."
+      "description": "Dit is geen Vanced of YouTube gerelateerd probleem. Niet alle video's hebben ondertitels."
     },
     {
       "title": "Aanvaarden jullie giften?",
@@ -33,7 +33,7 @@
       "description": "Je kan dit configureren in YouTube Vanced > Instellingen > Toegankelijkheid. Als de instellingen niet openen of niet werken, ga dan naar de toegankelijkheidsinstellingen van jouw apparaat en schakel de functies Geluidsversterker, Toegang via schakelaar en Live ondertiteling uit."
     },
     {
-      "title": "Waarom split APKs gebruiken?",
+      "title": "Waarom split APK's gebruiken?",
       "description": "Daarom:\n\n1. De standaard app gebruikt het, dus Vanced gebruikt het ook.\n2. Het installeert alleen de talen die je specificeert om het opslag verbruik te verminderen.\n3. Het heeft enkel de versie van de kern-APK die jouw apparaat nodig heeft.\n\nNatuurlijk kunnen de Vanced Manager ontwikkelaars het omzetten naar een normaal, enkel APK bestand, maar we zijn er te lui voor. Je moet verder met wat we hebben...\n\nMaar maak je geen zorgen, Vanced Manager doet al het harde werk voor je door te klikken op de knop 'Installeren'."
     },
     {
@@ -62,15 +62,15 @@
       "fields": [
         {
           "title": "OneUI gebruikers:",
-          "content": "1. Klik en hou ingedrukt op YouTube of YouTube Vanced app pictogram om de app informatie te openen.\n2. Scroll naar beneden naar `App instellingen`\n3. Klik op **Als standaard instellen**\n4. Stel de \"**Ga naar ondersteunde URL's instelling**\" in als \"**In deze app**\"."
+          "content": "1. Klik en houd vast het Youtube of Youtube vanced app icoon.\n2. Klik op **App-info**.\n3. Vind **Standaard openen** en open het (Geavanceerd).\n4. Klik op **Ondersteunde links openen** en klik **Openen in deze app**.\n\nIn oudere versies of OneUI, de naam in stap 4 kan anders zijn."
         },
         {
           "title": "MIUI gebruikers:",
-          "content": "Open instellingen en zoek naar \"Standaard apps\" of navigeer naar Apps > Beheer apps > [klik op de drie stippen in de rechterhoek] > Standaard apps > Links openen. In de lijst met apps scroll je naar beneden totdat je YouTube of YouTube Vanced en klik erop. Stel vervolgens de instelling \"**Open ondersteunde links**\" in als \"**Openen**\" in plaats van \"Telkens vragen\" of \"Niet openen\"."
+          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "AOSP & andere aangepaste UI's (OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Kies \"Altijd vragen\" voor zowel de originele YouTube app als YouTube Vanced.\n\n2. Open Google Chrome.\n\n3. Zoek naar enkele YouTube video's op Google.\n\n4. Open de links met YouTube Vanced en stel deze in op \"altijd\".\n\n5. Ga terug naar de instellingen waar je \"Altijd vragen\" op YouTube hebt ingesteld en wijzig dat in \"Niet openen met deze app\"."
+          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
         }
       ]
     },

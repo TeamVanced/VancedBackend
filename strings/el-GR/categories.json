@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Αναφορά Σφαλμάτων",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "Συχνές Ερωτήσεις",
+      "json": "faq.json"
+    },
+    {
+      "category": "Χαρακτηριστικά",
+      "json": "features.json"
+    },
+    {
+      "category": "Αντιμετώπιση Προβλημάτων",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

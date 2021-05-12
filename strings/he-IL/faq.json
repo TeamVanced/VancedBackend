@@ -58,19 +58,19 @@
     },
     {
       "title": "איך להפוך את YouTube Vanced לאפליקציית ברירת המחדל שלי?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "כפי שנכתב בכותרת, הרבה משתמשים שאלו פעמים רבות כיצד הם יכולים להפוך את YouTube Vanced לברירת המחדל לפתיחת קישורי YouTube מאפליקציות אחרות (כמו דפדפנים, אפליקציות להעברת הודעות וכל אפליקציה אחרת).\n\nעבור משתמשים בעלי Root, אין צורך לדאוג, כיוון ש־YouTube Vanced כבר מוגדר כברירת מחדל, מאחר שהוא מחליף לחלוטין את הגרסה המקורית של YouTube.\n\nעבור משתמשים שאינם בעלי Root, הפתרונות מחולקים בין ממשקי OneUI, MIUI והשאר. אנחנו לא יכולים לספק פתרונות לכל מערכת הפעלה שקיימת, וייתכן שתצטרכו לחפש את זה בגוגל בעצמכם.",
       "fields": [
         {
           "title": "משתמשי OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon to open the app info.\n2. Scroll down to the `App settings` section\n3. Hit the **Set as default** option\n4. Set the \"**Go to supported URLs setting**\" as \"**In this app**\" option."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
         },
         {
           "title": "משתמשי MIUI:",
-          "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
+          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "ממשקי משתמש מבוססי אנדרואיד ומותאמים אישית (OOS, ColorOS, EMUI וכו'):",
-          "content": "1. בחרו באפשרות \"שאל בכל פעם\" גם לאפליקציית YouTube הרגילה וגם ל־Vanced. \n\n2. פתחו את Google Chrome. \n\n3. חפשו כמה סרטוני YouTube בגוגל. \n\n4. פתחו קישורים עם YouTube Vanced והגדירו אותה כמו תמיד. \n\n5. חזרו להגדרות שבהן הגדרתם \"שאל בכל פעם\" ל־YouTube, וכעת שנו את זה ל\"אל תפתח באפליקציה הזו\"."
+          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
         }
       ]
     },
@@ -80,7 +80,7 @@
     },
     {
       "title": "למה ההזרמה לא עובדת?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "description": "למשתמשים בגרסה האחרונה (v16.16.38) שאינה גרסת Root יש באג ב־microG. עד שזה יתוקן, אנא המתינו לעדכונים או חזרו לגרסאות v15. למשתמשים עם Root לא יהיו בעיות בהעברה אם הם משתמשים בשירותי Google Play."
     },
     {
       "title": "מהי חתימת APK?",

@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Отчет об ошибке",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "Частые вопросы",
+      "json": "faq.json"
+    },
+    {
+      "category": "Особенности",
+      "json": "features.json"
+    },
+    {
+      "category": "Устранение проблем",
+      "json": "troubleshooting.json"
+    }
+  ]
+}
