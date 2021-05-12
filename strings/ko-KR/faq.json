@@ -70,7 +70,7 @@
         },
         {
           "title": "AOSP & 기타 커스텀 UI(OOS, ColorOS, EMUI 등):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. **설정**을 엽니다\n2. **앱**으로 갑니다\n3. **기본 앱**을 누릅니다\n4. **YouTube**나 **YouTube Vanced**를 찾습니다\n5. \"**지원하는 링크 열기**\"를 누르고 \"**이 앱으로 열기**\"로 설정합니다\n\n그래도 계속 문제가 발생한다면 해결을 위해 [Google] (https://www.google.com/search?q=%EC%9C%A0%ED%8A%9C%EB%B8%8C+%EA%B8%B0%EB%B3%B8+%EC%95%B1+%EC%84%A4%EC%A0%95)에 문제를 검색하거나 [Play 스토어](https://play.google.com/store/search?q=open%20with)에서 서드파티 앱을 내려받을 수 있습니다…"
         }
       ]
     },
