@@ -58,19 +58,19 @@
     },
     {
       "title": "Jak ustawić YouTube Vanced jako domyślną aplikację?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Jak mówi tytuł, wielu użytkowników wielokrotnie pytało jak mogą ustawić YouTube Vanced jako domyślne dla otwierania linków z innych aplikacji (takich jak przeglądarki, aplikacje wysyłające wiadomości i inne aplikacje).\n\nDla roota nie musisz się martwić, ponieważ jest już ustawiony domyślnie, ponieważ YouTube Vanced zostaje zastąpiony na YouTube.\n\nDla innych niż root, rozwiązania zostały podzielone na OneUI, MIUI i pozostałe. Nie możemy zapewnić rozwiązań dla każdego systemu operacyjnego i być może będziesz musiał wyszukać samemu.",
       "fields": [
         {
           "title": "Użytkownicy OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "content": "1. Dotknij i przytrzymaj ikonę aplikacji YouTube lub YouTube Vanced\n2. Dotknij **Informacje o aplikacji**.\n3. Znajdź \"**Ustaw jako domyślny**\" i naciśnij\n4. Naciśnij \"**Otwórz obsługiwane linki**\" i wybierz \"**Otwórz w tej aplikacji**\"\n\nW starszych wersjach OneUI, nazwa opcji w czwartym kroku może być nieznacznie zróżnicowana. Może być konieczne dotknięcie \"**Przejdź do obsługiwanych adresów**\" i wybierz opcję \"**W tej aplikacji**\"."
         },
         {
           "title": "Użytkownicy MIUI:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Otwórz Ustawienia\n2. Przejdź do **aplikacji**,\n3. **Zarządzaj aplikacjami**,\n4. Następnie stuknij trzy kropki w prawym rogu,\n5. **Domyślne aplikacje**,\n6. **Otwieraj linki**.\n7. Poczekaj, aż wszystkie aplikacje zostaną wymienione…\n8. Znajdź YouTube lub YouTube Vanced i stuknij go.\n9. Naciśnij \"**Otwórz obsługiwane linki**\" i wybierz \"**Otwórz**\""
         },
         {
           "title": "AOSP i inne niestandardowe interfejsy (OOS, ColorOS, EMUI itp.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. Otwórz **Ustawienia**\n2. Przejdź do **Aplikacji**\n3. Naciśnij **Domyślne aplikacje**\n4. Znajdź **YouTube** lub **YouTube Vanced**\n5. Naciśnij \"**Przejdź do obsługiwanych URL**\" i wybierz opcję \"**Otwórz w tej aplikacji**\"\n\nJeśli nadal masz problemy z tą aplikacją, być może będziesz musiał wyszukać jakieś \"jak to zrobić\" artykuły/filmy na [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) lub możesz zainstalować zewnętrzną aplikację z [Sklepu Play] (https://play.google.com/store/search?q=open%20with) aby zapisać cię przed tym kłopotem…"
         }
       ]
     },
@@ -84,11 +84,11 @@
     },
     {
       "title": "Co to jest podpisywanie APK?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Czytasz to, ponieważ nie używasz Menadżera Vanced lub instalujesz Vanced z nieoficjalnego źródła. \nWystarczy użyć Menadżera Vanced!\n\nMożesz bezpiecznie pobrać Menadżera Vanced z:\n- [Oficjalnej strony](https://vancedapp.com) \n- [Repozytorium GitHub](https://github. om/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Czy YouTube Vanced jest w Sklepie Play?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+      "description": "NIE!\nPonownie, NIE instaluj lub nawet nie próbuj wyszukać fałszywych aplikacji o nazwie \"YouTube Vanced\" lub podobnych w Sklepie Play lub w dowolnej aplikacji do zainstalowania Vanced.\n\nMamy tylko [Przewodnik Vanced](https://play.google.com/store/apps/details?id=com.vanced.faq) i jest to jedyna oficjalna aplikacja opublikowana w Sklepie Play.\n\nJeśli znajdziesz jakąś inną aplikację z naszą ikoną i nazwą, zgłoś ją jako podszywającą się i nadaj jej złą opinię.\n\nNasze aplikacje można znaleźć tylko na [oficjalnej stronie](https://vancedapp.com)."
     },
     {
       "title": "Dlaczego Vanced nie pojawia się na ekranie głównym lub na liście aplikacji?",
@@ -110,7 +110,7 @@
     },
     {
       "title": "Jak ukryć powiadomienie microG?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Aby ukryć powiadomienie w microG,\n\n1. Możesz wyłączyć optymalizację baterii dla Vanced microG i zrestartować urządzenie.\n\n2. Jeśli powyższa metoda nie działa, wyłącz powiadomienia microG przytrzymując do powiadomienia, włącz ją i stuknij Zapisz.\n\n>Wyłączenie powiadomień aplikacji można wykonywać na różne sposoby, w zależności od interfejsu użytkownika Androida. Jeśli nie wiesz jak to wyłączyć, spróbuj użyć Google aby nauczyć się, jak to wyłączyć."
     },
     {
       "title": "Czy 1440p wygląda lepiej na moim ekranie 1080p?",
