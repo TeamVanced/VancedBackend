@@ -70,7 +70,7 @@
         },
         {
           "title": "AOSP およびその他のカスタム UI ユーザー（OOS、ColorOS、EMUI など）:",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. 設定アプリを開く。\n2. 「アプリと通知」をタップする。\n3. 「詳細設定」を開く。\n4. 「デフォルトのアプリ」をタップする。\n5. 「リンクを開く」をタップする。\n6.「YouTube Vanced」を探し、タップする。\n7. 「対応リンクを開く」をタップし「このアプリで開く」を選択する。\n\nお困りの場合は、[Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) で方法を検索するか、[Play ストア](https://play.google.com/store/search?q=open%20with)からサードパーティのアプリをダウンロードすることをおすすめします。"
         }
       ]
     },
