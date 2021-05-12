@@ -62,11 +62,11 @@
       "fields": [
         {
           "title": "Uživatelé OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "content": "1. Klepněte a přidržte ikonu aplikace YouTube nebo YouTube Vanced\n2. Klepněte na **Informace i aplikaci**.\n3. Vyhledejte \"**Nastavit jako výchozí**\" a klepněte na to\n4. Klepněte na \"**Otevírat podporované odkazy**\" a vyberte \"**Otevřít v této aplikaci**\"\n\nVe starších verzích OneUI se může mírně lišit název možností ve 4. kroku. Možná budete muset klepnout na \"**Přejít na podporované URL**\" a vybrat možnost \"**V této aplikaci**\"."
         },
         {
           "title": "Uživatelé MIUI:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Otevřete Nastavení\n2. Jděte na **Aplikace**,\n3. **Správa aplikací**,\n4. Poté klepněte na tři tečky v pravém rohu,\n5. **Výchozí aplikace**,\n6. **Otevírání odkazů**.\n7. Vyčkejte, až se zobrazí všechny vaše aplikace…\n8. Vyhledejte YouTube nebo YouTube Vanced a klepněte na něj.\n9. Klepněte na \"**Otevírat podporované odkazy**\" a vyberte \"**Otevřít**\""
         },
         {
           "title": "Uživatelé AOSP a ostatních UI (OOS, ColorOS, EMUI, atd.):",
