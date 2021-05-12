@@ -66,11 +66,11 @@
         },
         {
           "title": "Utenti MIUI:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Apri Impostazioni\n2. Vai su **App**,\n3. **Gestisci app**,\n4. Quindi, tappa i tre punti nell'angolo destro,\n5. **App predefinite**,\n6. **Apertura link**.\n7. Attendi fino a quando tutte le tue app non siano elencate...\n8. Trova e tappa su YouTube o YouTube Vanced.\n9. Tappa \"**Apri link supportati**\" e scegli \"**Apri**\""
         },
         {
           "title": "Utenti AOSP & altre UI personalizzate (include OOS, ColorOS, EMUI, ecc.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. Apri **Impostazioni**\n2. Vai su **App**\n3. Tappa **App predefinite**\n4. Trova **YouTube** o **YouTube Vanced**\n5. Tappa \"**Vai a URL supportati**\" e scegli l'opzione \"**Apri in questa app**\"\n\nSe avrai ancora problemi, potresti dover cercare alcuni articoli/video \"come fare\" su [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) oppure puoi installare un'app di terze parti da [Play Store](https://play.google.com/store/search?q=open%20with) per salvarti da questa seccatura…"
         }
       ]
     },

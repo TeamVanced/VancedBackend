@@ -9,11 +9,11 @@
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Características",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Resolução de problemas",
       "json": "troubleshooting.json"
     }
   ]
