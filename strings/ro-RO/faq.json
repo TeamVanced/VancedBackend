@@ -62,15 +62,15 @@
       "fields": [
         {
           "title": "Utilizatori OneUI:",
-          "content": "1. Atingeți și țineți apăsat pe pictograma aplicaţiei YouTube sau YouTube Vanced app pentru a deschide informațiile aplicației.\n2. Derulați în jos la secţiunea `Setări aplicații`\n3. Apăsați pe opțiunea **Setat ca implicit** \n4. Setați \"**Mergeți la setările URL-uri suportate**\" ca \"**În această aplicație**\"."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
         },
         {
           "title": "Utilizatori MIUI:",
-          "content": "Deschideți setările și căutați \"Aplicații implicite\" sau navigați la aplicații > Gestionați aplicațiile > [atingeți cele trei puncte în colțul din dreapta] > aplicații implicite > link-uri de deschidere. După ce aplicațiile sunt listate, derulează în jos până când găsești YouTube sau YouTube Vanced și apasă pe el. Apoi, setează setarea \"**Deschide link-urile suportate**\" ca \"**Deschide**\" în loc de \"Întreabă de fiecare dată\" sau \"Nu te deschide\"."
+          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "AOSP & alte UI-uri personalizate (OOS, ColorOS, EMUI etc.):",
-          "content": "1. Alegeți \"întreabă de fiecare dată\" atât pentru aplicația Stock Youtube cât și pentru vanced.\n\n2. Deschide Google Chrome.\n\n3. Caută câteva videoclipuri YouTube pe Google.\n\n4. Deschide link-uri cu YouTube Vanced şi setează întotdeauna.\n\n5. Întoarce-te la setările unde setezi \"întreabă de fiecare dată\" pe YouTube, schimbă asta cu \"nu deschide cu aceasă aplicaţie\"."
+          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
         }
       ]
     },
