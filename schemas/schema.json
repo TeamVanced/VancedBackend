@@ -28,7 +28,7 @@
                 },
                 "fields": {
                     "type": "array",
-                    "maxItems": 10,
+                    "maxItems": 15,
                     "items": {
                         "oneOf": [
                             {
@@ -72,7 +72,7 @@
                 },
                 "fields": {
                     "type": "array",
-                    "maxItems": 10,
+                    "maxItems": 15,
                     "items": {
                         "oneOf": [
                             {
