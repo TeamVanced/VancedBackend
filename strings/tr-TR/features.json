@@ -2,31 +2,31 @@
   "data": [
     {
       "title": "Vanced",
-      "description": "YouTube Vanced, YouTube uygulamasından daha iyi olmayı hedefler ve reklam engelleme, siyah tema gibi daha fazla özelliklere sahiptir. Vanced Manager uygulamasını kullanarak cihazına uygun olan YouTube Vanced son sürümünü indirebilirsin."
+      "description": "YouTube Vanced, YouTube uygulamasından daha iyi olmayı hedefleyen; reklam engelleme, siyah tema gibi bir çok ekstra özelliklere sahip olan sürümüdür. Vanced Manager uygulamasını kullanarak YouTube Vanced'ın cihazınla uyumlu olan en son sürümünü indirebilirsin."
     },
     {
-      "title": "Vanced Müzik",
-      "description": "Vanced Müzik'te YouTube Vanced'da olduğu gibi aynı amaca sahiptir fakat YouTube Müzik için geliştiriliyor. Vanced'a kıyasen daha az özelliklere sahip ama yine de ihtiyaç duyduğun reklam engelleme ve arka planda oynatma gibi ana özellikler, Vanced Müzik'te seni bekliyor!"
+      "title": "Vanced Music Vanced",
+      "description": "YouTube Music Vanced, YouTube Vanced'da olduğu gibi aynı amaca sahip fakat, YouTube Music için geliştiriliyor. YouTube Vanced'a kıyasen daha az özelliklere sahip olabilir ama yine de genel olarak ihtiyaç duyulan reklam engelleme ve arka planda oynatma gibi ana özelliklere sahip!"
     },
     {
-      "title": "YouTube Vanced ana özellikleri",
-      "description": "- OLED dostu siyah tema\n- Reklam engelleyici\n- Arka planda ve Resim içinde Resim (PiP) (sadece Android 8+ için) modunda video oynatma özelliği\n- Yukarı-aşağı kaydırma kontrolleri ile anında parlaklık ve ses ayarlarını değiştirebilme\n- Tekrar oynatma özelliği\n- Yeni yorumlar kısmı ve tablet mini oynatıcısı özellikleri. Tablet sürümüne geçiş yapabilme özelliği ile eski sürüme benzer görünüm elde etme (gerçi biraz sorun yaşatabilir)"
+      "title": "YouTube Vanced'ın ana özellikleri",
+      "description": "- OLED dostu siyah tema\n- Reklam engelleyici\n- Arka planda ve Resim içinde Resim (PiP) modunda video oynatma özelliği (sadece Android 8+ için)\n- Yukarı-aşağı kaydırma kontrolleri ile anında parlaklık ve ses ayarlarını değiştirebilme\n- Videoları tekrar oynatma özelliği\n- Yeni görünüşe sahip yorumlar kısmı ve tablet modunda mini oynatıcı özellikleri. Tablet sürümüne geçiş yapabilme özelliği ile eski sürüme benzer görünüm elde etme (gerçi biraz sorun yaşatabilir)"
     },
     {
       "title": "Kişiselleştirme",
       "description": "- Çözücü ayarlarını değiştirme imkânı ile eski tip cihazlarda H264 veya VP9 çözücüsü kullanarak, sinematik deneyim elde etmek için HDR formatında oynatma ve 60fps özelliğini kapatma imkânı sunar. (Cihaza özel yapılandırmalar, Discord sunucumuzda veya XDA'de bulunabilir)\n- Varsayılan video çözünürlüğünü en yüksek veya en düşük olarak ayarlama ve ayrıca ekran çözünürlüğü kısıtlamasını aşarak, her cihazda keskin 4k video çözünürlüğü ile oynatabilme imkânı sunar. Ayrıca cihazının desteklemesi durumunda oynatma hızını 0.25x ile 2x arasında değiştirebilme imkânı sunuyor.\n- Ana ekranda ve diğer yerlerde çıkan ürün satışı dahil çeşitli reklamları, topluluk iletilerini, film satışlarını, bilgilendirme kutularını (COVID-19 bilgilendirmeleri gibi), yorumlar kısmını, film fragmanlarını, film önerisi kısmı gibi birçok can sıkan yerleri gizleme/kaldırma imkânı sunar."
     },
     {
-      "title": "SponsorBlock",
-      "description": "- Sponsor kısımlarını atlayabilme özelliği (YouTuber'ların video aralarına sıkıştırdıkları tanıtıcı reklamlar)\n- Ayrıca videoda giriş ve kapanış sahnelerini ve kişisel tanıtım kısımlarını da atlayabilme özelliği\n- Detaylarına bu linkten ulaşabileceğin API yapısını kullanır.\n- Ayrıca kendin için belirlediğin atlama kısımlarını API aracılığı ile paylaşma imkânı sunarak, topluluğa katkıda bulunabilirsin.\n- Atlama özelliği üzerinde tam hakime sahip olursun. Otomatik olarak veya buton göstermesini sağlayarak butona dokunma sonrasında atlayabilme imkânı veya istersen atlama özelliğini kapatma imkânı da sunar.\n- Atlamalık kısımları kategori bazlı renklerle zaman çubuğunda renkli biçimde de gösterebilir."
+      "title": "SponsorBlock (reklam engelleme)",
+      "description": "- Sponsor kısımlarını atlayabilme özelliği ([YouTuber](https://en.wikipedia.org/wiki/YouTuber)'ların video aralarına sıkıştırdıkları tanıtıcı reklamlar, vs.)\n- Ayrıca videoda giriş ve kapanış sahnelerini ve kişisel tanıtım kısımlarını da atlayabilme özelliği\n- Detaylarına [bu linkten](https://sponsor.ajay.app) ulaşabileceğin API yapısını kullanır.\n- Ayrıca kendin için belirlediğin atlama kısımlarını API aracılığı ile paylaşma imkânı sunarak, topluluğa katkıda bulunabilirsin.\n- Atlama özelliği üzerinde tam hakime sahip olursun. Otomatik olarak veya buton göstermesini sağlayarak butona dokunma sonrasında atlayabilme imkânı veya istersen atlama özelliğini kapatma imkânı da sunar.\n- Atlamalık kısımları kategori bazlı renklerle zaman çubuğunda renkli biçimde de gösterebilir."
     },
     {
       "title": "Platformlar",
-      "description": "Uygulamalar yalnızca Android cihazlarda kullanılabilir ve diğer işletim sistemleri için bir plan bulunmamaktadır"
+      "description": "Uygulamalar sadece Android işletim sistemine sahip cihazlarda kullanılabilir. Diğer işletim sistemleri için şuanlık bir planımız yok maalesef"
     },
     {
       "title": "Root ve root'suz sürüm arasındaki fark",
-      "description": "#### Root: \nVanced'in root sürümü sorunsuzca resmî YouTube uygulamasının yerine geçer. Bu sayede YouTube bağlantılarını doğrudan veya Google asistan üzerinden Vanced'te açabilirsiniz.\n\n#### Root Olmayan:\n- Rootlanması zor bir cihazınız varsa veya her gün kullandığınız cihazınızı rootlamak istemiyorsanız root olmayan seçeneği seçmelisiniz. \n- Rootlu bir cihaza da kurulabilir. Root olmayan sürümün paket adı stok YouTube uygulamasından farklı olması nedeniyle root olan ve olmayan sürümlerin ikisini aynı anda kullanabilirsiniz. Rootsuz Vanced ile YouTube'a Google hesabınızla giriş yapabilmek için ek bir uygulama (Vanced microG) yüklemeniz gerektiğini unutmayın. \n- Dahası YouTube bağlantılarını açmak için varsayılan uygulama olarak Vanced'i elle ayarlamanız gerekiyor. \n- Bunlara karşın root olmayan sürümü kurup kullanmak daha kolaydır, bu nedenle telefonunuzdaki stok YouTube uygulamasını gerçekten değiştirmeniz gerekmedikçe root olmayan sürümü kullanmanızı öneririz."
+      "description": "#### Root: \nVanced'in root sürümü, kurulum yaparken arada bir fark yaratmayacak şekilde YouTube uygulaması ile değiştirilir. Bu sayede YouTube linklerine tıklayarak doğrudan veya Google asistan üzerinden YouTube Vanced'a yönlendirilerek videoları, kanalları vs. kolayca açabilirsin.\n\n#### Root Olmayan:\n- Rootlanması zor bir cihazın varsa veya günlük hayatında kullandığın cihazını rootlamak istemiyorsan, root'suz kurulum seçeneği ile kullanım sağlayabilirsin. \n- Root'suz sürüm, rootlu bir cihaza da kurulabilir. Root'suz sürümdeki uygulamanın adı `YouTube Vanced` olması nedeniyle rootlu olan ve olmayan iki sürümüde aynı anda kullanabilirsin.\n- Root'suz Vanced kullanırken, Google hesabına giriş yapabilmek için, yardımcı uygulama olan Vanced microG'yi de yüklemen de gerekecek. \n- Üstelik YouTube bağlantılarını açmak için varsayılan uygulama olarak Vanced'i elle ayarlaman da gerekebilir. \n- Gerçi genel açıdan baktığımızda bir cihazı root'lamak zor olabilir ve root'lama işlemine kıyasen root'suz Vanced uygulamasının kurulumu, bazı kişilere daha kolay gelebilir. Bu nedenle cihazındaki orijinal YouTube uygulamasını çok ihtiyaç duymadığın sürece, kolay kurulum ve kullanım olması açısından değiştirmemeni öneriyoruz."
     }
   ]
 }

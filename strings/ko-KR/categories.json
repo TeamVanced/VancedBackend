@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "오류 보고",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "자주 묻는 질문",
+      "json": "faq.json"
+    },
+    {
+      "category": "기능",
+      "json": "features.json"
+    },
+    {
+      "category": "문제 해결",
+      "json": "troubleshooting.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "错误报告",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "常见问题",
+      "json": "faq.json"
+    },
+    {
+      "category": "功能特色",
+      "json": "features.json"
+    },
+    {
+      "category": "故障排查",
+      "json": "troubleshooting.json"
+    }
+  ]
+}
