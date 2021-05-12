@@ -62,15 +62,15 @@
       "fields": [
         {
           "title": "OneUI Benutzer:",
-          "content": "1. Tippe und halte das YouTube Vanced App-Symbol gedrückt, um die App-Details zu öffnen.\n2. Scrolle herunter bis zu der `App Einstellungen` Sektion.\n3. Drücke die **Standardmäßig öffnen** Option.\n4. Setze die \"**Unterstützte Links öffnen**\" Option als \"**In dieser App öffnen**\".\n(PLEASE CHECK OPTION NAMES AND TRANSLATION FOR APP SETTINGS!!!)"
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
         },
         {
           "title": "MIUI Benutzer:",
-          "content": "Open Settings and search for \"Default apps\" or navigate to Apps > Manage apps > [hit the three dots in the right corner] > Default apps > Opening links. After apps get listed, scroll down until you find YouTube or YouTube Vanced and tap it. Then, set the \"**Open supported links**\" setting as \"**Open**\" instead of \"Ask every time\" or \"Don't open\"."
+          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "AOSP & andere benutzerdefinierte UIs (OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Wähle \"Jedes Mal fragen\" für die stock YouTube app und YouTube Vanced.\n\n2. Öffne Google Chrome.\n\n3. Suche nach einem YouTube Video auf Google.\n\n4. Öffne den Link mit YouTube Vanced mit der Option \"Immer\".\n\n5. Kehre zurück in die Einstellungen wo Sie \"Jedes Mal fragen\" bei YouTube gesetzt haben und ändern sie dies zu \"In dieser App nicht öffnen\"."
+          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
         }
       ]
     },
