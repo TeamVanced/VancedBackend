@@ -5,10 +5,12 @@
             "type": "object",
             "properties": {
                 "title": {
-                    "type": "string"
+                    "type": "string",
+                    "maxLength":256
                 },
                 "description": {
-                    "type": "string"
+                    "type": "string",
+                    "maxLength":2048
                 }
             },
             "required": [
@@ -21,20 +23,24 @@
             "type": "object",
             "properties": {
                 "title": {
-                    "type": "string"
+                    "type": "string",
+                    "maxLength":256
                 },
                 "fields": {
                     "type": "array",
+                    "maxItems": 10,
                     "items": {
                         "oneOf": [
                             {
                                 "type": "object",
                                 "properties": {
                                     "title": {
-                                        "type": "string"
+                                        "type": "string",
+                                        "maxLength":256
                                     },
                                     "content": {
-                                        "type": "string"
+                                        "type": "string",
+                                        "maxLength":2048
                                     }
                                 },
                                 "required": [
@@ -57,23 +63,28 @@
             "type": "object",
             "properties": {
                 "title": {
-                    "type": "string"
+                    "type": "string",
+                    "maxLength":256
                 },
                 "description": {
-                    "type": "string"
+                    "type": "string",
+                    "maxLength":2048
                 },
                 "fields": {
                     "type": "array",
+                    "maxItems": 10,
                     "items": {
                         "oneOf": [
                             {
                                 "type": "object",
                                 "properties": {
                                     "title": {
-                                        "type": "string"
+                                        "type": "string",
+                                        "maxLength":256
                                     },
                                     "content": {
-                                        "type": "string"
+                                        "type": "string",
+                                        "maxLength":2048
                                     }
                                 },
                                 "required": [
