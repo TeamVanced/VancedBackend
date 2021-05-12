@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Raport o błędzie",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "Najczęściej zadawane pytania (FAQ)",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Funkcje",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Rozwiązywanie problemów",
       "json": "troubleshooting.json"
     }
   ]
