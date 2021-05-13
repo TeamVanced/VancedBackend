@@ -57,19 +57,19 @@
       "description": "Di mîhengên Vanced de, li beşa 'About' 6-7 caran ji bo çalak bike. Ev tenê mîhengên codec yên vîdyoyê yên din çalak dike."
     },
     {
-      "title": "How to make YouTube Vanced as default app?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "title": "Meriv çawa dikare YouTube Vanced wekî sepana xwerû çêbike?",
+      "description": "Wekî ku sernav dibêje, gelek caran bikarhêneran gelek caran pirsî ka ew çawa dikarin YouTube Vanced bikin wekî default ji bo vekirina girêdanên YouTube ji sepanên din (mîna gerokan, sepanên peyamberiyê û her sepanek din).\n\nJi bo root, ji ber ku youTube Vanced bi Stock YouTube ve tê guhertin, ji ber ku ew ji berê ve tê tesbît kirin.\n\nJi bo ne-root, çareserî di navbera wek OneUI, MIUI û yên mayî de hatine dabeşkirin. Em nikarin çareseriyên ji bo her OS li wir peyda bikin, û dibe ku hûn hewce bikin ku hûn bi xwe Google bikin.",
       "fields": [
         {
-          "title": "OneUI users:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "title": "Bikarhênerên OneUI:",
+          "content": "1. Li ser îkona bernameya YouTube an YouTube Vanced tap bikin û bigirin\n 2. Destlêdê **Agahdariya sepanê**.\n 3. \"**Wekî pêşdarazî saz bike**\" bibînin û lê bixin\n 4. Tap bikin \"**Zencîreyên piştgirî vekin**\" û hilbijêrin \"**Di vê sepanê de vekin**\"\n\nDi guhertoyên kevn ên OneUI de, dibe ku navê vebijarkan di gava 4an de hinekî cûdahî be. Dibe ku hûn hewce ne ku \"**Herin URLyên piştgirî **\" tap bikin û vebijarka \"**Di vê sepanê**\" de hilbijêrin."
         },
         {
-          "title": "MIUI users:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "title": "Bikarhênerên MIUI:",
+          "content": "1. Mîhengên vekirî\n2. **Serlêdan** divê,\n3. **Birêvebirina sepanan**,\n4. Dûv re, li goşeyê rastê sê nuqteyan bixin,\n5. ** Sepanên pêşdarazî,\n6. ** Vekirina girêdan **.\n7. Bisekinin heya ku hemî bernameyên we têne navnîş kirin…\n8. YouTube an YouTube Vanced bibînin û lê bixin.\n9. Destlêdê \"**Lînkên piştgirî veke**\" û \"**Vekirî**\" hilbijêrin"
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "title": "AOSP & UIyên xwerû yên din (OOS, ColorOS, EMUI, û hwd.):",
           "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
         }
       ]
