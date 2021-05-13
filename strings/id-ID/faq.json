@@ -62,10 +62,10 @@
       "fields": [
         {
           "title": "Pengguna OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "content": "1. Tekan dan tahan pada ikon aplikasi YouTube ataupun YouTube Vanced\n2. Tekan pada ***Info Aplikasi***\n3. Cari dan tekan ***Atur sebagai default***\n4. Tekan ***Buka tautan yang didukung*** dan pilih ***Buka di aplikasi ini***\n\nUntuk versi OneUI yang lawas, nama opsi yang terdapat di langkah 4 mungkin berbeda.\nAnda mungkin perlu unutk menekan ***Pergi ke URL yang didukung*** dan pilih opsi ***Di aplikasi ini***."
         },
         {
-          "title": "MIUI users:",
+          "title": "Pengguna MIUI:",
           "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
