@@ -66,11 +66,11 @@
         },
         {
           "title": "Χρήστες MIUI:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Ανοίξτε τις Ρυθμίσεις\n2. Πηγαίντε στην επιλογή **Εφαρμογές**,\n3. **Διαχείριση εφαρμογών**,\n4. Μετά, πατήστε στις 3 τελίτσες στην πάνω δεξιά γωνία,\n5. **Προεπιλεγμένες εφαρμογές**,\n6. **Σύνδεσμοι ανοίγματος**.\n7. Περιμένετε μέχρι να φορτώσουν όλες οι εφαρμογές…\n8. Βρείτε το YouTube ή το YouTube Vanced και πατήστε πάνω του.\n9. Πατήστε \"**Άνοιγμα υποστηριζομένων συνδέσμων**\" και επιλέξτε \"**Άνοιγμα**\""
         },
         {
           "title": "AOSP & άλλες προσαρμοσμένες διεπαφές χρήστη (OOS, ColorOS, EMUI, κτλπ.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. Ανοίξτε τις **Ρυθμίσεις**\n2. Μεταβείτε στην επιλογή **Εφαρμογές**\n3. Πατήστε **Προεπιλεγμένες εφαρμογές**\n4. Βρείτε το **YouTube** ή το **YouTube Vanced**\n5. Πατήστε \"**Μετάβαση στα υποστηριζόμενα URLs**\" και επιλέξτε \"**Άνοιγμα με αυτήν την εφαρμογή**\"\n\nΑν εξακολουθείτε να αντιμετωπίζετε τέτοια προβλήματα, μπορεί να χρειαστεί να αναζητήσετε στο [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) μερικά άρθρα (δυστυχώς υπάρχουν λύσεις μόνο στα αγγλικά) για το πως να το κάνετε να δουλέψει ή μπορείτε να εγκαταστήσετε κάποια εφαρμογή τρίτων από το [Play Store](https://play. oogle.com/store/search?q=open%20with) για να σας σώσει από αυτήν την ταλαιπωρία…"
         }
       ]
     },
