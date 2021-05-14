@@ -62,11 +62,11 @@
       "fields": [
         {
           "title": "Потребители на OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "content": "1. Докоснете и задръжте върху иконата на приложението YouTube или YouTube Vanced\n2. Докоснете **Информация за приложението**.\n3. Намерете „**Задай по подразбиране**“ и го докоснете\n4. Докоснете „**Отваряне на поддържаните връзки**“ и изберете „**Отваряне в това приложение**“\n\nВ по-старите версии на OneUI името на опциите в четвъртата стъпка може да има малка разлика. Може да се наложи да докоснете „**Отиване на поддържаните URL адреси**“ и да изберете опцията „**В това приложение**“."
         },
         {
           "title": "Потребители на MIUI:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Отворете Настройки\n2. Отидете в **Приложения**,\n3. **Управление на приложенията**,\n4. След това докоснете трите точки в десния ъгъл,\n5. **Стандартни приложения**,\n6. **Отваряне на връзки**.\n7. Изчакайте, докато всичките ви приложения бъдат показани...\n8. Намерете YouTube или YouTube Vanced и го докоснете.\n9. Докоснете „**Отваряне на поддържаните връзки**“ и изберете „**Отваряне**“"
         },
         {
           "title": "AOSP и други потребителски интерфейси (OOS, ColorOS, EMUI и др.):",
