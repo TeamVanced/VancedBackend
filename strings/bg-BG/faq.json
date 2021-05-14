@@ -70,13 +70,13 @@
         },
         {
           "title": "AOSP и други потребителски интерфейси (OOS, ColorOS, EMUI и др.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. Отворете **Настройки**\n2. Отидете в **Приложения**\n3. Докоснете **Приложения по подразбиране**\n4. Намерете **YouTube** или **YouTube Vanced**\n5. Докоснете „**Отиване на поддържани URL адреси**“ и изберете опцията „**Отваряне в това приложение**“\n\nАко все още имате проблеми с това, може да се наложи да потърсите някои статии/видеоклипове в [Google](https://www.google.com/search?q=%22android%22+как+да+отваряме+youtube+връзки+с+youtube) или можете да инсталирате приложение на трета страна от [Play Store](https://play.google.com/store/search?q=open%20with), за да ви спаси от този казус…"
         }
       ]
     },
     {
       "title": "Защо вариантът за root не работи с microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "description": "1. Трябва да имате поне [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) вариант на GApps, за да стартирате Vanced.\n\n2. Не можете да стартирате Vanced с microG Core без Услуги за Google Play Framework, който се предлага във всички GApps пакети и е задължителна библиотека.\n\n3. Ако се притеснявате за поверителността си и не искате да използвате GApps, но все пак искате да гледате YouTube без реклами, тогава [уеб версията](https://youtube.com) е винаги на разположение."
     },
     {
       "title": "Защо предаването към устройство не работи?",
