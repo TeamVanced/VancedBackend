@@ -33,7 +33,7 @@
 				},
 				{
 					"title": "Huawei workaround 2",
-					"content": "For those who updated microG to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microG.\n\n2. Download \"Vanced microG 0.2.12.203316 version\" from mega cloud storage mirror [Link to Vanced microG](https://del.dog/vancedv15above)\n\n3. You should be able to login now."
+					"content": "For those who updated microG to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microG.\n\n2. Download \"Vanced microG 0.2.12 version\" from [vanced microG GitHub page](https://github.com/YTVanced/VancedMicroG/releases/download/v0.2.12/microg.apk)\n\n3. You should be able to login now."
 				},
 				{
 					"title": "Huawei workaround 3",
