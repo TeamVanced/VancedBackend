@@ -34,42 +34,42 @@
     },
     {
       "title": "Miksi käyttää jaettuja APK:ita?",
-      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
+      "description": "Sillä:\n\n1. Tavallinen YouTube käyttää sitä joten niin Vancedkin.\n2. Se asentaa vain kielet jotka itse määrittelet säästääkseen tallennustilaa.\n3. Siinä on vain versio ydin APK:sta jonka laitteesi vaatii.\n\nToki Vanced Manager tai kehittäjät voivat muuttaa sen normaaliksi, yhdeksi APK-tiedostoksi, mutta olemme liian laiskoja tekemään niin. Sinun pitää vain tottua siihen mitä meillä on...\n\nÄlä kuitenkaan huoli, Vanced Manager tekee kaiken vaikean sinun puolestasi joten sinun on vain painettava \"Asenna\" painiketta."
     },
     {
-      "title": "Why the colour in the startup screen is different from the theme?",
-      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
+      "title": "Miksi aloitusnäytön väri on eri kuin teeman?",
+      "description": "Aloitusnäytön taustaväri on otettu Androidin frameworkin väristä varmistaakseen että se muuttuu järjestelmän teeman mukaan. Voit käyttää [Substratumia](https://play.google.com/store/apps/details?id=projekt.substratum) tai [Swift Installeria](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller)."
     },
     {
-      "title": "Should I re-download the installation files?",
-      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
+      "title": "Pitäisikö minun ladata asennustiedostot uudelleen?",
+      "description": "Tiedostot voivat korruptoitua monista eri syistä ja aiheuttaa ongelmia jälkikäteen. Välttääkseen tämän, voit valinnaisesti ladata sen uudelleen varmistaaksesi että asennus sujuu sulavasti."
     },
     {
-      "title": "Why does the root version don't have Microphone permission?",
-      "description": "It does if your Vanced is up-to-date."
+      "title": "Miksi root-versiolla ei ole Mikrofonin käyttöoikeutta?",
+      "description": "Se tekee jos Vancedisi on ajan tasalla."
     },
     {
       "title": "Mikä on ExoPlayer v1?",
-      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
+      "description": "Se on vanhempi versio nykyisestä YouTuben käyttämästä mediasoittimesta. Saatat saada paremman suorituskyvyn ja vakauden käyttäessä sitä."
     },
     {
       "title": "Kuinka otan piilotetut asetukset käyttöön?",
-      "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
+      "description": "Vancedin asetuksissa, napauta `Tiedot` kohtaa 6-7 kertaa ottaaksesi sen käyttöön. Tämä ottaa käyttöön vain videon koodekin lisäasetukset."
     },
     {
-      "title": "How to make YouTube Vanced as default app?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "title": "Kuinka asettaa YouTube Vanced oletussovellukseksi?",
+      "description": "Niin kuin otsikko sanoo, monet käyttäjät ovat kysyneet monesti kuinka he voisivat asettaa YouTube Vancedin oletussovellukseksi YouTube linkeille muista sovelluksista(kuten selaimet, viestintäsovellukset ja mitkä tahansa muut).\n\nRootilla, sinun ei tarvitse huolehtia sillä se on asetettu jo valmiiksi sillä YouTube Vanced korvaa tavallisen YouTuben.\n\nIlman rootia, ratkaisut ovat jaettu OneUIn, MIUIn ja muitten välillä. Me emme voi antaa ratkaisua jokaiselle käyttöjärjestelmälle ja sinun on ehkä Googletettava se itse.",
       "fields": [
         {
-          "title": "OneUI users:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "title": "OneUI käyttäjät:",
+          "content": "1. Napauta ja pidä alhaalla YouTuben tai YouTube Vancedin sovelluskuvaketta\n2. Napauta **Sovelluksen tiedot**\n3. Etsi \"**Aseta oletukseksi**\" ja napauta sitä\n4. Napauta \"**Avaa tuetut linkit**\" ja valitse \"**Valitse tämä sovellus**\"\n\nOneUI: n vanhoissa versiossa, asetusten nimet neljännessä vaiheessa saattavat olla hieman erilaisia. Saatat joutua napauttamaan \"**Mene tuettuihin linkkeihin**\" ja valita \"**Tämä sovellus**\" vaihtoehto."
         },
         {
-          "title": "MIUI users:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "title": "MIUI käyttäjät:",
+          "content": "1. Avaa asetukset\n2. Mene **Sovelluksiin**,\n3. **Hallitse sovelluksia**,\n4. Sitten, napauta kolmea pistettä oikeassa kulmassa,\n5. **Oletussovellukset**\n6. **Osoitteiden avaus**.\n7. Odota kunnes kaikki sovelluksesi ovat näkyvissä…\n8. Etsi YouTube tai YouTube Vanced ja napauta sitä.\n9. Napauta \"**Avaa tuetut linkit**\" ja valitse \"**Avaa**\""
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "title": "AOSP & muut mukautetut käyttöliittymät (OOS, ColorOS, EMUI jne.):",
           "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
         }
       ]
@@ -87,7 +87,7 @@
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Is YouTube Vanced on Play Store?",
+      "title": "Onko YouTube Vanced Play Kaupassa?",
       "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
     },
     {
@@ -95,21 +95,21 @@
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "Mikseivät videot toistu?",
+      "description": "Yritä käynnistää sovellus uudelleen. Se voi johtua myös internetyhteydestäsi tai laitteestasi."
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "Miksi video on rajoitettu 480p:hen?",
+      "description": "COVID-19:n takia Google rajoittaa datan käyttöä useissa maissa. Tämä tapahtuu palvelimella ja vaikuttaa sekä Vancedin että normaalin YouTuben käyttäjiin.",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "Väliaikaiset korjaukset:",
+          "content": "1. Yhdistä eri alueen VPN-verkkoon.\n2. Käytä [web-versiota](https://youtube.com)\n3. Koska 480p-rajoitus koskee vain mobiililaitteita eikä tabletteja, voit muuttaa laitteesi mallia Youtube Vancedissa ohittaaksesi sen.\n\n#### Kuinka muutat laitteen mallia?\n1. Avaa YouTube Vanced.\n2. Ota lisäasetukset käyttöön \n  1. Mene asetuksiin\n  2. Napauta Vanced-asetukset\n  3. Napauta Tietoja-osiota kunnes saat piilotettujen asetusten käyttöönotosta ilmoittavan viestin.\n3. Mene Koodekin ohitus -kohtaan ja aseta malliksi \"SM-T865\" ja laitteeksi \"Samsung\".\n4. Käynnistä sovellus uudelleen ja 480p-rajoituksen pitäisi olla poistunut."
         }
       ]
     },
     {
-      "title": "How to hide the microG notification?",
+      "title": "Kuinka piilottaa microG ilmoitus?",
       "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
