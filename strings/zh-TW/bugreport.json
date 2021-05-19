@@ -10,7 +10,7 @@
         },
         {
           "title": "如何取得 logcat？",
-          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this. You can follow the instructions [in here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "對於非root使用者:\n您需要使用電腦來獲得\"logcat\"的輸出。這邊有[文字版的教學](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc)和[影片教學](https://youtu.be/ICLpwgsJJP0)。\n\n對於root使用者:\n您則不需要使用電腦。您可以按照[此處](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)的說明進行操作。"
         },
         {
           "title": "您的 BUG 是與介面相關的嗎？",
