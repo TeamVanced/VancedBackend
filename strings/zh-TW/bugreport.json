@@ -14,7 +14,7 @@
         },
         {
           "title": "您的 BUG 是與介面相關的嗎？",
-          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
+          "content": "對於UI相關的BUG，您需要採取額外的步驟。\n\n請安裝並設置[Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant)。\n之後，回到Vanced並重現BUG，然後透過觸發開啟Developer Assistant並打開Layout的查看器。\n\n現在按照以下步驟：\n1. 確保BUG顯示在螢幕上\n2. 點擊您認為受BUG影響的元件\n3. 選到\"Element\"和\"Hierarchy\"的標籤項，進行螢幕截圖\n4. 在您的問題回報中包含這些螢幕截圖"
         }
       ]
     }
