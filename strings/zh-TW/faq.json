@@ -21,7 +21,7 @@
       "description": "若您在 Vanced 設定 > 版面設定中將留言設定為顯示在底部（舊位置），請停用此設定，然後重開 APP。\n若情況依舊，請強制停止 APP 並清除它的資料（清除儲存空間）"
     },
     {
-      "title": " 無法開啟字幕？",
+      "title": "無法開啟字幕？",
       "description": "這不是 Vanced 或是 Youtube 的問題，並不是每部影片都有字幕。"
     },
     {
@@ -29,8 +29,8 @@
       "description": "我們「不」接受捐款！\n\n任何情況下的任何網站、連結、貼文所要求的任何形式的捐款都是假的。\n\n但如果您想支持 Vanced 的開發者們，您可使用 [此連結](https://brave.com/kev231) 來下載 Brave、[此連結](https://adguard.com/en/welcome.html?aid=31141) 來下載 AdGuard。"
     },
     {
-      "title": "輔助功能請求按鈕",
-      "description": "您可以在 YouTube 高級 > 設定 > 可存取性中配置它。如果設定無法開啟或不起作用，進入裝置輔助設定，禁用聲音放大器，開關存取，實時字幕。"
+      "title": "如何使播放器版面自動隱藏？",
+      "description": "您可以在YouTube Vanced > 設定 > 無障礙設定中進行設定。如果設定無法打開或不起作用，轉往您裝置上的設定 > 無障礙設定並關閉聲音擴大器、開關功能，即時字幕。"
     },
     {
       "title": "為何使用 split APKs？",
@@ -45,7 +45,7 @@
       "description": "由於各種原因，檔案可能被損壞，並可能在之後導致問題。為了避免這種情況，您可以選擇再次下載，以確保安裝順利進行。"
     },
     {
-      "title": "麥克風",
+      "title": "Why does the root version don't have Microphone permission?\n為什麼root版本沒有\"麥克風\"權限？",
       "description": "如果你的 Vanced 是最新的就可以。"
     },
     {
