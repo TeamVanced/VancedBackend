@@ -104,7 +104,7 @@
       "fields": [
         {
           "title": "解決方案:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "content": "1. 使用VPN連線到其他區域\n2. 使用[網頁版](https://youtube.com)\n3. 由於480p限制僅適用於手機而非平板，因此您可以在YouTube Vanced中更改設備型號以克服該限制\n\n#### 如何更改設備型號？\n1. 開啟YouTube Vanced\n2. 前往「設定」\n3. 輕觸「Vanced 設定」\n4. 開啟隱藏設定:\n  - 往下滑，一直輕觸「關於」直到看見「隱藏設定已開啟」\n5. 前往「覆寫編解碼器」\n6. 輕觸「覆寫製造商」並改為「Samsung」，輕觸「覆寫機型」並改為「SM-T865」\n7. 重啟應用程式\n\n重新啟動後，480p的限制將消失。"
         }
       ]
     },
