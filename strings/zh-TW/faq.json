@@ -62,7 +62,7 @@
       "fields": [
         {
           "title": "OneUI 使用者：",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "content": "1. 按住原生YouTube或YouTube Vanced應用程式圖示\n2. 輕觸**應用程式資訊**\n3. 找到\"**設為預設**\"後輕觸\n4. 輕觸\"**開啟支援的連結**\"選擇\"**在這個應用程式中開啟**\"\n\n在舊版本的OneUI中，第4步中的選項名稱可能會略有不同。您可能需要輕觸\"**前往支援的網址**\"，然後選擇\"**經此應用程式**\"。"
         },
         {
           "title": "MIUI 使用者：",
@@ -91,7 +91,7 @@
       "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
+      "title": "為何Vanced沒有顯示在主畫面或應用程式清單中？",
       "description": "您正在閱讀本文是因為您沒有使用Vanced Manager，或是您可能從非官方來源安裝了Vanced。\n只使用Vanced Manager吧！\n\n您可以從以下位置安全的下載Vanced Manager：\n- [官方網站](https://vancedapp.com)\n- [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "title": "1440p在我的1080p螢幕上會看起來更棒嗎？",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "description": "是的，但前提是影片比例為18：9、21：9時；您可以在「設定 > 一般」中開啟\"啟用影片格式資料\"進行確認。\n\n要使用更高的影片解析度，請前往「Vanced 設定 > 影片設定」，然後開啟\"最高影片解析度\"，接著重新啟動應用程式。"
     }
   ]
 }
