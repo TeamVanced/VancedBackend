@@ -38,15 +38,15 @@
     },
     {
       "title": "為甚麼啟動畫面的顏色跟主題不一樣？",
-      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
+      "description": "啟動螢幕的背景顏色是從 Android framework 的顏色，以確保它改變根據系統主題。你可以使用 [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) 或 [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) 或類似的應用程式來改變顏色。"
     },
     {
       "title": "我應該重新下載安裝檔嗎？",
-      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
+      "description": "由於各種原因，檔案可能被損壞，並可能在之後導致問題。為了避免這種情況，您可以選擇再次下載，以確保安裝順利進行。"
     },
     {
       "title": "麥克風",
-      "description": "It does if your Vanced is up-to-date."
+      "description": "如果你的 Vanced 是最新的就可以。"
     },
     {
       "title": "ExoPlayer v1 是什麼？",
@@ -57,8 +57,8 @@
       "description": "輕觸 Vanced 設定中的「關於」區塊 6 ~ 7 次即可開啟。此步驟僅會開啟額外的影片編碼設定。"
     },
     {
-      "title": "How to make YouTube Vanced as default app?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "title": "如何使 YouTube Vanced 作為預設應用程式？",
+      "description": "正如標題所言，許多使用者一直在詢問如何讓 YouTube Vanced 作為從其他應用程式 (如瀏覽器，訊息應用程式和任何其他應用程式) 開啟 YouTube 連結的預設設定。\n\n對於 Root 使用者，您不必擔心，因為它已經被預設設定，因為 YouTube Vanced 已經取代系統 YouTube 。\n\n對於 Non-Root 使用者，解決方案分為 OneUI,、MIUI 和其他。我們不能為所有的作業系統提供解決方案，你可能需要自己搜尋。",
       "fields": [
         {
           "title": "OneUI 使用者：",
