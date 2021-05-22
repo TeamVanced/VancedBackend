@@ -10,7 +10,7 @@
         },
         {
           "title": "Come faccio ad ottenere un logcat?",
-          "content": "Per utenti non-root:\nAvrai bisogno di un PC per ottenere l'elaborazione dei `logcat`. Ecco una [guida testuale] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) e una [videoguida] (https://youtu.be/ICLpwgsJJP0).\n\nPer utenti root:\nPer questa operazione non hai bisogno di un PC. Puoi seguire le istruzioni [qui] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Il tuo bug è relativo all'interfaccia utente?",
