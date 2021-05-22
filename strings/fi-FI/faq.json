@@ -62,11 +62,11 @@
       "fields": [
         {
           "title": "OneUI käyttäjät:",
-          "content": "1. Napauta ja pidä alhaalla YouTuben tai YouTube Vancedin sovelluskuvaketta\n2. Napauta **Sovelluksen tiedot**\n3. Etsi \"**Aseta oletukseksi**\" ja napauta sitä\n4. Napauta \"**Avaa tuetut linkit**\" ja valitse \"**Valitse tämä sovellus**\"\n\nOneUI: n vanhoissa versiossa, asetusten nimet neljännessä vaiheessa saattavat olla hieman erilaisia. Saatat joutua napauttamaan \"**Mene tuettuihin linkkeihin**\" ja valita \"**Tämä sovellus**\" vaihtoehto."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
         },
         {
           "title": "MIUI käyttäjät:",
-          "content": "1. Avaa asetukset\n2. Mene **Sovelluksiin**,\n3. **Hallitse sovelluksia**,\n4. Sitten, napauta kolmea pistettä oikeassa kulmassa,\n5. **Oletussovellukset**\n6. **Osoitteiden avaus**.\n7. Odota kunnes kaikki sovelluksesi ovat näkyvissä…\n8. Etsi YouTube tai YouTube Vanced ja napauta sitä.\n9. Napauta \"**Avaa tuetut linkit**\" ja valitse \"**Avaa**\""
+          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "AOSP & muut mukautetut käyttöliittymät (OOS, ColorOS, EMUI jne.):",
