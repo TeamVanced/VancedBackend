@@ -10,7 +10,7 @@
         },
         {
           "title": "كيفية أخذ Logcat؟",
-          "content": "للمستخدمين بدون روت: ستحتاج إلى جهاز كمبيوتر لأخذ مخرجات \"logcat\". إليك [دليل نصي] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) و [دليل فيديو] (https://youtu.be/ICLpwgsJJP0). لمستخدمي الروت: لست بحاجة إلى جهاز كمبيوتر لهذا الغرض. يمكنك اتباع التعليمات [هنا] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "هل العطل يخص واجهة المستخدم؟",
