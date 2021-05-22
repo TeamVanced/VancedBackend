@@ -10,7 +10,7 @@
         },
         {
           "title": "Làm cách nào để lấy logcat?",
-          "content": "Đối với người dùng không root:\nBạn sẽ cần PC lấy `logcat`. Đây là [văn bản hướng dẫn](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) và [video hướng dẫn](https://youtu.be/ICLpwgsJJP0).\n\nĐối với người dùng root:\nBạn không cần PC cho việc này, hãy làm theo [hướng dẫn](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Lỗi của bạn liên quan tới giao diện?",
