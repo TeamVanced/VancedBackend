@@ -2,15 +2,15 @@
   "data": [
     {
       "title": "YouTube Vanced là gì?",
-      "description": "Youtube Vaned là một phiên bản được chỉnh sửa của Youtube với các tính năng và cải tiến là giúp trải nghiệm Youtube của bạn tốt hơn!\n\nCách tính năng đó bao gồm:\n\n- Phát lại trên nền,\n- Phát trên một cửa sổ nhỏ (PiP),\n- Giao diện đen (thích hợp với OLED),\n- Gỡ quảng cáo (Yêu cầu kích hoạt),\n- Ép độ phân giải tối đa (cho phép phát lại video với độ phân giải cao hơn màn hình của bạn),\n- ...và nhiều hơn nữa!\n\nXem thêm thông tin tại <https://vancedapp.com>"
+      "description": "Youtube Vaned là một bản mod của Youtube với các tính năng và cải tiến để giúp trải nghiệm Youtube của bạn tốt hơn!\n\nCách tính năng đó bao gồm:\n\n- Phát trong nền,\n- Hình trong hình (PiP),\n- Giao diện đen (cho màn OLED),\n- Chặn quảng cáo (yêu kích hoạt thủ công cho một số loại),\n- Ép độ phân giải tối đa (cho phát video với độ phân giải cao hơn màn hình của bạn),\n- ...và nhiều hơn nữa!\n\nThông tin thêm tại <https://vancedapp.com>"
     },
     {
       "title": "Nút Tải xuống ở đâu?",
-      "description": "Đương nhiên Google sẽ không cho một phiên bản ứng dụng của chính mình đã được chỉnh sửa xuất hiện trên cửa hàng của họ nên đừng tìm nó trên Cửa hàng Google Play, các ứng dụng đó đều là giả.\n\nCác ứng dụng Vanced có thể được tải về và cài đặt bằng Vanced Manager có thể được tìm thấy tại website chính thức của chúng tôi: <https://vancedapp.com> nhưng bạn cũng có thể tải ở Github:<https://github.com/YTVanced/VancedManager/releases/latest>"
+      "description": "Đương nhiên Google sẽ không cho một bản mod của ứng dụng của chính họ xuất hiện trên cửa hàng của họ nên đừng tìm nó trên Cửa hàng Google Play, các ứng dụng đó đều là giả.\n\nCác ứng dụng Vanced có thể được tải về và cài đặt bằng Vanced Manager có thể được tìm thấy tại trang web chính thức của chúng tôi: <https://vancedapp.com> nhưng bạn cũng có thể tải nó từ [Github](https://github.com/YTVanced/VancedManager/releases/lates)."
     },
     {
       "title": "Youtube Vanced có tự động cập nhật không?",
-      "description": "Không. \n\nVanced Manager sẽ thông báo cho bạn khi có phiên bản mới.\n\nTham gia [Server Discord](https://discord.gg/Vanced) hoặc theo dõi [Telegram channel](https://t.me/Vanced) của chúng tôi cho các tin tức mới nhất và thông báo cập nhật."
+      "description": "Không.\n\nVanced Manager sẽ thông báo cho bạn khi có phiên bản mới.\n\nBạn cũng có thể tham gia [Server Discord](https://discord.gg/Vanced) hoặc theo dõi [Kênh Telegram](https://t.me/Vanced) của chúng tôi cho tin tức mới nhất và thông báo cập nhật."
     },
     {
       "title": "Vanced có thể tải xuống video không?",
