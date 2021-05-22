@@ -10,7 +10,7 @@
         },
         {
           "title": "Hur gör jag en logcat?",
-          "content": "För icke-rotanvändare:\nDu behöver en dator för att ta `logcat`-utgångar. Här är en [textguide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) och en [videoguide](https://youtu. e/ICLpwgsJJP0).\n\nFör rotanvändare:\nDu behöver ingen dator för detta. Du kan följa instruktionerna i [here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Ert fel är UI relaterat?",
