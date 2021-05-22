@@ -10,7 +10,7 @@
         },
         {
           "title": "Como faço para fazer um logcat?",
-          "content": "Para usuários sem root:\nVocê precisará de um PC para receber as saídas `logcat`. Aqui está um [guia de texto](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) e um [guia de vídeo](https://youtu.be/ICLpwgsJP0).\n\nPara usuários com root:\nVocê não precisa de um PC para isso. Você pode seguir as instruções [aqui](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Seu erro é relacionado à IU (interface de usuário)?",
