@@ -10,7 +10,7 @@
         },
         {
           "title": "Як мені зробити logcat?",
-          "content": "Для користувачів без root-прав:\nВам знадобиться комп'ютер для виведення `logcat`. Ось [текстовий гід](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) і [відео керівництво](https://youtu.be/ICLpwgsJP0).\n\nДля користувачів з root-правами:\nВам не потрібен ПК для цього. Ви можете слідувати інструкціям [тут](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Ваша помилка пов'язана з інтерфейсом?",
