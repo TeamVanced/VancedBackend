@@ -62,11 +62,11 @@
       "fields": [
         {
           "title": "مستخدمو OneUI:",
-          "content": "1. اضغط مع الاستمرار على YouTube أو رمز تطبيق YouTube Vanced\n2. اضغط على ** معلومات التطبيق **.\n3. ابحث عن \"** تعيين كافتراضي **\" وانقر عليها\n4. انقر على \"** فتح الروابط المدعومة **\" واختر \"** فتح في هذا التطبيق **\n\nفي الإصدارات الأقدم من OneUI ، قد يكون اسم الخيارات في الخطوة الرابعة مختلفًا قليلاً. قد تحتاج إلى النقر على \"** الانتقال إلى عناوين URL المدعومة **\" واختيار الخيار \"** في هذا التطبيق **\"."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
         },
         {
           "title": "مستخدمو MIUI:",
-          "content": "1. افتح الإعدادات\n2. ادخل على التطبيقات ،\n3. ** إدارة التطبيقات ** ،\n4. ثم ، انقر على النقاط الثلاث في الزاوية اليسار ،\n5. ** التطبيقات الافتراضية ** ،\n6. ** فتح الروابط **.\n7. انتظر حتى يتم إدراج جميع تطبيقاتك…\n8. ابحث عن YouTube أو YouTube Vanced واضغط عليه.\n9. انقر على \"** فتح الروابط المدعومة **\" واختر \"** فتح **\""
+          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "AOSP وواجهة مستخدم مخصصة أخرى (OOS و ColorOS و EMUI وما إلى ذلك):",
