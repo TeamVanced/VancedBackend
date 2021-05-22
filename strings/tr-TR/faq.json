@@ -66,11 +66,11 @@
         },
         {
           "title": "MIUI kullanıcıları:",
-          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Ayarları aç\n2. **Uygulamalar**a gir\n3. **Uygulamaları yönet**\n4. Sağ köşedeki 3 noktaya dokun,\n5. **Varsayılan**\n6. **Bağlantıları aç**\n7. Uygulamaların tamamı listelenene kadar bekle…\n8. Listeden YouTube veya YouTube Vanced'ı bul ve dokun.\n9. **Destekleyen bağlantıları aç** seçeneğini **Açık** olarak ayarla"
         },
         {
           "title": "AOSP & özelleştirilmiş diğer arayüzler (OOS, ColorOS, EMUI, vb.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. **Ayarlar**ı aç\n2. **Uygulamalar**a git\n3. **Varsayılan uygulamalar**a dokun\n4. **YouTube** veya **YouTube Vanced**'ı bul\n5. **Desteklenen bağlantıları aç** seneneğini **Bu uygulamada aç** olarak ayarla\n\nAdımları takip ettiğin halde halen sorun yaşıyorsan, [Google'dan](https://www.google.com.tr/search?q=android+youtube+uygulamas%C4%B1nda+varsay%C4%B1lan+olarak+nas%C4%B1l+ayarlan%C4%B1r) \"nasıl yapılır\" şeklinde arama yaparak sonuçları/videoları inceleyebilirsin veya [Play Store'dan](https://play.google.com/store/search?q=open%20with) 3. parti uygulama indirerek sorununa ayrıca çözüm de bulabilirsin…"
         }
       ]
     },
