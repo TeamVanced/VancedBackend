@@ -10,7 +10,7 @@
         },
         {
           "title": "Как да изпълня logcat?",
-          "content": "За потребители без root достъп:\nЩе ви бъде необходим PC за да изпълните logcat. Тук имa [Текстово ръководство] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) и [Видео ръководство] (https://youtu.be/ICLpwgsJJP0).\n\nЗа потребители с root достъп:\nНяма да ви бъде необходим PC за да изпълните logcat. Можете да последвате инструкциите [here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Ако грешка е свързана с външния вид на приложението?",
