@@ -62,11 +62,11 @@
       "fields": [
         {
           "title": "Používatelia OneUI:",
-          "content": "1. Ťuknite a podržte na ikone a YouTube alebo YouTube Vanced\n2. Ťuknite na **O aplikácii**.\n3. Nájdite \"**Predvolené otváranie**\" a ťuknite naň\n4. Ťuknite na \"***Otvoriť podporované odkazy*\" a vyberte \"**Otvárať v tejto aplikácii**\"\n\nV starších verziách OneUI môže byť názov možnosti v 4. kroku mierne odlišný. Možno budete musieť ťuknúť na možnosť \"**Prejsť na podporované odkazy**\" a vybrať \"**V tejto aplikácii**\"."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
         },
         {
           "title": "Používatelia MIUI:",
-          "content": "1. Otvorte nastavenia\n2. Prejdite na **Aplikácie**\n3. **Spravovať aplikácie**\n4. Ťuknite na tri bodky v pravom rohu,\n5. **Predvolené aplikácie**\n6. **Otváranie odkazov**\n7. Počkajte, kým sa načítajú všetky aplikácie…\n8. Nájdite YouTube alebo YouTube Vanced a ťuknite naň.\n9. Ťuknite na \"**Otvárať podporované odkazy**\" a vyberte \"**Otvoriť**\""
+          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "Používatelia AOSP a ostatných UI (OOS, ColorOS, EMUI, atď..):",
