@@ -62,11 +62,11 @@
       "fields": [
         {
           "title": "Користувачам OneUI:",
-          "content": "1. Натисніть і утримуйте значок додатка на YouTube або YouTube Vanced\n2. Натисніть на **Інформація про додаток**\n3. Знайдіть \"**Встановити за замовчуванням**\" і натисніть на неї\n4. Натисніть \"**Відкрити підтримуване посилання**\" і оберіть \"**Відкрити в цьому додатку**\"\n\nУ старих версіях OneUI, назва опцій на 4-му кроці може трохи відрізнятися. Можливо, вам доведеться натиснути \"**Перейти до URL-адрес **\" і вибрати опцію \"**В цьому додатку**\"."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
         },
         {
           "title": "Користувачам MIUI:",
-          "content": "1. Відкрийте Налаштування\n2. Перейдіть до **Додатки**,\n3. **Управління додатками**,\n4. Далі торкніться трьох крапок у правому куті,\n5. **Додатки за замовчуванням**,\n6. **Відкриття посилання**.\n7. Зачекайте, поки всі ваші програми не перерахуються…\n8. Знайдіть YouTube або YouTube Vanced і натисніть на нього.\n9. Натисніть \"**Відкриття підтримуваних посилань**\" і оберіть \"**Відкривати**\""
+          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "AOSP & інші користувацькі системи (OOS, ColorOS, EMUI та ін.):",
