@@ -10,7 +10,7 @@
         },
         {
           "title": "如何进行 logcat？",
-          "content": "对于非 Root 用户：\n您需要一台电脑来进行 `logcat` 输出。这是一个 [文本指南](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc)和[视频指南](https://youtu.be/ICLpwgsJJP0)。\n\n对于 Root 用户：\n您不需要电脑。您可以参考[这里](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)的教程。"
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "您的错误与用户界面相关吗？",
