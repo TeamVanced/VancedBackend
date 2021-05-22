@@ -10,7 +10,7 @@
         },
         {
           "title": "Jak utworzyć logcat?",
-          "content": "Dla użytkowników bez root:\nBędziesz potrzebował komputera, aby pobrać dane wyjściowe `logcat`. Oto [przewodnik tekstowy](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) oraz [przewodnik wideo](https://youtu.be/ICLpwgsJJP0).\n\nDla użytkowników z root:\nNie potrzebujesz komputera osobistego. Możesz postępować zgodnie z instrukcjami [tutaj](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Dla innych użytkownikówbez roota:\nBędziesz potrzebował komputera, aby pobrać dane wyjściowe `logcat`. Oto [przewodnik tekstowy](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) oraz [przewodnik wideo](https://youtu. e/ICLpwgsJP0).\n\nDla użytkowników z rootem:\nNie potrzebujesz do tego komputera, wykonaj [instrukcje](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Twój błąd jest związany z interfejsem?",
