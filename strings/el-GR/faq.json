@@ -62,11 +62,11 @@
       "fields": [
         {
           "title": "Χρήστες OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
         },
         {
           "title": "Χρήστες MIUI:",
-          "content": "1. Ανοίξτε τις Ρυθμίσεις\n2. Πηγαίντε στην επιλογή **Εφαρμογές**,\n3. **Διαχείριση εφαρμογών**,\n4. Μετά, πατήστε στις 3 τελίτσες στην πάνω δεξιά γωνία,\n5. **Προεπιλεγμένες εφαρμογές**,\n6. **Σύνδεσμοι ανοίγματος**.\n7. Περιμένετε μέχρι να φορτώσουν όλες οι εφαρμογές…\n8. Βρείτε το YouTube ή το YouTube Vanced και πατήστε πάνω του.\n9. Πατήστε \"**Άνοιγμα υποστηριζομένων συνδέσμων**\" και επιλέξτε \"**Άνοιγμα**\""
+          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "AOSP & άλλες προσαρμοσμένες διεπαφές χρήστη (OOS, ColorOS, EMUI, κτλπ.):",
