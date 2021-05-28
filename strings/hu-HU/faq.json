@@ -57,7 +57,7 @@
       "description": "A Vanced beállításokban kattintson 6-7x a \"Rólunk\" részre, hogy engedélyezze. Csak további videó kodek beállításokat tesz elérhetővé."
     },
     {
-      "title": "How to make YouTube Vanced as default app?",
+      "title": "Hogyan tehetem a YouTube Vancedet alapértelmezett alkalmazássá?",
       "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
