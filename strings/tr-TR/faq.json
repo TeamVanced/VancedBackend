@@ -62,7 +62,7 @@
       "fields": [
         {
           "title": "OneIO kullanıcıları:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. YouTube/Youtube Vanced uygulama ikonuna basılı tut\n2. **Uygulama bilgileri**ne dokun\n3. **Varsayılanlar**'a gir\n4. **Desteklenen bağlantıları aç** seçeneğini **Her zaman aç** olarak seç.\n\nOneUI arayüzünün eski sürümlerinde, 4. adımdaki seçeneklerin isimlerinde ufak farklılıklar olabilir. **Desteklenen bağlantılara git** benzeri olan seçeneği, **Bu uygulamada aç** olarak seçebilirsin.\nOneUI arayüzünün, en eski sürümlerinde 💩 ise, adımlar biraz daha farklı olabilir. **Ayarlar** > **Uygulamalar** > *[sağ köşedeki 3 noktaya dokun]* > **Varsayılanlar** > **Varsayılan olarak ayarla** adımlarını takip ederek yukarıda belirtilen 4. adımdaki önerilen ayarları uygulayabilirsin..."
         },
         {
           "title": "MIUI kullanıcıları:",
@@ -84,11 +84,11 @@
     },
     {
       "title": "APK imzası nedir?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at <https://vancedapp.com>."
+      "description": "Bunu okuyorsan, muhtemelen Vanced Manager'ı kullanmıyorsundur veya Vanced'ı resmi olmayan bir kaynaktan yüklemişsindir.\nVanced Manager'ı kullan lütfen!\n\nAşağıdaki kaynaklardan Vanced Manager'ı güvenli biçimde indirebilirsin:\n- [Resmi sitesinden](https://vancedapp.com)\n- [GitHub deposundan](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "YouTube Vanced, Play Store'da var mı?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Play Store'da YouTube Vanced'ı bulabilir miyim?",
+      "description": "HAYIR!\nTekrar hatırlatalım, Play Store'dan \"YouTube Vanced\" ve benzer isimli sahte uygulamaları ARAMAMALISIN ve İNDİRMEMELİSİN!\n\nPlay Store'da sadece [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) uygulamamız var ve yine sadece YouTube'un orijinal uygulaması Store'da bulunuyor.\n\nİkonumuza ve ismimize sahip olan uygulamaya denk gelirsen eğer, \"Taklit\" sebebiyle şikayet etmeni ve kötü yorum yazmanı öneriyoruz.\n\nUygulamalarımıza en sağlıklı şekilde sadece [resmi sitemizden](https://vancedapp.com) ulaşabilirsin)."
     },
     {
       "title": "Vanced neden ana ekranda veya uygulama menüsünde gözükmüyor?",
@@ -110,7 +110,7 @@
     },
     {
       "title": "MicroG bildirimleri nasıl gizlenir?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "description": "MicroG bildirimlerini kapatmak için,\n\n1. Batarya optimizasyonu kısıtlamasını, uygulama ayarlarından kapatabilir ve cihazını yeniden başlatabilirsin.\n\n2. Kısıtlamayı kaldırıp, yeniden başlattıktan sonra microG bildirimi halen gözükmeye devam ediyorsa, bildirimin üzerine basılı tutarak bildirim ayarlarını açıp, microG için bildirimleri tamamen kapatabilirsin.\n\n> Uygulamaya özel bildirimleri gizleme yolları, Android ve cihaz arayüz yapısına göre farklılıklar gösterebilir. Nasıl yapılacağını bilmiyorsan, Google'da arama yaparak bildirimlerin nasıl gizlenebileceğini araştırabilirsin."
     },
     {
       "title": "1440p video çözünürlüğü, 1080p ekranda güzel gözükür mü?",
