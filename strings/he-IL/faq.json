@@ -6,7 +6,7 @@
     },
     {
       "title": "היכן כפתור ההורדה?",
-      "description": "כמובן שגוגל לא תאפשר לגרסה שונה של האפליקציה שלה להיות בחנות שלה, אז אל תחפשו אותה בחנות Google Play. אם תמצאו משהו כזה – אלה אפליקציות מזויפות.\n\nניתן להוריד ולהתקין את האפליקציות של Vanced באמצעות Vanced Manager, אותו ניתן למצוא באתר הרשמי שלנו: <https://vancedapp.com>, אך ניתן גם להוריד אותו מה־GitHub repo שלנו, בכתובת: https://github.com/YTVanced/VancedManager/releases/latest"
+      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
       "title": "האם YouTube Vanced מתעדכן אוטומטית?",
@@ -62,15 +62,15 @@
       "fields": [
         {
           "title": "משתמשי OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
         },
         {
           "title": "משתמשי MIUI:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. פתח את הגדרות\n2. עבור אל **אפליקציות**,\n3. **נהל אפליקציות**,\n4. ואז הקש על שלוש הנקודות בפינה הימנית,\n5. **אפליקציות ברירת מחדל**,\n6. **פתיחת קישורים**.\n7. המתן עד שכל האפליקציות שלך יופיעו ברשימה…\n8. מצא את YouTube או את YouTube Vanced והקש עליו.\n9. הקש על \"**פתח קישורים נתמכים**\" ובחר \"**פתח**\""
         },
         {
           "title": "ממשקי משתמש מבוססי אנדרואיד ומותאמים אישית (OOS, ColorOS, EMUI וכו'):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. פתח את **הגדרות**\n2. עבור אל **יישומים**\n3. הקש על **יישומי ברירת מחדל**\n4. מצא את **YouTube** או את **YouTube Vanced**\n5. הקש על \"**עבור אל כתובות אתרים נתמכות**\" ובחר באפשרות \"**פתח באפליקציה זו**\"\n\nאם אתה עדיין חווה בעיות זה, ייתכן שתצטרך לחפש כמה מאמרים/סרטוני \"כיצד לבצע\" ב־[Google] (https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) או שתוכל להתקין יישום צד שלישי מחנות היישומים של Google (https://play.google.com/store/search?q=open%20with) כדי לחסוך ממך את הטרחה הזו…"
         }
       ]
     },
@@ -110,7 +110,7 @@
     },
     {
       "title": "כיצד להסתיר את ההתראה מ־microG?",
-      "description": "כדי להסתיר את ההתראה של microG,\n\n1. באפשרותך להשבית את מיטוב הסוללה עבור microG ולהפעיל מחדש את המכשיר.\n\n2. אם ההודעה עדיין קיימת לאחר אתחול מחדש, השבת את התראות microG על ידי החזקת ההודעה, הקשה על חסימת התראות ולאחר מכן שמירה.\n\n>השבתת התראות מאפליקציות יכולה להיעשות בדרכים שונות בהתאם לממשק המשתמש של מכשירך. אם אינך יודע כיצד להשבית אותו, נסה להשתמש בגוגל כדי ללמוד כיצד להשבית אותו."
+      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
       "title": "האם רזולוציית 1440p תיראה טוב יותר על המסך בעל רזולוציית 1080p שלי?",
