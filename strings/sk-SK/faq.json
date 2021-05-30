@@ -6,7 +6,7 @@
     },
     {
       "title": "Kde je tlačidlo Stiahnuť?",
-      "description": "Google samozrejme nedovolí, aby sa v ich obchode nachádzala upravená verzia jeho vlastnej aplikácie, takže ju v obchode Google Play nehľadajte, ide o falošné aplikácie.\n\nVanced aplikácie je možné stiahnuť a nainštalovať pomocou aplikácie Vanced Manager, ktorú nájdete na našej oficiálnej webovej stránke: <https://vancedapp.com>, ale môžete si ich tiež stiahnuť z [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Google samozrejme nedovolí, aby sa v ich obchode nachádzala upravená verzia jeho vlastnej aplikácie, takže ju v obchode Google Play nehľadajte, ide len o falošné aplikácie.\n\nVanced aplikácie je možné stiahnuť a nainštalovať pomocou aplikácie Vanced Manager, ktorú nájdete na našej oficiálnej webovej stránke: <https://vancedapp.com>, ale môžete si ich tiež stiahnuť z [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
       "title": "Bude sa YouTube Vanced automaticky aktualizovať?",
@@ -62,15 +62,15 @@
       "fields": [
         {
           "title": "Používatelia OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "content": "1. Ťuknite a podržte ikonku YouTube alebo YouTube Vanced vo vašom menu aplikácií\n2. Ťuknite na **O aplikácii**\n3. Nájdite \"**Nastaviť ako predvolené**\" a ťuknite naň\n4. Ťuknite na \"**Otvoriť podporované odkazy**\" a zvoľte \"**Otvárať v tejto aplikácii**\"\n\nV starších verziách OneUI môže byť názov možnosti v 4. kroku trochu odlišný. V tom prípade budete musieť ťuknúť na \"**Prejsť na podporované odkazy**\" a vybrať možnosť \"**V tejto aplikácii**\".\nVo veľmi starých verziách OneUI 💩, budete možno musieť ísť do **Nastavenia** > **Aplikácie** > *[ťuknúť na tri bodky v pravom hornom rohu]* > **Predvolené aplikácie**> **Nastaviť ako predvolené**. Po načítaní aplikácie nájdite YouTube Vanced alebo YouTube a pokračujte krokom č. 4..."
         },
         {
           "title": "Používatelia MIUI:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Otvorte nastavenia\n2. Prejdite na **aplikácie**,\n3. **Správa aplikácii**,\n4. Potom ťuknite na tri bodky v pravom rohu,\n5. **Predvolené aplikácie**\n6. **Otváranie odkazy**.\n7. Počkajte, kým sa načítajú všetky aplikácie…\n8. Nájdite YouTube alebo YouTube Vanced a ťuknite naň.\n9. Ťuknite na \"**Otvárať podporované odkazy**\" a vyberte \"**Otvárať**\""
         },
         {
           "title": "Používatelia AOSP a ostatných UI (OOS, ColorOS, EMUI, atď..):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. Otvorte **Nastavenia**\n2. Prejdite na **Aplikácie**\n3. Ťuknite na **Predvolené aplikácie**\n4. Nájdite **YouTube** alebo **YouTube Vanced**\n9. Ťuknite na \"**Otvárať podporované odkazy**\" a vyberte možnosť \"**Otvárať v tejto aplikácii**\"\n\nAk máte stále problémy, možno budete musieť vyhľadať niektoré články/videá, \"ako na to\" na [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) alebo môžete nainštalovať aplikáciu tretej strany z [Obchodu Play](https://play.google.com/store/search?q=open%20with), ktorá vám pomôže vyriešiť tento problém…"
         }
       ]
     },
@@ -110,7 +110,7 @@
     },
     {
       "title": "Ako skryť upozornenie microG?",
-      "description": "Ak chcete upozornenie microG skryť,\n\n1. Je potrebné deaktivovať optimalizáciu batérie pre microG a reštartovať zariadenie.\n\n2. Ak metóda vyššie nefunguje, deaktivujte upozornenie microG podržaním tohto upozornenia, kde ho následne vypnite a ťuknite na Uložiť.\n\n>Zakázanie upozornení aplikácií je možné vykonať rôznymi spôsobmi v závislosti od používateľského rozhrania systému Android. Ak neviete, ako upozornenie vypnúť na vašom zariadení, skúste použiť Google a nájsť riešenie."
+      "description": "Ak chcete upozornenie microG skryť,\n\n1. Je potrebné deaktivovať optimalizáciu batérie pre microG a reštartovať zariadenie.\n\n2. Ak metóda vyššie nefunguje, deaktivujte upozornenie microG podržaním tohto upozornenia, kde ho následne vypnite a ťuknite na Uložiť.\n\n> Zakázanie upozornení aplikácií je možné vykonať rôznymi spôsobmi v závislosti od používateľského rozhrania systému Android. Ak neviete, ako upozornenie vypnúť na vašom zariadení, skúste použiť Google a nájsť riešenie."
     },
     {
       "title": "Vyzerá rozlíšenie 1440p lepšie na mojej obrazovke s rozlíšením 1080p?",

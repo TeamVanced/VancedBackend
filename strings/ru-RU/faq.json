@@ -6,7 +6,7 @@
     },
     {
       "title": "А где кнопка для скачивания?",
-      "description": "Компания Google не разрешает публикацию своего модифицированного приложения в магазине, поэтому не ищите его в Play Market, все эти приложения являются подделками.\n\nВы можете скачать его с официального сайта: <https://vancedapp.com>, а также с репозитория на GitHub: <https://github.com/YTVanced/VancedManager/releases/latest>"
+      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
       "title": "Будет ли приложение автоматически обновляться?",
@@ -62,14 +62,14 @@
       "fields": [
         {
           "title": "Пользователи OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
         },
         {
           "title": "Пользователи MIUI:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "title": "AOSP и другие пользовательские интерфейсы (OOS, ColorOS, EMUI, и т.д.):",
           "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
         }
       ]
@@ -79,11 +79,11 @@
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Why casting doesn't work?",
+      "title": "Почему трансляция не работает?",
       "description": "Для пользователей последней версией v16.16.38 non-root версии, в исходном коде microG есть баг. До решения бага, пожалуйста ждите обновлений или вернитесь на версию v15. Пользователи root не будут испытывать проблемы с трансляцией экрана при использовании сервисов Google Play."
     },
     {
-      "title": "What is APK Signing?",
+      "title": "Что такое подпись APK?",
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
@@ -104,13 +104,13 @@
       "fields": [
         {
           "title": "Обходные решения:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "content": "1. Подключитесь через VPN используя другой регион.\n2. Используйте [веб-версию] (https://youtube.com)\n3. Поскольку ограничение 480p существует только для мобильных устройств и не для планшетов, вы можете изменить модель устройства в YouTube Vanced для преодоления ограничения.\n\n#### Как изменить модель устройства?\n1. Откройте YouTube Vanced.\n2. Перейдите в Настройки\n3. Нажмите на \"Расширенные настройки\"\n4. Включите скрытые настройки\n  - Прокрутите вниз до конца и нажимайте на раздел \"О программе\" до тех пор, пока вы не получите сообщение о том, что скрытые настройки включены.\n5. Перейдите в Режим переопределения кодека\n6. Укажите в разделе устройство Samsung и модель \"SM-T865\".\n7. Перезапустите приложение.\n\nПосле перезапуска, лимит в 480p должен уйти."
         }
       ]
     },
     {
       "title": "Как скрыть уведомление от microG?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
       "title": "Выглядит ли 1440p лучше на моем 1080p экране?",

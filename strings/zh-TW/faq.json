@@ -6,7 +6,7 @@
     },
     {
       "title": "「下載」按鈕在哪裡？",
-      "description": "當然，Google 不會允許自己的 APP 的修改版本在自己的商店上架，因此不要在 Google Play 商店尋找，那些是假的 APP。\n\nVanced 相關 APP 可藉由 Vanced Manager 來下載安裝，而 Vanced Manager 可以從我們的官網（<https://vancedapp.com>）下載，但您也可以在 GitHub （<https://github.com/YTVanced/VancedManager/releases/latest>）上拿到它。"
+      "description": "當然，Google 不會允許自己的 APP 的修改版本在自己的商店上架，因此不要在 Google Play 商店尋找，那些是假的 APP。\n\nVanced 相關 APP 可藉由 Vanced Manager 來下載安裝，而 Vanced Manager 可以從我們的官網（<https://vancedapp.com>）下載，但您也可以在 [GitHub]（<https://github.com/YTVanced/VancedManager/releases/latest>）上取得。"
     },
     {
       "title": "YouTube Vanced 會自動更新嗎？",
@@ -21,7 +21,7 @@
       "description": "若您在 Vanced 設定 > 版面設定中將留言設定為顯示在底部（舊位置），請停用此設定，然後重開 APP。\n若情況依舊，請強制停止 APP 並清除它的資料（清除儲存空間）"
     },
     {
-      "title": " 無法開啟字幕？",
+      "title": "無法開啟字幕？",
       "description": "這不是 Vanced 或是 Youtube 的問題，並不是每部影片都有字幕。"
     },
     {
@@ -29,24 +29,24 @@
       "description": "我們「不」接受捐款！\n\n任何情況下的任何網站、連結、貼文所要求的任何形式的捐款都是假的。\n\n但如果您想支持 Vanced 的開發者們，您可使用 [此連結](https://brave.com/kev231) 來下載 Brave、[此連結](https://adguard.com/en/welcome.html?aid=31141) 來下載 AdGuard。"
     },
     {
-      "title": "輔助功能請求按鈕",
-      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
+      "title": "如何使播放器版面自動隱藏？",
+      "description": "您可以在YouTube Vanced > 設定 > 無障礙設定中進行設定。如果設定無法打開或不起作用，轉往您裝置上的設定 > 無障礙設定並關閉聲音擴大器、開關功能，即時字幕。"
     },
     {
-      "title": "Why using split APKs?",
-      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
+      "title": "為何使用 split APKs？",
+      "description": "因為:\n\n1. 系統應用程式使用它，所以 Vanced 也使用它。\n2. 它只安裝您指定的語言來減少儲存消耗。\n3. 它有您的裝置需要的唯一核心 APK 版本。\n\n當然，Vanced Manager 或開發人員可以將其轉換為普通的、單一的 APK 檔案，但我們太懶了。你只需要使用我們提供的就好…\n\n不過不要擔心，Vanced Manager 會為你做所有的辛苦工作，所以只要點選 「安裝」按鈕。"
     },
     {
       "title": "為甚麼啟動畫面的顏色跟主題不一樣？",
-      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
+      "description": "啟動螢幕的背景顏色是從 Android framework 的顏色，以確保它改變根據系統主題。你可以使用 [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) 或 [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) 或類似的應用程式來改變顏色。"
     },
     {
       "title": "我應該重新下載安裝檔嗎？",
-      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
+      "description": "由於各種原因，檔案可能被損壞，並可能在之後導致問題。為了避免這種情況，您可以選擇再次下載，以確保安裝順利進行。"
     },
     {
-      "title": "麥克風",
-      "description": "It does if your Vanced is up-to-date."
+      "title": "為什麼root版本沒有\"麥克風\"權限？",
+      "description": "如果你的 Vanced 是最新的就可以。"
     },
     {
       "title": "ExoPlayer v1 是什麼？",
@@ -57,16 +57,16 @@
       "description": "輕觸 Vanced 設定中的「關於」區塊 6 ~ 7 次即可開啟。此步驟僅會開啟額外的影片編碼設定。"
     },
     {
-      "title": "How to make YouTube Vanced as default app?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "title": "如何使 YouTube Vanced 作為預設應用程式？",
+      "description": "正如標題所言，許多使用者一直在詢問如何讓 YouTube Vanced 作為從其他應用程式 (如瀏覽器，訊息應用程式和任何其他應用程式) 開啟 YouTube 連結的預設設定。\n\n對於 Root 使用者，您不必擔心，因為它已經被預設設定，因為 YouTube Vanced 已經取代系統 YouTube 。\n\n對於 Non-Root 使用者，解決方案分為 OneUI,、MIUI 和其他。我們不能為所有的作業系統提供解決方案，你可能需要自己搜尋。",
       "fields": [
         {
-          "title": "OneUI users:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon\n2. Tap on **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly difference. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option."
+          "title": "OneUI 使用者：",
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
         },
         {
-          "title": "MIUI users:",
-          "content": "1. Open Settings\n2. Got to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "title": "MIUI 使用者：",
+          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {
           "title": "AOSP 及其他 UI (OOS、ColorOS、EMUI...等)：",
@@ -79,42 +79,42 @@
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Why casting doesn't work?",
+      "title": "為何「投放」不起作用？",
       "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
     },
     {
-      "title": "What is APK Signing?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "什麼是APK簽名？",
+      "description": "您正在閱讀本文是因為您沒有使用Vanced Manager，或是您可能從非官方來源安裝了Vanced。\n只使用Vanced Manager吧！\n\n您可以從以下位置安全的下載Vanced Manager：\n- [官方網站](https://vancedapp.com)\n- [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Is YouTube Vanced on Play Store?",
+      "title": "YouTube Vanced 有在 Play 商店上架嗎？",
       "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "為何Vanced沒有顯示在主畫面或應用程式清單中？",
+      "description": "您正在閱讀本文是因為您沒有使用Vanced Manager，或是您可能從非官方來源安裝了Vanced。\n只使用Vanced Manager吧！\n\n您可以從以下位置安全的下載Vanced Manager：\n- [官方網站](https://vancedapp.com)\n- [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "為何影片無法播放？",
+      "description": "試試重開 app。也有可能是網際網路連線或您的裝置出了問題。"
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "為何上限只到 480p？",
+      "description": "因為 COVID-19（武漢肺炎）的緣故，Google 限制了某些國家的資料用量。由於這是伺服器端的設定，因此 Vanced 與原生 YouTube 使用者皆會受到影響。",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "解決方案:",
+          "content": "1. 使用VPN連線到其他區域\n2. 使用[網頁版](https://youtube.com)\n3. 由於480p限制僅適用於手機而非平板，因此您可以在YouTube Vanced中更改設備型號以克服該限制\n\n#### 如何更改設備型號？\n1. 開啟YouTube Vanced\n2. 前往「設定」\n3. 輕觸「Vanced 設定」\n4. 開啟隱藏設定:\n  - 往下滑，一直輕觸「關於」直到看見「隱藏設定已開啟」\n5. 前往「覆寫編解碼器」\n6. 輕觸「覆寫製造商」並改為「Samsung」，輕觸「覆寫機型」並改為「SM-T865」\n7. 重啟應用程式\n\n重新啟動後，480p的限制將消失。"
         }
       ]
     },
     {
-      "title": "How to hide the microG notification?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n>Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "title": "要怎麼隱藏 microG 的通知？",
+      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "1440p在我的1080p螢幕上會看起來更棒嗎？",
+      "description": "是的，但前提是影片比例為18：9、21：9時；您可以在「設定 > 一般」中開啟\"啟用影片格式資料\"進行確認。\n\n要使用更高的影片解析度，請前往「Vanced 設定 > 影片設定」，然後開啟\"最高影片解析度\"，接著重新啟動應用程式。"
     }
   ]
 }

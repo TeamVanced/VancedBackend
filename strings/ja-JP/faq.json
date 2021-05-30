@@ -6,7 +6,7 @@
     },
     {
       "title": "どこからダウンロードできますか？",
-      "description": "当然ながら、Google のアプリの改造版を Google Play ストアに公開することは認められません。Play ストアにある Vanced アプリは偽物ですのでご利用はお控えください。\n\nVanced アプリのダウンロードとインストールは公式ホームページ <https://vancedapp.com> で公開されている Vanced Manager から行ってください。Vanced Manager は [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest) からもダウンロードできます。"
+      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
       "title": "YouTube Vanced は自動更新されますか？",
@@ -62,7 +62,7 @@
       "fields": [
         {
           "title": "OneUI ユーザー:",
-          "content": "1. YouTube Vanced アプリのアイコンを長押しする。\n2. 「アプリ情報」をタップする。\n3. 「標準アプリとして設定」を探し、タップする。\n4. 「対応リンクを開く」をタップし「このアプリで開く」を選択する。\n\nOneUI の古いバージョンでは 4 番目のオプションの名前が異なる場合があります。その場合は「対応する URL に移動」をタップし「このアプリで起動」を選択してください。"
+          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
         },
         {
           "title": "MIUI ユーザー:",
@@ -70,7 +70,7 @@
         },
         {
           "title": "AOSP およびその他のカスタム UI ユーザー（OOS、ColorOS、EMUI など）:",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. 設定アプリを開く。\n2. 「アプリと通知」をタップする。\n3. 「詳細設定」を開く。\n4. 「デフォルトのアプリ」をタップする。\n5. 「リンクを開く」をタップする。\n6.「YouTube Vanced」を探し、タップする。\n7. 「対応リンクを開く」をタップし「このアプリで開く」を選択する。\n\nお困りの場合は、[Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) で方法を検索するか、[Play ストア](https://play.google.com/store/search?q=open%20with)からサードパーティのアプリをダウンロードすることをおすすめします。"
         }
       ]
     },
@@ -110,7 +110,7 @@
     },
     {
       "title": "どうやって microG の通知を非表示にしますか？",
-      "description": "microG の通知を隠す方法\n1. バッテリー最適化を無効にしてデバイスを再起動してください。\n\n2. 再起動後も通知が表示されている場合には、microG の通知を長押ししてバッテリー最適化を無効にしてください。\n\n> Android の システム UI 上から通知を非表示にすることもできます。Android で通知を無効にする方法は Google のヘルプをご覧ください。"
+      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
       "title": "1080p の画面で 1440p に設定する意味がありますか？",
