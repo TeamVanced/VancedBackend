@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "title": "Vanced란",
+      "title": "YouTube Vanced는 무엇인가요?",
       "description": "YouTube Vanced는 YouTube를 더욱 잘 쓸 수 있도록 기능과 개선점을 추가하여 개조한 버전입니다!\n\n아래와 같은 기능들을 쓸 수 있습니다.\n\n백그라운드 재생\n사용자 지정 테마(기존 어두운 테마 혹은 OLED 검정 테마)\n광고 차단\n동영상 품질 제한 무시 등!\n모든 기능들을 보려면, XDA 게시글의 \"features\" 부분(https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)을 읽어 보세요. 모든 기능 목록이나 기타 일반적인 정보를 확인하실 수 있습니다."
     },
     {
       "title": "다운로드 링크",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "Google 정책 상, 변형된 앱을 Google Play 스토어에 올리는 것이 허용되지 않습니다. 스토어에 올라온 앱들은 가짜 앱입니다.\n\nVanced 앱은 공식 웹사이트인 <https://vancedapp.com> 에서 찾을 수 있는 Vanced Manager 에서만 배포됩니다. [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)에서도 배포됩니다."
     },
     {
       "title": "앱이 자동으로 업데이트되나요?",
@@ -62,7 +62,7 @@
       "fields": [
         {
           "title": "OneUI 사용자:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. YouTube나 YouTube Vanced 앱 아이콘을 길게 누릅니다\n2. **앱 정보**를 누릅니다.\n3. \"**기본으로 설정**\"을 찾아 누릅니다\n4. \"**지원하는 링크 열기**\"를 누르고 \"**이 앱에서 열기**\"를 고릅니다\n\n이전 버전의 One UI에서는, 4번째 단계의 설정 이름이 살짝 다를 수 있습니다. 아마 \"**지원하는 URL로 이동**\"을 누르고 \"**이 앱에서 열기**\"를 골라야 할 겁니다.\n매우 오래된 버전의 One UI에서는 💩, **설정** > **애플리케이션** > *[우상단 3점 메뉴]* > **기본 앱** > **기본으로 설정**을 누릅니다. 앱 목록을 불러온 뒤 YouTube Vanced나 YouTube를 찾고 4번째 단계부터 다시 따라 하면 됩니다."
         },
         {
           "title": "MIUI 사용자:",
@@ -110,7 +110,7 @@
     },
     {
       "title": "MicroG 알림을 숨기는 방법",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "microG 알림을 숨기려면,\n\n1. Vanced microG를 배터리 최적화에서 해제하고 기기를 재시작하세요.\n\n2. 위 방법이 통하지 않는다면, microG 알림을 길게 누른 다음, 알림을 끄고, 저장하여 microG 알림을 끄세요.\n\n> Android 사용자 인터페이스에 따라 앱 알림을 비활성화하는 방법이 다를 수 있습니다. 비활성화하는 방법을 잘 모르겠다면, 검색을 통해 방법을 알아보시기 바랍니다."
     },
     {
       "title": "1440p가 1080p 화면에서도 더 좋은 화질을 제공해주나요?",
