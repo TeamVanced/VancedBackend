@@ -6,7 +6,7 @@
     },
     {
       "title": "Къде е бутона за изтегляне?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "Естествено Google няма да позволи модифицирана версия на собственото си приложение в магазина си за това не търсете в Google Play Store. Наличните приложения там са фалшиви.\n\nVanced може да бъде изтеглено и инсталирано чрез Vanced Manager който се намира на официалния ни сайт:<https://vancedapp.com> също можете да го вземете и от GitHub:<https://github.com/YTVanced/VancedManager/releases/latest>."
     },
     {
       "title": "Ще се актуализира ли YouTube Vanced само?",
@@ -110,7 +110,7 @@
     },
     {
       "title": "Как да скрия известията от microG?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "За да скриете известието от microG,\n\n1. Можете да изключите оптимизацията на батерията за Vanced microG и да рестартирате устройството си.\n\n2. Ако методът по-горе не работи, изключете известията за microG, като задържите пръста си върху тях, изберете изключване и след това запаметяване.\n\n>Изключването на известията може да се направи по различни начини, в зависимост от потребителския интерфейс на Android. Ако не знаете как да ги изключите, потърсете в Google, за да научите как."
     },
     {
       "title": "Изглежда ли по-добре видео с резолюция 1440р на екран с резолюция 1080р?",
