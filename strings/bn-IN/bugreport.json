@@ -10,7 +10,7 @@
         },
         {
           "title": "আমি কীভাবে লগক্যাট নেব?",
-          "content": "নন-রুট ইউজারদের জন্য:\nলগক্যাট আউটপুটগুলি নিতে আপনার একটি পিসি লাগবে। এখানে একটি [টেক্সট গাইড] (https://github.com/YTVanced/Vanced#creating-a-logcat- using-the-android-debug-bridge-adb-on-your-pc) এবং একটি [ভিডিও গাইড](https://youtu.be/ICLpwgsJJP0) রইল৷\n\nরুট ইউজারদের জন্য:\nএর জন্য আপনার কোনো পিসি লাগবে না। আপনি [এখানের](https://github.com/YTVanced/Vanced#creating-a-logcat- using-termux-on-your-root-android) এই নির্দেশাবলী অনুসরণ করতে পারেন।"
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "আপনার বাগটি কি ইউআই সম্পর্কিত?",
