@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "تقرير الأخطاء",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "الأسئلة الشائعة",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "الخصائص",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "استكشاف الأخطاء وإصلاحها",
       "json": "troubleshooting.json"
     }
   ]
