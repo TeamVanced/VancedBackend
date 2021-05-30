@@ -10,7 +10,7 @@
         },
         {
           "title": "Hvordan laver jeg en logcat?",
-          "content": "For ikke-root-brugere:\nDu skal bruge en pc til at lave et `logcat` output. Her er en [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) og en [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root brugere:\nDu behøver ikke en pc til dette. Du kan følge instruktionerne [here](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Er din fejl relateret til brugerfladen?",
