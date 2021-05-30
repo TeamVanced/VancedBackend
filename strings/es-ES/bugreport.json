@@ -10,7 +10,7 @@
         },
         {
           "title": "¿Cómo puedo hacer un registro?",
-          "content": "[here]"
+          "content": "Para los usuarios que no son root:\nNecesitarás un PC para tomar las salidas de `logcat`. Aquí hay una [guía de texto](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) y una [guía de vídeo](https://youtu.be/ICLpwgsJJP0).\n\nPara usuarios root:\nNo necesitas un PC para esto, por favor sigue [las instrucciones](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "¿Su error está relacionado con la interfaz de usuario?",
