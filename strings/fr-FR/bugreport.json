@@ -10,7 +10,7 @@
         },
         {
           "title": "Comment puis-je faire un logcat&#160;?",
-          "content": "Pour les utilisateurs sans root&#160;:\nvous aurez besoin d'un PC pour prendre des sorties `logcat`. Voici un [guide texte](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) et un [guide vidéo] (https://youtu.be/ICLpwgsJJP0).\n\nPour les utilisateurs étant root&#160;:\nvous n'avez pas besoin d'un PC pour ça. Vous pouvez suivre les instructions [ici](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Pour les utilisateurs non-root&#160;:\nVous aurez besoin d'un PC pour prendre des sorties `logcat`. Voici un [guide texte](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) et un [guide vidéo] (https://youtu.be/ICLpwgsJJP0).\n\nPour les utilisateurs root&#160;:\nVous n'avez pas besoin d'un PC pour cela. Vous pouvez suivre [les instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Votre bogue est liée à l'interface utilisateur&#160;?",
