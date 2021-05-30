@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Звіт про помилки",
       "json": "bugreport.json"
     },
     {
@@ -9,11 +9,11 @@
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Можливості",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Вирішення проблем",
       "json": "troubleshooting.json"
     }
   ]
