@@ -10,7 +10,7 @@
         },
         {
           "title": "Hoe maak ik een logcat?",
-          "content": "Voor non-root gebruikers:\nJe hebt een PC nodig om logcat te nemen. Hier is een [gids](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nVoor root gebruikers:\nJe hebt hiervoor geen PC nodig. Je vindt de instructies [hier](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Voor non-root gebruikers:\nJe hebt een PC nodig om logcat te nemen. Hier is een [gids](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) en een [video gids](https://youtu.be/ICLpwgsJJP0).\n\nVoor root gebruikers:\nJe hebt hiervoor geen PC nodig. Je vindt de instructies [hier](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Je probleem is UI gerelateerd?",
