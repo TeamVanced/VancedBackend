@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Virheraportti",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "UKK",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Ominaisuudet",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Vianmääritys",
       "json": "troubleshooting.json"
     }
   ]
