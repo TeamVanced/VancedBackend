@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "ڕاگەیاندنی کێشە",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "فێرکاری",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "تایبەتمەندییەکان",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "چارەسەرکردنی هەڵە",
       "json": "troubleshooting.json"
     }
   ]
