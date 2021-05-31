@@ -6,7 +6,7 @@
     },
     {
       "title": "Που είναι το κουμπί Λήψης;",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "Φυσικά, η Google δεν θα επέτρεπε ποτέ μια πειραγμένη έκδοση της δικής της εφαρμογής ή κάτι άλλο παρόμοιο να είναι στο κατάστημά της, οπότε μην την ψάχνετε στο Google Play Store, οι υπόλοιπες εφαρμογές είναι ψεύτικες.\n\nΟι Vanced εφαρμογές μπορούν να ληφθούν και να εγκατασταθούν χρησιμοποιόντας τον Διαχειριστή Vanced που μπορεί να βρεθεί στην επίσημη ιστοσελίδα μας: <https://vancedapp.com> αλλά μπορείτε επίσης να το λάβετε από το [GitHub repo](https://github. om/YTVanced/VancedManager/releases/latest)."
     },
     {
       "title": "Ενημερώνεται αυτόματα το YouTube Vanced;",
@@ -62,7 +62,7 @@
       "fields": [
         {
           "title": "Χρήστες OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. Κρατείστε πατημένο το εικονίδιο της εφαρμογής YouTube ή YouTube Vanced (στο κέντρο του εικονιδίου μην τυχόν το μετακινήσετε)\n2. Πατήστε την επιλογή **Πληροφορίες Εφαρμογής**.\n3. Βρείτε την επιλογή \"**Ορισμός ως προεπιλογής**\" και πατήστε την\n4. Πατήστε την επιλογή \"**Άνοιγμα υποστηριζόμενων συνδέσμων**\" και επιλέξτε \"**Άνοιγμα σε αυτήν την εφαρμογή**\"\n\nΣε παλιότερες εκδόσεις του OneUI, αλλάζουν μόνο λίγο τα ονόματα των επιλογών του 4ου βήματος. Θα χρειαστεί να πατήσετε την επιλογή \"**Μετάβαση σε υποστηρ. URL**\" και να επιλέξετε \"**Σε αυτήν την εφαρμογή**\".\nΣτις αρχικές (παλιές) εκδόσεις του OneUI 💩, θα χρειαστεί να πάτε στις **Ρυθμίσεις** > **Εφαρμογές** > *[πατήστε τις 3 τελίτσες στην πάνω δεξιά γωνία]* > **Προεπιλεγμένες εφαρμογές** > **Ορισμός ως προεπιλογή**. Μετά από λίγο, μόλις φορτώσουν οι εφαρμογές, βρείτε το YouTube ή το YouTube Vanced και ακολουθείστε το 4ο βήμα..."
         },
         {
           "title": "Χρήστες MIUI:",
@@ -76,10 +76,10 @@
     },
     {
       "title": "Γιατί η έκδοση root δεν λειτουργεί με το microG Core;",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "description": "1. Πρέπει να έχετε τουλάχιστον την έκδοση [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) των GApps για την εκτέλεση του Vanced.\n\n2. Δεν μπορείτε να εκτελέσετε το Vanced με το microG Core, χωρίς το πλαίσιο υπηρεσιών Google Play, το οποίο διατίθεται σε όλα τα πακέτα GApps και είναι μια απαιτούμενη βιβλιοθήκη.\n\n3. Αν ανησυχείτε για το απόρρητό σας και δεν θέλετε να χρησιμοποιείτε GApps, αλλά θέλετε να παρακολουθείτε YouTube χωρίς διαφημίσεις, η [έκδοση ιστότοπου](https://youtube.com) είναι πάντα διαθέσιμη."
     },
     {
-      "title": "Why casting doesn't work?",
+      "title": "Γιατί δεν λειτουργεί η μετάδοση;",
       "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
     },
     {
