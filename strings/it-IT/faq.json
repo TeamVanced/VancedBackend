@@ -110,11 +110,11 @@
     },
     {
       "title": "Come nascondere la notifica di microG?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Per nascondere la notifica di microG,\n\n1. È possibile disabilitare l'ottimizzazione della batteria per il microG Vanced e riavviare il dispositivo.\n\n2. Se il metodo sopra non funziona, disabilita le notifiche microG tenendo premuto sulla notifica, disattiva e tocca Salva.\n\n> La disattivazione delle notifiche app può essere effettuata in modi diversi a seconda dell'interfaccia utente Android. Se non sai come disattivarlo, prova a usare Google per imparare a disabilitarlo."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "Il 1440p si vedono meglio sul mio schermo 1080p?",
+      "description": "Sì, ma solo se il rapporto video è qualcosa come 18:9, 21:9, ... Puoi attivare `Statistiche per i nerds` in Impostazioni > Generale per confermarlo.\n\nPer abilitare risoluzioni più elevate, vai su Impostazioni avanzate > Impostazioni video e attiva la `risoluzione Max` e riavvia l'app."
     }
   ]
 }
