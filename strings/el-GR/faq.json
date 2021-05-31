@@ -80,7 +80,7 @@
     },
     {
       "title": "Γιατί δεν λειτουργεί η μετάδοση;",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "description": "Για τους απλούς χρήστες non-root στην τελευταία έκδοση v16.16.38, υπάρχει ένα σφάλμα με το microG. Μέχρι να επιδιορθωθεί, παρακαλώ περιμένετε για κάποια ενημέρωση ή γυρίστε στις εκδόσεις v15. Οι χρήστες με πρόσβαση root δεν θα έχουν προβλήματα με την μετάδοση αν χρησιμοποιούν τις υπηρεσίες Google Play."
     },
     {
       "title": "What is APK Signing?",
