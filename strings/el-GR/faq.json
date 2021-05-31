@@ -83,7 +83,7 @@
       "description": "Για τους απλούς χρήστες non-root στην τελευταία έκδοση v16.16.38, υπάρχει ένα σφάλμα με το microG. Μέχρι να επιδιορθωθεί, παρακαλώ περιμένετε για κάποια ενημέρωση ή γυρίστε στις εκδόσεις v15. Οι χρήστες με πρόσβαση root δεν θα έχουν προβλήματα με την μετάδοση αν χρησιμοποιούν τις υπηρεσίες Google Play."
     },
     {
-      "title": "What is APK Signing?",
+      "title": "Τι είναι η Υπογραφή των APK;",
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
