@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "பிழையறிக்கை",
       "json": "bugreport.json"
     },
     {
