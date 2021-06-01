@@ -13,24 +13,24 @@
       "description": "No, no lo hará. Únete al Canal de Telegram/servidor de Discord o usa Vanced Manager para ser notificado cuando una actualización sea publicada. Los desarrolladores no tienen planes de agregar un actualizador/verificador automático a la aplicación.\nEnlaces a\nDiscord: https://discord.gg/wYrRPgv\nTelegram: https://t.me/Vanced"
     },
     {
-      "title": "Descarga de Video",
+      "title": "¿Puede Vanced descargar vídeos?",
       "description": "Descargar vídeos sólo está disponible en estos (https://support.google.com/youtube/answer/6141269) países de forma gratuita. Los videos que necesitan YouTube Premium nunca se descargarán, así que si ves el diálogo de YT premium al descargar algunos vídeos, COMPRA YouTube PREMIUM PARA ESO.\n\nTen en cuenta esto de nuevo, \"VANCED NO ES YOUTUBE PREMIUM\".\n\n⚠️⚠️Vanced nunca añadirá ningún tipo de descargador de terceros a la aplicación. ⚠️No sólo es un problema que deben mantener los desarrolladores, sino que también da a Google una razón más para enviar un aviso de eliminación, lo que significa que el desarrollo será cesado para Vanced.\n\nNadie quiere eso, por lo que descargar desde otros lugares/videos de YouTube dentro de la app de Vanced nunca será soportado. Por favor, no preguntes si los desarrolladores pueden añadir esa función. Si no puedes descargar desde la aplicación Vanced, entonces compra YouTube Premium.⚠️"
     },
     {
-      "title": "Problemas de gestos de deslizamiendo",
+      "title": "¿Por qué los gestos de deslizamiento no funcionan?",
       "description": "Si has activado \"Comentarios viejos\" desde ajustes de youtube > ajustes de vanced > diseño, desactívalos y reinicia la aplicación. Si eso no funciona, prueba eliminando los datos de la aplicación y caché. Si eso no funciona, reporta en nuestro repositorio de github. Mira problemas anteriores antes de crear uno nuevo."
     },
     {
-      "title": "Subtítulos no disponibles",
-      "description": "Este no es un problema. No todos los videos tienen leyendas."
+      "title": "¿Subtítulos no disponibles?",
+      "description": "Este no es un problema relacionado con Vanced o YouTube. No todos los vídeos tienen subtítulos."
     },
     {
       "title": "¿Aceptáis donaciones?",
-      "description": "¡NO aceptamos donaciones!\n\nCualquier tipo de donaciones bajo cualquier circunstancia y cualquier sitio o enlace o publicaciones que soliciten donaciones son simplemente falsas.\n\nPero si quieres dar tu apoyo a los desarrolladores de Vanced puedes descargar Brave usando [este enlace](https://brave.com/kev231) y AdGuard usando [este enlace](https://adguard.com/en/welcome.html?aid=31141)."
+      "description": "¡NO aceptamos donaciones!\n\nCualquier tipo de donación, bajo cualquier circunstancia, y cualquier sitio, enlace o publicación que solicite donaciones, es simplemente falso.\n\nPero si quieres dar tu apoyo a los desarrolladores de Vanced, puedes descargar Brave usando [este enlace](https://brave.com/kev231) y AdGuard usando [este enlace](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
       "title": "¿Cómo puedo hacer que el reproductor se oculte automáticamente?",
-      "description": "Puedes configurarlo en Ajustes de YouTube Vanced > Accesibilidad. Si la configuración no se puede abrir o no funciona, vaya a la configuración de accesibilidad del dispositivo y desactive el amplificador de sonido, la accesibilidad con interruptores y los subtitulos instantáneos."
+      "description": "Puedes configurarlo en YouTube Vanced > Ajustes > Accesibilidad. Si la configuración no se puede abrir o no funciona, vaya a la configuración de accesibilidad del dispositivo y desactive el amplificador de sonido, la accesibilidad mediante interruptores y los subtítulos instantáneos."
     },
     {
       "title": "¿Por qué usar APK separadas?",
