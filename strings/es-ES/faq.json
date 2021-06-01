@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "title": "Qué es Vanced",
+      "title": "¿Qué es Youtube Vanced?",
       "description": "YouTube Vanced es una versión modificada de YouTube ¡con características y retoques que mejoran tu experiencia con YouTube!\n\nEstas características incluyen:\n\nReproducción en segundo plano\nTemas personalizados (obscuro normal u obscuro OLED)\nBloquea la mayoría de anuncios\nSobrescribe la resolución máxima\n¡Y mucho más!\nPara una lista completa, mira la lista \"Features\" en el hilo de XDA. El enlace a esto (y otra información general) es (https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)"
     },
     {
-      "title": "Links de Descarga",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "title": "¿Dónde está el botón de descarga?",
+      "description": "Por supuesto, Google no permitirá que una versión modificada de su propia aplicación esté en su tienda, así que no la busques en Google Play Store, son simplemente aplicaciones falsas.\n\nLas aplicaciones Vanced pueden ser descargadas e instaladas usando Vanced Manager, que se puede encontrar en nuestro sitio web oficial: <https://vancedapp.com> pero también puedes descargarla desde [GitHub repo](https://github. om/YTVanced/VancedManager/releases/latest)."
     },
     {
-      "title": "¿La aplicación se actualizará automáticamente?",
+      "title": "¿Youtube Vanced se actualiza automáticamente?",
       "description": "No, no lo hará. Únete al Canal de Telegram/servidor de Discord o usa Vanced Manager para ser notificado cuando una actualización sea publicada. Los desarrolladores no tienen planes de agregar un actualizador/verificador automático a la aplicación.\nEnlaces a\nDiscord: https://discord.gg/wYrRPgv\nTelegram: https://t.me/Vanced"
     },
     {
@@ -62,7 +62,7 @@
       "fields": [
         {
           "title": "Usuarios de OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. Mantenga pulsado el icono de la aplicación YouTube o YouTube Vanced desde tu cajón de aplicaciones.\n2. Pulse **Datos de aplicación**.\n3. Busque \"**Establecer como predeterminado**\" y púlsalo.\n4. Toca \"**Abrir enlaces compatibles**\" y elige \"**Abrir en esta app**\".\n\nEn versiones anteriores de OneUI, el nombre de las opciones en el 4º paso puede ser ligeramente diferente. Puede que tengas que tocar \"**Ir a URLs soportadas**\" y elegir la opción \"**En esta app**\".\nEn la versión más antigua de OneUI 💩, es posible que tengas que ir a **Configuración** > **Aplicaciones** > *[tocar tres puntos en la esquina derecha]* > **Aplicaciones predeterminadas** > **Establecer como predeterminadas**. Una vez cargadas las aplicaciones, busca YouTube Vanced o YouTube y sigue el cuarto paso..."
         },
         {
           "title": "Usuarios de MIUI:",
@@ -110,7 +110,7 @@
     },
     {
       "title": "¿Cómo puedo ocultar la notificación de microG?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Para ocultar la notificación de microG,\n\n1. Puedes desactivar la optimización de batería para Vanced microG y reiniciar tu dispositivo.\n\n2. Si el método anterior no funciona, desactiva las notificaciones de microG manteniendo pulsada la notificación, desactívalas y pulsa Guardar.\n\n>Las notificaciones de aplicaciones pueden ser desactivadas de diferentes maneras dependiendo de la interfaz de usuario de Android. Si no sabes cómo desactivarlas, intenta utilizar Google para aprender a hacerlo."
     },
     {
       "title": "¿Se ve mejor 1440p en mi pantalla 1080p?",
