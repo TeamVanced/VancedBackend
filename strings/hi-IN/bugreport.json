@@ -10,7 +10,7 @@
         },
         {
           "title": "मैं एक logcat कैसे दूं?",
-          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "गैर-रूट उपयोगकर्ताओं के लिए:\nआप `logcat` outputs लेने के लिए एक पीसी की आवश्यकता होगी। यहाँ एक [पाठ गाइड] (https://github.com/YTVanced/Vanced#creating-a-logcat-use-the-android-debug-bridge-adb-on-your-pc) और एक [वीडियो गाइड] है। (https://youtu.be/ICLpwgsJJP0)।\n\nरूट उपयोगकर्ताओं के लिए:\nइसके लिए आपको एक पीसी की आवश्यकता नहीं है। आप निर्देशों का पालन कर सकते हैं [यहाँ] (https://github.com/YTVanced/Vanced#creating-a-logcat-use-termux-on-your-rooted-android)।"
         },
         {
           "title": "आपका बग UI संबंधित है?",
