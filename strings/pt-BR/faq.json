@@ -58,28 +58,28 @@
     },
     {
       "title": "Como fazer o YouTube Vanced como o app padrão?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Como diz o título, muitos usuários têm perguntado muitas vezes como podem tornar o YouTube Vanced como padrão para abrir links do YouTube de outros aplicativos (como navegadores), Aplicativos de mensagens e qualquer outro app).\n\nPara o root, você não precisa se preocupar porque isso já é definido como padrão, uma vez que o YouTube Vanced é substituído pelo Stock YouTube.\n\nPara soluções não-root, as soluções foram divididas entre o OneUI, o MIUI e o restante. Não podemos fornecer soluções para cada sistema operacional lá fora, e você pode precisar Google sozinho.",
       "fields": [
         {
-          "title": "OneUI users:",
+          "title": "Usuários OneUI:",
           "content": "1. Toque e segure no ícone do YouTube ou do YouTube Vanced na sua lista de apps.\n2. Toque em **Informações do aplicativo**.\n3. Encontre \"**Definir como padrão**\" e toque nele\n4. Toque em \"**Abrir links suportados**\" e escolha \"**Abrir neste aplicativo**\"\n\nEm versões mais antigas do OneUI, o nome das opções no quarto passo pode ser um pouco diferente. Você pode precisar tocar em \"**Ir para URLs suportadas** e escolher \"**Neste aplicativo**\".\nNa versão mais antiga da OneUI 💩, você pode precisar ir para **Configurações** > **Aplicativos** > *[toque em três pontos no canto direito]* > **Aplicativos padrão** > **Definir como padrão**. Após os aplicativos carregarem, encontre o YouTube Vanced ou YouTube e siga o quarto passo..."
         },
         {
-          "title": "MIUI users:",
-          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "title": "Usuários MIUI:",
+          "content": "1. Abra Configurações\n 2. Vá para ** Apps **,\n 3. ** Gerenciar aplicativos **,\n 4. Em seguida, toque nos três pontos no canto direito,\n 5. ** Aplicativos padrão **,\n 6. ** Links de abertura **.\n 7. Espere até que todos os seus aplicativos sejam listados ...\n 8. Encontre YouTube ou YouTube Vanced e toque nele.\n 9. Toque em \"** Abrir links compatíveis **\" e escolha \"** Abrir **\""
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "title": "AOSP e outras IUs personalizadas (OOS, ColorOS, EMUI, etc.):",
+          "content": "1. Abra **Configurações**\n2. Vá para **Aplicativos**\n3. Toque em **Aplicativos Padrão**\n4. Encontre **YouTube** ou **YouTube Vanced**\n5. Toque em \"**Ir para URLs compatíveis**\" e escolha a opção \"**Abrir neste aplicativo**\"\n\nSe você ainda estiver se esforçando com isso, você pode precisar pesquisar alguns artigos / vídeos em [Google](https://www. oogle.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) ou você pode instalar um aplicativo de terceiros a partir da [Play Store](https://play. oogle.com/store/search?q=open%20com) para salvá-lo deste aborrecimento…"
         }
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "Por que a variante raiz não funciona com microG Core?",
+      "description": "1. Você precisa ter pelo menos a variante [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) do GApps para executar o Vanced.\n\n2. Você não pode rodar Vanced with microG Core porque ele precisa do Google Play Services Framework que está disponível em todos os pacotes de GApps.\n\n3. Se você está preocupado com sua privacidade e não quer usar o GApps mas ainda quer usar o YouTube sem anúncios, a [versão web](https://youtube.com) está sempre disponível."
     },
     {
-      "title": "Why casting doesn't work?",
+      "title": "Por que o Transmitir não funciona?",
       "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
     },
     {
