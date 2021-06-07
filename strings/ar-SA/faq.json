@@ -6,7 +6,7 @@
     },
     {
       "title": "أين زر التنزيل؟",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "بالطبع ، لن تسمح غوغل بوجود نسخة معدلة من التطبيق الخاص بها في متجرها ، لذا لا تبحث عنها في متجر غوغل ، فهذه تطبيقات مزيفة. يمكن تنزيل تطبيقات يوتيوب فانسد وتثبيته بإستخدام مدير فانسد الذي يمكن العثور عليه على موقعنا الرسمي: <https://vancedapp.com> ولكن يمكنك أيضًا الحصول عليه من [GitHub repo] (https://github.com/YTVanced/ VancedManager / جميع الإصدارات/الأحدث)."
     },
     {
       "title": "هل يقوم يوتيوب فانسد بحديث نفسه تلقائياً؟",
@@ -62,7 +62,7 @@
       "fields": [
         {
           "title": "مستخدمو OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. اضغط لأسفل على يوتيوب أو أيقونة تطبيق يوتيوب Vanced من درج التطبيق الخاص بك.\n2. انقر فوق **معلومات التطبيق**.\n3. ابحث عن \"**تعيين افتراضي**\" وانقر عليها\n4. انقر فوق \"**فتح الروابط المدعومة**\" واختر \"**فتح في هذا التطبيق**\"\n\nفي الإصدارات القديمة من OneUI وقد يكون اسم الخيارات في الخطوة الرابعة مختلفا بعض الشيء. قد تحتاج إلى النقر على \"**اذهب إلى عناوين URL المدعومة**\" واختر \"**في هذا التطبيق**\".\nفي الإصدار القديم من OneUI 💩, قد تحتاج إلى الذهاب إلى **إعدادات** > **تطبيقات** > *[اضغط على ثلاث نقاط في الزاوية اليمنى]* > **التطبيقات الافتراضية** > **تعيين كافتراضي**. بعد تحميل التطبيقات العثور على YouTube Vanced أو YouTube واتبع الخطوة الرابعة..."
         },
         {
           "title": "مستخدمو MIUI:",
@@ -110,7 +110,7 @@
     },
     {
       "title": "كيف تخفي إشعار microG؟",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "لإخفاء إشعار microG،\n\n1. يمكنك تعطيل تحسين البطارية لـ Vanced microG وإعادة تشغيل جهازك.\n\n2. إذا لم تنجح الطريقة المذكورة أعلاه ، فقم بتعطيل إشعارات microG بالضغط على الإشعار ، وقم بإيقاف تشغيله وانقر فوق \"حفظ\".\n\n> يمكن تعطيل إشعارات التطبيق بطرق مختلفة اعتمادًا على واجهة مستخدم الأندرويد. إذا كنت لا تعرف كيفية تعطيله ، فحاول استخدام Google لمعرفة كيفية تعطيله."
     },
     {
       "title": "هل تبدو دقة 1440p أفضل على شاشتي التي بدقة 1080p؟",
