@@ -9,12 +9,12 @@
           "content": "يخصص المطورون وقتهم لإنشاء ميزات جديدة وإصلاح العديد من المشكلات ويمكن أن يستغرق كل منهم بعض الوقت للانتهاء.\nتحتاج فقط إلى الجلوس والإنتظار. ستتم مراجعة مشكلتك في أقرب وقت ممكن."
         },
         {
-          "title": "كيفية أخذ Logcat؟",
-          "content": "للمستخدمين بدون روت: ستحتاج إلى جهاز كمبيوتر لأخذ مخرجات \"logcat\". إليك [دليل نصي] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) و [دليل فيديو] (https://youtu.be/ICLpwgsJJP0). \nلمستخدمي الروت: لست بحاجة إلى جهاز كمبيوتر لهذا الغرض. يمكنك اتباع التعليمات [هنا] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "title": "كيف يمكنني أخذ Logcat؟",
+          "content": "للمستخدمين بدون روت:\n ستحتاج إلى جهاز كمبيوتر لأخذ مخرجات \"logcat\".\n إليك [دليل نصي] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) و [دليل فيديو] (https://youtu.be/ICLpwgsJJP0). \n\nلمستخدمي الروت:\n لست بحاجة إلى جهاز كمبيوتر لهذا الغرض. يمكنك اتباع التعليمات [هنا] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "هل العطل يخص واجهة المستخدم؟",
-          "content": "بالنسبة إلى الأخطاء التي لها صلة بواجهة المستخدم ، سيكون لديك خطوات إضافية يجب اتخاذها. الرجاء تثبيت [Developer Assistant] وإعداده (https://play.google.com/store/apps/details؟id=com.appsisle.developerassistant). بعد ذلك ، انتقل إلى Vanced وأعد إنتاج العطل ، ثم افتح عارض Layout عن طريق تشغيل Developer Assistant. الآن اتبع هذه الخطوات: \n1. تأكد من ظهور العطل على الشاشة.\n 2. اضغط على العنصر الذي تعتقد أنه متأثر بالعطل.\n 3. انتقل إلى علامتي التبويب \"العنصر\" و \"التسلسل الهرمي\" وقم بألتقاط صور لشاشة المخرجات.\n 4. تضمين تلك اللقطات في تقريرك."
+          "content": "بالنسبة إلى الأخطاء التي لها صلة بواجهة المستخدم ، سيكون لديك خطوات إضافية يجب اتخاذها.\n\n الرجاء تثبيت [Developer Assistant] وإعداده (https://play.google.com/store/apps/details؟id=com.appsisle.developerassistant). بعد ذلك ، انتقل إلى ڤانسد وأعد إنتاج العطل ، ثم افتح عارض Layout عن طريق تشغيل Developer Assistant.\n\n الآن اتبع هذه الخطوات: \n1. تأكد من ظهور العطل على الشاشة.\n 2. اضغط على العنصر الذي تعتقد أنه متأثر بالعطل.\n 3. انتقل إلى علامتي التبويب \"العنصر\" و \"التسلسل الهرمي\" وقم بألتقاط صور لشاشة المخرجات.\n 4. قم بتضمين تلك اللقطات في تقريرك."
         }
       ]
     }
