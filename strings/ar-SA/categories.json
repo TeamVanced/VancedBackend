@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "category": "تقرير الأخطاء",
+      "category": "تقرير عن الأخطاء",
       "json": "bugreport.json"
     },
     {
@@ -9,7 +9,7 @@
       "json": "faq.json"
     },
     {
-      "category": "الخصائص",
+      "category": "الميزات",
       "json": "features.json"
     },
     {
