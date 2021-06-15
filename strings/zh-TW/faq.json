@@ -110,7 +110,7 @@
     },
     {
       "title": "要怎麼隱藏 microG 的通知？",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "如要隱藏microG的通知，\n\n1. 您可以為Vanced microG關閉電池優化，然後重新啟動裝置。\n\n2. 如果上述方法不起作用，請按住microG通知，選取關閉通知，然後點擊\"套用\"。\n\n> Android上有需多不同方式可以關閉應用程式通知。如果您不知道如何關閉通知，請嘗試使用Google來學習如何關閉通知。"
     },
     {
       "title": "1440p在我的1080p螢幕上會看起來更棒嗎？",
