@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
+      "title": "為什麼 Root 版本與 microG 不相容？",
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
       "title": "為何「投放」不起作用？",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "description": "對於使用最新 v16.16.38 非 root 版本的用戶，microG 目前存在一個錯誤。在解決問題之前，請等待更新或回到 v15 版本。如果 Root 版本用戶使用 Google Play 服務，他們將不會遇到「投放」問題。"
     },
     {
       "title": "什麼是 APK 簽名？",
