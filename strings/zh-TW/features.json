@@ -18,7 +18,7 @@
     },
     {
       "title": "SponsorBlock",
-      "description": "- Features the ability to skip sponsor segments (where a [YouTuber](https://en.wikipedia.org/wiki/YouTuber) advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API [found here](https://sponsor.ajay.app). You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
+      "description": "- 具有跳過贊助商部分的功能（[YouTuber](https://en.wikipedia.org/wiki/YouTuber) 在影片中間宣傳服務或產品的地方）\n- 它還支援略過像是介紹、結尾和自我宣傳\n- [此處](https://sponsor.ajay.app)是我們使用的API。您可以找到有關其運作原理的更多資訊\n- 它也允許您將自己的想法結晶納入到 API 並為更廣泛的社群做出貢獻\n- 控制是否自動跳過片段類型或顯示跳過按鈕，或者根本不跳過它\n- 根據播放時間線中的類型以特定顏色標記該片段"
     },
     {
       "title": "平台",
