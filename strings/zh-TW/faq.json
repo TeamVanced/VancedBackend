@@ -83,23 +83,23 @@
       "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
     },
     {
-      "title": "什麼是APK簽名？",
-      "description": "您正在閱讀本文是因為您沒有使用Vanced Manager，或是您可能從非官方來源安裝了Vanced。\n只使用Vanced Manager吧！\n\n您可以從以下位置安全的下載Vanced Manager：\n- [官方網站](https://vancedapp.com)\n- [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "什麼是 APK 簽名？",
+      "description": "您正在閱讀本文是因為您沒有使用 Vanced Manager，或是您可能從非官方來源安裝了 Vanced。\n選擇使用 Vanced Manager 吧！\n\n您可以從以下位置安全的下載 Vanced Manager：\n- [官方網站](https://vancedapp.com)\n- [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "YouTube Vanced 有在 Play 商店上架嗎？",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+      "description": "沒有！\n再說一次，請不要在 Play 商店或任何應用程式商店中嘗試搜尋或安裝任何名為「YouTube Vanced」或類似名稱的假應用程式來安裝 Vanced。\n\n我們官方只有也是唯一一個在 Play 商店上架的應用程式 [Vanced 指南](https://play.google.com/store/apps/details?id=com.vanced.faq)\n如果您發現任何其它帶有我們圖示和名稱的應用程式，請將其檢舉為抄襲或冒用並給予差評。\n\n我們的應用程式只能在[官方網站](https://vancedapp.com)上找到。"
     },
     {
-      "title": "為何Vanced沒有顯示在主畫面或應用程式清單中？",
-      "description": "您正在閱讀本文是因為您沒有使用Vanced Manager，或是您可能從非官方來源安裝了Vanced。\n只使用Vanced Manager吧！\n\n您可以從以下位置安全的下載Vanced Manager：\n- [官方網站](https://vancedapp.com)\n- [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "為何 Vanced 沒有顯示在主畫面或應用程式清單中？",
+      "description": "您正在閱讀本文是因為您沒有使用 Vanced Manager，或是您可能從非官方來源安裝了 Vanced。\n選擇使用 Vanced Manager 吧！\n\n您可以從以下位置安全的下載 Vanced Manager：\n- [官方網站](https://vancedapp.com)\n- [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "為何影片無法播放？",
       "description": "試試重開 app。也有可能是網際網路連線或您的裝置出了問題。"
     },
     {
-      "title": "為何上限只到 480p？",
+      "title": "為何我有 480p 的限制？",
       "description": "因為 COVID-19（武漢肺炎）的緣故，Google 限制了某些國家的資料用量。由於這是伺服器端的設定，因此 Vanced 與原生 YouTube 使用者皆會受到影響。",
       "fields": [
         {
@@ -113,7 +113,7 @@
       "description": "如要隱藏microG的通知，\n\n1. 您可以為Vanced microG關閉電池優化，然後重新啟動裝置。\n\n2. 如果上述方法不起作用，請按住microG通知，選取關閉通知，然後點擊\"套用\"。\n\n> Android上有需多不同方式可以關閉應用程式通知。如果您不知道如何關閉通知，請嘗試使用Google來學習如何關閉通知。"
     },
     {
-      "title": "1440p在我的1080p螢幕上會看起來更棒嗎？",
+      "title": "1440p會在我的1080p螢幕上會看起來更棒嗎？",
       "description": "是的，但前提是影片比例為18：9、21：9時；您可以在「設定 > 一般」中開啟\"啟用影片格式資料\"進行確認。\n\n要使用更高的影片解析度，請前往「Vanced 設定 > 影片設定」，然後開啟\"最高影片解析度\"，接著重新啟動應用程式。"
     }
   ]
