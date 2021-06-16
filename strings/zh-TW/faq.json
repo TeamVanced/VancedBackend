@@ -76,7 +76,7 @@
     },
     {
       "title": "為什麼 Root 版本與 microG Core 不相容？",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "description": "1. 您需要有 GApps 的 [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 版本才能運行 Vanced。\n\n2. 您如果沒有安裝必要的 Google Play 服務框架，Vanced 就無法讓 microG Core 一起運行，該框架包含在所有的 GApps 封包中。\n\n3. 如果您擔心自己的隱私並且不想使用 GApps，但仍想擁有沒有廣告的 YouTube 觀看體驗，那麼 [網頁版](https://youtube.com) 將是您的選擇。"
     },
     {
       "title": "為何「投放」不起作用？",
