@@ -80,14 +80,14 @@
     },
     {
       "title": "Por que o Transmitir não funciona?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "description": "Para usuários com a versão 16.16.38 non-root mais recente, há um bug no microG. Até que seja resolvido, por favor aguarde atualizações ou volte para a versão v15. Os usuários da versão root não terão problemas com Chromecast se estiverem usando o Google Play Services."
     },
     {
-      "title": "What is APK Signing?",
+      "title": "O que é a Assinatura de APK?",
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Is YouTube Vanced on Play Store?",
+      "title": "O YouTube Vanced está na Play Store?",
       "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
     },
     {
@@ -103,13 +103,13 @@
       "description": "Devido à COVID-19, Google está restringindo o uso de dados de diversos países. Isso acontece no servidor e afeta tanto os usuários Vanced quanto os usuários do YouTube padrão.",
       "fields": [
         {
-          "title": "Workarounds:",
+          "title": "Soluções alternativas:",
           "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
         }
       ]
     },
     {
-      "title": "How to hide the microG notification?",
+      "title": "Como ocultar a notificação do microG?",
       "description": "Para ocultar a notificação do microG,\n\n1. Você pode desativar a otimização de bateria para o Vanced microG e reiniciar seu dispositivo.\n\n2. Se o método acima não funcionar, desative as notificações do microG segurando a notificação, desligue-a e toque em Salvar.\n\n> Desabilitar notificações de aplicativos pode ser feito de diferentes formas, dependendo da interface de usuário do Android. Se você não sabe como desativá-lo, tente usar o Google para aprender como desativá-lo."
     },
     {
