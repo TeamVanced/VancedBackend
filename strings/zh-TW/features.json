@@ -14,7 +14,7 @@
     },
     {
       "title": "個人化",
-      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+      "description": "- 允許您覆寫編解碼器選項，例如為舊裝置強制使用 H264 或 VP9，如果您更喜歡電影般的體驗，它也允許您強制播放 HDR 或關閉 60fps。(這些功能的自定義裝置設定可以在我們的 [Discord](https://discord.gg/Vanced) 或是 XDA 上找到)\n- 強制將影片預設解析度設置為您期望的更高或更低，甚至可以覆寫您的螢幕解析度，以便在任何裝置上播放 4K 超高畫質。它還允許您將預設播放速度更改為 0.25 到 2 倍速之間的任何速度（假如您的裝置能夠負荷的話）\n- 允許您開關首頁廣告、大多數 UI 廣告、商品廣告、社群文章、電影推銷、小型橫幅資訊（例如 COVID-19 資訊）、完全移除評論、小型電影、推薦電影等等！"
     },
     {
       "title": "SponsorBlock",
