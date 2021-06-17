@@ -1,11 +1,11 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Relatório de erros",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "Perguntas Frequentes",
       "json": "faq.json"
     },
     {
