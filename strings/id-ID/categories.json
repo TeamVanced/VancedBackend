@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Laporan Bug",
       "json": "bugreport.json"
     },
     {
