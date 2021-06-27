@@ -2,18 +2,18 @@
   "data": [
     {
       "title": "Vanced",
-      "description": "Youtube Vanced hướng tới trở thành một phiên bản tốt hơn của Youtube. Nó bao gồm chặn quảng cáo, chủ đề tối và còn nhiều nữa. Sử dụng Vanced Manager để cài đặt Youtube Vanced với các thành phần liên quan."
+      "description": "Youtube Vanced hướng tới trở thành một phiên bản tốt hơn của Youtube. Nó bao gồm chặn quảng cáo, nền tối và hơn thế nữa. Sử dụng Vanced Manager để cài đặt Youtube Vanced một cách dễ dàng."
     },
     {
-      "title": "Vanced Music",
+      "title": "YouTube Music Vanced",
       "description": "YouTube Music Vanced có cùng mục tiêu với Youtube Vanced tuy nhiên ứng dụng này tập trung vào Youtube Music. Nó có ít tính năng hơn Vanced nhưng vẫn có những thứ bạn mong muốn như chặn quảng cáo và phát trong nền, tất cả đều có trong YouTube Music Vanced!"
     },
     {
       "title": "Các tính năng chính của Youtube Vanced",
-      "description": "- Chủ đề màu đen và tối thân thiện với màn hình OLED _(hay còn gọi là màu xám đậm)_ bên cạnh chủ đề màu trắng.\n - Chặn tất cả quảng cáo\n - Cho phép bạn phát video trong nền hoặc ở chế độ Hình trong Hình (PiP) (chỉ trên Android 8+)\n - Điều khiển vuốt cho phép bạn điều khiển độ sáng và âm lượng bằng cử chỉ lên và xuống (với phần đệm có thể định cấu hình).\n - Tính năng tự động lặp lại cho phép bạn lặp lại video.\n - Bố cục trình phát mini máy tính bảng/bình luận mới có thể được chuyển đổi sang các phiên bản máy tính bảng giống với phiên bản cũ (tuy nhiên, nó có một chút lỗi)."
+      "description": "- Nền đen thân thiện với màn hình OLED và nền tối _(màu xám đậm)_ bên cạnh nền trắng.\n - Chặn tất cả quảng cáo\n - Cho phép bạn phát video trong nền hoặc ở chế độ Hình trong Hình (PiP) (cho Android 8+)\n - Điều khiển vuốt cho phép bạn điều khiển độ sáng và âm lượng bằng cử chỉ lên và xuống (với phần đệm có thể cài đặt).\n - Tính năng tự động lặp lại cho phép bạn lặp lại video.\n - Giao diện bình luận mới/trình phát mini máy tính bảng cho phép bạn chuyển sang các phiên bản máy tính bảng tương tự như phiên bản cũ (tuy nhiên, nó có một chút lỗi)."
     },
     {
-      "title": "Tùy chỉnh",
+      "title": "Tùy biến",
       "description": "- Cho phép bạn ghi đè các tùy chọn Codec như buộc H264 cho các thiết bị cũ hoặc VP9, ​​điều này cũng cho phép bạn ép buộc phát HDR hoặc tắt 60fps nếu bạn thích trải nghiệm điện ảnh hơn. (Bạn có thể tìm thấy cấu hình thiết bị tùy chỉnh cho các tính năng này trên [Máy chủ Discord] (https://discord.gg/Vanced) hoặc XDA của chúng tôi)\n - Buộc độ phân giải video mặc định cao hoặc thấp như bạn muốn và thậm chí ghi đè độ phân giải màn hình của bạn để phát 4k sắc nét trên mọi thiết bị. Nó cũng cho phép bạn thay đổi tốc độ phát mặc định thành bất kỳ đâu trong khoảng 0,25x đến 2x (giả sử thiết bị của bạn đủ mạnh)\n - Cho phép bạn chuyển đổi giữa quảng cáo gia đình, hầu hết quảng cáo giao diện người dùng, quảng cáo hàng hóa, bài đăng trên tab Cộng đồng, Phim bán thêm, thông tin biểu ngữ nhỏ gọn (chẳng hạn như thông tin COVID-19), xóa hoàn toàn nhận xét, phim nhỏ gọn, xóa kệ phim và nhiều hơn nữa!"
     },
     {

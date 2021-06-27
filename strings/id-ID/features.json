@@ -2,19 +2,19 @@
   "data": [
     {
       "title": "Vanced",
-      "description": "YouTube Vanced bertujuan untuk menjadi versi yang lebih baik dari YouTube. Terdapat pemblokiran iklan, tema gelap, dan masih banyak lagi. Gunakan Vanced Manager untuk masang YouTube Vanced yang relatif mudah."
+      "description": "YouTube Vanced bertujuan untuk menjadi versi yang lebih baik dari YouTube. Terdapat pemblokiran iklan, tema gelap, dan masih banyak lagi. Gunakan Vanced Manager untuk memasang YouTube Vanced yang relatif mudah."
     },
     {
       "title": "Vanced Musik",
-      "description": "YouTube Vanced Musik memiliki tujuan yang sama dengan YouTube Vanced, tetapi aplikasi ini lebih fokus terhadap YouTube Musik. YouTube Musik memiliki fitur yang relatif lebih sedikit dibandingkan Vanced tetapi masih memiliki banyak fitur yang anda harapkan seperti pemblokiran iklan dan pemutaran latar belakang, semua didalam YouTube Vanced Musik!"
+      "description": "YouTube Musik Vanced memiliki tujuan yang sama dengan YouTube Vanced, tetapi aplikasi ini lebih fokus terhadap YouTube Musik. YouTube Musik memiliki fitur yang relatif lebih sedikit dibandingkan Vanced tetapi masih memiliki banyak fitur yang anda harapkan seperti pemblokiran iklan dan pemutaran latar belakang, semua di dalam YouTube Musik Vanced!"
     },
     {
       "title": "Fitur utama YouTube Vanced",
-      "description": "- Tema OLED friendly gelap dan hitam _(alias abu tua)_ di samping tema putih>\n- Memblokir semua iklan\n- Membolehkan anda untuk memutar video di latar belakang atau mode Picture in Picture (PiP) (hanya tersedia pada Android 8+)\n- Kontrol geser membolehkan anda untuk mengatur kecerahan dan volume dengan up-and-down gestures (dengan padding yang bisa diatur)\n- Fitur pengulangan otomatis membolehkan anda untuk memutar video berulang-ulang.\n- Tampilan komentar/pemutar kecil tablet dapat diatur menjadi versi tablet yang dimana sangat serupa dengan versi lama (meskipun memiliki sedikit bug)."
+      "description": "- Tema OLED gelap dan hitam _(alias abu tua)_ di samping tema putih.\n- Memblokir semua iklan\n- Membolehkan anda untuk memutar video di latar belakang atau mode Picture in Picture (PiP) (hanya tersedia pada Android 8+)\n- Kontrol geser membolehkan anda untuk mengatur kecerahan dan volume dengan up-and-down gestures (dengan padding yang bisa diatur)\n- Fitur pengulangan otomatis membolehkan anda untuk memutar video berulang-ulang.\n- Tampilan komentar/pemutar kecil tablet dapat diatur menjadi versi tablet yang dimana sangat serupa dengan versi lama (meskipun memiliki sedikit bug)."
     },
     {
       "title": "Kostumisasi",
-      "description": "- Membolehkan anda untuk menimpa pengaturan Kodek seperti memaksa H264 untuk perangkat lama atau VP9, hal ini juga membolehkan anda untuk memaksa pemutaran HDR atau meonaktifkan 60fps apabila anda lebih memilih menikmati rasa cinematic.\n(Pengaturan kustom perangkat untuk fitur tersebut dapat ditemukan pada discord kami atau XDA)\n- Memaksa resolusi perangkat default setinggi atau serendah yang anda mau dan bahkan memaksa resolusi perangkat anda untuk pemutaran tajam 4k pada semua perangkat. Juga membolehkan anda untuk mengganti kecepatan pemutaran default ke apapun diantara 0.25x sampai 2x (mengasumsi bahwa perangkat anda cukup kuat)\n- Membolehkan anda untuk mengaktifkan iklan home, beberapa iklan UI, iklan merchandise, postingan komunitas, penjualan film, info banner padu (seperti info COVID-19), menghapus komentar sepenuhnya, film padu, penghapusan rak film dan banyak lagi!"
+      "description": "- Membolehkan anda untuk menimpa pengaturan Kodek seperti memaksa H264 untuk perangkat lama atau VP9, hal ini juga membolehkan anda untuk memaksa pemutaran HDR atau menonaktifkan 60fps apabila anda lebih memilih menikmati rasa cinematic.\n(Pengaturan kustom perangkat untuk fitur tersebut dapat ditemukan pada [Server Discord] (https://discord.gg/Vanced) atau XDA)\n- Memaksa resolusi perangkat standar setinggi atau serendah yang anda mau dan bahkan memaksa resolusi perangkat anda untuk pemutaran tajam 4k pada semua perangkat. Juga membolehkan anda untuk mengganti kecepatan pemutaran standar ke apapun diantara 0.25x sampai 2x (mengasumsi bahwa perangkat anda cukup kuat)\n- Membolehkan anda untuk mengaktifkan iklan home, beberapa iklan UI, iklan merchandise, postingan komunitas, penjualan film, info banner padu (seperti info COVID-19), menghapus komentar sepenuhnya, film padu, penghapusan rak film dan banyak lagi!"
     },
     {
       "title": "SponsorBlock",

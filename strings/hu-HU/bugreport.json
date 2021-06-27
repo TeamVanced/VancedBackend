@@ -10,7 +10,7 @@
         },
         {
           "title": "Hogyan tudok logcat-et készíteni?",
-          "content": "Nem rootolt eszközhöz:\nSzükséged lesz egy PC-re a `logcat` kimenetek megtekintéséhez. Ehhez itt egy [szöveges útmutató](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nRootolt eszközhöz:\nNincs szükséged külön PC-re ehhez. Követheted az [itt](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android) található utasításokat."
+          "content": "Nem rootolt eszközhöz:\nSzükséged lesz egy PC-re a `logcat` kimenetek megtekintéséhez. Ehhez itt egy [szöveges útmutató](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nRootolt eszközhöz:\nNincs szükséged külön PC-re ehhez, kérjük, hogy kövesd [az utasításokat](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Az általad tapasztalt hiba a felhasználói felülettel kapcsolatos?",

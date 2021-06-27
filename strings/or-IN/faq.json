@@ -1,71 +1,71 @@
 {
   "data": [
     {
-      "title": "Apa itu YouTube Vanced?",
-      "description": "Youtube Vanced adalah versi YouTube yang di modifikasi dengan fitur agar pengalaman Youtube anda menjadi lebih baik!\n\nFitur seperti:\n- Pemutaran latar belakang,\n- Picture in Picture (PiP),\n- Tema hitam (OLED friendly),\n- Penghapusan iklan (membutuhkan pengaktifkan),\n- Menimpa maksimal resolusi (mengizinkan pemutaran video yang resolusinya lebih tinggi dari layar anda),\n-...dan banyak lagi!\n\nUntuk informasi lebih lanjut, kunjungi <https://vancedapp.com>"
+      "title": "What is YouTube Vanced?",
+      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
     },
     {
-      "title": "Dimanakah letak tombol Download?",
-      "description": "Tentu saja, Google tidak akan membolehkan versi modifikasi yang merupakan aplikasinya sendiri untuk berada pada toko mereka, untuk itu jangan mencari Vanced di Google Play Store, semua itu merupakan aplikasi palsu.\n\nAplikasi Vanced bisa diunduh dan dipasang menggunakan Vanced Manager yang dimana dapat ditemukan pada situs resmi kami: <https://vancedapp.com> tetapi anda juga dapat mengambilnya dari [Github repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "title": "Where is the Download button?",
+      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
-      "title": "Apakah YouTube Vanced dapat memperbarui secara otomatis?",
-      "description": "Tidak, tidak bisa.\n\nVanced Manager akan mengirimkan anda notifikasi ketika tersedia pembaruan.\n\nAnda juga dapat bergabung [Server Discord] kami(https://discord.gg/wYrRPgv) atau ikuti [channel Telegram](https://t.me/Vanced) untuk berita terbaru dan pemberitahuan pembaruan."
+      "title": "Does YouTube Vanced auto-update?",
+      "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
     },
     {
-      "title": "Dapatkah Vanced mengunduh video?",
-      "description": "Vanced tidak memiliki fitur pengunduhan video apapun dan tidak akan pernah.\n\nKebanyakan video tersedia untuk diunduh secara gratis pada [negara terpilih] (https://support.google.com/youtube/answer/6141269). Untuk selainnya, mohon gunakan YouTube Premium atau gunakan pengunduh pihak ketiga.\n\nSekali lagi, Vanced TIDAK AKAN menambahkan pengunduh video pada aplikasi atau serupa.\n\nHal ini merupakan alasan banyak modifikasi YouTube yang ditutup di masa lalu dikarenakan Google tidak menyukai orang mengunduh konten hak cipta dari platform mereka maka jangan tanyakan hal ini!!!"
+      "title": "Can Vanced download videos?",
+      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
     },
     {
-      "title": "Mengapa swipe gesture tidak dapat bekerja?",
-      "description": "Apabila anda memiliki komentar yang ditampilkan di bawah (tempat lama) di pengaturan Vanced > Pengaturan Tampilan, nonaktifkan hal tersebut dan mulai ulang aplikasinya. Apabila tetap tidak bekerja, paksa berhenti aplikasi dan hapus datanya."
+      "title": "Why the swipe gestures doesn't work?",
+      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
     },
     {
-      "title": "Teks tidak tersedia?",
-      "description": "Hal ini bukan masalah yang berkaitan dengan Vanced ataupun YouTube. Tidak semua video memiliki teks."
+      "title": "Captions not available?",
+      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
     },
     {
-      "title": "Apakah anda menerima donasi?",
-      "description": "Kami TIDAK menerima donasi! \n\nBentuk donasi apapun dalam keadaan apapun dan situs, link, atau postingan apapun yang meminta donasi merupakan palsu.\n\nTetapi apabila anda ingin mendukung developer Vanced, anda dapat mengunduh Brave menggunakan [tautan ini](https://brave.com/kev231) dan AdGuard menggunakan [tautan ini](https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "Do you take donations?",
+      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "Bagaimana cara membuat tampilan pemutar otomatis disembunyikan?",
-      "description": "Anda dapat mengatur hal tersebut di Pengaturan Youtube Vanced > Aksesibilitas. Apabila pengaturan gagal untuk terbuka atau tidak bekerja, pergi ke pengaturan aksesibilitas perangkat anda dan nonaktifkan sound amplifier, switch access, live caption."
+      "title": "How to make the player layout auto-hide?",
+      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
     },
     {
-      "title": "Mengapa menggunakan split APKs?",
-      "description": "Dikarenakan:\n\n1. Aplikasi bawaan menggunakan hal yang sama sehingga Vanced menggunakannya juga.\n2. Hanya memasang bahasa yang anda tentukan untuk mengurangi konsumsi penyimpanan.\n3. Memiliki satu-satunya versi core APK yang perangkat anda butuhkan.\n\nTentu saja, Vanced Manager atau para developer bisa mengkonversi split APK ke satu file APK biasa, akan tetapi kami sangat malas melakukannya. Anda hanya perlu untuk beradaptasi dengan apa yang kami miliki...\n\nTetapi jangan khawatir, Vanced Manager melakukan semuanya untuk anda sehingga anda hanya butuh menekan tombol `Pasang`."
+      "title": "Why using split APKs?",
+      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
     },
     {
-      "title": "Mengapa warna yang ada di layar startup berbeda dari tema?",
-      "description": "Warna latar belakang layar splash sekarang diambil dari warna Android framework untuk memastikan hal itu berubah sesuai dengan tema sistem. Anda dapat menggunakan tema Substratum/Swift untuk mengubah warnanya."
+      "title": "Why the colour in the startup screen is different from the theme?",
+      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
     },
     {
-      "title": "Apakah saya harus mengunduh ulang file pemasangan?",
-      "description": "File dapat rusak dikarenakan beberapa alasan dan dapat menyebabkan masalah. Untuk mencegah hal ini, anda bisa memilih untuk mengunduh kembali agar pemasangan anda berjalan lancar."
+      "title": "Should I re-download the installation files?",
+      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
     },
     {
-      "title": "Mengapa versi root tidak memiliki izin mikropon?",
-      "description": "Vanced mempunyai izin mikropon apabila Vanced anda merupakan versi terbaru."
+      "title": "Why does the root version don't have Microphone permission?",
+      "description": "It does if your Vanced is up-to-date."
     },
     {
-      "title": "Apa itu ExoPlayer v1?",
-      "description": "ExoPlayer v1 merupakan versi lama pemutar media yang digunakan oleh YouTube. Anda mungkin mendapatkan performa dan stabilitas yang lebih baik ketika menggunakannya."
+      "title": "What is ExoPlayer v1?",
+      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
     },
     {
-      "title": "Bagaimana cara mengaktifkan pengaturan tersembunyi?",
-      "description": "Pada pengaturan Vanced, tekan pada bagian `Tentang` 6-7 kali untuk mengaktifkannya. Pengaturan ini hanya mengaktifkan pengaturan tambahan kodek video."
+      "title": "How to enable hidden settings?",
+      "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
     },
     {
-      "title": "Bagaimana cara untuk membuat YouTube Vanced menjadi aplikasi default?",
-      "description": "Seperti yang terbaca di judul, banyak pengguna yang sudah seringkali menanyakan bagaimana cara mereka untuk membuat YouTube Vanced menjadi aplikasi default untuk membuka tautan YouTube dari aplikasi lain(seperti browser, aplikasi pesan dan aplikasi lain)\n\nUntuk root, anda tidak perlu khawatir tentang masalah ini karena sudah diatur menjadi default sejak YouTube terganti oleh YouTube Vanced.\n\nUntuk non-root, solusinya berbeda antara OneUI, MIUI, dan seterusnya. Kami tidak bisa memberikan semua solusi untuk setiap OS yang tersedia, dan anda mungkin perlu mencari sendiri di Google.",
+      "title": "How to make YouTube Vanced as default app?",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
-          "title": "Pengguna OneUI:",
+          "title": "OneUI users:",
           "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
         },
         {
-          "title": "Pengguna MIUI:",
+          "title": "MIUI users:",
           "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
         },
         {

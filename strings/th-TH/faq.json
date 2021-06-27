@@ -1,20 +1,20 @@
 {
   "data": [
     {
-      "title": "What is YouTube Vanced?",
-      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
+      "title": "YouTube Vanced คืออะไร",
+      "description": "YouTube Vanced เป็นเวอร์ชันดัดแปลงของ YouTube ที่มีคุณลักษณะพิเศษเพื่อให้ประสบการณ์การใช้งาน YouTube ของคุณดียิ่งขึ้น!\n\n คุณสมบัติดังกล่าวรวมถึง:\n - การเล่นพื้นหลัง\n - ภาพซ้อนภาพ (PiP)\n - ธีมสีดำ (เป็นมิตรกับ OLED)\n - การลบโฆษณา (ต้องเปิดใช้งาน)\n - แทนที่ความละเอียดสูงสุด (อนุญาตให้เล่นวิดีโอที่มีความละเอียดสูงกว่าหน้าจอของคุณ)\n - ...และอีกมากมาย!\n\n ดูข้อมูลเพิ่มเติมได้ที่ <https://vancedapp.com>"
     },
     {
-      "title": "Where is the Download button?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "title": "ปุ่มดาวน์โหลดอยู่ที่ไหน",
+      "description": "แน่นอน Google จะไม่อนุญาตให้มีแอปเวอร์ชันดัดแปลงของตัวเองในร้านค้า ดังนั้นอย่ามองหาใน Google Play Store เพราะนั่นเป็นเพียงแอปปลอม\n\nสามารถดาวน์โหลดและติดตั้งแอพ Vanced ได้โดยใช้ Vanced Manager ซึ่งสามารถพบได้บนเว็บไซต์ทางการของเรา: <https://vancedapp.com> แต่คุณสามารถคว้ามันจาก [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Does YouTube Vanced auto-update?",
-      "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
+      "title": "YouTube Vanced อัปเดตอัตโนมัติหรือไม่",
+      "description": "ไม่ใช่\n\nVanced Manager จะส่งการแจ้งเตือนถึงคุณเมื่อมี\n\nคุณยังสามารถเข้าร่วม [Discord Server](https://discord.gg/Vanced) ของเราหรือติดตาม [Telegram channel](https://t.me/Vanced) เพื่อรับข่าวสารล่าสุดและการแจ้งเตือนการอัปเดตได้เช่นกัน"
     },
     {
-      "title": "Can Vanced download videos?",
-      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
+      "title": "Vanced สามารถดาวน์โหลดวิดีโอได้หรือไม่?",
+      "description": "Vanced ไม่มีคุณสมบัติการดาวน์โหลดวิดีโอและจะไม่มีเด็ดขาด\n\nวิดีโอจำนวนมากสามารถดาวน์โหลดได้ฟรีใน [บางประเทศ](https://support.google.com/youtube/answer/6141269) สำหรับประเทศอื่น ๆ โปรดใช้ YouTube Premium\n\nอีกครั้ง Vanced จะไม่เพิ่มโปรแกรมดาวน์โหลดวิดีโอลงในแอปหรืออะไรที่คล้ายกัน\n\nนี่เป็นเหตุผลของการปิดแอป YouTube ดัดแปลง จำนวนมากในอดีต เนื่องจาก Google ไม่ชอบให้คนดาวน์โหลดเนื้อหาที่มีลิขสิทธิ์จากแพลตฟอร์มของตน ดังนั้นอย่าถามหา!!!"
     },
     {
       "title": "Why the swipe gestures doesn't work?",

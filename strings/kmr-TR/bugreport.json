@@ -10,7 +10,7 @@
         },
         {
           "title": "Ez ê çawa logcat bigirim?",
-          "content": "Ji bo bikarhênerên ne-root:\nJi bo ku hûn hilberînên 'logcat' bistînin dê hewceyî kompûteyekê bin. Li vir a [rêberê nivîsarê](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) û [rêberê vîdyoyê](https://youtu.be/ICLpwgsJJP0).\n\nJi bo bikarhênerên root:\nJi bo vê yekê ne hewceyî kompûteyekê ye. Hûn dikarin rêwerzên [li vir](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android) bişopînin."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Çewtiyên te bi UI re têkildar e?",

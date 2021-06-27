@@ -10,7 +10,7 @@
         },
         {
           "title": "ഞാൻ എങ്ങനെ ഒരു ലോഗ്കാറ്റ് എടുക്കും?",
-          "content": "റൂട്ട് ഇതര ഉപയോക്താക്കൾക്കായി:\n`ലോഗ്കാറ്റ്` p ട്ട്‌പുട്ടുകൾ എടുക്കാൻ നിങ്ങൾക്ക് ഒരു പിസി ആവശ്യമാണ്. ഇവിടെ ഒരു [ടെക്സ്റ്റ് ഗൈഡ്] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) ഒരു [വീഡിയോ ഗൈഡ്] (https://youtu.be/ICLpwgsJJP0).\n\nറൂട്ട് ഉപയോക്താക്കൾക്കായി:\nഇതിന് നിങ്ങൾക്ക് ഒരു പിസി ആവശ്യമില്ല. നിങ്ങൾക്ക് [ഇവിടെ] നിർദ്ദേശങ്ങൾ പാലിക്കാം (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "നിങ്ങളുടെ ബഗ് യുഐയുമായി ബന്ധപ്പെട്ടതാണോ?",

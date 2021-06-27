@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Hibajelentés",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "GYIK",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Funkciók",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Hibaelhárítás",
       "json": "troubleshooting.json"
     }
   ]

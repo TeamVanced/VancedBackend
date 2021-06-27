@@ -14,19 +14,19 @@
     },
     {
       "title": "個人化",
-      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+      "description": "- 允許您覆寫編解碼器選項，例如為舊裝置強制使用 H264 或 VP9，如果您更喜歡電影般的體驗，它也允許您強制播放 HDR 或關閉 60fps。(這些功能的自定義裝置設定可以在我們的 [Discord](https://discord.gg/Vanced) 或是 XDA 上找到)\n- 強制將影片預設解析度設置為您期望的更高或更低，甚至可以覆寫您的螢幕解析度，以便在任何裝置上播放 4K 超高畫質。它還允許您將預設播放速度更改為 0.25 到 2 倍速之間的任何速度（假如您的裝置能夠負荷的話）\n- 允許您開關首頁廣告、大多數 UI 廣告、商品廣告、社群文章、電影推銷、小型橫幅資訊（例如 COVID-19 資訊）、完全移除評論、小型電影、推薦電影等等！"
     },
     {
       "title": "SponsorBlock",
-      "description": "- Features the ability to skip sponsor segments (where a [YouTuber](https://en.wikipedia.org/wiki/YouTuber) advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API [found here](https://sponsor.ajay.app). You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
+      "description": "- 具有跳過贊助商部分的功能（[YouTuber](https://en.wikipedia.org/wiki/YouTuber) 在影片中間宣傳服務或產品的地方）\n- 它還支援略過像是介紹、結尾和自我宣傳\n- [此處](https://sponsor.ajay.app)是我們使用的API。您可以找到有關其運作原理的更多資訊\n- 它也允許您將自己的想法結晶納入到 API 並為更廣泛的社群做出貢獻\n- 控制是否自動跳過片段類型或顯示跳過按鈕，或者根本不跳過它\n- 根據播放時間線中的類型以特定顏色標記該片段"
     },
     {
       "title": "平台",
       "description": "本 APP 目前僅能在 Android 平台上使用，且暫時沒有支援其他平台的計劃。"
     },
     {
-      "title": "有無 ROOT 的差別",
-      "description": "#### Root:\nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google Assistant through the modded Vanced app.\n\n#### Non-Root:\n- If you have a device that is difficult to root, or you don’t want to root your daily device on first hand, you should opt for the non-root variant.\n- Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account.\n- Moreover, you have to manually set Vanced as the default app for opening YouTube links.\n- However, the non-root variant is much simpler to install and use, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
+      "title": "Root 與非 Root 版本之間的區別",
+      "description": "#### Root 版本：\n無縫替換了官方 YouTube 應用程式。因此，您可以像平常一樣使用官方 YouTube 打開 YouTube 連結或使用 Google 助理，這些動作都會開啟 Vanced。\n\n#### 非 Root 版本：\n- 如果您的裝置難以 root，或者您不想對您的裝置進行 root，則應選擇非 root 版本。\n- 由於非 Root 版本的封包名稱與官方 YouTube 應用程式的不同，它們可以共存。請注意，您需要安裝額外的應用程式「Vanced microG」才能使用您的 YouTube/Google 帳戶登錄。\n- 此外，您必須手動將 Vanced 設定為預設打開 YouTube 連結的應用程式。\n- 但是，非 root 版本的安裝和使用簡單許多，因此我們建議您使用非 root 版本，除非您真的需要更換手機上的原版 YouTube 應用程式。"
     }
   ]
 }

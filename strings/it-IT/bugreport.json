@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "title": "Come segnalare i bug",
-      "description": "Puoi segnalare i bug utilizzando il nostro [sistema di tracciamento dei problemi di GitHub](https://github. om/YTVanced/Vanced)\n\n**Assicurati di leggere il file README e di verificare che il tuo bug non sia già stato segnalato in precedenza, prima di segnalarlo nuovamente!**",
+      "title": "Come segnalare i bug?",
+      "description": "Puoi segnalare i bug creando un issue nel nostro [Centro problemi su GitHub](https://github.com/YTVanced/Vanced#vanced-issue-center)\n\nAssicurati di leggere il file README e di verificare che il tuo bug non sia già stato segnalato in precedenza, prima di segnalarlo nuovamente!",
       "fields": [
         {
           "title": "Quando verrà esaminato il mio bug?",
@@ -10,7 +10,7 @@
         },
         {
           "title": "Come faccio ad ottenere un logcat?",
-          "content": "Per utenti non-root:\nAvrai bisogno di un PC per ottenere l'elaborazione dei `logcat`. Ecco una [guida testuale] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) e una [videoguida] (https://youtu.be/ICLpwgsJJP0).\n\nPer utenti root:\nPer questa operazione non hai bisogno di un PC. Puoi seguire le istruzioni [qui] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Per utenti non-root:\nAvrai bisogno di un PC per ottenere l'elaborazione dei `logcat`. Ecco una [guida](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) e una [videoguida] (https://youtu.be/ICLpwgsJJP0).\n\nPer utenti root:\nPer questa operazione non hai bisogno di un PC. Puoi seguire le istruzioni [qui] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Il tuo bug è relativo all'interfaccia utente?",

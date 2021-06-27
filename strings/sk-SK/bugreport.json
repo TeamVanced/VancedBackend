@@ -6,11 +6,11 @@
       "fields": [
         {
           "title": "Kedy bude mnou nahlásená chyba preskúmaná?",
-          "content": "Vývojári trávia mnoho svojho času vytváraním nových funkcií a opravovaním mnohých problémov. Dokončenie každého z nich môže chvíľu trvať.\nMusíte len sedieť a čakať. Váš problém bude preskúmaný čo najskôr to bude možné."
+          "content": "Vývojári trávia mnoho svojho času vytváraním nových funkcií a opravovaním mnohých problémov. Dokončenie každého z nich môže chvíľu trvať. \nMusíte len sedieť a čakať. Váš problém bude preskúmaný čo najskôr to bude možné."
         },
         {
           "title": "Ako vytvorím logcat?",
-          "content": "Pre Non-Root používateľov:\nNa vytvorenie výstupu `logcat` budete potrebovať počítač. Tu je [textový sprievodca](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) a [videonávod](https://youtu.be/ICLpwgsJJP0).\n\nPre Root používateľov:\nNepotrebujete k tomu počítač. Môžete postupovať podľa pokynov [tu](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Pre non-root používateľov:\nNa vytvorenie výstupu `logcat` budete potrebovať počítač. Tu je [textový sprievodca](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) a [videonávod](https://youtu.be/ICLpwgsJJP0).\n\nPre root používateľov:\nNepotrebujete k tomu počítač. Môžete postupovať podľa pokynov [tu](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Súvisí vaša chyba s UI?",

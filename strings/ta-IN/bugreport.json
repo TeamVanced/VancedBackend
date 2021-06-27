@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "title": "பிழைகள் எவ்வாறு தெரிவிக்க வேண்டும்?",
-      "description": "எங்கள் [Github வெளியீட்டு மையத்தில் உள்ள சிக்கல்களை உருவாக்குவதன் மூலம் பிழைகளை தெரிவிக்கலாம் (https://github.com/ytvanced/vanced#vanced -issue-center).\n\nஉங்கள் பிரச்சினையைத் திறப்பதற்கு முன்பே உங்கள் பிரச்சனை ஏற்கனவே பதிவாக இருந்தால் சரிபார்க்க இருக்கும் சிக்கல்களைப் பார்க்கவும்!",
+      "title": "பிழைகள் எவ்வாறு புகாரளிக்க வேண்டும்?",
+      "description": "எங்கள் [Github வெளியீட்டு மையத்தில் உள்ள சிக்கல்களை உருவாக்குவதன் மூலம் பிழைகளை புகாரளிக்கலாம் (https://github.com/ytvanced/vanced#vanced -issue-center).\n\nஉங்கள் பிரச்சினையைத் திறப்பதற்கு முன்பே உங்கள் பிரச்சனை ஏற்கனவே புகாரளிக்கப்பட்டிருந்தால் சரிபார்க்க இருக்கும் சிக்கல்களைப் பார்க்கவும்!",
       "fields": [
         {
           "title": "என் பிரச்சினை எப்போது மதிப்பாய்வு செய்யப்படும்?",
@@ -10,7 +10,7 @@
         },
         {
           "title": "நான் ஒரு logcat எவ்வாறு எடுக்க வேண்டும்?",
-          "content": "அல்லாத ரூட் பயனர்கள்:\n`Logcat` வெளியீடுகளை எடுக்க ஒரு பிசி வேண்டும். இங்கே ஒரு [உரை கையேடு] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) மற்றும் ஒரு [வீடியோ வழிகாட்டி] (https://youtu.be/iclpwgsjjp0).\n\nரூட் பயனர்களுக்கு:\nஇதற்கு ஒரு பிசி தேவையில்லை. நீங்கள் [இங்கே] (இங்கே] (இங்கே] (https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "உங்கள் பிழை UI தொடர்புடையதா?",

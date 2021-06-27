@@ -6,7 +6,7 @@
     },
     {
       "title": "Gdzie jest przycisk pobierania?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "Oczywiście, Google nie zezwala na to, aby zmodyfikowana wersja własnej aplikacji była w ich własnym sklepie, więc nie szukaj jej w Sklepie Google Play, są to fałszywe aplikacje.\n\nAplikacje Vanced można pobrać i zainstalować za pomocą Menadżera Vanced, którego można znaleźć na naszej oficjalnej stronie internetowej: <https://vancedapp.com> ale możesz również pobrać go z [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
       "title": "Czy YouTube Vanced będzie się aktualizował automatycznie?",
@@ -62,7 +62,7 @@
       "fields": [
         {
           "title": "Użytkownicy OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. Dotknij i przytrzymaj ikonę aplikacji YouTube lub YouTube Vanced\n2. Nawiśnij na **Informacje o aplikacji**.\n3. Znajdź \"**Ustawianie jako domyślnej**\" i naciśnij\n4. Naciśnij \"**Otwórz obsługiwane linki**\" i wybierz \"**Otwórz w tej aplikacji**\"\n\nW starszych wersjach OneUI, nazwa opcji w czwartym kroku może być nieznacznie zróżnicowana. Może być konieczne dotknięcie \"**Przejdź do obsługiwanych adresów**\" i wybierz opcję \"**W tej aplikacji**\".\nW bardzo starszej wersji OneUI 💩, może być konieczne przejście do **Ustawienia** > **Aplikacje** > *[dotknij trzech kropek w prawym rogu]* > **Domyślne aplikacje** > **Ustaw jako domyślne**. Po załadowaniu aplikacji znajdź YouTube Vanced lub YouTube i wykonaj czwarty krok..."
         },
         {
           "title": "Użytkownicy MIUI:",
@@ -110,7 +110,7 @@
     },
     {
       "title": "Jak ukryć powiadomienie microG?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Aby ukryć powiadomienie w microG,\n\n1. Możesz wyłączyć optymalizację baterii dla Vanced microG i zrestartować urządzenie.\n\n2. Jeśli powyższa metoda nie działa, wyłącz powiadomienia microG przytrzymując do powiadomienia, włącz ją i stuknij Zapisz.\n\n> Wyłączenie powiadomień aplikacji można wykonywać na różne sposoby, w zależności od interfejsu użytkownika Androida. Jeśli nie wiesz jak to wyłączyć, spróbuj użyć Google aby nauczyć się, jak to wyłączyć."
     },
     {
       "title": "Czy 1440p wygląda lepiej na moim ekranie 1080p?",
