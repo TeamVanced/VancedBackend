@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Prijava greške",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "Često postavljana pitanja",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Značajke",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Rješavanje problema",
       "json": "troubleshooting.json"
     }
   ]
