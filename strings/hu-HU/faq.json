@@ -6,7 +6,7 @@
     },
     {
       "title": "Hol található a Letöltés gomb?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "Természetesen a Google nem engedélyezi, hogy a saját alkalmazásának módosított verziója elérhető legyen az áruházukban, ezért ne keresse a Google Play Áruházban, azok hamis alkalmazások.\n\nA Vanced alkalmazásokat a Vanced Manager segítségével lehet letölteni és telepíteni, amely hivatalos weboldalunkon található: <https://vancedapp.com>, de a [GitHubról](https://github.com/YTVanced/VancedManager/releases/latest) is beszerezheted."
     },
     {
       "title": "A YouTube Vanced automatikusan frissül?",
