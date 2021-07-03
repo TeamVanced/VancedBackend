@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Apa itu YouTube Vanced?",
-      "description": "Youtube Vanced adalah versi YouTube yang di modifikasi dengan fitur agar pengalaman Youtube anda menjadi lebih baik!\n\nFitur seperti:\n- Pemutaran latar belakang,\n- Picture in Picture (PiP),\n- Tema hitam (OLED friendly),\n- Penghapusan iklan (membutuhkan pengaktifkan),\n- Menimpa maksimal resolusi (mengizinkan pemutaran video yang resolusinya lebih tinggi dari layar anda),\n-...dan banyak lagi!\n\nUntuk informasi lebih lanjut, kunjungi <https://vancedapp.com>"
+      "description": "YouTube Vanced adalah versi YouTube yang di modifikasi dengan fitur agar pengalaman Youtube anda menjadi lebih baik!\n\nFitur seperti:\n- Pemutaran latar belakang,\n- Picture in Picture (PiP),\n- Tema hitam (OLED friendly),\n- Penghapusan iklan (membutuhkan pengaktifkan),\n- Menimpa maksimal resolusi (mengizinkan pemutaran video yang resolusinya lebih tinggi dari layar anda),\n-...dan banyak lagi!\n\nUntuk informasi lebih lanjut, kunjungi <https://vancedapp.com>"
     },
     {
       "title": "Dimanakah letak tombol Download?",
@@ -62,14 +62,14 @@
       "fields": [
         {
           "title": "Pengguna OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. Tekan dan tahan pada ikon aplikasi YouTube ataupun YouTube Vanced\n2. Tekan pada ***Info Aplikasi***\n3. Cari dan tekan ***Atur sebagai default***\n4. Tekan ***Buka link yang didukung*** dan pilih ***Buka di aplikasi ini***\n\nUntuk versi OneUI yang lawas, nama yang terdapat pada langkah ke-4 mungkin sedikit berbeda. Anda mungkin perlu untuk menekan \"**Buka URL yang didukung**\" dan pilih opsi \"**Di aplikasi ini**\".\nUntuk versi OneUI yang lebih lawas lagi 💩, anda mungkin perlu untuk pergi ke **Pengaturan** > **Aplikasi** > *[tekan tiga titik yang ada pada pojok kanan]* > **Aplikasi default** > **Atur sebagai default**. Setelah aplikasi muncul, cari YouTube Vanced atau YouTube dan ikuti langkah ke-4..."
         },
         {
           "title": "Pengguna MIUI:",
-          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Buka Pengaturan\n2. Pergi ke **Aplikasi**,\n3. **Kelola aplikasi**,\n4. Lalu, tekan tiga titik yang berada pada pojok kanan,\n5. **Aplikasi default**,\n6. **Membuka link**.\n7. Tunggu sampai semua aplikasi muncul…\n8. Cari YouTube atau YouTube Vanced dan tekan.\n9. Tekan \"**Buka link yang didukung**\" dan pilih \"**Buka**\""
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
+          "title": "AOSP dan UI custom lainnya (OOS, ColorOS, EMUI, etc.):",
           "content": "1. Buka **Pengaturan**\n2. Pergi ke **Aplikasi**\n3. Tekan **Aplikasi default**\n4. Cari **YouTube** atau **YouTube Vanced**\n5. Tekan \"**Buka URL yang didukung**\" dan pilih opsi \"**Di aplikasi ini**\"\n\nApabila anda masih memiliki dengan ini, anda mungkin harus mencari beberapa artikel/video \"cara untuk di [Google](https://www.google.com/search?q=bagaimana+cara+untuk+membuka+link+youtube) atau anda dapat memasang aplikasi pihak ketiga dari [Play Store](https://play.google.com/store/search?q=open%20with) untuk memudahkan anda…"
         }
       ]
@@ -79,7 +79,7 @@
       "description": "1. Anda membutuhkan setidaknya varian GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) untuk menjalankan Vanced.\n\n2. Anda tidak bisa menjalankan Vanced dengan microG core dikarenakan Vanced membutuhkan Google Play Services Framework yang dimana tersedia di semua paket GApps.\n\n3. Apabila anda khawatir dengan privasi anda & dan tidak ingin menggunakan GApps tetapi masih ingin menonton YouTube tanpa iklan, maka [versi web](https://youtube.com) selalu tersedia."
     },
     {
-      "title": "Why casting doesn't work?",
+      "title": "Mengapa membagikan layar tidak bekerja?",
       "description": "Untuk pengguna varian non-root dengan versi 16.16.38, ada sebuah bug di upstream microG. Sampai bug itu terselesaikan, mohon tunggu untuk pembaruan atau gunakan versi 15. Pengguna root tidak akan mempunyai masalah dengan casting apabila mereka menggunakan Google Play Services."
     },
     {
