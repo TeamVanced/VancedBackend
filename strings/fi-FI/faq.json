@@ -79,7 +79,7 @@
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Why casting doesn't work?",
+      "title": "Miksi striimaus ei toimi?",
       "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
     },
     {
@@ -113,7 +113,7 @@
       "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
+      "title": "Näyttääkö 1440p paremmalta 1080p-näytölläni?",
       "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
     }
   ]
