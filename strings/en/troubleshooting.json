@@ -138,7 +138,7 @@
 			"title": "Battery drain fix for Samsung devices",
 			"description": "If you are using a Samsung device and facing huge battery drain/overheating issues, then you are at the right spot!\n The error is not caused by vanced but is caused by Samsung's built-in Game booster app and its services. It somehow detects vanced as a game and starts boosting it for better performance which it doesn't need.\n Sadly you can only fix this issue if you have root or a PC.\n",
 			"fields": [{
-					"title": "Prequisites",
+					"title": "Prerequisites",
 					"content": "You will need\n\n• EITHER a PC with adb set up OR\n • A rooted phone"
 				},
 				{
