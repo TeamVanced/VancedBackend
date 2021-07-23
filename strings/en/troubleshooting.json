@@ -50,7 +50,7 @@
 			"fields": [
 				{
 					"title": "For Vanced manager stuck on logo/crash issue",
-					"content": "There are 2 solutions available. \n\n 1. Clear app data of manager > Turn internet off > Open manager app > Turn the internet on. \n\n2 2. For users with RTL languages set on the device, please update your vanced manager to 2.6.0 from our official vanced website."
+					"content": "There are 2 solutions available. \n\n 1. Clear app data of manager > Turn internet off > Open manager app > Turn the internet on. \n\n2. For users with RTL languages set on the device, please update your vanced manager to 2.6.0 from our official vanced website."
 				},
 				{
 					"title": "INSTALL_FAILED_INVALID_APK: No packages staged or vanced manager gets stuck at \"Please be patient\" screen, do this",
@@ -62,7 +62,7 @@
 				},
 				{
 					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
-					"content": "\n\n • Head to manager settings and clear downloaded files. \n\n • Then clear manager app data then continue installing vanced."
+					"content": "1. Head to manager settings and clear downloaded files. \n\n2. Then clear manager app data then continue installing vanced."
 				}
 			]
 		},
@@ -123,14 +123,31 @@
 		},
 		{
 			"title": "Uninstall on reboot",
-			"description": "If the root version of YouTube Vanced/ YouTube Music Vanced is disappearing/uninstalling/reverting back to stock on reboot,\n\nWe have 2 solutions available for you",
+			"description": "If the root version of YouTube Vanced/ YouTube Music Vanced is disappearing/uninstalling/reverting back to stock on reboot,\n\nWe have 2 solutions available for you:",
 			"fields": [{
 					"title": "Solution 1",
-					"content": "Stick to the non-root version until the developers fix this."
+					"content": "Switch to the non-root version."
 				},
 				{
 					"title": "Solution 2",
-					"content": "REQUIREMENTS: Vanced Manager 2.2.0 or newer\n\n Open Vanced manager and go to settings and find Root Script Sleep Time (you should be on root mode for this option to appear).\n\n2. Then set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
+					"content": "REQUIREMENTS: Vanced Manager 2.2.0 or newer\n\n 1. Open Vanced manager and go to settings and find Root Script Sleep Time (you should be on root mode for this option to appear).\n\n2. Then set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
+				}
+			]
+		},
+		{
+			"title": "Battery drain fix for Samsung devices",
+			"description": "If you are using a Samsung device and facing huge battery drain/overheating issues, then you are at the right spot!\n The error is not caused by vanced but is caused by Samsung's built-in Game booster app and its services. It somehow detects vanced as a game and starts boosting it for better performance which it doesn't need.\n Sadly you can only fix this issue if you have root or a PC.\n",
+			"fields": [{
+					"title": "Prequisites",
+					"content": "You will need\n\n• EITHER a PC with adb set up OR\n • A rooted phone"
+				},
+				{
+					"title": "Uninstalling the Game booster stuff using root",
+					"content": "First you need a Terminal. We recommend [Termux](https://play.google.com/store/apps/details?id=com.termux) but you can use whatever you prefer.\n\n2 Open it up and run the following commands one by one,\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gamehome\"`\n\n `su -c \"pm uninstall -k --user 0 com.enhance.gameservice\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gametools\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gos\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.gametuner.thin\"`\n\n >If any app installs back automatically, remove `-k` from the command of that package and run command in adb again."
+				},
+				{
+					"title": "Uninstalling the Game booster stuff using adb on your PC",
+					"content": "1. Install Android Debug Bridge using this [Guide](https://www.xda-developers.com/install-adb-windows-macos-linux).\n\n2. After setting up adb, type `adb shell` then run the following commands one by one.\n\n `pm uninstall -k --user 0 com.samsung.android.game.gamehome`\n\n `pm uninstall -k --user 0 com.enhance.gameservice`\n\n `pm uninstall -k --user 0 com.samsung.android.game.gametools`\n\n  `pm uninstall -k --user 0 com.samsung.android.game.gos`\n\n `pm uninstall -k --user 0 com.samsung.android.gametuner.thin`"
 				}
 			]
 		},
