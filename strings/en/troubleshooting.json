@@ -143,7 +143,7 @@
 				},
 				{
 					"title": "Uninstalling the Game booster stuff using root",
-					"content": "First you need a Terminal. We recommend [Termux](https://play.google.com/store/apps/details?id=com.termux) but you can use whatever you prefer.\n\n2 Open it up and run the following commands one by one,\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gamehome\"`\n\n `su -c \"pm uninstall -k --user 0 com.enhance.gameservice\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gametools\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gos\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.gametuner.thin\"`\n\n >If any app installs back automatically, remove `-k` from the command of that package and run command in adb again."
+					"content": "First, you need a Terminal. We recommend [Termux](https://play.google.com/store/apps/details?id=com.termux) but you can use whatever you prefer.\n\n2 Open it up and run the following commands one by one,\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gamehome\"`\n\n `su -c \"pm uninstall -k --user 0 com.enhance.gameservice\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gametools\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gos\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.gametuner.thin\"`\n\n >If any app installs back automatically, remove `-k` from the command of that package and run command in adb again."
 				},
 				{
 					"title": "Uninstalling the Game booster stuff using adb on your PC",
