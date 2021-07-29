@@ -2,15 +2,15 @@
   "data": [
     {
       "title": "Apa itu YouTube Vanced?",
-      "description": "YouTube Vanced adalah versi YouTube yang di modifikasi dengan fitur agar pengalaman Youtube anda menjadi lebih baik!\n\nFitur seperti:\n- Pemutaran latar belakang,\n- Picture in Picture (PiP),\n- Tema hitam (OLED friendly),\n- Penghapusan iklan (membutuhkan pengaktifkan),\n- Menimpa maksimal resolusi (mengizinkan pemutaran video yang resolusinya lebih tinggi dari layar anda),\n-...dan banyak lagi!\n\nUntuk informasi lebih lanjut, kunjungi <https://vancedapp.com>"
+      "description": "YouTube Vanced adalah versi YouTube yang di modifikasi dengan fitur agar pengalaman Youtube Anda menjadi lebih baik!\n\nFitur seperti:\n- Pemutaran latar belakang,\n- Picture in Picture (PiP),\n- Tema hitam (OLED friendly),\n- Penghapusan iklan (membutuhkan pengaktifkan),\n- Menimpa maksimal resolusi (mengizinkan pemutaran video yang resolusinya lebih tinggi dari layar anda),\n-...dan banyak lagi!\n\nUntuk informasi lebih lanjut, kunjungi <https://vancedapp.com>"
     },
     {
       "title": "Dimanakah letak tombol Download?",
-      "description": "Tentu saja, Google tidak akan membolehkan versi modifikasi yang merupakan aplikasinya sendiri untuk berada pada toko mereka, untuk itu jangan mencari Vanced di Google Play Store, semua itu merupakan aplikasi palsu.\n\nAplikasi Vanced bisa diunduh dan dipasang menggunakan Vanced Manager yang dimana dapat ditemukan pada situs resmi kami: <https://vancedapp.com> tetapi anda juga dapat mengambilnya dari [Github repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "Tentu saja, Google tidak akan membolehkan versi modifikasi yang merupakan aplikasinya sendiri untuk berada pada toko mereka, untuk itu jangan mencari Vanced di Google Play Store, semua itu merupakan aplikasi palsu.\n\nAplikasi Vanced bisa diunduh dan dipasang menggunakan Vanced Manager yang dimana dapat ditemukan pada situs resmi kami: <https://vancedapp.com> tetapi Anda juga dapat mengambilnya dari [Github repo](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
       "title": "Apakah YouTube Vanced dapat memperbarui secara otomatis?",
-      "description": "Tidak, tidak bisa.\n\nVanced Manager akan mengirimkan anda notifikasi ketika tersedia pembaruan.\n\nAnda juga dapat bergabung [Server Discord] kami(https://discord.gg/wYrRPgv) atau ikuti [channel Telegram](https://t.me/Vanced) untuk berita terbaru dan pemberitahuan pembaruan."
+      "description": "Tidak, tidak bisa.\n\nVanced Manager akan mengirimkan Anda notifikasi ketika tersedia pembaruan.\n\nAnda juga dapat bergabung [Server Discord] kami(https://discord.gg/wYrRPgv) atau ikuti [channel Telegram](https://t.me/Vanced) untuk berita terbaru dan pemberitahuan pembaruan."
     },
     {
       "title": "Dapatkah Vanced mengunduh video?",
@@ -18,15 +18,15 @@
     },
     {
       "title": "Mengapa swipe gesture tidak dapat bekerja?",
-      "description": "Apabila anda memiliki komentar yang ditampilkan di bawah (tempat lama) di pengaturan Vanced > Pengaturan Tampilan, nonaktifkan hal tersebut dan mulai ulang aplikasinya. Apabila tetap tidak bekerja, paksa berhenti aplikasi dan hapus datanya."
+      "description": "Apabila Anda memiliki komentar yang ditampilkan di bawah (tempat lama) di pengaturan Vanced > Pengaturan Tampilan, nonaktifkan hal tersebut dan mulai ulang aplikasinya. Apabila tetap tidak bekerja, paksa berhenti aplikasi dan hapus datanya."
     },
     {
       "title": "Subtitle tidak tersedia?",
       "description": "Hal ini bukan masalah yang berkaitan dengan Vanced ataupun YouTube. Tidak semua video memiliki subtitle."
     },
     {
-      "title": "Apakah anda menerima donasi?",
-      "description": "Kami TIDAK menerima donasi! \n\nBentuk donasi apapun dalam keadaan apapun dan situs, link, atau postingan apapun yang meminta donasi merupakan palsu.\n\nTetapi apabila anda ingin mendukung developer Vanced, anda dapat mengunduh Brave menggunakan [tautan ini](https://brave.com/kev231) dan AdGuard menggunakan [tautan ini](https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "Apakah Anda menerima donasi?",
+      "description": "Kami TIDAK menerima donasi! \n\nBentuk donasi apapun dalam keadaan apapun dan situs, link, atau postingan apapun yang meminta donasi merupakan palsu.\n\nTetapi apabila Anda ingin mendukung developer Vanced, anda dapat mengunduh Brave menggunakan [tautan ini](https://brave.com/kev231) dan AdGuard menggunakan [tautan ini](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
       "title": "Bagaimana cara membuat tampilan pemutar otomatis disembunyikan?",
@@ -42,11 +42,11 @@
     },
     {
       "title": "Apakah saya harus mengunduh ulang file pemasangan?",
-      "description": "File dapat rusak dikarenakan beberapa alasan dan dapat menyebabkan masalah. Untuk mencegah hal ini, anda bisa memilih untuk mengunduh kembali agar pemasangan anda berjalan lancar."
+      "description": "File dapat rusak dikarenakan beberapa alasan dan dapat menyebabkan masalah. Untuk mencegah hal ini, Anda bisa memilih untuk mengunduh kembali agar pemasangan anda berjalan lancar."
     },
     {
       "title": "Mengapa versi root tidak memiliki izin mikropon?",
-      "description": "Vanced mempunyai izin mikropon apabila Vanced anda merupakan versi terbaru."
+      "description": "Vanced mempunyai izin mikropon apabila Vanced Anda merupakan versi terbaru."
     },
     {
       "title": "Apa itu ExoPlayer v1?",
@@ -58,7 +58,7 @@
     },
     {
       "title": "Bagaimana cara untuk membuat YouTube Vanced menjadi aplikasi default?",
-      "description": "Seperti yang terbaca di judul, banyak pengguna yang sudah seringkali menanyakan bagaimana cara mereka untuk membuat YouTube Vanced menjadi aplikasi default untuk membuka tautan YouTube dari aplikasi lain(seperti browser, aplikasi pesan dan aplikasi lain)\n\nUntuk root, anda tidak perlu khawatir tentang masalah ini karena sudah diatur menjadi default sejak YouTube terganti oleh YouTube Vanced.\n\nUntuk non-root, solusinya berbeda antara OneUI, MIUI, dan seterusnya. Kami tidak bisa memberikan semua solusi untuk setiap OS yang tersedia, dan anda mungkin perlu mencari sendiri di Google.",
+      "description": "Seperti yang terbaca di judul, banyak pengguna yang sudah seringkali menanyakan bagaimana cara mereka untuk membuat YouTube Vanced menjadi aplikasi default untuk membuka tautan YouTube dari aplikasi lain(seperti browser, aplikasi pesan dan aplikasi lain)\n\nUntuk root, Anda tidak perlu khawatir tentang masalah ini karena sudah diatur menjadi default sejak YouTube terganti oleh YouTube Vanced.\n\nUntuk non-root, solusinya berbeda antara OneUI, MIUI, dan seterusnya. Kami tidak bisa memberikan semua solusi untuk setiap OS yang tersedia, dan Anda mungkin perlu mencari sendiri di Google.",
       "fields": [
         {
           "title": "Pengguna OneUI:",
@@ -70,13 +70,13 @@
         },
         {
           "title": "AOSP dan UI custom lainnya (OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Buka **Pengaturan**\n2. Pergi ke **Aplikasi**\n3. Tekan **Aplikasi default**\n4. Cari **YouTube** atau **YouTube Vanced**\n5. Tekan \"**Buka URL yang didukung**\" dan pilih opsi \"**Di aplikasi ini**\"\n\nApabila anda masih memiliki dengan ini, anda mungkin harus mencari beberapa artikel/video \"cara untuk di [Google](https://www.google.com/search?q=bagaimana+cara+untuk+membuka+link+youtube) atau anda dapat memasang aplikasi pihak ketiga dari [Play Store](https://play.google.com/store/search?q=open%20with) untuk memudahkan anda…"
+          "content": "1. Buka **Pengaturan**\n2. Pergi ke **Aplikasi**\n3. Tekan **Aplikasi default**\n4. Cari **YouTube** atau **YouTube Vanced**\n5. Tekan \"**Buka URL yang didukung**\" dan pilih opsi \"**Di aplikasi ini**\"\n\nApabila Anda masih memiliki dengan ini, Anda mungkin harus mencari beberapa artikel/video \"cara untuk di [Google](https://www.google.com/search?q=bagaimana+cara+untuk+membuka+link+youtube) atau anda dapat memasang aplikasi pihak ketiga dari [Play Store](https://play.google.com/store/search?q=open%20with) untuk memudahkan Anda…"
         }
       ]
     },
     {
       "title": "Mengapa varian root tidak bekerja dengan microG core?",
-      "description": "1. Anda membutuhkan setidaknya varian GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) untuk menjalankan Vanced.\n\n2. Anda tidak bisa menjalankan Vanced dengan microG core dikarenakan Vanced membutuhkan Google Play Services Framework yang dimana tersedia di semua paket GApps.\n\n3. Apabila anda khawatir dengan privasi anda & dan tidak ingin menggunakan GApps tetapi masih ingin menonton YouTube tanpa iklan, maka [versi web](https://youtube.com) selalu tersedia."
+      "description": "1. Anda membutuhkan setidaknya varian GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) untuk menjalankan Vanced.\n\n2. Anda tidak bisa menjalankan Vanced dengan microG core dikarenakan Vanced membutuhkan Google Play Services Framework yang dimana tersedia di semua paket GApps.\n\n3. Apabila Anda khawatir dengan privasi Anda & dan tidak ingin menggunakan GApps tetapi masih ingin menonton YouTube tanpa iklan, maka [versi web](https://youtube.com) selalu tersedia."
     },
     {
       "title": "Mengapa membagikan layar tidak bekerja?",
@@ -84,19 +84,19 @@
     },
     {
       "title": "Apa itu APK Signing?",
-      "description": "Anda membaca ini dikarenakan anda tidak menggunakan Vanced Manager atau anda mungkin memasang Vanced dari sumber yang tidak resmi. \nHanya gunakan Vanced Manager!\n\nAnda dapat secara aman mengunduh Vanced Manager dari:\n- [Situs resmi] (https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Anda membaca ini dikarenakan Anda tidak menggunakan Vanced Manager atau Anda mungkin memasang Vanced dari sumber yang tidak resmi. \nHanya gunakan Vanced Manager!\n\nAnda dapat secara aman mengunduh Vanced Manager dari:\n- [Situs resmi] (https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Apakah YouTube Vanced berada di Play Store?",
-      "description": "TIDAK!\nSekali lagi, JANGAN memasang atau bahkan mencoba mencari aplikasi palsu apapun yang bernama \"YouTube Vanced\" atau serupa pada Play Store atau toko aplikasi apapun untuk memasang Vanced.\n\nKami hanya memiliki [Petunjuk Vanced](https://play.google.com/store/apps/details?id=com.vanced.faq), dan itu hanyalah aplikasi resmi yang dirilis di Play Store.\n\nApabila anda menemukan aplikasi lain dengan ikon dan nama kami, laporkan hal tersebut sebagai impersonation dan berilah review yang jelek.\n\nAplikasi kami hanya akan ditemukan di [situs resmi](https://vancedapp.com)."
+      "description": "TIDAK!\nSekali lagi, JANGAN memasang atau bahkan mencoba mencari aplikasi palsu apapun yang bernama \"YouTube Vanced\" atau serupa pada Play Store atau toko aplikasi apapun untuk memasang Vanced.\n\nKami hanya memiliki [Petunjuk Vanced](https://play.google.com/store/apps/details?id=com.vanced.faq), dan itu hanyalah aplikasi resmi yang dirilis di Play Store.\n\nApabila Anda menemukan aplikasi lain dengan ikon dan nama kami, laporkan hal tersebut sebagai impersonation dan berilah review yang jelek.\n\nAplikasi kami hanya akan ditemukan di [situs resmi](https://vancedapp.com)."
     },
     {
       "title": "Mengapa Vanced tidak muncul di layar utama atau laci aplikasi?",
-      "description": "Anda membaca ini dikarenakan anda tidak menggunakan Vanced Manager atau anda mungkin memasang Vanced dari sumber yang tidak resmi. \nHanya gunakan Vanced Manager!\n\nAnda dapat secara aman mengunduh Vanced Manager dari:\n- Situs resmi <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Anda membaca ini dikarenakan anda tidak menggunakan Vanced Manager atau Anda mungkin memasang Vanced dari sumber yang tidak resmi. \nHanya gunakan Vanced Manager!\n\nAnda dapat secara aman mengunduh Vanced Manager dari:\n- Situs resmi <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Mengapa video tidak dapat diputar?",
-      "description": "Coba untuk mulai ulang aplikasinya. Hal ini mungkin juga terjadi karena koneksi internet atau perangkat anda."
+      "description": "Coba untuk memulai ulang aplikasinya. Hal ini mungkin juga terjadi karena koneksi internet atau perangkat Anda."
     },
     {
       "title": "Mengapa saya memiliki batas 480p?",
