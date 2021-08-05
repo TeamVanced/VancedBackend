@@ -58,7 +58,7 @@
     },
     {
       "title": "Làm sao để đặt Youtube Vanced làm ứng dụng mặc định?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Như tiêu đề đã nói, rất nhiều người dùng đã hỏi nhiều lần về cách họ có thể đặt YouTube Vanced làm mặc định để mở liên kết YouTube từ các ứng dụng khác (như trình duyệt, ứng dụng nhắn tin và bất kỳ ứng dụng nào khác).\n\n Đối với máy đã root, bạn không cần phải lo lắng vì nó đã được đặt theo mặc định vì YouTube Vanced đã thay thế Stock YouTube.\n\n Đối với máy chưa root, các giải pháp đã được chia thành OneUI, MIUI và phần còn lại.  Chúng tôi không thể cung cấp giải pháp cho mọi hệ điều hành hiện có và bạn có thể cần phải tự mình tìm kiếm trên Google.",
       "fields": [
         {
           "title": "Người dùng OneUI:",
