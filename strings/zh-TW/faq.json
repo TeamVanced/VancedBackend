@@ -6,11 +6,11 @@
     },
     {
       "title": "「下載」按鈕在哪裡？",
-      "description": "當然，Google 不會允許自己的 APP 的修改版本在自己的商店上架，因此不要在 Google Play 商店尋找，那些是假的 APP。\n\nVanced 相關 APP 可藉由 Vanced Manager 來下載安裝，而 Vanced Manager 可以從我們的官網（<https://vancedapp.com>）下載，但您也可以在 [GitHub]（<https://github.com/YTVanced/VancedManager/releases/latest>）上取得。"
+      "description": "當然，Google 不會允許自己的 APP 的修改版本在自己的商店上架，因此不要在 Google Play 商店尋找，那些是假的 APP。\n\nVanced 相關 APP 可藉由 Vanced Manager 來下載安裝，而 Vanced Manager 可以從我們的官網（<https://vancedapp.com>）下載，但您也可以在 [GitHub]（https://github.com/YTVanced/VancedManager/releases/latest）上取得。"
     },
     {
       "title": "YouTube Vanced 會自動更新嗎？",
-      "description": "不會。\n\n當有更新時，Vanced Manager 會傳送一則通知給您。\n\n 您也可以加入我們的 [Discord 伺服器](https://discord.gg/wYrRPgv) 或者追蹤 [Telegram 頻道](https://t.me/Vanced) 來取得最新消息與更新通知。"
+      "description": "不會。\n\n當有更新時，Vanced Manager 會傳送一則通知給您。\n\n 您也可以加入我們的 [Discord 伺服器](https://discord.gg/Vanced) 或者追蹤 [Telegram 頻道](https://t.me/Vanced) 來取得最新消息與更新通知。"
     },
     {
       "title": "可以用 Vanced 下載影片嗎？",
@@ -92,7 +92,7 @@
     },
     {
       "title": "為何 Vanced 沒有顯示在主畫面或應用程式清單中？",
-      "description": "您正在閱讀本文是因為您沒有使用 Vanced Manager，或是您可能從非官方來源安裝了 Vanced。\n選擇使用 Vanced Manager 吧！\n\n您可以從以下位置安全的下載 Vanced Manager：\n- [官方網站](https://vancedapp.com)\n- [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "您正在閱讀本文是因為您沒有使用 Vanced Manager，或是您可能從非官方來源安裝了 Vanced。\n選擇使用 Vanced Manager 吧！\n\n您可以從以下位置安全的下載 Vanced Manager：\n- 官方網站 <https://vancedapp.com>\n- [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "為何影片無法播放？",
