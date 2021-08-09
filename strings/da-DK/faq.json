@@ -76,14 +76,14 @@
     },
     {
       "title": "Hvorfor virker root-varianten ikke med microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "description": "1. Du skal mindst have [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) udgaven af GApps for at køre Vanced.\n\n2. Du kan ikke køre Vanced med microG Core fordi den har brug for Google Play Services Framework som er tilgængelig i alle GApps-pakker og er et krævet bibliotek.\n\n3. Hvis du er bekymret for dit privatliv og ikke ønsker at bruge GApps, men stadig ønsker at se YouTube uden annoncer, så er [web versionen](https://youtube.com) altid tilgængelig."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "Hvorfor virker casting ikke?",
+      "description": "For brugere med seneste v16.16.38 ikke-root-varianten, er der en fejl i microG. Indtil det løses, skal du vente på opdateringer eller gå tilbage til en v15 version. Root-brugere vil ikke have problemer med casting, hvis de bruger Google Play-tjenester."
     },
     {
-      "title": "What is APK Signing?",
+      "title": "Hvad er apk signering?",
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
