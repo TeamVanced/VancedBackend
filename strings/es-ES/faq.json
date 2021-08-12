@@ -17,7 +17,7 @@
       "description": "Descargar vídeos sólo está disponible en estos (https://support.google.com/youtube/answer/6141269) países de forma gratuita. Los videos que necesitan YouTube Premium nunca se descargarán, así que si ves el diálogo de YT premium al descargar algunos vídeos, COMPRA YouTube PREMIUM PARA ESO.\n\nTen en cuenta esto de nuevo, \"VANCED NO ES YOUTUBE PREMIUM\".\n\n⚠️⚠️Vanced nunca añadirá ningún tipo de descargador de terceros a la aplicación. ⚠️No sólo es un problema que deben mantener los desarrolladores, sino que también da a Google una razón más para enviar un aviso de eliminación, lo que significa que el desarrollo será cesado para Vanced.\n\nNadie quiere eso, por lo que descargar desde otros lugares/videos de YouTube dentro de la app de Vanced nunca será soportado. Por favor, no preguntes si los desarrolladores pueden añadir esa función. Si no puedes descargar desde la aplicación Vanced, entonces compra YouTube Premium.⚠️"
     },
     {
-      "title": "¿Por qué los gestos de deslizamiento no funcionan?",
+      "title": "Why don't the swipe gestures work?",
       "description": "Si has activado \"Comentarios viejos\" desde ajustes de youtube > ajustes de vanced > diseño, desactívalos y reinicia la aplicación. Si eso no funciona, prueba eliminando los datos de la aplicación y caché. Si eso no funciona, reporta en nuestro repositorio de github. Mira problemas anteriores antes de crear uno nuevo."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Porque:\n\n1. La aplicación por defecto lo hace, Vanced también.\n2. Solo instala los idiomas que especifiques para reducir el consumo de almacenamiento.\n3. Tiene la única versión de APK base que su dispositivo requiere.\n\nPor supuesto, el Vanced Manager o los desarrolladores pueden convertirlo en un archivo APK normal y único, pero somos demasiado perezosos para hacerlo. Sólo tienes que llevarte bien con lo que tenemos...\n\nNo te preocupes, Vanced Manager hace todo el trabajo necesario por ti así que simplemente pulsa en el botón 'Instalar'."
     },
     {
-      "title": "¿Por qué el color en la pantalla de inicio es diferente del tema?",
+      "title": "Why does the color in the startup screen not match the theme? ",
       "description": "El color de fondo de la pantalla de inicio se toma del color del framework Android para asegurarse de que cambia de acuerdo al tema del sistema. Puede usar los temas de Substratum/Swift para cambiar el color."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Los archivos pueden ser corrompidos por diversas razones y causar problemas posteriormente. Para evitar esto, puede elegir descargarlo de nuevo para asegurarse de que su instalación funciona sin problemas."
     },
     {
-      "title": "¿Por qué la versión root no tiene permiso de micrófono?",
+      "title": "Why doesn't the root version have Microphone permissions? ",
       "description": "Lo hace si tu Vanced está actualizado."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "¿Cómo hacer que YouTube Vanced sea la aplicación por defecto?",
-      "description": "Como dice el título, muchos usuarios han preguntado muchas veces cómo pueden hacer que YouTube Vanced sea el predeterminado para abrir enlaces de YouTube desde otras aplicaciones (como navegadores, aplicaciones de mensajería y cualquier otra aplicación).\n\nEn el caso de los usuarios root, no hay que preocuparse porque ya está configurado por defecto, ya que YouTube Vanced se sustituye por YouTube original.\n\nPara los no root, las soluciones se han dividido entre OneUI, MIUI y el resto.  No podemos ofrecer soluciones para todos los sistemas operativos que existen, y es posible que tengas que buscar en Google por ti mismo.",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "Usuarios de OneUI:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "¿Por qué la variante root no funciona con microG Core?",
+      "title": "Why doesn't the root variant work with the microG core? ",
       "description": "1. Es necesario tener al menos la variante [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) de GApps para ejecutar Vanced.\n\n2. No puedes ejecutar Vanced con microG Core sin Google Play Services Framework que está disponible en todos los paquetes de GApps y es una librería necesaria.\n\n3. Si te preocupa tu privacidad y no quieres usar GApps pero quieres seguir viendo YouTube sin anuncios, entonces la [versión web](https://youtube.com) está siempre disponible."
     },
     {
-      "title": "¿Por qué no funciona la función compartir?",
-      "description": "Para los usuarios con la última variante v16.16.38 no-root, hay un error en el upstream de microG. Hasta que se resuelva, por favor esperen a las actualizaciones o vuelvan a las versiones v15. Los usuarios root no tendrán problemas con el casting si utilizan Google Play Services."
+      "title": "Why doesn't casting work?",
+      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
       "title": "¿Qué es la firma del APK?",
