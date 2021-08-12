@@ -76,23 +76,23 @@
     },
     {
       "title": "Miksi root-variantti ei toimi MicroG coren kanssa? ",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "description": "1. Sinulla on oltava ainakin [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package)-variantti GAppseista jos haluat käyttää Vancedia.\n\n2. Et voi käyttää Vancedia microG Coren kanssa ilman Google Play Services Frameworkia, joka on saatavilla kaikissa GApps paketeissa, ja se on pakollinen kirjasto.\n\n3. Jos olet huolissasi yksityisyydestäsi ja et halua käyttää GAppsia mutta haluat silti käyttää YouTubea ilman mainoksia, sitten [web-versio](https://youtube.com) on aina saatavilla."
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "Miksi Cast-toiminto ei toimi?",
+      "description": "Käyttäjille, joilla on v16.16.38 ja kaikki ylemmät ei-root variantit ja root variantit, jotka käyttävät mikroG pohjaisia ROMeja, mikroG:ssä on vika. Kunnes se ratkaistaan, odota päivityksiä tai palaudu v15 versioihin. Jos käytät Google Play -palveluita root-varianteilla, sinulla ei ole ongelmia Cast-toiminnon kanssa."
     },
     {
-      "title": "What is APK Signing?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Mikä on APK Signing?",
+      "description": "Luet tätä, koska et käytä Vanced Manageria tai olet ehkä asentanut Vancedin epävirallisesta lähteestä.\nKäytä vain Vanced Manageria!\n\nVoit turvallisesti ladata Vanced Managerin osoitteesta:\n- [Virallinen sivusto](https://vancedapp.com)\n- [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Onko YouTube Vanced Play Kaupassa?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+      "description": "EI!\nJälleen, ÄLÄ asenna tai edes yritä etsiä väärennettyjä sovelluksia nimeltä \"YouTube Vanced\" tai vastaavia Play Kaupasta tai mistään sovelluskauppoista asentaaksesi Vancedin.\n\nMeillä on vain [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), ja se on ainoa virallinen sovellus julkaistu Play Kaupassa.\n\nJos löydät jonkin muun sovelluksen, jolla on kuvakkeemme ja nimemme, ilmoita se toisena henkilönä esiintymisenä ja anna sille huono arvostelu.\n\nSovelluksemme löytyvät vain [viralliselta sivustolta](https://vancedapp.com)."
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Miksi Vanced ei näy kotinäytöllä tai sovellusvalikossa?",
+      "description": "Luet tätä, koska et käytä Vanced Manageria tai olet ehkä asentanut Vancedin epävirallisesta lähteestä.\nKäytä vain Vanced Manageria!\n\nVoit turvallisesti ladata Vanced Managerin osoitteesta:\n- Virallinen sivusto <https://vancedapp.com>\n- [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Mikseivät videot toistu?",
@@ -110,11 +110,11 @@
     },
     {
       "title": "Kuinka piilottaa microG ilmoitus?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Piilottaaksesi microG-ilmoituksen,\n\n1. Voit poistaa akun optimoinnin käytöstä Vanced microG:lle ja käynnistää laitteen uudelleen.\n\n2. Jos yllä mainittu menetelmä ei toimi, poista mikroG-ilmoitukset käytöstä pitämällä ilmoitusta painettuna, ota se pois käytöstä ja napauta Tallenna.\n\n> Sovellusilmoitusten poistaminen käytöstä voidaan tehdä eri tavoin Androidin käyttöliittymästä riippuen. Jos et tiedä miten se poistetaan käytöstä, yritä käyttää Googlea oppiaksesi kuinka se otetaan pois käytöstä."
     },
     {
       "title": "Näyttääkö 1440p paremmalta 1080p-näytölläni?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "description": "Kyllä, mutta vain jos videosuhde on esimerkiksi 18:9, 21:9, ... Voit ottaa käyttöön `Ota tekniset tiedot käyttöön` Asetukset > Yleiset -valikosta vahvistaaksesi sen.\n\nOttaaksesi korkeampia resoluutioita käyttöön, siirry Vanced-asetuksiin > Videoasetukset ja ota `Enimmäistarkkuus` käyttöön ja käynnistä sovellus uudelleen."
     }
   ]
 }
