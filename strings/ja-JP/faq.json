@@ -17,7 +17,7 @@
       "description": "Vanced には動画をダウンロードする機能はなく、これからも絶対に実装しません。\n\n[いくつかの国](https://support.google.com/youtube/answer/6141269)ではほとんどの動画を無料でダウンロードできますが、その他の国では YouTube Premium が必要です。\n\nもう一度繰り返しますが、Vanced は絶対にダウンロード機能や類似の機能を実装しません。\n\nGoogle は著作権保護されたコンテンツをダウンロードされることに対して厳格であるため、ダウンロード機能を実装したことでいくつもの改造版 YouTube アプリが閉鎖されてきました。Vanced がダウンロード機能を実装することはありませんのでリクエストしないでください。"
     },
     {
-      "title": "スワイプジェスチャーが動作しないのはなぜですか？",
+      "title": "Why don't the swipe gestures work?",
       "description": "Vanced 設定 > レイアウト設定で、コメントの場所を下部（古い場所）に設定している場合、スワイプジェスチャーは動作しません。上部（新しい場所）に設定してアプリを再起動してください。それでもスワイプジェスチャーが動作しない場合は、アプリを強制終了し、データを消去してください。"
     },
     {
@@ -37,7 +37,7 @@
       "description": "大きく3つの理由があります:\n\n1. 通常版のアプリが分割 APK を使用しているため\n2. 必要な言語のみインストールするのでストレージの使用量を削減できるため\n3. デバイスが必要とする core APK は 1 種類であるため\n\nもちろん、通常の APK に変換することも技術的には可能ですが Vanced 開発者は行わないことにしています。今あるものをご活用ください。\n\nVanced Manager が手間のかかる作業をすべて行い、あなたは`Install`ボタンを押すだけでアプリをご利用いただけます。"
     },
     {
-      "title": "起動画面の色がテーマと異なるのはなぜですか？",
+      "title": "Why does the color in the startup screen not match the theme? ",
       "description": "起動画面の背景色はシステムのテーマによって決定される Android フレームワークの色が反映されています。[Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) や [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) などのアプリを利用して変更することができます。"
     },
     {
@@ -45,7 +45,7 @@
       "description": "さまざまな理由でファイルが破損する可能性があり、その後問題が発生する場合があります。この問題を回避しスムーズなインストールを行うため、再ダウンロードを選択できます。"
     },
     {
-      "title": "root 版にマイクの権限がないのはなぜですか？",
+      "title": "Why doesn't the root version have Microphone permissions? ",
       "description": "Vanced の最新バージョンでは必要です。"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "YouTube Vanced をデフォルトのアプリに設定する方法は？",
-      "description": "ブラウザやメッセージアプリなどから YouTube のリンクを開くときに使用するデフォルトのアプリに Vanced を設定する方法です。これは特によくある質問です。\n \nroot 版では、YouTube Vanced は公式アプリを置き換えているためすでにデフォルトに設定されています。 \n\nnon-root 版では、OneUI や MIUI などがあり解決方法が異なるためここですべてに共通の解決方法を示すことはできません。ご使用の OS にあった設定方法をウェブ検索してください。",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "OneUI ユーザー:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "root 版で microG が動作しないのはなぜですか？",
+      "title": "Why doesn't the root variant work with the microG core? ",
       "description": "1. Vanced を使用するには、GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 以上が必要です。\n\n2. GApps パッケージで利用可能な Google Play サービスフレームワークがない場合には、Vanced で microG Core を利用できません。また、ライブラリーが必要です。\n\n3. プライバシーに関する懸念があり GApps を使わずに YouTube をご覧になりたい場合は、[ウェブ版](https://youtube.com)をご利用ください。"
     },
     {
-      "title": "なぜ Cast できないのですか？",
-      "description": "最新の v16.16.38 non-root 版をお使いの場合、microG にバグがあります。 それが解決されるまでアップデートをお待ちいただくか、バージョン15にロールバックしてください。root 版ユーザーは Google Play サービスを使用している場合、Cast に問題はありません。"
+      "title": "Why doesn't casting work?",
+      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
       "title": "APK 署名とは何ですか？",
