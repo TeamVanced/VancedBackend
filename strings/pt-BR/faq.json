@@ -17,7 +17,7 @@
       "description": "Vanced não inclui qualquer recurso de download de vídeo e nunca irá.\n\nMuitos vídeos estão disponíveis para download gratuito em [países selecionados](https://support.google.com/youtube/answer/6141269). Para o resto do mundo, adquira o YouTube Premium ou use um downloader de terceiros.\n\nNovamente, Vanced NUNCA adicionará um downloader de vídeo ao app ou qualquer coisa parecida.\n\nEste tem sido o motivo para o encerramento de muitos mods do YouTube no passado, já que o Google não gosta de pessoas baixando conteúdo com direitos autorais da plataforma, então não peça!!!"
     },
     {
-      "title": "Why don't the swipe gestures work?",
+      "title": "Por que os gestos de deslize não funcionam?",
       "description": "Se os seus comentários estiverem sendo mostrados na parte inferior (local antigo), em Configurações do Vanced > Configurações de Layout, desligue-o e reinicie o aplicativo. Se isso não resolver, force a parada do aplicativo e limpe seus dados."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Porque:\n\n1. O aplicativo padrão usa, portanto o Vanced também usa.\n2. Ele só instala os idiomas que você especificar para reduzir o consumo do armazenamento.\n3. Ele tem a única versão do core APK que o seu dispositivo precisa.\n\nClaro, o Vanced Manager ou desenvolvedores podem convertê-lo em um arquivo APK normal, mas nós somos muito preguiçosos para fazer isso. Você só precisa aceitar o que temos...\n\nNão se preocupe, o Vanced Manager faz todo o trabalho duro para você, você só precisa tocar em `Instalar`."
     },
     {
-      "title": "Why does the color in the startup screen not match the theme? ",
+      "title": "Por que a cor na tela inicial não combina com o tema? ",
       "description": "O plano de fundo da tela inicial é obtido através do framework de cores do Android para se certificar que o mesmo mude conforme o tema do sistema. Você pode usar temas Substratum/Swift para alterar a cor."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Os arquivos podem estar corrompidos por várias razões e podem causar problemas posteriores. Para evitar isso você pode optar por baixa-los novamente para garantir que tudo corra bem na instalação."
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
+      "title": "Por que a versão root não tem permissões de Microfone? ",
       "description": "Ele tem se seu Vanced estiver atualizado."
     },
     {
