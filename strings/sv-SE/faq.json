@@ -17,7 +17,7 @@
       "description": "Nedladdning av videor är endast tillgänglig i dessa (https://support.google.com/youtube/answer/6141269) länder gratis. Videor som behöver YouTube Premium kommer aldrig att laddas ner så om du ser YT premium dialog när du laddar ner några videor, KÖP YouTube PREMIUM FÖR DET.\n\nNotera detta igen, \"VANCED ÄR INTE DITT PREMIUM\".\n\n⚠️⚠️Vanced kommer aldrig lägga till någon form av tredjepartshämtare till appen. Inte bara det är ett krångel för utvecklarna att underhålla, men det ger också Google ytterligare en anledning att skicka ett meddelande om hämtning, vilket innebär att utvecklingen upphör för Vanced.\n\nIngen vill det, så nedladdning från andra källor/YouTube-videor inifrån appen Vanced kommer aldrig att stödjas. Fråga inte om utvecklarna kan lägga till den funktionen. Om du inte kan ladda ner från appen Vanced kan du köpa YouTube Premium.⚠️"
     },
     {
-      "title": "Problem med svep-gest",
+      "title": "Why don't the swipe gestures work?",
       "description": "Om du har aktiverat \"gamla kommentarer\" från youtube inställningar > vanced inställningar > layout, inaktivera det och starta om appen. Om det inte fungerar, prova att rensa appdata och cache. Om det inte fungerar, rapportera om vår github repo. Se upp på tidigare utgåvor innan du skapar en ny."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Till att börja med:\n\n1. Vad är delade apks?\nDet är en zip-fil som innehåller basapk, config apk för din enhets arkitektur och språk apk.\n\nTill exempel, en typisk normal apk har både 32 bitars och 64 bitars stödfil, massor av språkfiler och en bas apk. Så om din enhet är bara 32 bit och du bara vill ha engelska fil, varför skulle du vilja ha en extra filer som du inte ens behöver och kommer att resultera i att ta stor plats i din lagring.\n\n**Fördelar**:\n• storleken på delad apk är nästan hälften av normal apk\n• en delad apk har endast de filer som är relevanta för din enhet och arkitektur\n\n**Nackdelar:**\nSvårt för nybörjare eller icke-tekniska personer\n\n2. Varför dela?\nGoogle distribuerar endast YouTube APK: er efter version 14. 4 i split APKs nu , Så för att installera Vanced, Vi måste använda SAI (Split APK Installer).\nTidigare ger de normal apk vilket gör det enkelt att installera appar på varje enhet.\n\n3. varför dev's inte patch apks och gör apk av det?\nDet är inte så att de inte kan. Det handlar om ökad tid att göra detta. Konvertering från apks till apk lägger till tid som de kan använda på andra sätt (både personliga och vanserade fel/uppdateringar). Så fråga inte hur man får normal apk. Använd gammal version om du är riktigt lata eller officiella YT app från play store direkt."
     },
     {
-      "title": "App plash färg",
+      "title": "Why does the color in the startup screen not match the theme? ",
       "description": "Bakgrundsfärgen på startskärmen är nu tagen från Android ramverksfärg (Android-system) för att se till att Vanced/Youtube ändrar sitt stänk coloir enligt systemtemat. Oavsett Android ramfärg, samma färg skulle dyka upp i vansinne.\n\nDu kan använda Substratum/Swift teman för att ändra temafärgen."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Anledningen är ganska enkel: ibland en nedladdad fil kan skadas, att försöka ta tag i dem och installera kommer att resultera i en oändlig loop av misslyckande. För att undvika detta annonserar chefen varje gång du trycker på knappen.\n\nInstallationsprogrammet Icke-Root kan nu använda de redan nedladdade filerna för att installera om Vanced."
     },
     {
-      "title": "Mikrofon",
+      "title": "Why doesn't the root version have Microphone permissions? ",
       "description": "Om du undrar varför det inte finns någon mikrofon tillstånd i rotversionen av Vanced, Det beror på att APK som används för att ändra Vanced (minAPI17) saknar mikrofonens tillstånd. Den andra APK har den (minAPI21) men den saknar översättningen. Varför? Fråga Google 🤷‍♂️\n\nWorkaround: använd icke-rotvarianten eller lager-YouTube.\n\nOBS: Dessa problem finns bara i version 14 och nedan. Behörigheterna är nu rättade från version 15."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "How to make YouTube Vanced as default app?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "OneUI users:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
+      "title": "Why doesn't the root variant work with the microG core? ",
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "Why doesn't casting work?",
+      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
       "title": "What is APK Signing?",
