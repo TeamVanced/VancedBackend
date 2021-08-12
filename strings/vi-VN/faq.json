@@ -17,7 +17,7 @@
       "description": "Vanced không bao gồm các tính năng tải xuống video và sẽ không bao giờ.\n\nRất nhiều video có sẵn để tải xuống miễn phí ở [các nước](https://support.google.com/youtube/answer/6141269). Với các nước còn lại, hãy sử dụng Youtube Premium.\n\nNhắc lại, Vanced SẼ KHÔNG BAO GIỜ thêm bộ tải xuống video hoặc bất cứ thứ gì liên quan vào ứng dụng.\n\nĐây là lý do mà trong quá khứ rất nhiều bản Youtube mods bị sập bởi vì Google không thích người dùng tải xuống các nội dung bản quyền từ nền tảng của họ nên đừng đòi hỏi về nó!!!"
     },
     {
-      "title": "Tại sao các cử chỉ vuốt không hoạt động?",
+      "title": "Why don't the swipe gestures work?",
       "description": "Nếu các bình luận của bạn ở dưới cùng (vị trí cũ) thì ở cài đặt Vanced > Cài đặt giao diện, tắt nó và khởi động lại ứng dụng. Nếu không được, buộc dừng ứng dụng và xoá dữ liệu của nó."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Bởi vì:\n\n 1. Ứng dụng gốc sử dụng nó nên Vanced cũng sử dụng nó.\n 2. Nó chỉ cài đặt ngôn ngữ bạn chỉ định để giảm tiêu thụ bộ nhớ.\n 3. Nó có phiên bản APK cốt lõi duy nhất mà thiết bị của bạn yêu cầu.\n\n Tất nhiên, Vanced Manager hoặc các nhà phát triển có thể chuyển đổi nó thành một tệp APK bình thường, nhưng chúng tôi rất lười làm điều đó. Bạn chỉ cần hòa hợp với những gì chúng tôi có...\n\n Tuy nhiên, đừng lo lắng, Vanced Manager sẽ thực hiện tất cả công việc khó khăn cho bạn vì vậy chỉ cần nhấn vào nút `Cài đặt`."
     },
     {
-      "title": "Tại sao màu của màn hình khởi chạy lại khác với chủ đề giao diện?",
+      "title": "Why does the color in the startup screen not match the theme? ",
       "description": "Màu nền màn hình khởi động được lấy từ màu khung Android để đảm bảo nó thay đổi theo chủ đề hệ thống. Bạn có thể sử dụng [Substratum] (https://play.google.com/store/apps/details?id=projekt.substratum) hoặc [Swift Installer] (https://play.google.com/store/apps/details? id = com.brit.swiftinstaller) hoặc một ứng dụng tương tự để thay đổi màu sắc."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Các tập tin có thể bị hỏng vì nhiều lý do khác nhau và có thể gây ra sự cố sau đó. Để tránh điều này, bạn có thể chọn tải lại nó để đảm bảo quá trình cài đặt diễn ra suôn sẻ."
     },
     {
-      "title": "Tại sao phiên bản root có quyền Microphone?",
+      "title": "Why doesn't the root version have Microphone permissions? ",
       "description": "Nó có nếu Vanced đã là bản mới nhất."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Làm sao để đặt Youtube Vanced làm ứng dụng mặc định?",
-      "description": "Như tiêu đề đã nói, rất nhiều người dùng đã hỏi nhiều lần về cách họ có thể đặt YouTube Vanced làm mặc định để mở liên kết YouTube từ các ứng dụng khác (như trình duyệt, ứng dụng nhắn tin và bất kỳ ứng dụng nào khác).\n\n Đối với máy đã root, bạn không cần phải lo lắng vì nó đã được đặt theo mặc định vì YouTube Vanced đã thay thế Stock YouTube.\n\n Đối với máy chưa root, các giải pháp đã được chia thành OneUI, MIUI và phần còn lại.  Chúng tôi không thể cung cấp giải pháp cho mọi hệ điều hành hiện có và bạn có thể cần phải tự mình tìm kiếm trên Google.",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "Người dùng OneUI:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Tại sao bản root lại không hoạt động với MicroG Core?",
+      "title": "Why doesn't the root variant work with the microG core? ",
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "Why doesn't casting work?",
+      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
       "title": "What is APK Signing?",
