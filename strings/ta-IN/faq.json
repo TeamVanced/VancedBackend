@@ -17,7 +17,7 @@
       "description": "Vanced எந்த வீடியோ பதிவிறக்க அம்சத்தையும் சேர்க்க முடியாது மற்றும் ஒருபோதும் முடியாது.\n\n[தேர்ந்தெடுக்கப்பட்ட நாடுகளில்) இலவசமாக பதிவிறக்க பல வீடியோக்கள் (https://support.google.com/youtube/answer/6141269) இலவசமாக பதிவிறக்க கிடைக்கின்றன. உலகின் மற்ற பகுதிகளுக்கு, YouTube பிரீமியம் கிடைக்கும்.\n\nமீண்டும், Vanced பயன்பாட்டை அல்லது ஒத்த ஏதாவது ஒரு வீடியோ டவுன்டரை சேர்க்க முடியாது.\n\nகடந்த காலங்களில் பல YouTube முறைகளின் பணிநிறுத்தம் காரணமாக இதுவே காரணம் என்று Google தங்கள் மேடையில் இருந்து பதிப்புரிமை பெற்ற உள்ளடக்கத்தை பதிவிறக்கம் செய்யவில்லை, அதனால் கேட்க வேண்டாம்!!!"
     },
     {
-      "title": "ஸ்வைப் சைகைகள் ஏன் வேலை செய்யவில்லை?",
+      "title": "Why don't the swipe gestures work?",
       "description": "நீங்கள் கீழே (பழைய இடத்தில்) காட்டப்பட்டுள்ள கருத்துகள் இருந்தால், Vanced அமைப்புகள்> அமைப்பை அமைப்புகள், அதை முடக்க மற்றும் பயன்பாட்டை மறுதொடக்கம். அது வேலை செய்யாவிட்டால், பயன்பாட்டை நிறுத்தவும் அதன் தரவை அழிக்கவும்."
     },
     {
@@ -37,7 +37,7 @@
       "description": "ஏனெனில்:\n\n1. பங்கு பயன்பாடு அதைப் பயன்படுத்துகிறது.\n2. சேமிப்பக நுகர்வு குறைக்க நீங்கள் குறிப்பிடும் மொழிகளை நிறுவுகிறது.\n3. உங்கள் சாதனத்திற்கு தேவைப்படும் கோர் APK இன் ஒரே பதிப்பு இது.\n\nநிச்சயமாக, Vanced மேலாளர் அல்லது டெவலப்பர்கள் ஒரு சாதாரண, ஒற்றை apk கோப்பு மாற்ற முடியும், ஆனால் நாம் அதை செய்ய சோம்பேறி. நீங்கள் என்ன செய்ய வேண்டும்?\n\nகவலைப்பட வேண்டாம் என்றாலும், Vanced மேலாளர் நீங்கள் அனைத்து கடின உழைப்பு செய்கிறது எனவே `install` பொத்தானை தட்டவும்."
     },
     {
-      "title": "தொடக்க திரையில் உள்ள வண்ணம் தீம் இருந்து வேறுபட்டது ஏன்?",
+      "title": "Why does the color in the startup screen not match the theme? ",
       "description": "தொடக்க திரை பின்னணி நிறம் கணினி தீம் படி மாறும் உறுதி செய்ய அண்ட்ராய்டு கட்டமைப்பை வண்ண இருந்து எடுத்து. நீங்கள் [Substratum] (https://play.google.com/store/apps/details?id=projekt.substratum) அல்லது [ஸ்விஃப்ட் நிறுவி] (https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) அல்லது வண்ணத்தை மாற்றுவதற்கு இதே போன்ற பயன்பாடு."
     },
     {
@@ -45,7 +45,7 @@
       "description": "பல்வேறு காரணங்களால் கோப்புகளை சிதைக்க முடியும் மற்றும் பின்னர் பிரச்சினைகள் ஏற்படலாம். இதை தவிர்க்க, உங்கள் நிறுவல் மென்மையாக செல்கிறது என்பதை உறுதிப்படுத்த மீண்டும் அதை பதிவிறக்கலாம்."
     },
     {
-      "title": "ரூட் பதிப்பில் மைக்ரோஃபோன் அனுமதியைக் கொண்டிருக்கவில்லை?",
+      "title": "Why doesn't the root version have Microphone permissions? ",
       "description": "உங்கள் Vanced வரை தேதி என்றால் அது செய்கிறது."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "How to make YouTube Vanced as default app?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "OneUI பயனர்கள்:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
+      "title": "Why doesn't the root variant work with the microG core? ",
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "Why doesn't casting work?",
+      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
       "title": "APK ஒப்பமிடல் என்றால் என்ன?",
