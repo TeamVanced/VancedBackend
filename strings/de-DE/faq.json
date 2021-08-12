@@ -79,7 +79,7 @@
       "description": "1. Sie benötigen mindestens die [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) Variante von GApps um Vanced benutzen zu können.\n\n2. Sie können Vanced mit microG nicht benutzen, ohne das Google Play Service Framework installiert zu haben, welches in allen GApps Varianten inkludiert ist, da es eine erforderliche Bibliothek ist.\n\n3. Wenn Sie besorgt sind wegen Ihrer Privatsphäre und nicht GApps verwenden wollen aber trotzdem YouTube schauen wollen ohne Werbeanzeigen, dann ist die Web Version (https://youtube.com) immer verfügbar."
     },
     {
-      "title": "Why doesn't casting work?",
+      "title": "Warum funktioniert Screencasting nicht?",
       "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
