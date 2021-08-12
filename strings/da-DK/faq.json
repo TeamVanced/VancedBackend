@@ -17,7 +17,7 @@
       "description": "Vanced indeholder ingen video download funktion og vil aldrig komme til det.\n\nMange videoer er tilgængelige til gratis download i [valgte lande](https://support.google.com/youtube/answer/6141269). I resten af verden kan du få YouTube Premium eller bruge en 3.parts downloader.\n\nIgen, Vanced vil ALDRIG tilføje en video downloader til appen eller noget lignende.\n\nDette har været årsagen til lukningen af mange YouTube mods tidligere, da Google ikke kan lide folk, der downloader ophavsretligt beskyttet indhold fra deres platform, så spørg ikke om det!!!"
     },
     {
-      "title": "Hvorfor virker swipe bevægelserne ikke?",
+      "title": "Why don't the swipe gestures work?",
       "description": "Hvis du har kommentarer vist nederst (gammelt layout) i Vanced indstillinger > Layout indstillinger, deaktiver det og genstarte appen. Hvis det ikke virker, tving appen til at stoppe og ryd dens data."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Fordi:\n\n1. Stadnard appen bruger den, så Vanced bruger den også.\n2. Den installerer kun de sprog, du angiver for at reducere lagerforbruget.\n3. Den har den eneste version af kerne-APK, som din enhed kræver.\n\nSelvfølgelig kan Vanced Manager eller udviklerene konvertere det til én normal APK fil, men vi er for dovne at gøre det. Du er bare nødt til at nøjes med det vi tilbyder...\n\nBare rolig dog, Vanced Manager gør alt det hårde arbejde for dig, så bare tryk på `Install` knappen."
     },
     {
-      "title": "Hvorfor er farven på startskærmen forskellig fra temaet?",
+      "title": "Why does the color in the startup screen not match the theme? ",
       "description": "Startskærmens baggrundsfarve er taget fra Android frameworks farve for at sikre, at det ændrer sig efter systemtemaet. Du kan bruge Substratum/Swift temaer for at ændre farven."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Filer kan blive korrupte af forskellige årsager og kan forårsage problemer bagefter. For at undgå dette, kan du vælge at downloade dem igen for at sikre, at din installation går glat."
     },
     {
-      "title": "Hvorfor har root-versionen ikke mikrofon tilladelse?",
+      "title": "Why doesn't the root version have Microphone permissions? ",
       "description": "Det har den, hvis din Vanced er opdateret."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Hvordan man laver YouTube Vanced som standard app?",
-      "description": "Som titlen siger, har en masse brugere spurgt mange gange, hvordan de kan gøre YouTube Vanced som standard appen til at åbne YouTube-links fra andre apps (som browsere, beskedapps og enhver anden app).\n\nFor root, behøver du ikke bekymre dig, fordi det allerede er sat som standard, da YouTube Vanced erstatter standard YouTube appen.\n\nFor ikke-root, er løsninger forskellige fra OneUI, MIUI og resten. Vi kan ikke levere løsninger til alle OS derude, og du kan have brug for at Google det selv.",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "OneUI brugere:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Hvorfor virker root-varianten ikke med microG Core?",
+      "title": "Why doesn't the root variant work with the microG core? ",
       "description": "1. Du skal mindst have [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) udgaven af GApps for at køre Vanced.\n\n2. Du kan ikke køre Vanced med microG Core fordi den har brug for Google Play Services Framework som er tilgængelig i alle GApps-pakker og er et krævet bibliotek.\n\n3. Hvis du er bekymret for dit privatliv og ikke ønsker at bruge GApps, men stadig ønsker at se YouTube uden annoncer, så er [web versionen](https://youtube.com) altid tilgængelig."
     },
     {
-      "title": "Hvorfor virker casting ikke?",
-      "description": "For brugere med seneste v16.16.38 ikke-root-varianten, er der en fejl i microG. Indtil det løses, skal du vente på opdateringer eller gå tilbage til en v15 version. Root-brugere vil ikke have problemer med casting, hvis de bruger Google Play-tjenester."
+      "title": "Why doesn't casting work?",
+      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
       "title": "Hvad er apk signering?",
