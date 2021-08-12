@@ -17,7 +17,7 @@
       "description": "Vanced 沒有下載影片的功能，也絕對不會有。\n\n在[某些國家](https://support.google.com/youtube/answer/6141269)，您可以免費的下載影片。\n至於其他地方，請購買 YouTube Premium 或使用第三方下載器。\n\n再次強調──Vanced「絕對不會」在 APP 中加入影片下載器或類似的功能。\n\n這點已經導致了許多修改版 YouTube APP 停止服務，因為 Google 不樂見大家從他們的平台上下載版權內容，所以不要再許願這個功能了！！！"
     },
     {
-      "title": "Why don't the swipe gestures work?",
+      "title": "為何滑動手勢沒有反應？",
       "description": "若您在 Vanced 設定 > 版面設定中將留言設定為顯示在底部（舊位置），請停用此設定，然後重開 APP。\n若情況依舊，請強制停止 APP 並清除它的資料（清除儲存空間）"
     },
     {
@@ -37,7 +37,7 @@
       "description": "因為:\n\n1. 系統應用程式使用它，所以 Vanced 也使用它。\n2. 它只安裝您指定的語言來減少儲存消耗。\n3. 它有您的裝置需要的唯一核心 APK 版本。\n\n當然，Vanced Manager 或開發人員可以將其轉換為普通的、單一的 APK 檔案，但我們太懶了。你只需要使用我們提供的就好…\n\n不過不要擔心，Vanced Manager 會為你做所有的辛苦工作，所以只要點選 「安裝」按鈕。"
     },
     {
-      "title": "Why does the color in the startup screen not match the theme? ",
+      "title": "為甚麼啟動畫面的顏色跟主題不一樣？",
       "description": "啟動螢幕的背景顏色是從 Android framework 的顏色，以確保它改變根據系統主題。你可以使用 [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) 或 [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) 或類似的應用程式來改變顏色。"
     },
     {
@@ -45,7 +45,7 @@
       "description": "由於各種原因，檔案可能被損壞，並可能在之後導致問題。為了避免這種情況，您可以選擇再次下載，以確保安裝順利進行。"
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
+      "title": "為什麼 Root 版本沒有\"麥克風\"權限？",
       "description": "如果你的 Vanced 是最新的就可以。"
     },
     {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "title": "Why doesn't the root variant work with the microG core? ",
+      "title": "為什麼 Root 版本與 microG Core 不相容？",
       "description": "1. 您需要有 GApps 的 [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 版本才能運行 Vanced。\n\n2. 您如果沒有安裝必要的 Google Play 服務框架，Vanced 就無法讓 microG Core 一起運行，該框架包含在所有的 GApps 封包中。\n\n3. 如果您擔心自己的隱私並且不想使用 GApps，但仍想擁有沒有廣告的 YouTube 觀看體驗，那麼 [網頁版](https://youtube.com) 將是您的選擇。"
     },
     {
