@@ -79,8 +79,8 @@
       "description": "1. Abyste mohli spustit Vanced, musíte mít alespoň [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variantu GApps\n\n2. Vanced s microG Core nelze spustit, protože potřebuje Google Play Services Framework, který je k dispozici ve všech balíčcích GApps.\n\n3. Pokud se obáváte o své soukromí a nechcete používat GApps, ale přesto chcete sledovat YouTube bez reklam, je vždy k dispozici [webová verze](https://youtube.com)."
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "Proč nefunguje vysílání?",
+      "description": "Pro uživatele s verzí v16.16.38 a všemi výše uvedenými variantami bez root a variantami s root, kteří používají ROM založené na microG, je v upstreamu microG chyba. Dokud se to nevyřeší, vyčkejte na aktualizace nebo se vraťte k verzi v15. Pokud používáte služby Google Play s variantou root, nebudete mít s vysíláním žádné problémy."
     },
     {
       "title": "Co je to podepisování APK?",
