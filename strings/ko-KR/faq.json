@@ -17,7 +17,7 @@
       "description": "동영상을 내려받는 기능은 이(https://support.google.com/youtube/answer/6141269) 국가에서만 무료로 제공됩니다. YouTube Premium으로만 볼 수 있는 동영상은 내려받을 수 없으므로 동영상을 내려받고자 할 때 YT Premium 결제 문구가 뜨면 YouTube PREMIUM을 결제하시길 바랍니다.\n\n\"VANCED는 YOUTUBE PREMIUM이 아님\"을 알아두시길 바랍니다.\n\n⚠️⚠️앞으로도 Vanced 앱에 동영상 내려받기 기능을 넣는 일은 절대로 없을 것입니다.⚠️ 개발자가 이를 유지보수하기 힘들 뿐 아니라, Google에서 Vanced 개발을 중단시킬 한 가지 이유가 더 생기기 때문입니다.\n아무도 그런 건 원하지 않으므로, Vanced 앱 내에서 YouTube나 다른 곳의 동영상을 내려받는 기능은 절대 지원하지 않을 겁니다. 개발자에게 다운로드 기능을 추가할 수 있는지 묻지 말아주세요. Vanced 앱에서 동영상을 내려받을 수 없으면 YouTube Premium을 결제하세요.⚠️"
     },
     {
-      "title": "스와이프 제스처 문제",
+      "title": "Why don't the swipe gestures work?",
       "description": "만약 YouTube 설정 > Vanced 설정 > 레이아웃 설정에서 댓글 위치 설정을 \"이전 위치\"로 설정했다면 이를 끄고 앱을 재시작하십시오. 그래도 문제가 있다면 앱 데이터와 캐시를 지우고 다시 시도해보세요. 그래도 문제가 여전히 있다면 Github 저장소로 문제를 보고하시기 바랍니다. 새 이슈를 만들기 전, 이전에 보고된 이슈를 우선 확인하십시오."
     },
     {
@@ -37,7 +37,7 @@
       "description": "시작하기 앞서:\n\n1. 분할 앱이란?\n기본 APK, 기기 아키텍처를 위한 구성 APK, 언어 APK가 들어 있는 ZIP 파일입니다.\n\n예를 들어 보통, 일반 APK에는 32비트 및 64비트 아키텍처 지원 파일, 많은 언어 파일, 기본 APK 파일이 들어 있습니다. 따라서 장치가 32비트로 구동되고 영어 언어 파일만 원하는 경우 저장 공간을 많이 차지하는 불필요한 추가 파일도 받은 셈이 됩니다.\n\n**장점:**\n• 분할 APK 파일의 크기는 일반 APK 파일 크기의 절반 정도임\n• 분할 APK에는 기기와 아키텍처에 관련한 파일만 들어 있음\n\n**단점:**\n익숙하지 않은 사람이나 기술에 친숙하지 않은 사람에게는 어렵게 다가올 수 있음\n\n2. 왜 분할을 하는 건가요?\nGoogle에서는 버전 14.54 이후로 YouTube APK를 분할 APK로만 제공합니다, 이에 따라 Vanced를 설치할 때는, SAI(Split APK Installer)를 사용해야 합니다.\n이전에는 어떤 기기에서든 앱을 깔기 쉽도록 일반 APK를 배포했었습니다.\n\n3. 왜 개발진 측에서 분할 APK를 단일 APK로 합쳐 배포하지 않는 건가요?\n할 수 없지는 않으나 합쳐 배포하는 경우 개인적인 일이나 Vanced 버그 수정 및 업데이트에 쓸 수 있는 시간이 더 소요되게 됩니다. 그러니 단일 APK를 얻을 수 있는 방법을 질문하지 말아 주십시오. 자신이 정말 게으르거나 Play Store에서 YouTube 공식 앱을 사용하고자 하는 경우 이전 버전을 사용하십시오."
     },
     {
-      "title": "앱 스플래시 색상",
+      "title": "Why does the color in the startup screen not match the theme? ",
       "description": "이제 스플래시 화면 배경색은 안드로이드 프레임워크 색상(안드로이드 시스템)에서 가져와서 Vanced/Youtube가 시스템 테마에 따라 스플래시 색상을 변경하도록 구현됩니다. 안드로이드 프레임워크 색상이 무엇이든 이와 동일한 색상이 Vanced에 표시됩니다.\n\n테마 색상을 바꾸려면 Substratum/Swift themes를 쓸 수 있습니다."
     },
     {
@@ -45,7 +45,7 @@
       "description": "그 이유는 아주 간단합니다. 내려받은 파일이 손상된 채로 해당 파일을 가져와 설치하려고 하면 무수한 실패의 연속이 이어질 겁니다. 이를 방지하기 위해 Manager는 사용자가 버튼을 누를 때마다 파일을 다시 다운로드합니다.\n\n그러나 이제 비루트 설치 프로그램으로는 이미 내려받은 파일을 이용해 Vanced를 재설치할 수 있습니다."
     },
     {
-      "title": "마이크",
+      "title": "Why doesn't the root version have Microphone permissions? ",
       "description": "왜 Vanced 루트 버전에는 마이크 권한이 없는지 궁금하시다면, Vanced를 만드는 데 쓰이는 APK(minAPI17)에는 마이크 권한이 누락되어 있기 때문입니다. 다른 APK(minAPI21)에는 마이크 권한이 있지만 번역이 누락되어 있습니다. 왜냐고요? Google한테 물어보세요 🤷‍♂️\n\n차선책: 비루트 버전을 쓰거나, 기본 YouTube 앱을 사용하세요.\n\n참고: 이 문제는 버전 14 이하에서만 나타납니다. 버전 15 이후로부터는 권한 문제가 해결되었습니다."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "YouTube Vanced를 기본 앱으로 만드려면 어떻게 해야 하나요?",
-      "description": "제목에서 알 수 있듯이, 많은 사용자가 다른 앱(브라우저, 메신저 등의 앱)에서 YouTube 링크를 열 때 기본적으로 YouTube Vanced에서 열도록 설정하는 방법을 자주 묻고 있습니다.\n\n루트 버전 사용자의 경우, 이미 YouTube Vanced가 기본 YouTube 앱을 대체했으므로 이에 대하여 고민하지 않으셔도 됩니다.\n\n비루트 버전 사용자의 경우, 해결 방안이 OneUI, MIUI 및 나머지에 적용되는 방안으로 나뉩니다. 모든 OS에 대한 해결책을 제공해드릴 수 없으며, 이 사안을 직접 Google에 문의해야 할 수도 있습니다.",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "OneUI 사용자:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "왜 루트 버전은 microG 코어와 함께 동작하지 않나요?",
+      "title": "Why doesn't the root variant work with the microG core? ",
       "description": "1. Vanced를 구동하려면 최소한 [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 버전의 GApps가 필요합니다.\n\n2. 모든 GApps 패키지에서 쓸 수 있는 Google Play 서비스 프레임워크가 필요하므로 microG 코어만으로는 Vanced를 구동할 수 없습니다.\n\n3. 개인정보에 대한 우려가 있으며 GApps를 사용하고 싶지 않은데 그래도 광고 차단 기능을 이용하고 싶은 경우, [웹 버전](https://youtube.com)을 이용하시면 됩니다."
     },
     {
-      "title": "캐스팅 문제",
-      "description": "16.16.38 비루트 버전을 사용한다면, 업스트림 microG에 버그가 있습니다. 해당 문제가 해결되기 전까지는 업데이트를 기다리거나 버전을 15로 되돌려주시기 바랍니다. 루트 사용자의 경우 Google Play 서비스를 사용하고 있다면 캐스팅에 문제가 없을 것입니다."
+      "title": "Why doesn't casting work?",
+      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
       "title": "APK 서명이란?",
