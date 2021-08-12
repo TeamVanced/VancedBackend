@@ -17,7 +17,7 @@
       "description": "Το Vanced δεν παρέχει δυνατότητα λήψης βίντεο, δεν πρόκειται να γίνει ποτέ.\n\nΠολλά βίντεο είναι διαθέσιμα για λήψη δωρεάν σε [επιλεγμένες χώρες](https://support.google.com/youtube/answer/6141269). Για όλο τον υπόλοιπο κόσμο, χρειάζεται το YouTube Premium.\n\nΤονίζουμε ξανά, το Vanced ΠΟΤΕ ΔΕΝ ΘΑ προσθέσει εργαλείο λήψης βίντεο στην εφαρμογή η οτιδήποτε παρόμοιο.\n\nΑυτός είναι ο λόγος που πολλές εφαρμογές στο παρελθόν, που πειράζουν το YouTube, έχουν κλείσει. Καθώς της Google δεν της αρέσει οι χρήστες να κατεβάζουν περιεχόμενο πνευματικών δικαιωμάτων, μέσω της πλατφόρμας τους, οπότε μην ζητάτε κάτι τέτοιο!!!"
     },
     {
-      "title": "Why don't the swipe gestures work?",
+      "title": "Γιατί δεν λειτουργούν οι χειρονομίες σάρωσης οθόνης;",
       "description": "Αν ρυθμίσατε να εμφανίζονται τα σχόλια στο κάτω μέρος (παλιά θέση) στις ρυθμίσεις του Vanced > Ρυθμίσεις διάταξης, απενεργοποιήστε το και επανεκκινήστε την εφαρμογή. Αν δεν δουλέψει αυτό, εξαναγκάσετε διακοπή της εφαρμογής και εκκαθαρίσετε τα δεδομένα της."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Επειδή:\n\n1. Η αρχική εφαρμογή χρησιμοποιεί αυτήν τη μέθοδο, οπότε αντίστοιχα και το Vanced την χρησιμοποιεί.\n2. Εγκαθιστά μόνο τις γλώσσες που ορίζετε για τη μείωση της κατανάλωσης αποθηκευτικού χώρου.\n3. Έχει μόνο την έκδοση πυρήνα του APK που απαιτεί η συσκευή σας.\n\nΦυσικά, ο Διαχειριστής Vanced ή οι προγραμματιστές μπορούν να το μετατρέψουν σε ένα κανονικό, ενιαίο αρχείο APK, αλλά είμαστε πολύ τεμπέληδες το για να το κάνουμε. Απλά βολευτείτε με αυτό που διαθέτουμε...\n\nΜην ανησυχείτε όμως, ο Διαχειριστής Vanced κάνει όλη τη σκληρή δουλειά για σας, οπότε απλώς πατήστε το κουμπί `Εγκατάσταση`."
     },
     {
-      "title": "Why does the color in the startup screen not match the theme? ",
+      "title": "Γιατί το χρώμα της οθόνης εκκίνησης δεν τεριάζει με το θέμα; ",
       "description": "Το χρώμα φόντου οθόνης εκκίνησης προέρχεται από το χρώμα πλαισίου Android έτσι ώστε να αλλάζει σύμφωνα με το θέμα του συστήματος. Μπορείτε να χρησιμοποιήσετε το [Substratum](https://play.google. om/store/apps/details?id=projekt.substratum), το [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) ή μια παρόμοια εφαρμογή για να αλλάξετε το χρώμα."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Τα αρχεία ενδέχεται να καταστραφούν εξαιτίας διαφόρων λόγων που στη συνέχεια μπορούν να προκαλέσουν προβλήματα. Για να το αποφύγετε αυτό, μπορείτε να επιλέξετε να ξανακάνετε λήψη για να βεβαιωθείτε ότι η εγκατάστασή σας έχει ολοκληρωθεί ομαλά."
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
+      "title": "Γιατί η έκδοση root δεν χρειάζεται δικαίωμα για το μικρόφωνο; ",
       "description": "Διαθέτει, εφόσον το Vanced σας είναι ενημερωμένο."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Πως επιλέγω το YouTube Vanced ως προεπιλεγμένη εφαρμογή;",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Όπως το λέει ο τίτλος, πολλοί χρήστες ρωτάνε πως μπορούν να ορίσουν το YouTube Vanced ως την προεπιλεγμένη εφαρμογή που θα ανοίγει συνδέσμους του YouTube από άλλες εφαρμογές (όπως εφαρμογές μηνυμάτων, προγράμματα περιήγησης ιστού και οποιαδήποτε άλλη εφαρμογή).\n\nΓια χρήστες με πρόσβαση root, δεν χρειάζεται να ανησυχείτε γι'αυτό διότι ήδη ορίζεται ως προεπιλεγμένη εφαρμογή εφόσον η αρχική εφαρμογή αντικαθιστάται με το YouTube Vanced.\n\nΓια τους απλούς χρήστες χωρίς πρόσβαση root, υπάρχουν διάφορες λύσεις αναλόγως αν έχετε OneUI, MIUI ή κάποια άλλη εκδοχή του Android. Δεν μπορούμε να καλύψουμε όλες τις περιπτώσεις ούτε να παρέχουμε λύσεις για όσες παραλλαγές του Android κυκλοφορούν, μπορεί να χρειαστεί να το ψάξετε μόνοι σας.",
       "fields": [
         {
           "title": "Χρήστες OneUI:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why doesn't the root variant work with the microG core? ",
+      "title": "Γιατί η έκδοση root δεν λειτουργεί με το microG Core; ",
       "description": "1. Πρέπει να έχετε τουλάχιστον την έκδοση [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) των GApps για την εκτέλεση του Vanced.\n\n2. Δεν μπορείτε να εκτελέσετε το Vanced με το microG Core, χωρίς το πλαίσιο υπηρεσιών Google Play, το οποίο διατίθεται σε όλα τα πακέτα GApps και είναι μια απαιτούμενη βιβλιοθήκη.\n\n3. Αν ανησυχείτε για το απόρρητό σας και δεν θέλετε να χρησιμοποιείτε GApps, αλλά θέλετε να παρακολουθείτε YouTube χωρίς διαφημίσεις, η [έκδοση ιστότοπου](https://youtube.com) είναι πάντα διαθέσιμη."
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "Γιατί δεν λειτουργεί η μετάδοση;",
+      "description": "Για τους απλούς χρήστες non-root από την έκδοση v16.16.38 και άνω, υπάρχει ένα σφάλμα με το microG. Μέχρι να επιδιορθωθεί, παρακαλώ περιμένετε για κάποια ενημέρωση ή επιστρέψτε στις εκδόσεις v15. Οι χρήστες με πρόσβαση root δεν θα έχουν προβλήματα με την μετάδοση αν χρησιμοποιούν τις υπηρεσίες Google Play."
     },
     {
       "title": "Τι είναι η Υπογραφή των APK;",
