@@ -80,7 +80,7 @@
     },
     {
       "title": "캐스트가 작동하지 않습니다",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "description": "16.16.38 이후의 비루트 버전 및 microG 기반 ROM에서 루트 버전을 사용한다면, 업스트림 microG에 버그가 있습니다. 해당 문제가 해결되기 전까지는 업데이트를 기다리거나 버전을 15로 되돌려주시기 바랍니다. 루트 사용자의 경우 Google Play 서비스를 사용하고 있다면 캐스팅에 문제가 없을 것입니다."
     },
     {
       "title": "APK 서명이란?",
