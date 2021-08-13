@@ -58,7 +58,7 @@
     },
     {
       "title": "Как да направим YouTube Vanced приложение по подразбиране?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Както се казва в заглавието, много потребители много пъти са питали как могат да направят YouTube Vanced по подразбиране за отваряне на връзки към YouTube от други приложения (като браузъри, приложения за съобщения и всяко друго приложение).\n\nЗа root не е нужно да се притеснявате, защото той вече е зададен по подразбиране, тъй като официалният YouTube се заменя с YouTube vanced.\n\nЗа не-root, решенията бяха разделени между OneUI, MIUI и останалите. Не можем да предоставим решения за всяка операционна система и може да се наложи да го потърсите в Google сами.",
       "fields": [
         {
           "title": "Потребители на OneUI:",
@@ -80,7 +80,7 @@
     },
     {
       "title": "Защо предаването към устройства не работи?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "description": "За потребители с v16.16.38 и всички следващи не-root варианти и root варианти, които използват ROM-ове, базирани на microG, има грешка в microG. Докато това не се реши, изчакайте актуализации или се върнете към версии v15. Ако използвате Услуги на Google Play с root варианти, няма да имате проблеми с предаването."
     },
     {
       "title": "Какво е подписване на apk?",
