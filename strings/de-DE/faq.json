@@ -80,7 +80,7 @@
     },
     {
       "title": "Warum funktioniert Screencasting nicht?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "description": "Für Nutzer von Version 16.16.38 und höher (sowohl Nicht-Root- als auch Root-Varianten), die Roms auf microG-Basis verwenden: Es gibt einen Fehler im microG-Upstream. Bis zur Behebung bitte auf ein Update warten oder auf ältere 15er Versionen ausweichen. Bei Nutzung von originalen Google-Play-Diensten in Verbindung mit Root-Varianten kommt es zu keinen Problemen beim Screencasting."
     },
     {
       "title": "Was ist APK Signing?",
