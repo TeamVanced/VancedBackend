@@ -14,7 +14,7 @@
     },
     {
       "title": "Özəlləşdirmə",
-      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+      "description": "- Köhnə cihazlar və ya VP9 üçün H264-ü məcbur etmək kimi Kodek seçimlərini əhəmiyyətsiz etməyə imkan verir, həmçinin, sinematik təcrübəni tərcih etsəniz, 60FPS-i söndürməyə və HDR oynatmanı məcburi etməyə də imkan verir. (Bu özəlliklər üçün özəl cihaz konfiqurasiyalarını [Discord serverimizdə](https://discord.gg/Vanced) və ya XDA platformasında tapa bilərsiniz)\n- İlkin video ölçülərini ən yüksək və ya ən aşağı olaraq tənzimləyin və hətta istənilən cihazda kəskin 4K oynatmaq üçün ekran ölçüsünü əhəmiyyətsiz edin. Həmçinin oynatma sürətini 0.25x - 2x arasında dəyişdirməyinizə imkan verir (cihazınız yetəri qədər güclü olmalıdır)\n- Əsas ekran reklamları, interfeys reklamları, film satışı, yığcam banner məlumatı (COVID-19 məlumatı kimi), cəmiyyət göndərişləri, rəy bölməsini və s. daha çoxunu bağlayıb açma imkanı verir!"
     },
     {
       "title": "SponsorBlock",
