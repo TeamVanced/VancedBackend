@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why doesn't the root variant work with the microG core? ",
+      "title": "لماذا لا يعمل الروت مع الـ MicroG الرئيسي؟ ",
       "description": "1. يجب أن يكون لديك على الأقل نسخة [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) من GApps لتشغيل Vanced.\n\n2. لا يمكنك تشغيل Vanced مع نواة microG بدون بنية خدمات Google Play المتوفر في جميع حزم GApps وهي حزمة مطلوبة.\n\n3. إذا كنت قلقًا بشأن خصوصيتك ولا تريد استخدام GApps ولكنك لا تزال ترغب في استخدام مشاهدة YouTube بدون إعلانات ، فإن [إصدار الويب] (https://youtube.com) متاح دائمًا."
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "لماذا لا يعمل البث؟",
+      "description": "للمستخدمي v16.16.38 وكل نسخ الغير مروتة والنسخ المروتة التي تستخدم ROMS تستند على MicroG للعمل ، هناك خلل في MicroG الأساسي. إلى أن يتم حل هذه المشكلة، يرجى الانتظار للحصول على التحديثات أو العودة إلى إصدار v15. إذا كنت تستخدم خدمات Google Play مع النسخ المروتة ، فلن يكون لديك أي مشاكل في البث."
     },
     {
       "title": "ما هو توقيع APK؟",
