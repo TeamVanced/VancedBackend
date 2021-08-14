@@ -58,7 +58,7 @@
     },
     {
       "title": "YouTube Vanced'ı, varsayılan uygulama olarak nasıl ayarlarım?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Başlığın dediği gibi, birçok kullanıcı birçok kez diğer uygulamalardan (tarayıcılar, mesajlaşma uygulamaları ve diğer uygulamalar gibi) YouTube bağlantılarını açmak için YouTube Vanced'i varsayılan olarak nasıl yapabileceklerini soruyor.\n\nKök yetkisi olanlar için endişelenmenize gerek yok, çünkü resmi YouTube, YouTube vanced ile değiştirildiğinden, zaten varsayılan olarak ayarlanmıştır.\n\nKök yetkisi olmayanlar için çözümler OneUI, MIUI ve diğerleri olarak bölünmüştür. Oradaki her işletim sistemi için çözümler sağlayamıyoruz ve Google'a kendiniz ihtiyacınız olabilir.",
       "fields": [
         {
           "title": "OneIO kullanıcıları:",
