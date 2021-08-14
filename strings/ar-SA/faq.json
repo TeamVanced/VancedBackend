@@ -17,7 +17,7 @@
       "description": "لا يتضمن يوتيوب ڤانسد أي ميزة لتنزيل الفيديو ولن نفعل ذلك أبداً.\n\nالعديد من مقاطع الفيديو متوفرة للتنزيل مجاناً في [بلدان محددة] (https://support.google.com/youtube/answer/6141269).\n بالنسبة لبقية العالم ، يرجى الحصول على يوتيوب بريميوم.\n\n مرة أخرى ، لن يقوم فريق يوتيوب ڤانسد أبداً بإضافة أداة تنزيل فيديو إلى التطبيق أو أي شيء مشابه.\n\n كان هذا هو سبب إغلاق العديد من تعديلات يوتيوب في الماضي لأن غوغل لا تحب الأشخاص الذين يقومون بتنزيل محتوى محمي بحقوق الطبع والنشر من نظامهم الأساسي، لهذا فضلاً لا تسأل عن هذه الخاصية."
     },
     {
-      "title": "لماذا لا تعمل إيماءات التمرير؟",
+      "title": "لماذا لا تعمل إيماءات السحب ؟",
       "description": "إذا كانت لديك التعليقات معروضة في الجزء السفلي (المكان القديم) في إعدادات ڤانسد> إعدادات العرض (Layout)، فقم بتعطيلها وأعد تشغيل التطبيق. إذا لم يفلح ذلك ، فقم بإيقاف التطبيق ومسح بياناته."
     },
     {
@@ -37,7 +37,7 @@
       "description": "لأن:\n1. التطبيق الأساسي يستخدمها لذلك ڤانسد يستخدمها أيضاً.\n2. يقوم فقط بتثبيت اللغات التي تحددها لتقليل استهلاك التخزين.\n 3. يحتوي على الإصدار الوحيد من حزم التثبيت الأساسي الذي يتطلبه جهازك. بالطبع.\n\n يمكن لمدير فانسد أو المطورين تحويله إلى حزمة تثبيت واحدة، لكننا كسولون جداً للقيام بذلك. تحتاج فقط إلى التوافق مع ما لدينا... \n\nلا تقلق على الرغم من ذلك ، يقوم مدير ڤانسد بكل العمل الشاق من أجلك،لذا فقط انقر فوق زر\"تثبيت\"."
     },
     {
-      "title": "Why does the color in the startup screen not match the theme? ",
+      "title": "لماذا لا يتطابق اللون الموجود في شاشة بدء التشغيل مع السمة؟ ",
       "description": "يتم أخذ لون خلفية شاشة بدء التشغيل من لون إطار عمل أندرويد للتأكد من أنه يتغير وفقاً لنمط النظام. يمكنك إستخدام [Substratum] (https://play.google.com/store/apps/details؟id=projekt.substratum) أو [Swift Installer] (https://play.google.com/store/apps/details ؟ id = com.brit.swiftinstaller) أو تطبيق مشابه لتغيير اللون."
     },
     {
@@ -45,7 +45,7 @@
       "description": "يمكن أن تتلف الملفات لأسباب مختلفة ويمكن أن تسبب مشاكل بعد ذلك. لتجنب ذلك ، يمكنك اختيار تنزيلها مرة أخرى لضمان سير عملية التثبيت بسلاسة."
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
+      "title": "لماذا لا يحتوي إصدار الروت على إذن الميكروفون؟ ",
       "description": "يحدث هذا إذا كان يوتيوب فانسد الخاص بك محدثاً."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "كيف أجعل YouTube Vanced تطبيقًا افتراضيًا؟",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "كما يقول العنوان ، كان الكثير من المستخدمين يسألون عدة مرات كيف يمكنهم جعل YouTube Vanced افتراضيًا لفتح روابط YouTube من تطبيقات أخرى (مثل المتصفحات وتطبيقات المراسلة وأي تطبيق آخر).\n\nبالنسبة إلى الروت، لا داعي للقلق لأنه تم تعيينه افتراضيًا بالفعل حيث يتم استبدال اليوتيوب العادي بنسختنا المحسنة\nبالنسبة للمستخدمين بدون الروت ، تم تقسيم الحلول بين OneUI و MIUI والباقي. لا يمكننا توفير حلول لكل نظام تشغيل موجود ، وقد تحتاج إلى استخدام Google بنفسك.",
       "fields": [
         {
           "title": "مستخدمو OneUI:",
