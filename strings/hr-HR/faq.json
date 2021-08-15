@@ -17,7 +17,7 @@
       "description": "Vanced ne uključuje nijednu značajku za preuzimanje videozapisa i nikada to neće biti dostupno.\n\nMnogi su videozapisi dostupni za besplatno preuzimanje u [selected countries](https://support.google.com/youtube/answer/6141269). Za ostatak svijeta nabavite YouTube Premium ili upotrijebite program za preuzimanje treće strane.\n\nOpet, Vanced NIKADA NEĆE dodati video downloader u aplikaciju ili bilo što slično.\n\nTo je bio razlog gašenja mnogih YouTube modova u prošlosti, jer Google ne voli ljude koji sa svoje platforme preuzimaju zaštićeni autorski sadržaj, pa nemojte to niti vi tražiti!!!"
     },
     {
-      "title": "Why don't the swipe gestures work?",
+      "title": "Zašto geste prevlačenja ne rade?",
       "description": "Ako su komentari prikazani na dnu (staro mjesto) u postavkama Vanced > Postavke izgleda, onemogućite ih i ponovo pokrenite aplikaciju. Ako to ne uspije, prisilno zaustavite aplikaciju i izbrišite podatke."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Budući da:\n\n1. Koristi je zadana aplikacija pa je koristi i Vanced.\n2. Instalira samo jezike koje navedete kako bi se smanjila potrošnja pohrane.\n3. Ima jedinu verziju osnovnog APK-a koju vaš uređaj zahtijeva.\n\nNaravno, Vanced Manager ili programeri mogu ga pretvoriti u normalnu, jednu APK datoteku, ali toliko smo lijeni da to učinimo. Samo se trebaš složiti s onim što imamo...\n\nNe brinite se, Vanced Manager za vas obavlja sav naporan posao, pa samo dodirnite tipku `Instaliraj`."
     },
     {
-      "title": "Why does the color in the startup screen not match the theme? ",
+      "title": "Zašto boja na početnom zaslonu ne odgovara temi? ",
       "description": "Boja pozadine početnog zaslona preuzeta je iz Androidove framework boje kako bi se osiguralo da se mijenja u skladu s temom sustava. Za promjenu boje možete koristiti teme Substratum/Swift."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Datoteke mogu biti oštećene iz različitih razloga, a kasnije mogu uzrokovati probleme. Da biste to izbjegli, možete ih ponovno preuzeti kako biste osigurali nesmetanu instalaciju."
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
+      "title": "Zašto root verzija nema dopuštenje za mikrofon? ",
       "description": "Ima ako je vaš Vanced ažuran."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Kako učiniti Youtube Vanced zadanom aplikacijom?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Kao što naslov kaže, mnogi su se korisnici mnogo puta pitali kako mogu učiniti YouTube Vanced zadanim za otvaranje YouTube veza iz drugih aplikacija (poput preglednika, aplikacija za razmjenu poruka i bilo koje druge aplikacije).\n\nZa root, ne morate se brinuti jer je već zadano postavljen jer se službeni YouTube zamjenjuje s YouTube vanced.\n\nZa non-root, rješenja su podijeljena na OneUI, MIUI i ostale. Ne možemo ponuditi rješenja za svaki OS vani, pa ćete ga možda morati sami proguglati.",
       "fields": [
         {
           "title": "OneUI korisnici:",
