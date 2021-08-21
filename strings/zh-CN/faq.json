@@ -80,7 +80,7 @@
     },
     {
       "title": "为什么无法投射屏幕？",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "description": "对于使用 v16.16.38 及以上版本的 Root 或非 Root 用户，如果您正在使用基于 microG 的 ROM，上游 microG 的漏洞会影响投屏功能。在解决之前，请等待更新，或回退至 v15 版本。如果您在具备 Google Play 服务的情况下使用 Root 版本，您将不会受此问题的影响。"
     },
     {
       "title": "什么是 APK 签名？",
