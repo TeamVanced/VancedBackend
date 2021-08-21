@@ -17,7 +17,7 @@
       "description": "Vanced 不包含任何视频下载功能，而且永远不会添加此功能。\n\n在[某些国家或地区](https://support.google.com/youtube/answer/6141269)中，很多视频可以免费下载。对于其他国家或地区，请获取 YouTube Premium，或使用第三方下载器。\n\n再次声明，Vanced 永远不会在应用中加入视频下载器或类似的功能。\n\n因为 Google 不喜欢人们从他们的平台下载版权内容，这项功能曾经导致很多修改版 YouTube 被迫停止开发，所以不要要求添加这项功能！"
     },
     {
-      "title": "Why don't the swipe gestures work?",
+      "title": "为什么滑动手势不起作用？",
       "description": "如果您在 Vanced 设置 > 布局设置 中启用了底部评论（旧版布局），将其关闭并重启应用。如果这不能解决问题，请将 Vanced 强制停止，并清除其应用数据。"
     },
     {
@@ -37,7 +37,7 @@
       "description": "因为：\n\n1. 原版应用使用 Split APK，所以 Vanced 也是。\n2. Split APK 仅安装您选择的语言，因此能够减少存储占用。\n3. Split APK 只包含您的设备需要的核心 APK 版本。\n\n当然，Vanced Manager 或开发者完全可以将其转化为一个正常的、单独的 APK 文件，只不过我们懒于这么做而已。您只需稍微适应一下……\n\n不过不要担心，Vanced Manager 包揽一切麻烦，您只要轻触`安装`按钮就好了。"
     },
     {
-      "title": "Why does the color in the startup screen not match the theme? ",
+      "title": "为什么启动屏幕的颜色与主题不同？ ",
       "description": "启动屏背景颜色直接从 Android 框架中取色，以确保能依据系统主题改变。您可以用 Substratum 或 Swift 主题更改颜色。"
     },
     {
@@ -45,7 +45,7 @@
       "description": "由于各种原因，文件可能损坏并造成问题。为了避免这种情况，您可以选择重新下载，以确保安装顺利进行。"
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
+      "title": "为什么 Root 版不具备麦克风权限？",
       "description": "最新版Vanced 就会出现这种情况。"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "如何将 YouTube Vanced 设为默认应用？",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "正如标题所说，很多用户已经多次询问，如何能让 YouTube Vanced 成为打开来自其他应用程序的 YouTube 链接的默认应用（如浏览器、聊天应用等）。\n\n对于 Root 用户，您无需担心，因为 YouTube Vanced 已替换了原版 YouTube，所以 YouTube Vanced 已被设为默认应用。\n\n对于非 Root 用户，我们撰写了针对 OneUI、MIUI 及其他系统的不同解决方案。我们无法为所有系统都撰写一份解决方案，因此您可能需要自行 Google 搜索。",
       "fields": [
         {
           "title": "OneUI 用户：",
@@ -75,11 +75,11 @@
       ]
     },
     {
-      "title": "Why doesn't the root variant work with the microG core? ",
+      "title": "为什么 Root 版本无法与 microG 核心兼容？",
       "description": "1. 您至少需要 GApps 的 [Pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 版本才能运行 Vanced。\n\n2. 您无法使用 microG 核心来使用 Vanced，因为 Google Play 服务框架是 Vanced 必需的运行库。所有 GApps 安装包中均包含 Google Play 服务框架。\n\n3. 如果您担心您的隐私，不想使用 GApps，但还是想观看无广告的 YouTube，那么[网页版](https://youtube.com)更适合您。"
     },
     {
-      "title": "Why doesn't casting work?",
+      "title": "为什么无法投射屏幕？",
       "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
