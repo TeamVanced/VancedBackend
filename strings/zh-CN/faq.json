@@ -38,7 +38,7 @@
     },
     {
       "title": "为什么启动屏幕的颜色与主题不同？ ",
-      "description": "启动屏背景颜色直接从 Android 框架中取色，以确保能依据系统主题改变。您可以用 Substratum 或 Swift 主题更改颜色。"
+      "description": "启动屏背景颜色直接从 Android 框架中取色，以确保能依据系统主题改变。您可以用 [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) 或 [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) 更改颜色。"
     },
     {
       "title": "我应该重新下载安装文件吗？",
