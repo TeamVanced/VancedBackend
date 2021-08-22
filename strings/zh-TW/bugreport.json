@@ -2,11 +2,11 @@
   "data": [
     {
       "title": "如何回報 bug？",
-      "description": "您可以使用我們的 [Github issue tracker](https://github.com/YTVanced/Vanced) 報告錯誤\n\n**請務必閱讀 README 並檢查您的錯誤是否已經被報告過！**",
+      "description": "您可以使用我們的 [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center) 報告錯誤\n\n請務必檢查您的錯誤是否已經被報告過！",
       "fields": [
         {
           "title": "什麼時候會審查我回報的 bug？",
-          "content": "我們會盡快審查您回報的 bug。"
+          "content": "開發者騰出時間來創建新功能和修復許多問題，每個錯誤都需要花時間來完成修復。\n你只需要耐心等候。你的問題將盡快被審閱。"
         },
         {
           "title": "如何取得 logcat？",
