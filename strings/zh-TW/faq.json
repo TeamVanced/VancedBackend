@@ -5,7 +5,7 @@
       "description": "YouTube Vanced 是修改過的 YouTube，有著額外的特色，讓您更便利的使用 YouTube！\n\n這些特色包括：\n- 背景播放\n- 子母畫面（PiP）\n- 黑色主題（適合 OLED）\n- 移除廣告（需要啟用）\n- 超越最大解析度（使影片可以用比您的螢幕更高的解析度來播放）\n- ……及許多其他功能！\n\n您可造訪<https://vancedapp.com>取得更多資訊"
     },
     {
-      "title": "「下載」按鈕在哪裡？",
+      "title": "下載按鈕在哪裡？",
       "description": "當然，Google 不會允許自己的 APP 的修改版本在自己的商店上架，因此不要在 Google Play 商店尋找，那些是假的 APP。\n\nVanced 相關 APP 可藉由 Vanced Manager 來下載安裝，而 Vanced Manager 可以從我們的官網（<https://vancedapp.com>）下載，但您也可以在 [GitHub]（https://github.com/YTVanced/VancedManager/releases/latest）上取得。"
     },
     {
@@ -14,7 +14,7 @@
     },
     {
       "title": "可以用 Vanced 下載影片嗎？",
-      "description": "Vanced 沒有下載影片的功能，也絕對不會有。\n\n在[某些國家](https://support.google.com/youtube/answer/6141269)，您可以免費的下載影片。\n至於其他地方，請購買 YouTube Premium 或使用第三方下載器。\n\n再次強調──Vanced「絕對不會」在 APP 中加入影片下載器或類似的功能。\n\n這點已經導致了許多修改版 YouTube APP 停止服務，因為 Google 不樂見大家從他們的平台上下載版權內容，所以不要再許願這個功能了！！！"
+      "description": "Vanced 沒有下載影片的功能，也絕對不會有。\n\n在[某些國家](https://support.google.com/youtube/answer/6141269)，您可以免費的下載影片。\n至於其他地方，請購買 YouTube Premium。\n\n再次強調──Vanced「絕對不會」在 APP 中加入影片下載器或類似的功能。\n\n這點已經導致了許多修改版 YouTube 停止服務，因為 Google 不樂見大家從他們的平台上下載版權內容，所以不要再要求添加這個功能了！！！"
     },
     {
       "title": "為何滑動手勢沒有反應？",
@@ -100,7 +100,7 @@
     },
     {
       "title": "為何我有 480p 的限制？",
-      "description": "因為 COVID-19（武漢肺炎）的緣故，Google 限制了某些國家的資料用量。由於這是伺服器端的設定，因此 Vanced 與原生 YouTube 使用者皆會受到影響。",
+      "description": "因為 COVID-19 的緣故，Google 限制了某些國家的資料用量。由於這是伺服器端的設定，因此 Vanced 與原生 YouTube 使用者皆會受到影響。",
       "fields": [
         {
           "title": "解決方案:",
