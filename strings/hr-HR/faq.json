@@ -6,7 +6,7 @@
     },
     {
       "title": "Gdje je tipka za preuzimanje?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "Naravno, Google neće dopustiti da izmijenjena verzija vlastite aplikacije bude u njihovoj trgovini, pa je nemojte tražiti u Trgovini Play, to su lažne aplikacije.\n\nVanced aplikacije mogu se preuzeti i instalirati pomoću Vanced Managera koji se može naći na našoj službenoj web stranici: <https://vancedapp.com>ali možete ga preuzeti i s GitHub-a: <https://github.com/YTVanced/VancedManager/releases/latest>."
     },
     {
       "title": "Hoće li se YouTube Vanced automatski ažurirati?",
@@ -92,7 +92,7 @@
     },
     {
       "title": "Zašto se Vanced ne prikazuje na početnom zaslonu ili u ladici aplikacija?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Čitate ovo jer ne koristite Vanced Manager ili ste Vanced možda instalirali iz neslužbenog izvora. \nKoristite samo Vanced Manager!\n\nMožete sigurno preuzeti Vanced Manager sa:\n- Službena stranica <https://vancedapp.com> \n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Zašto se videozapisi ne reproduciraju?",
