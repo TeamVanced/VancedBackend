@@ -58,7 +58,7 @@
     },
     {
       "title": "Como fazer o YouTube Vanced como o app padrão?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Como diz o título, muitos usuários têm perguntado frequentemente como tornar o YouTube Vanced como padrão para abrir links do YouTube de outros aplicativos (como navegadores, aplicativos de mensagens e qualquer outro app).\n\nPara a variante root, você não precisa se preocupar porque esse já é o comportamento padrão, já que o YouTube Vanced substitui o YouTube padrão.\n\nPara a variante não-root, as soluções foram divididas para OneUI, MIUI e o resto. Não podemos fornecer soluções para cada sistema operacional que existe, portanto talvez você precise pesquisar por conta própria.",
       "fields": [
         {
           "title": "Usuários OneUI:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why doesn't the root variant work with the microG core? ",
+      "title": "Por que a variante root não funciona com o microG core? ",
       "description": "1. Você precisa ter pelo menos a variante [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) do GApps para executar o Vanced.\n\n2. Você não pode rodar Vanced with microG Core porque ele precisa do Google Play Services Framework que está disponível em todos os pacotes de GApps.\n\n3. Se você está preocupado com sua privacidade e não quer usar o GApps mas ainda quer usar o YouTube sem anúncios, a [versão web](https://youtube.com) está sempre disponível."
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "Por que o Chromecast não funciona?",
+      "description": "Para usuários da versão non-root v16.16.38 ou acima, ou variantes root em ROMs baseadas em microG, existe um bug no microG upstream. Até que seja resolvido, por favor aguarde atualizações ou volte para a versão 16.02 ou abaixo. Se você usar o Google Play Services com a variante root, você não terá nenhum problema com o chromecast."
     },
     {
       "title": "O que é a Assinatura de APK?",
