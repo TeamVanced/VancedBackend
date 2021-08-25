@@ -45,7 +45,7 @@
       "description": "File dapat rusak dikarenakan beberapa alasan dan dapat menyebabkan masalah. Untuk mencegah hal ini, Anda bisa memilih untuk mengunduh kembali agar pemasangan anda berjalan lancar."
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
+      "title": "Mengapa versi root tidak memiliki izin Mikropon? ",
       "description": "Vanced mempunyai izin mikropon apabila Vanced Anda merupakan versi terbaru."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Bagaimana cara untuk membuat YouTube Vanced menjadi aplikasi default?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Seperti yang terbaca di judul, banyak pengguna yang sudah seringkali menanyakan bagaimana cara mereka untuk membuat YouTube Vanced menjadi aplikasi default untuk membuka tautan YouTube dari aplikasi lain(seperti browser, aplikasi pesan dan aplikasi lain)\n\nUntuk root, Anda tidak perlu khawatir tentang masalah ini karena sudah diatur menjadi default sejak YouTube resmi terganti oleh YouTube Vanced.\n\nUntuk non-root, solusinya berbeda antara OneUI, MIUI, dan seterusnya. Kami tidak bisa memberikan semua solusi untuk setiap OS yang tersedia, dan Anda mungkin perlu mencari sendiri di Google.",
       "fields": [
         {
           "title": "Pengguna OneUI:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why doesn't the root variant work with the microG core? ",
+      "title": "Mengapa varian root tidak bekerja dengan microG core? ",
       "description": "1. Anda membutuhkan setidaknya varian GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) untuk menjalankan Vanced.\n\n2. Anda tidak bisa menjalankan Vanced dengan microG core dikarenakan Vanced membutuhkan Google Play Services Framework yang dimana tersedia di semua paket GApps.\n\n3. Apabila Anda khawatir dengan privasi Anda & dan tidak ingin menggunakan GApps tetapi masih ingin menonton YouTube tanpa iklan, maka [versi web](https://youtube.com) selalu tersedia."
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "Mengapa membagikan layar tidak dapat bekerja?",
+      "description": "Untuk pengguna v16.16.38 keatas, semua varian non-root dan yang menggunakan varian root dengan ROM basis microG, ada sebuah bug di upstream microG. Sampai masalah itu terselesaikan, mohon tunggu untuk pembaruan atau kembali ke versi v15. Apabila Anda menggunakan Google Play Services dengan varian root, Anda tidak akan mempunyai masalah dengan membagikan layar."
     },
     {
       "title": "Apa itu APK Signing?",
