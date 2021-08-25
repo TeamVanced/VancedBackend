@@ -17,7 +17,7 @@
       "description": "Vanced tidak memiliki fitur pengunduhan video apapun dan tidak akan pernah.\n\nKebanyakan video tersedia untuk diunduh secara gratis pada [negara terpilih] (https://support.google.com/youtube/answer/6141269). Untuk selainnya, mohon gunakan YouTube Premium atau gunakan pengunduh pihak ketiga.\n\nSekali lagi, Vanced TIDAK AKAN menambahkan pengunduh video pada aplikasi atau serupa.\n\nHal ini merupakan alasan banyak modifikasi YouTube yang ditutup paksa di masa lalu dikarenakan Google tidak menyukai orang mengunduh konten hak cipta dari platform mereka maka jangan tanyakan hal ini!!!"
     },
     {
-      "title": "Why don't the swipe gestures work?",
+      "title": "Mengapa swipe gesture tidak dapat bekerja?",
       "description": "Apabila Anda memiliki komentar yang ditampilkan di bawah (tempat lama) di pengaturan Vanced > Pengaturan Tampilan, nonaktifkan hal tersebut dan mulai ulang aplikasinya. Apabila tetap tidak bekerja, paksa berhenti aplikasi dan hapus datanya."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Dikarenakan:\n\n1. Aplikasi bawaan menggunakan hal yang sama sehingga Vanced menggunakannya juga.\n2. Hanya memasang bahasa yang anda tentukan untuk mengurangi konsumsi penyimpanan.\n3. Memiliki satu-satunya versi core APK yang perangkat anda butuhkan.\n\nTentu saja, Vanced Manager atau para developer bisa mengkonversi split APK ke satu file APK biasa, akan tetapi kami sangat malas melakukannya. Anda hanya perlu untuk beradaptasi dengan apa yang kami miliki...\n\nTetapi jangan khawatir, Vanced Manager melakukan semuanya untuk anda sehingga anda hanya butuh menekan tombol `Pasang`."
     },
     {
-      "title": "Why does the color in the startup screen not match the theme? ",
+      "title": "Mengapa warna yang ada pada layar startup tidak sama dengan tema? ",
       "description": "Warna latar belakang layar splash sekarang diambil dari warna Android framework untuk memastikan hal itu berubah sesuai dengan tema sistem. Anda dapat menggunakan tema Substratum/Swift untuk mengubah warnanya."
     },
     {
