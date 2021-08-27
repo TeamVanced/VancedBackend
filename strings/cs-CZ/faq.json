@@ -58,7 +58,7 @@
     },
     {
       "title": "Jak nastavit YouTube Vanced jako výchozí aplikaci?",
-      "description": "Jak název napovídá, spousta uživatelů se mnohokrát ptá, jak můžou nastavit YouTube Vanced jako výchozí pro otevírání odkazů YouTube z jiných aplikací (jako jsou prohlížeče, aplikace pro zasílání zpráv a jakékoli jiné aplikace).\n \nUživatelé root verze se nemusejí obávat, protože ve výchozím nastavení je aplikace YouTube nahrazena aplikací YouTube Vanced. \n\nPro užívatele non-root verze byla řešení rozdělena mezi OneUI, MIUI a ostatní.  Nemůžeme poskytnout řešení pro každý operační systém, který je k dispozici, a budete si je možná muset vyhledat sami.",
+      "description": "Jak název napovídá, spousta uživatelů se mnohokrát ptá, jak můžou nastavit YouTube Vanced jako výchozí pro otevírání odkazů YouTube z jiných aplikací (jako jsou prohlížeče, aplikace pro zasílání zpráv a jakékoli jiné aplikace).\n \nUživatelé root verze se nemusejí obávat, protože ve výchozím nastavení je aplikace YouTube nahrazena aplikací YouTube Vanced. \n\nPro uživatele non-root verze byla řešení rozdělena mezi OneUI, MIUI a ostatní.  Nemůžeme poskytnout řešení pro každý operační systém, který je k dispozici, a budete si je možná muset vyhledat sami.",
       "fields": [
         {
           "title": "Uživatelé OneUI:",
