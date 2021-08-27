@@ -76,14 +76,14 @@
     },
     {
       "title": "रूट वेरिएंट माइक्रोजी कोर के साथ काम क्यों नहीं करता है? ",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "description": "1. Vanced चलाने के लिए आपके पास GApps का कम से कम [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) संस्करण होना चाहिए।\n\n2. आप गूगल प्ले सर्विसेज फ्रेमवर्क के बिना माइक्रोजी कोर के साथ वैन्ड नहीं चला सकते जो सभी जीएपीपीएस पैकेज में उपलब्ध है और यह एक आवश्यक पुस्तकालय है।\n\n3. यदि आप अपनी गोपनीयता को लेकर चिंतित हैं और GApps का उपयोग नहीं करना चाहते हैं लेकिन फिर भी विज्ञापनों के बिना YouTube देखना चाहते हैं, तो [वेब संस्करण](https://youtube.com) हमेशा उपलब्ध है।"
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "कास्टिंग काम क्यों नहीं करता है?",
+      "description": "V16.16.38 और उपरोक्त सभी गैर-रूट वेरिएंट और रूट वेरिएंट वाले उपयोगकर्ताओं के लिए जो माइक्रोजी आधारित रोम का उपयोग कर रहे हैं, अपस्ट्रीम माइक्रोजी में एक बग है। जब तक इसका समाधान नहीं हो जाता, कृपया अपडेट की प्रतीक्षा करें या v15 संस्करणों में वापस रोल करें। यदि आप रूट वेरिएंट के साथ Google Play सेवाओं का उपयोग करते हैं, तो आपको कास्टिंग में कोई समस्या नहीं होगी।"
     },
     {
-      "title": "What is APK Signing?",
+      "title": "एपीके साइनिंग क्या है?",
       "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
