@@ -6,7 +6,7 @@
     },
     {
       "title": "Де кнопка Завантаження?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "Звичайно, Google не дозволить модифікованої версії власного додатка перебувати в своєму магазині, тому не шукайте його в Google Play Store, це просто підроблені додатки.\n\nДодатки Vanced можна завантажити і встановити за допомогою Vanced Manager, який можна знайти на нашому офіційному сайті: <https://vancedapp.com>, але ви також можете взяти його з [GitHub репозитория](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
       "title": "Чи буде YouTube Vanced автоматично оновлюватись?",
@@ -62,7 +62,7 @@
       "fields": [
         {
           "title": "Користувачам OneUI:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. Натисніть і утримуйте значок додатка YouTube або YouTube Vanced в ящику додатків.\n2. Натисніть ** Інформація про додаток **.\n3. Знайдіть пункт \"** Встановити за замовчуванням **\" і натисніть його.\n4. Натисніть \"** Відкривати підтримувані посилання **\" і виберіть \"** Відкривати в цьому додатку **\".\n\nУ старих версіях OneUI назву опцій на 4-му кроці може бути трохи іншою. Вам може знадобитися натиснути \"** Перейти до підтримуваним URL **\" і вибрати опцію \"** У цьому додатку **\".\nУ дуже старої версії OneUI 💩 вам може знадобитися перейти в **Налаштування**> **Додатки**> *[натиснути на три точки в правому куті]*> **Додатки за замовчуванням**> **Встановити за замовчуванням**. Після завантаження програм знайдіть YouTube Vanced або YouTube і виконайте 4-й крок..."
         },
         {
           "title": "Користувачам MIUI:",
