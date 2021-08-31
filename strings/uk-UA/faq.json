@@ -66,7 +66,7 @@
         },
         {
           "title": "Користувачам MIUI:",
-          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Відкрийте Налаштування\n2. Перейдіть в розділ **Додатки**,\n3. **Управління додатками**,\n4. Потім натисніть на три точки в правому куті,\n5. **Додатки за замовчуванням**,\n6. **Відкриті посилання**.\n7. Зачекайте, поки всі ваші програми з'являться в списку...\n8. Знайдіть YouTube або YouTube Vanced і натисніть на нього.\n9. Натисніть \"**Відкрити підтримувані посилання**\" і виберіть \"**Відкрити**\""
         },
         {
           "title": "AOSP & інші користувацькі системи (OOS, ColorOS, EMUI та ін.):",
@@ -104,13 +104,13 @@
       "fields": [
         {
           "title": "Обхідні рішення:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "content": "1. Підключіться через VPN використовуючи інший регіон.\n2. Використовуйте [веб-версію] (https://youtube.com)\n3. Оскільки обмеження 480p існує тільки для мобільних пристроїв і не для планшетів, ви можете змінити модель пристрою в YouTube Vanced для подолання обмеження.\n\n#### Як змінити модель пристрою?\n1. Відкрийте YouTube Vanced.\n2. Перейдіть в Налаштування\n3. Натисніть на \"Розширені налаштування\"\n4. Увімкніть приховані налаштування\n   - Прокрутіть вниз до кінця і натискайте на розділ \"Про додаток\" до тих пір, поки ви не отримаєте повідомлення про те, що приховані настройки включені.\n5. Перейдіть в Режим перевизначення кодека\n6. Вкажіть в розділі пристрій Samsung і модель \"SM-T865\".\n7. Перезапустіть додаток.\n\nПісля перезапуску, ліміт в 480p повинен піти."
         }
       ]
     },
     {
       "title": "Як приховати сповіщення від microG?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Щоб приховати сповіщення microG,\n\n1. Ви можете відключити оптимізацію батареї для Vanced microG і перезавантажити пристрій.\n\n2. Якщо вищевказаний спосіб не спрацював, вимкніть сповіщення microG, натискаючи і утримуючи сповіщення, переведіть його і натисніть \"Зберегти\".\n\n> Відключення сповіщень додатків може бути виконано різними способами в залежності від призначеного для користувача інтерфейсу Android. Якщо ви не знаєте, як відключити сповіщення, спробуйте скористатися пошуком Google, щоб дізнатися про це."
     },
     {
       "title": "Чи виглядає 1440p краще на моєму 1080p екрані?",
