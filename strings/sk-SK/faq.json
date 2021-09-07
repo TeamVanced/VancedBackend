@@ -37,7 +37,7 @@
       "description": "Pretože:\n\n1. Je to používané originálnou aplikáciou, takže to používa aj Vanced.\n2. Inštaluje to iba vami určené jazyky, aby sa znížila spotreba úložiska.\n3. Má iba jedinú verziu základného súboru APK, ktorú vaše zariadenie vyžaduje.\n\nVanced Manager alebo vývojári ho samozrejme môžu konvertovať na normálny, jediný súbor APK, ale sme leniví to spraviť. Musíte byť spokojný s tým, čo máme...\n\nNerobte si však starosti, Vanced Manager urobí za vás všetku tvrdú prácu, takže stačí iba klepnúť na tlačidlo `Inštalovať`."
     },
     {
-      "title": "Prečo farba na úvodnej obrazovke nezodpovedá motívu? ",
+      "title": "Prečo farba na úvodnej obrazovke nezodpovedá farbe témy? ",
       "description": "Farba pozadia úvodnej obrazovky je prevzatá z farby systému Android, aby sa zabezpečilo, že sa bude meniť podľa témy systému. Môžete použiť [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) alebo [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) či podobnú aplikáciu na zmenu farby."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Súbory môžu byť poškodené z rôznych dôvodov a neskôr môžu spôsobovať problémy. Ak tomu chcete zabrániť, môžete sa rozhodnúť ich znovu stiahnuť, aby ste zabezpečili bezproblémovú inštaláciu."
     },
     {
-      "title": "Prečo non-root verzia má oprávnenie prístupu k mikrofónu? ",
+      "title": "Prečo nemá root verzia oprávnenie prístupu k mikrofónu? ",
       "description": "Má, ak je váš Vanced aktuálny."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Ako nastaviť YouTube Vanced ako predvolenú aplikáciu?",
-      "description": "Ako hovorí nadpis, veľa používateľov sa už mnohokrát pýta, ako môžu nastaviť YouTube Vanced ako predvolený pri otváraní YouTube odkazov z iných aplikácií (ako sú prehliadače, aplikácie na odosielanie správ a iné aplikácie).\n\nPoužívatelia s rootom nemajú žiadny problém, pretože YouTube Vanced to urobí za nich po nahradení pôvodnej aplikácie YouTube.\n\nPre používateľov bez rootu sa riešenie delí na OneUI, MIUI a ostatných. Nemôžeme tu poskytovať riešenia pre každý OS, takže použite na to Google.",
+      "description": "Ako hovorí nadpis, veľa používateľov sa mnohokrát pýta, ako môžu nastaviť YouTube Vanced ako predvolený pri otváraní YouTube odkazov z iných aplikácií (ako sú prehliadače, aplikácie na odosielanie správ a iné aplikácie).\n\nPoužívatelia s root sa nemusia báť, pretože YouTube Vanced je predvolený ihneď po nahradení pôvodnej YouTube aplikácie.\n\nPre používateľov s non-root je riešenie rozdelené na OneUI, MIUI a ostatných. Nemôžeme poskytovať riešenia pre každý OS osobitne, preto si budete musieť riešenie vyhľadať sami prostredníctvom Google.",
       "fields": [
         {
           "title": "Používatelia OneUI:",
@@ -75,11 +75,11 @@
       ]
     },
     {
-      "title": "Prečo non-root verzia funguje s jadrom microG? ",
+      "title": "Prečo root verzia nefunguje spolu s microG core? ",
       "description": "1. Aby ste mohli spustiť Vanced, musíte mať aspoň [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) verziu GApps.\n\n2. Vanced s microG Core nie je možné spustiť bez Google Play Services Framework, ktorý je k dispozícii vo všetkých balíkoch GApps. Táto knižnica je vyžadovaná.\n\n3. Ak sa obávate o svoje súkromie a nechcete používať GApps, ale stále chcete pozerať YouTube bez reklám, potom je vždy k dispozícii [webová verzia](https://youtube.com)."
     },
     {
-      "title": "Prečo nefunguje prenášanie?",
+      "title": "Prečo nefunguje prenášanie videí?",
       "description": "Pre používateľov s verziou 16.16.38 a vyššími variantmi bez rootu a variantmi s rootom, ktorí používajú ROM založenú na microG, je v upstreame microG chyba. Kým sa nevyrieši, počkajte na aktualizácie alebo sa vráťte k verzii v15. Ak používate služby Google Play s root variantom, nebudete mať žiadne problémy s prenášaním."
     },
     {
