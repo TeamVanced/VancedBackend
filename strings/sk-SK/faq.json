@@ -80,7 +80,7 @@
     },
     {
       "title": "Prečo nefunguje prenášanie videí?",
-      "description": "Pre používateľov s verziou 16.16.38 a vyššími variantmi bez rootu a variantmi s rootom, ktorí používajú ROM založenú na microG, je v upstreame microG chyba. Kým sa nevyrieši, počkajte na aktualizácie alebo sa vráťte k verzii v15. Ak používate služby Google Play s root variantom, nebudete mať žiadne problémy s prenášaním."
+      "description": "Pre používateľov s verziou 16.16.38 a vyššou pre obe root a non-root varianty, ktorí používajú ROM založenú na microG, je v upstreame microG chyba. Kým sa nevyrieši, počkajte prosím na aktualizáciu alebo sa vráťte k verzii v15. Pokiaľ používate služby Google Play s root variantom, nebudete mať žiadne problémy s prenášaním."
     },
     {
       "title": "Čo je to podpisovanie súborov APK?",
