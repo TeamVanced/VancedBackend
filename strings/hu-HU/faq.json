@@ -46,7 +46,7 @@
     },
     {
       "title": "A root verziónak miért nincs szüksége Mikrofon engedélyre? ",
-      "description": "Működnie kell, ha a microG a legfrissebb."
+      "description": "Működnie kell, ha a Vanced a legfrissebb."
     },
     {
       "title": "Mi az ExoPlayer v1?",
@@ -58,7 +58,7 @@
     },
     {
       "title": "Hogyan tehetem a YouTube Vancedet alapértelmezett alkalmazássá?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Ahogy a címben is van, rengeteg felhasználó kérdezte már, hogy hogyan tudják a YouTube Vancedet alapértelmezetté beállítani a YouTube linkek megnyitására más alkalmazásokból (mint a böngészők, üzenetküldő alkalmazások és bármilyen más alkalmazás).\n\nRoot jogosultággal nem kell aggódnia emiatt, mivel ez már alapból beállított, amióta a YouTube le van cserélve a YouTube Vancedre.\n\nNem root verziót használók részére a megoldások fel lettek osztva, mint OneUI, MIUI és a többi. Jelenleg nem tudunk megoldást biztosítani minden OS-re, és lehet magának kell rákeressen a Google-n.",
       "fields": [
         {
           "title": "OneUI felhasználók:",
@@ -99,11 +99,11 @@
       "description": "Try restarting the app. It might also because of your internet connection or your device."
     },
     {
-      "title": "Why am I having the 480p limit?",
+      "title": "Miért van 480p limit?",
       "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
       "fields": [
         {
-          "title": "Workarounds:",
+          "title": "Megoldások:",
           "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
         }
       ]
@@ -113,7 +113,7 @@
       "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
+      "title": "Az 1440p jobban néz ki az 1080p-s kijelzőn?",
       "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
     }
   ]
