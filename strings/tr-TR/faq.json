@@ -37,7 +37,7 @@
       "description": "Çünkü:\n\n1. Orijinal uygulama, kurulum için bu yöntemi kullanıyor. Haliyle Vanced'da kullanıyor.\n2. Sadece belirlenen dilleri yükleyerek, depolama alanındaki tüketimi azaltır.\n3. Cihazınla uyumlu olan ana APK sürümünü barındırır.\n\nTabii ki de, Vanced Manager veya geliştiriciler uygulamayı bütün olarak tek bir APK dosyası olarak dönüştürebilir. Fakat üşengeçliğimiz ağır bastığı için bu işlemi ve geliştirmesini yapmaya vakit ayıramıyoruz. Elimizde olanla idare etmemiz gerekiyor...\n\nBundan dolayı endişelenmene de gerek yok hani. Vanced Manager kurulum esnasında yaşanabilecek öngörülen tüm zorlukları hallediyor. Bu yüzden kurulum için sadece `Yükle` butonuna basman yeterli olacaktır."
     },
     {
-      "title": "Uygulama açılırkenki renk, neden temayla aynı değil? ",
+      "title": "Uygulama açılırken ki renk, neden temayla aynı değil? ",
       "description": "Açılıştaki arkaplan rengi cihazın teması ile aynı olması için, Android framework yapısından alınır. Rengi değiştirmek istersen eğer, [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum), [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller), vb. uygulamalarından birini kullanabilirsin."
     },
     {
