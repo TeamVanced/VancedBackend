@@ -58,19 +58,19 @@
     },
     {
       "title": "如何使 YouTube Vanced 作為預設應用程式？",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "正如標題所說，許多使用者多次詢問如何將 YouTube Vanced 作為預設開啟來自其他應用程式（如瀏覽器、訊息應用程式和任何其他應用程式）的 YouTube 連結。\n\n 對於 root，您無需擔心，因為它已經預設設定，因為官方 YouTube 已被 YouTube vanced 取代。\n\n 對於非 root 使用者，解決方案分為 OneUI、MIUI 等。  我們無法為所有作業系統提供解決方案，您可能需要自己想辦法。",
       "fields": [
         {
           "title": "OneUI 使用者：",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. 點選並按住應用程式抽屜中的 YouTube 或 YouTube Vanced 應用程式圖示。\n2. 點選 ** 應用資訊 **。\n3. 找到 「** 設為預設 **」 並點選\n4. 點選 「** 開啟支援的連結 **」 並選擇 「** 在這個應用程式中開啟 **」\n\n 在舊版本的 OneUI 中，第 4 步中的選項名稱可能略有不同。 您可能需要點按 「** 轉到支援的網址 **」 並選擇 「** 在此應用中 **」 選項。\n 在較舊版本的 OneUI 💩 中，您可能需要轉到 ** 設定 ** > ** 應用 ** > *[點選右上角的三個點]* > ** 預設應用 ** > ** 設為 預設 **。 應用載入後 查詢 YouTube Vanced 或 YouTube 並按照第 4 步操作..."
         },
         {
           "title": "MIUI 使用者：",
-          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. 開啟設定\n2. 進入 ** 應用 **，\n3. ** 管理應用 **，\n4. 然後，點選右上角的三個點，\n5. ** 預設應用 **，\n6. ** 開啟連結 **。\n7. 等到您的所有應用程式都列出來...\n8. 找到 YouTube 或 YouTube Vanced 並點選它。\n9. 點選 「** 開啟支援的連結 **」 並選擇 「** 開啟 **」"
         },
         {
           "title": "AOSP 及其他 UI (OOS、ColorOS、EMUI...等)：",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. 開啟 ** 設定 **\n2. 轉到 ** 應用程式 **\n3. 點選 ** 預設應用程式 **\n4. 查詢 **YouTube** 或 **YouTube Vanced **\n5. 點選 「** 轉到支援的 URL**」 並選擇 「** 在此應用中開啟 **」 選項\n如果您仍然對此感到困擾，您可能需要在網路上搜尋 (https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube）或您可以從 「Play Store」 安裝第三方應用程式 (https://play.google.com/store/search?q=open%20with) 為了把你從這個麻煩中解救出來…"
         }
       ]
     },
@@ -79,8 +79,8 @@
       "description": "1. 您需要有 GApps 的 [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 版本才能運行 Vanced。\n\n2. 您如果沒有安裝必要的 Google Play 服務框架，Vanced 就無法讓 microG Core 一起運行，該框架包含在所有的 GApps 封包中。\n\n3. 如果您擔心自己的隱私並且不想使用 GApps，但仍想擁有沒有廣告的 YouTube 觀看體驗，那麼 [網頁版](https://youtube.com) 將是您的選擇。"
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "為什麼無法投射螢幕？",
+      "description": "對於 v16.16.38 及以上所有使用基於 microG ROM 的 non-root 版和 root 版的使用者，上游 microG 存在錯誤。  在解決之前，請等待更新或回滾到 v15 版本。  如果您將 Google Play 服務與 root 版一起使用，則轉換不會有任何問題。"
     },
     {
       "title": "什麼是 APK 簽名？",
