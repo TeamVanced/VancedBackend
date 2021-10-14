@@ -66,16 +66,16 @@
         },
         {
           "title": "MIUI korisnici:",
-          "content": "1. Otvorite Postavke\n2. Idite na **Aplikacije**,\n3. **Upravljanje aplikacijama**,\n4. Zatim dodirnite tri točke u desnom kutu,\n5. **Zadane aplikacije**,\n6. **Otvaranje veza**.\n7. Pričekajte da sve vaše aplikacije budu na popisu...\n8. Pronađite YouTube ili YouTube Vanced i dodirnite ga.\n9. Dodirnite \"**Otvori podržane veze**\" i odaberite \"**Otvori**\""
+          "content": "1. Otvorite Postavke\n2. Idite na **Aplikacije**,\n3. **Upravljaj aplikacijama**,\n4. Zatim dodirnite tri točke u desnom kutu,\n5. **Zadane aplik.**,\n6. **Otvaranje veza**.\n7. Pričekajte da sve vaše aplikacije budu na popisu...\n8. Pronađite YouTube ili YouTube Vanced i dodirnite ga.\n9. Dodirnite \"**Otvori podržane veze**\" i odaberite \"**Otvori**\""
         },
         {
           "title": "AOSP i druga prilagođena korisnička sučelja (OOS, ColorOS, EMUI itd.):",
-          "content": "1. Otvorite **Postavke**\n2. Idite na **Aplikacije**\n3. Dodirnite **Zadane aplikacije**\n4. Pronađite **YouTube** ili **YouTube Vanced**\n5. Dodirnite \"**Idi na podržane URL -ove**\" i odaberite opciju \"**Otvori u ovoj aplikaciji**\"\n\nAko vas to još uvijek muči, možda ćete morati potražiti neke članke/videozapise o tome kako i što na [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) ili možete instalirati aplikaciju treće strane iz [Play Store](https://play.google.com/store/search?q=open%20with) da vas spasimo od ove gnjavaže…"
+          "content": "1. Otvorite **Postavke**\n2. Idite na **Aplikacije**\n3. Dodirnite **Zadane aplikacije**\n4. Pronađite **YouTube** ili **YouTube Vanced**\n5. Dodirnite \"**Idi na podržane URL -ove**\" i odaberite mogućnost \"**Otvori u ovoj aplikaciji**\"\n\nAko još imate problema s time, možda ćete morati potražiti neke članke/videozapise o tome kako i što učiniti na [Googlu](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) ili možete instalirati aplikaciju treće strane iz [Play Trgovine](https://play.google.com/store/search?q=open%20with) kako bi vas spasili od ove gnjavaže…"
         }
       ]
     },
     {
-      "title": "Zašto root verzija ne radi s microG? ",
+      "title": "Zašto root izdanje ne radi s microG jezgrom? ",
       "description": "1. Morate imati barem [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) verziju da biste pokrenuli Vanced.\n\n2. Ne možete pokrenuti Vanced s microG Core -om bez Google Play Services Framework -a koji je dostupan u svim GApps paketima i potrebna je biblioteka.\n\n3. Ako ste zabrinuti za svoju privatnost i ne želite koristiti GApps, ali i dalje želite gledati YouTube bez oglasa, tada je [web version](https://youtube.com) uvijek dostupna."
     },
     {
