@@ -76,7 +76,7 @@
     },
     {
       "title": "Zašto root izdanje ne radi s microG jezgrom? ",
-      "description": "1. Morate imati barem [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) verziju da biste pokrenuli Vanced.\n\n2. Ne možete pokrenuti Vanced s microG Core -om bez Google Play Services Framework -a koji je dostupan u svim GApps paketima i potrebna je biblioteka.\n\n3. Ako ste zabrinuti za svoju privatnost i ne želite koristiti GApps, ali i dalje želite gledati YouTube bez oglasa, tada je [web version](https://youtube.com) uvijek dostupna."
+      "description": "1. Morate imati barem [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) izdanje kako biste pokrenuli Vanced.\n\n2. Ne možete pokrenuti Vanced s microG jezgrom bez Google Play Services Frameworka koji je dostupan u svim GApps paketima i potrebna je biblioteka.\n\n3. Ako ste zabrinuti za svoju privatnost i ne želite koristiti GApps, ali i dalje želite gledati YouTube bez oglasa, tada je [web izdanje](https://youtube.com) uvijek dostupno."
     },
     {
       "title": "Zašto emitiranje ne radi?",
