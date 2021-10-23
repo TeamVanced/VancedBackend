@@ -99,22 +99,22 @@
       "description": "Prøv at genstarte appen. Det kan også skyldes din internetforbindelse eller din enhed."
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "Hvorfor har jeg en grænse på 480p?",
+      "description": "På grund af COVID-19 begrænser Google brugen af data i flere lande. Dette sker på serveren og påvirker både Vanced brugere og standard YouTube brugere.",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "Måder at omgå dette:",
+          "content": "1. Forbind til en VPN i en anden region.\n2. Brug [webversionen](https://youtube.com)\n3. Da 480p begrænsningen kun er for mobilenheder og ikke tablets, kan du ændre enhedens model i YouTube Vanced for at omgå begrænsningen.\n\n#### Sådan ændres enhedens model?\n1. Åbn YouTube Vanced.\n2. Gå til Indstillinger\n3. Tryk på Vanced indstillinger\n4. Aktiver skjulte indstillinger\n - Tryk på Om sektionen, indtil du får en besked, der siger skjulte indstillinger aktiveret.\n5. Gå til Codec tilsidesættelse\n6. sæt fabrikant til Samsung og model til SM-T865.\n4. Genstart app'en\n\nEfter genstart burde 480p grænsen være væk."
         }
       ]
     },
     {
-      "title": "How to hide the microG notification?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "title": "Hvordan skjuler man mikroG notifikationen?",
+      "description": "For at skjule microG notifikationen,\n\n1. Du kan deaktivere batterioptimering for Vanced microG og genstarte din enhed.\n\n2. Hvis ovenstående metode ikke virker, skal du deaktivere mikroG-notifikationer ved at holde på notifikationen, slå den fra og trykke på Gem.\n\n> Deaktivering af app-notifikationer kan ske på forskellige måder afhængigt af Android-brugergrænsefladen. Hvis du ikke ved, hvordan du deaktiverer det, så prøv at bruge Google til at lære, hvordan du deaktiverer det."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "Ser 1440p bedre ud på min 1080p skærm?",
+      "description": "Ja, men kun hvis video forholdet er noget i retning af 18:9, 21:9, ... Du kan aktivere `statistik for nørder` i Indstillinger > Generelt for at bekræfte det.\n\nFor at aktivere højere opløsninger, gå til Vanced indstillinger > Videoindstillinger og slå \"Maks. opløsning\" til og genstart appen."
     }
   ]
 }
