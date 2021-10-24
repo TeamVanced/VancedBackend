@@ -80,7 +80,7 @@
     },
     {
       "title": "Почему транслирование не работает?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "description": "Для пользователей с версией 16.16.38 и всеми вышеперечисленными не root-вариантами и root-вариантами, которые используют ROMs на базе microG, существует ошибка в отправке microG. Пока она не будет устранена, пожалуйста, ждите обновлений или откатитесь до версии 15. Если вы используете сервис Google Play с root-версиями, у вас не будет проблем с трансляцией видео."
     },
     {
       "title": "Что такое подпись APK?",
