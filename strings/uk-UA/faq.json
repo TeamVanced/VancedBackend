@@ -37,7 +37,7 @@
       "description": "Тому що:\n1. Звичайне додаток YouTube теж розбитий на кілька частин.\n2. Такий спосіб встановлення дозволяє завантажувати тільки потрібну вам мову для економії місця.\n3. Додаток містить тільки потрібні бібліотеки для вашого пристрою.\n\nЗвичайно, Vanced Manager або розробники могли б конвертувати все це в звичайний APK, але нам лінь цим займатися. Вам просто потрібно звикнути до того, що ви пропонуємо.\n\nНе хвилюйтеся, Vanced Manager все зробить за вас при натисканні на кнопку \"Встановити\"."
     },
     {
-      "title": "Why does the color in the startup screen not match the theme? ",
+      "title": "Чому колір на початковому екрані не відповідає темі? ",
       "description": "Колір фону на заставці тепер узято з кольору фреймворку Android (система Android), щоб переконатися, що Vanced/Youtube змінює свій колір відповідно до системної теми. Незалежно від кольору в фреймворку Android, такий же колір буде використовуватися і в Vanced.\n\nВи можете використовувати теми Substratum/Swift для зміни кольору теми."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Причина досить проста: іноді завантажені файли можуть бути пошкоджені і спроба їх встановлення призведе до множинних помилок. Щоб уникнути цього, менеджер перезавантажує файли кожен раз при натисканні кнопки.\n\nОднак, Non-Root інсталятор тепер може використовувати завантажені файли для перевстановлення Vanced."
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
+      "title": "Чому рут-версія не має дозволу на мікрофон? ",
       "description": "Все є, якщо ваш Vanced актуальний."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Як зробити YouTube Vanced в якості стандартного застосунку?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Як сказано в заголовку, багато користувачів багато раз запитували, як зробити YouTube Vanced за замовчуванням для відкриття посилань на YouTube з інших додатків (наприклад, браузерів, додатків для обміну повідомленнями та будь-яких інших додатків).\n\nДля користувачів з root-правами можна не турбуватися, оскільки вони вже встановлені за замовчуванням, так як офіційний YouTube замінюється на YouTube vanced.\n\nДля користувачів без root-прав рішення були розділені між OneUI, MIUI і іншими. Ми не можемо надати рішення для кожної ОС, і вам, можливо, доведеться шукати їх самостійно.",
       "fields": [
         {
           "title": "Користувачам OneUI:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why doesn't the root variant work with the microG core? ",
+      "title": "Чому root-варіант не працює з ядром microG? ",
       "description": "1. Вам потрібно мати хоча б [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) варіант GApps для запуску Vanced.\n\n2. Ви не зможете запустити Vanced з ядром microG, бо він вимагає Google Play Services Framework, який доступний у всіх пакетах GApps і це необхідна бібліотека.\n\n3. Якщо ви стурбовані конфіденційністю & не хочете використовувати GApps, але все ще хочете використовувати YouTube без реклами, тоді ви можете використовувати [веб-версію] (https://youtube.com)."
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "Чому транслювання не працює?",
+      "description": "Для користувачів з версією 16.16.38 і всіма перерахованими вище НЕ root-варіантами і root-варіантами, які використовують ROMs на базі microG, існує помилка у відправленні microG. Поки вона не буде усунена, будь ласка, чекайте оновлень або відкотіться до версії 15. Якщо ви використовуєте сервіс Google Play з root-версіями, у вас не буде проблем з трансляцією відео."
     },
     {
       "title": "Що таке підпис APK?",
