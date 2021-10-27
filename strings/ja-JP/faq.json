@@ -45,7 +45,7 @@
       "description": "さまざまな理由でファイルが破損する可能性があり、その後問題が発生する場合があります。この問題を回避しスムーズなインストールを行うため、再ダウンロードを選択できます。"
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
+      "title": "root 版にマイクの権限がないのはなぜですか？",
       "description": "Vanced の最新バージョンでは必要です。"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "YouTube Vanced をデフォルトのアプリに設定する方法は？",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "ブラウザやメッセージアプリなどから YouTube のリンクを開くときに使用するデフォルトのアプリに Vanced を設定する方法です。これは特によくある質問です。\n \nroot 版では、YouTube Vanced は公式アプリを置き換えているためすでにデフォルトに設定されています。 \n\nnon-root 版では、OneUI や MIUI などがあり解決方法が異なるためここですべてに共通の解決方法を示すことはできません。ご使用の OS にあった設定方法をウェブ検索してください。",
       "fields": [
         {
           "title": "OneUI ユーザー:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why doesn't the root variant work with the microG core? ",
+      "title": "root 版で MicroG Core が動作しないのはなぜですか？",
       "description": "1. Vanced を使用するには、GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 以上が必要です。\n\n2. GApps パッケージで利用可能な Google Play サービスフレームワークがない場合には、Vanced で microG Core を利用できません。また、ライブラリーが必要です。\n\n3. プライバシーに関する懸念があり GApps を使わずに YouTube をご覧になりたい場合は、[ウェブ版](https://youtube.com)をご利用ください。"
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "なぜ Cast が動作しないのですか？",
+      "description": "v16.16.38 以上にアップデートすると、non-root 版ユーザーと MicroG ベースの ROM で使用している root 版のユーザーは、MicroG のバグの影響を受けます。それが解決されるまで、アップデートをお待ちいただくか、v15 にロールバックしてください。root 版 で Google Play 開発者サービスを使用している場合、Cast に問題はありません。"
     },
     {
       "title": "APK 署名とは何ですか？",
