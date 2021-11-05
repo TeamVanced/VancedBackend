@@ -1,40 +1,40 @@
 {
   "data": [
     {
-      "title": "What is YouTube Vanced?",
-      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
+      "title": "برنامه یوتیوب اصلاح شده چیست?",
+      "description": "یوتیوب پیشرفته، نسخه اصلاح شده یوتیوب است که با ویژگی‌های اضافی برای بهبود تجربه یوتیوب شما همراه شده است!\nبعضی از ویژگی ها:\n-پخش در پس زمینه\n-تصویر در تصویر\n-تم مشکی\n-حذف کننده تبلیغات (نیاز به فعال شدن دارد)\n-بالاترین کیفیت ( اجازه پخش ویدیو با بالاترین کیفیت حتی بیش تر از اندازه صفحه نمایش شما)\n-و موارد متعدد دیگر...\n\nبرای اطلاعات بیشتر به سایت https://vancedapp.com مراجعه کنید"
     },
     {
-      "title": "Where is the Download button?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "title": "دکه دانلود کجاست?",
+      "description": "البته، گوگل اجازه نمی دهد نسخه اصلاح شده برنامه خود را در فروشگاه خود قرار دهد، بنابراین آن را در فروشگاه گوگل پلی جستجو نکنید، اینها فقط برنامه های جعلی هستند.\n\nبرنامه های یوتیوب پیشرفته را می توان با استفاده از مدیریت کننده یوتیوب پیشرفته که در وب سایت رسمی ما یافت می شود بارگیری و نصب کرد: <https://vancedapp.com> اما شما همچنین می توانید آن را در گیت هاپ پیدا کنید: (https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
-      "title": "Does YouTube Vanced auto-update?",
-      "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
+      "title": "آیا یوتیوب اصلاح شده خودکار آپدیت می شود?",
+      "description": "نه، اینطور نیست.\n\n یوتیوب اصلاح شده در صورت وجود بروزرسانی اعلان برای شما ارسال می کند.\nهمچنین میتوانید در سرور دیسکورد ما ملحق شوید: (https://discord.gg/Vanced) یا می توانید کانال تلگرام ما را برای دریافت آخرین اخبار دنبال کنید(https://t.me/Vanced)."
     },
     {
-      "title": "Can Vanced download videos?",
-      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
+      "title": "آیا یوتیوب اصلاح شده می‌تواند ویدیو دانلود کند?",
+      "description": "یوتیوب اصلاح شده هیچ ویژگی بارگیری ویدیو را شامل نمی شود و هرگز هم نخواهد داشت.\n\nبسیاری از ویدیوها برای دانلود رایگان در [کشورهای انتخاب شده] در دسترس هستند (https://support.google.com/youtube/answer/6141269) \n9). برای سایر نقاط جهان، لطفاً یوتیوب ویژه را دریافت کنید.\n\nمجدداً، یوتیوب اصلاح شده هرگز بارگیری ویدیو یا هر چیزی مشابه اضافه نخواهد کرد.\n\nاین دلیل غیرفعال شدن بسیاری از یوتیوب های اصلاح شده در گذشته بوده است، زیرا گوگل دوست ندارد مردم محتوای دارای حق رایت را از پلتفرم خود دانلود کنند، بنابراین آن را درخواست نکنید!!!"
     },
     {
-      "title": "Why don't the swipe gestures work?",
-      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
+      "title": "چرا حرکات کشیدن انگشت کار نمی کند?",
+      "description": "اگر نظرات در پایین ( قدیمی) در تنظیمات پیشرفته > تنظیمات طرح‌بندی نشان داده شده است، آن را غیرفعال کنید و برنامه را مجدداً راه‌اندازی کنید. اگر کار نکرد، برنامه را به اجبار متوقف کنید و داده های آن را پاک کنید."
     },
     {
-      "title": "Captions not available?",
-      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
+      "title": "زیرنویس ها در دسترس نیستند?",
+      "description": "این موضوع مربوط به برنامه ما یا خود یوتیوب نیست. همه ویدیوها زیرنویس ندارند."
     },
     {
-      "title": "Do you take donations?",
-      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "آیا شما کمک مالی می گیرید?",
+      "description": "ما کمک مالی نمی پذیریم!\n\nهر نوع کمک مالی تحت هر شرایطی و هر سایت یا پیوند یا پستی که درخواست کمک مالی می کند به سادگی جعلی است.\n\nاما اگر می‌خواهید از توسعه‌دهندگان ما پشتیبانی کنید، می‌توانید مرورگر Brave را دانلود کنید \n(https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "How to make the player layout auto-hide?",
-      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
+      "title": "چگونه طرح پخش کننده به صورت خودکار را مخفی کنیم?",
+      "description": "می توانید آن را در یوتیوب پیشرفته > تنظیمات > دسترسی پذیری پیکربندی کنید. اگر تنظیمات باز نشد یا کار نکرد، به تنظیمات دسترس‌پذیری دستگاه خود بروید و تقویت‌کننده صدا، سوئیچ دسترسیپ زیرنویس های زنده را غیرفعال کنید."
     },
     {
-      "title": "Why using split APKs?",
-      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
+      "title": "چرا از فایل نصبی های تقسیم شده استفاده می کنیم?",
+      "description": "زیرا:\n\n1. برنامه اصلی از آن استفاده می کند، بنابراین یوتیوب پیشرفته نیز از آن استفاده می کند.\n2. فقط زبان هایی را که شما مشخص کرده اید نصب می کند تا مصرف فضای ذخیره سازی کاهش یابد.\n3. تنها نسخه اصلی فایل نصبی را دارد که دستگاه شما به آن نیاز دارد.\n\nالبته، مدیر پیشرفته یا توسعه دهندگان می توانند آن را به یک فایل نصبی معمولی تبدیل کنند، اما ما برای انجام این کار بسیار تنبل هستیم. فقط باید با چیزایی که داریم کنار بیای...\n\nنگران نباشید، مدیریت پیشرفته تمام کارهای سخت را برای شما انجام می دهد، بنابراین فقط روی دکمه «نصب» ضربه بزنید."
     },
     {
       "title": "Why does the color in the startup screen not match the theme? ",
