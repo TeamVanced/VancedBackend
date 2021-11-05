@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "گزارش اشکال",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "سوالات متداول",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "ویژگی‌ها",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "عیب یابی",
       "json": "troubleshooting.json"
     }
   ]
