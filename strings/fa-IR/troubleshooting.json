@@ -99,94 +99,94 @@
 				},
 				{
 					"title": "برای کاربران روت",
-					"content": "Make sure \"Scheduled Digest\" is off in youtube settings and your notifications sounds are correct and set.\n\nYou can try using \"notification manager\" app which keeps track of all your notification at one place so in case if you are dismissing your notifications, you can access the same again from that app."
+					"content": "مطمئن شوید که «خلاصه اعلانات برنامه ریزی شده» در تنظیمات یوتیوب خاموش است و صدای اعلان‌های شما درست و تنظیم شده است.\n\nمی‌توانید از برنامه «مدیر اعلان‌ها» استفاده کنید که همه اعلان‌های شما را در یک مکان ردیابی می‌کند، بنابراین اگر اعلان‌های خود را رد می‌کنید، می‌توانید دوباره از آن برنامه به آن دسترسی داشته باشید."
 				}
 			]
 		},
 		{
-			"title": "If YouTube Vanced is not showing up under Google Cloud Messaging(GCM) or it shows up as unregistered",
-			"description": "Try EITHER of the following:\n\n1. Remove your microg account from account settings. The account used by vanced has a dark grey background with G logo on it. \n\n2. Clear data of microG then login. \n\nOR\n\nIf above workaround doesn't work, reinstall vanced."
+			"title": "اگر یوتیوب اصلاح شده در فضای ابری پیام رسان گوگل (GCM) نمایش داده نمی شود یا به صورت ثبت نشده نشان داده می شود",
+			"description": "یکی از موارد زیر را امتحان کنید: \n1. حساب microg خود را از تنظیمات حساب حذف کنید. حساب مورد استفاده توسط یوتیوب دارای پس‌زمینه خاکستری تیره با آرم G روی آن است. \n\n2. داده های microG را پاک کنید و سپس وارد شوید.\n\n یا \n\nاگر راه حل فوق کار نکرد، یوتیوب را دوباره نصب کنید."
 		},
 		{
-			"title": "Force closing issues",
-			"description": "If Vanced app is crashing/force closing on startup",
+			"title": "مشکل بسته شدن اجباری",
+			"description": "اگر برنامه یوتیوب در حال خراب شدن است/بسته شدن اجباری هنگام راه اندازی برنامه",
 			"fields": [
 				{
-					"title": "Nonroot",
-					"content": "1) If you installed YouTube vanced before vanced microG app, uninstall both YouTube vanced and vanced microG. Then install vanced microG first, then Vanced and vanced will stop force closing.\n\n2) If you didn't install vanced microG, please install it and force closing will stop. [Don't log in if you don't want to]"
+					"title": "بدون روت",
+					"content": "1) اگر برنامه یوتیوب اصلاح شده را قبل از microG نصب کرده اید، هر دو یوتیوب و microG را حذف نصب کنید. سپس ابتدا microG را نصب کنید، سپس یوتیوب.\n\n2) اگر microG را نصب نکرده اید، لطفاً آن را نصب کنید و مشکل بسته شدن اجباری برنامه متوقف می شود. [اگر نمی خواهید وارد سیستم نشوید]"
 				},
 				{
-					"title": "Root",
-					"content": "1) If your root version of Vanced is force closing upon opening the app, uninstall stock YouTube app updates. If this doesn't help, disable/uninstall your substratum/swift themes overlays.\nAt last resort, if nothing helps, give the community/staff a logcat.\n\n2) If your root version of Vanced is force closing in the middle of app when it's in foreground/active or playing a video, grab your logcats and find:\n\n(a)- Unsatisfiedlinkerror: \nSol:- Place the arm and arm64 files in root directory \"Data/app/com.google.android.youtube/lib\" or rename accordingly to the name mentioned.\n\n(b)- Notehitelisted \"com.google.android.youtube\":\nSol:- Read this guide from [this link](https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error) and see if it helps. If Link didn't help, clean flash your ROM or test with a different ROM to resolve this issue. If you don't know how to get logs, check the bugreport template."
+					"title": "روت",
+					"content": "1) اگر نسخه اصلی یوتیوب شما با باز کردن برنامه به اجبار بسته می‌شود، بروزرسانی‌های برنامه یوتیوب را حذف نصب کنید. اگر کمکی نکرد، همپوشانی‌های زیرلایه/موضوعات سریع خود را غیرفعال/حذف کنید. در آخرین راه حل، اگر هیچ کمکی نکرد، به انجمن/پشتیبانی ما اطلاع بدهید. \n\n2) اگر نسخه روت برنامه یوتیوب شما به اجبار در وسط برنامه زمانی که در پیش زمینه/فعال است یا در حال پخش یک ویدیو است بسته می شود، گزارش خود را بگیرید و پیدا کنید: (الف)- خطای باز کردن لینک: \"Data/app/com.google.android.youtube/lib\" نام آن را مطابق با نام ذکر شده تغییر دهید.\n\n (ب)- توجه داشته باشید موارد لیست شده است\n \"com.google.android.youtube\":: - این راهنما را از [این پیوند] بخوانید (https://www.xda-developers.com/how-to-fix-device-not-certified -by-google-error) و ببینید که آیا کمک می کند. \nاگر لینک کمکی نکرد، رام خود را از دوباره فلش کنید یا با رام دیگری تست کنید تا این مشکل برطرف شود. اگر نمی‌دانید چگونه گزارش‌ها را دریافت کنید، الگوی گزارش اشکال را بررسی کنید."
 				},
 				{
-					"title": "If Vanced crashes in the middle of playback (when playing in background mode)",
-					"content": "Since this issue is only caused by aggressive battery optimization present in various OEM skins such as MIUI, EMUI, ColorOS, etc..., it is recommended to disable battery optimization for both Vanced and MicroG app. \n\nInstructions to do so vary on your device manufacturer, so we can’t really assist with helping you disable it. You can try using a site like \"dontkillmyapp.com\", OR using Google and searching “[phone manufacturer] [phone model] [Android version] disable battery optimization”\n\nHowever, if you still have this issue, provide us with a bugreport on telegram group or discord server with all the necessary details and logs must be there so that Mods can take a look what's actually causing. Also, make sure to grab logs specific to vanced, NOT your whole SYSTEM."
+					"title": "اگر یوتیوب در وسط پخش از کار بیفتد (هنگام بازی در حالت پس‌زمینه)",
+					"content": "از آنجایی که این مشکل فقط به دلیل بهینه سازی باتری موجود در پوسته های مختلف مانند رابط کاربری هواوی و شیائومی و غیره است، توصیه می شود بهینه سازی باتری را برای برنامه یوتیوب و MicroG غیرفعال کنید. دستورالعمل‌های انجام این کار در سازنده دستگاه شما متفاوت است، بنابراین ما واقعاً نمی‌توانیم در غیرفعال کردن آن به شما کمک کنیم. می‌توانید از سایتی مانند «dontkillmyapp.com» استفاده کنید، یا از گوگل استفاده کنید و «[سازنده تلفن] [مدل تلفن] [نسخه اندروید] غیرفعال کردن بهینه‌سازی باتری» را جستجو کنید، با این حال، اگر همچنان این مشکل را دارید، یک گزارش خطا در اختیار ما قرار دهید. گروه تلگرام یا سرور دیسکورد با تمام جزئیات و گزارشات های لازم باید وجود داشته باشد تا توسعه دهندگان بتوانند ببینند که واقعاً چه چیزی باعث شده است. همچنین، مطمئن شوید که مشکلات مربوط به یوتیوب، نه کل سیستم خود را بگیرید."
 				}
 			]
 		},
 		{
-			"title": "Uninstall on reboot",
-			"description": "If the root version of YouTube Vanced/ YouTube Music Vanced is disappearing/uninstalling/reverting back to stock on reboot,\n\nWe have 2 solutions available for you:",
+			"title": "حذف نصب یا راه اندازی مجدد",
+			"description": "اگر نسخه اصلی یوتیوب و یوتیوب موزیک اصلاح شده در حال ناپدید شدن/حذف نصب/برگرداندن هستند، نیاز دارید بعد از نصب راه اندازی مجدد کنید،\n\nما 2 راه حل برای شما داریم:",
 			"fields": [
 				{
-					"title": "Solution 1",
-					"content": "Switch to the non-root version."
+					"title": "راه حل ۱",
+					"content": "رفتن به حالت بدون روت."
 				},
 				{
-					"title": "Solution 2",
-					"content": "REQUIREMENTS: Vanced Manager 2.2.0 or newer\n\n 1. Open Vanced manager and go to settings and find Root Script Sleep Time (you should be on root mode for this option to appear).\n\n2. Then set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
+					"title": "راه حل ۲",
+					"content": "الزامات: مدیریت کننده یوتیوب نسخه 2.2.0 یا جدیدتر\n\n 1. مدیریت کننده یوتیوب را باز کنید و به تنظیمات بروید و زمان خاموشی اسکریپت روت را پیدا کنید (برای نمایش این گزینه باید در حالت روت باشید). \n\n2. سپس مقدار را روی <2 تنظیم کنید و ذخیره را بزنید، و راه اندازی مجدد کنید و ببینید آیا یوتیوب موزیک و یوتیوب اصلاح شده همچنان ناپدید می شوند یا خیر. اگر همچنان ناپدید می‌شوند، مقدار را تا زمانی که پس از راه‌اندازی مجدد بچسبند، تنظیم کنید"
 				}
 			]
 		},
 		{
-			"title": "Battery drain fix for Samsung devices",
-			"description": "If you are using a Samsung device and facing huge battery drain/overheating issues, then you are at the right spot!\n The error is not caused by vanced but is caused by Samsung's built-in Game booster app and its services. It somehow detects vanced as a game and starts boosting it for better performance which it doesn't need.\n Sadly you can only fix this issue if you have root or a PC.\n",
+			"title": "رفع خالی شدن باتری برای دستگاه های سامسونگ",
+			"description": "اگر از یک دستگاه سامسونگ استفاده می‌کنید و با مشکل خالی/گرم شدن بیش از حد باتری مواجه هستید، در جای مناسبی هستید! این خطا به دلیل یوتیوب نیست، بلکه به دلیل برنامه تقویت کننده بازی داخلی سامسونگ و خدمات آن است. به نوعی یوتیوب را به عنوان یک بازی تشخیص می دهد و شروع به تقویت آن برای عملکرد بهتر می کند که نیازی به آن ندارد. متأسفانه فقط در صورتی می توانید این مشکل را برطرف کنید که روت یا رایانه شخصی داشته باشید.\n",
 			"fields": [
 				{
-					"title": "Prerequisites",
-					"content": "You will need\n\n• EITHER a PC with adb set up OR\n • A rooted phone"
+					"title": "پیش نیازها",
+					"content": "شما نیاز خواهید داشت\n\n• یک کامپیوتر با تنظیم ADB یا\n • یک گوشی روت شده"
 				},
 				{
-					"title": "Uninstalling the Game booster stuff using root",
-					"content": "First, you need a Terminal. We recommend [Termux](https://play.google.com/store/apps/details?id=com.termux) but you can use whatever you prefer.\n\n2 Open it up and run the following commands one by one,\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gamehome\"`\n\n `su -c \"pm uninstall -k --user 0 com.enhance.gameservice\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gametools\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gos\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.gametuner.thin\"`\n\n >If any app installs back automatically, remove `-k` from the command of that package and run command in adb again."
+					"title": "حذف نصب برنامه تقویت کننده بازی با استفاده از روت",
+					"content": "در مرحله اول شما نیاز به یک برنامه دارید مانند [Termux]\n(https://play.google.com/store/apps/details?id=com.termux) but you can use whatever you prefer.\n\n2. آن را باز کنید و تمام مراحل زیر را یک به یک انجام دهید\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gamehome\"`\n\n `su -c \"pm uninstall -k --user 0 com.enhance.gameservice\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gametools\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.game.gos\"`\n\n `su -c \"pm uninstall -k --user 0 com.samsung.android.gametuner.thin\"`\n\n اگر هر برنامه ای به طور خودکار از دوباره نصب شد، `-k` را از دستور آن بسته حذف کنید و دوباره دستور را در Adb اجرا کنید."
 				},
 				{
-					"title": "Uninstalling the Game booster stuff using adb on your PC",
-					"content": "1. Install Android Debug Bridge using this [Guide](https://www.xda-developers.com/install-adb-windows-macos-linux).\n\n2. After setting up adb, type `adb shell` then run the following commands one by one.\n\n `pm uninstall -k --user 0 com.samsung.android.game.gamehome`\n\n `pm uninstall -k --user 0 com.enhance.gameservice`\n\n `pm uninstall -k --user 0 com.samsung.android.game.gametools`\n\n  `pm uninstall -k --user 0 com.samsung.android.game.gos`\n\n `pm uninstall -k --user 0 com.samsung.android.gametuner.thin`"
+					"title": "حذف نصب برنامه تقویت کننده بازی با استفاده از adb در رایانه شخصی شما",
+					"content": "برنامه اشکال زدایی اندروید را نصب کنید [راهنما]\n(https://www.xda-developers.com/install-adb-windows-macos-linux).\n\n2. پس از راه اندازی برنامه ، \"دستور adb shell\" را تایپ کنید سپس دستورات زیر را یکی یکی اجرا کنید.\n\n `pm uninstall -k --user 0 com.samsung.android.game.gamehome`\n\n `pm uninstall -k --user 0 com.enhance.gameservice`\n\n `pm uninstall -k --user 0 com.samsung.android.game.gametools`\n\n  `pm uninstall -k --user 0 com.samsung.android.game.gos`\n\n `pm uninstall -k --user 0 com.samsung.android.gametuner.thin`"
 				}
 			]
 		},
 		{
-			"title": "Advertisements in Vanced",
-			"description": "If you are seeing ads in YouTube Vanced or Vanced Music, please read this below:\n\nThe home screen and search ads (added by Google) are region-specific and will not be displayed if you are not in the region where they are active. Those advertisements were not added in any way by the Vanced team, so if you pointed a finger at us, we would laugh at you. \n\n With the v16 release, the advertisements have been fully removed. If you happen to see them in your app, please turn off any toggles you turned on mistake relating to ad removal from the vanced settings menu. You can also try clearing data and see if it resolves. When using the cast feature, note that vanced won't block ads while casting."
+			"title": "تبلیغات در یوتیوب اصلاح شده",
+			"description": "اگر در یوتیوب اصلاح شده یا یوتیوب موزیک تبلیغات می‌بینید، لطفاً این مطلب را در زیر بخوانید: \n\nصفحه اصلی و تبلیغات جستجو (افزوده شده توسط گوگل) مختص منطقه شما هستند و اگر در منطقه‌ای که در آن فعال هستند نباشید، نمایش داده نمی‌شوند. اون تبلیغات به هیچ وجه توسط تیم یوتیوب اصلاح شده اضافه نشده بود که اگه انگشتت رو به سمت ما بگیری بهت میخندیم. با انتشار نسخه 16، تبلیغات به طور کامل حذف شدند. اگر اتفاقی آنها را در برنامه خود مشاهده کردید، لطفاً هرگونه تغییر دهنده ای را که اشتباه مربوط به حذف آگهی را فعال کرده اید از منوی تنظیمات پیشرفته خاموش کنید. همچنین می توانید پاک کردن داده ها را امتحان کنید و ببینید که آیا حل می شود یا خیر. هنگام استفاده از ویژگی بازتابندن استفاده می کنید، توجه داشته باشید که یوتیوب اصلاح شده تبلیغات را هنگام ارسال محتوا مسدود نمی کند."
 		},
 		{
-			"title": "History",
-			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n> ⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in [YouTube Settings](https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n> ⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
+			"title": "سابقه",
+			"description": "اگر با مشکلاتی مواجه هستید که در آن ویدیوهای تماشا شده/نتایج جستجو توسط یوتیوب نشان داده نمی‌شوند، یعنی سابقه کار نمی‌کند، به این صورت است که سابقه کار را دریافت می‌کنید:\n • برای کاربرانی که بدون در نظر گرفتن نوع (غیر روت یا روت) روت شده‌اند. شما در حال استفاده از آن هستید، مطمئن شوید که *s.youtube.com را در مسدود کننده تبلیغات خود در لیست سفید قرار داده اید. \n\n> ⚠️نکته برای کاربران Adaway: اگر قرار دادن آدرس در لیست سفید برای شما کارساز نبود، روی \"کد میزبان\" ضربه بزنید و تیک \"استیون بلک\" را بردارید و اعمال کنید، سپس راه اندازی مجدد کنید و سابقه شما کار خواهد کرد.\n\n⚠️ • برای کاربران غیر روت: مطمئن شوید شما در نسخه 14.10.53 یا بالاتر هستید تا این برنامه بتواند سابقه تماشای شما را ذخیره کند. اگر سابقه همچنان بروزرسانی نمی‌شود، باید حساب نام تجاری خود را در [تنظیمات یوتیوب] (https://www.youtube.com/account_advanced) ادغام کنید تا سابقه کار کند. (فرآیند ادغام تاریخچه فعلی را پاک می کند.) \n\n> ⚠️نکته برای کاربران Adaway که از فیلترشکن مسدود کننده تبلیغات به جای مسدود کردن تبلیغات مبتنی بر روت استفاده می کنند: اگر از حساب نام تجاری استفاده نمی کنید، مطمئن شوید که *s.youtube.com آدرس را در لیست مجاز قرار دهید. لیست کنید سپس تغییرات را اعمال کنید.⚠️"
 		},
 		{
-			"title": "APP loading issues",
+			"title": "مشکل لود برنامه",
 			"fields": [
 				{
-					"title": "If Vanced got stuck on splash screen, do this;",
-					"content": "1. Switch Airplane mode on.\n2. Open Youtube Vanced.\n\n3. Tap on close in changelog popup.\n4. Turn off Airplane mode.\n5. Reopen vanced.\n\nThanks to rocco6victorFrom XDA"
+					"title": "اگر برنامه یوتیوب روی لگو گبر کرده ، این کار را انجام دهید;",
+					"content": "1. حالت هواپیما را روشن کنید.\n2. یوتیوب اصلاح شده را باز کنید.\n\n3. در پنجره تغییرات فهرست روی بستن ضربه بزنید.\n4. حالت هواپیما را خاموش کنید.\n5. بازگشایی مجدد.\n\nبا تشکر از rocco6victorFrom در سایت xda"
 				},
 				{
-					"title": "If Vanced keeps on loading infinitely, do this;",
-					"content": "1. Disable battery optimization for both YouTube Vanced and microG app using dontkillmyapp.com then reboot your device.\n2. It should get fixed now."
+					"title": "اگر یوتیوب همینجوری روی علامت بارگذاری باقی مانده، این کار را انجام دهید;",
+					"content": "1. با استفاده از dontkillmyapp.com بهینه سازی باتری را برای یوتیوب و برنامه microG غیرفعال کنید و سپس دستگاه خود را راه اندازی مجدد کنید.\n\n2. الان باید درست بشود."
 				}
 			]
 		},
 		{
-			"title": "Picture-in-Picture issues",
-			"description": "⚠️Please don't report PIP related issues.⚠️\n\n• PIP is managed by the Android system because YouTube uses native PIP, and the same is true for YouTube Vanced. Other apps (such as MX Player, VLC, and others) make use of a custom-made PIP. As a result, any problems with PIP should be reported to Google instead.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture"
+			"title": "مشکل تصویر در تصویر",
+			"description": "⚠️لطفاً مشکلات مربوط به تصویر در تصویر را گزارش نکنید. ⚠️\n\n سایر برنامه ها (مانند MX Player، VLC، و دیگران) از تصویر در تصویر سفارشی استفاده می کنند. در نتیجه، هر گونه مشکل در تصویر در تصویر باید به گوگل گزارش شود. \n\n • تصویر در تصویر فقط برای اندروید 8 و بالاتر در دسترس است. \n\n • برای فعال کردن تصویر در تصویر، تنظیمات برنامه یوتیوب را باز کنید > عمومی > فعال کردن تصویر در تصویر \n\n> برای فعال کردن تصویر در تصویر در رابط کاربری شیائومی ، باید مطمئن شوید که این تنظیمات روشن است: \nحفاظت از حریم خصوصی-> مدیریت-> دسترسی های ویژه برنامه-> تصویر در تصویر"
 		},
 		{
-			"title": "App download issues",
+			"title": "مشکل دانلود برنامه",
 			"fields": [
 				{
-					"title": "If you are having trouble downloading vanced files using vancedapp.com or can't open our site due to server/region restrictions",
+					"title": "اگر در دانلود فایل های پیشرفته با استفاده از vancedapp.com مشکل دارید یا به دلیل محدودیت های سرور/منطقه نمی توانید سایت ما را باز کنید",
 					"content": "You can get our new manager right [here](https://github.com/YTVanced/VancedManager/releases/)\n\nNOTE: Here you have to choose \"manager.apk\" in latest release > assets. Don't choose zips or anything else as they are not apks."
 				},
 				{
