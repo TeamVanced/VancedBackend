@@ -1,104 +1,104 @@
 {
 	"data": [
 		{
-			"title": "Basic troubleshooting",
-			"description": "A) Wipe data and cache of \n\n(I) Vanced/Vanced Music and microG for Non-Root Variant\n\n (II) Vanced/Vanced Music and Google Play Services for Root Variant\n\nB) Reinstall YouTube Vanced\n\n> IMPORTANT NOTICE: Reboot between processes"
+			"title": "عیب یابی پایه",
+			"description": "۱) پاک کردن اطلاعات یا حافظه کش\n\n۲) استفاده از یوتیوب و یوتیوب موزیک اصلاح شده از نوع بدون روت\n\n۳) استفاده از یوتیوب و یوتیوب موزیک اصلاح شده از نوع روت و سرویس گوگل پلی\n\n۴) نصب مجدد یوتیوب اصلاح شده\n\n>توجه مهم: بین هر کدام فرآیندهای بالا ، گوشی راه اندازی مجدد شود"
 		},
 		{
-			"title": "Login issues",
-			"description": "Below are some of the common errors with their screenshots so that you can get to know which solution you have to follow.",
+			"title": "مشکل در ورود",
+			"description": "در زیر برخی از خطاهای رایج در اسکرین شات ها آورده شده است تا بتوانید بدانید کدام راه حل را باید دنبال کنید.",
 			"fields": [
 				{
-					"title": "If you're getting an error saying \"please check your internet connection\"",
-					"content": "Please follow this video guide: https://youtu.be/S5sTXRTrD5Y. Try clearing microG's app data too."
+					"title": "اگر خطای «لطفاً اتصال اینترنت خود را بررسی کنید» دریافت کردید",
+					"content": "لطفاً این راهنمای ویدیویی را مشاهده کنید:\nhttps://youtu.be/S5sTXRTrD5Y و تلاش کنید که اطلاعات یوتیوب و microG را پاک کنید."
 				},
 				{
-					"title": "If you are facing issues relating to login saying, \"You're offline, explore downloads\"",
-					"content": "1. Clear DATA of both Vanced microG and Google Play services\n2. UNINSTALL both \"Vanced microG\" and Vanced.\n\n3. Reboot if you want.\n\n4. Reinstall both APKs[microG and Vanced) but make sure you install microG before you install Vanced. Install via Vanced Manager or sai using files provided in #installation note in group\n\n5. Now login.\n\nNOTE: If you're still having issues with Vanced giving connection errors (even after installing microG first), receiving notifications, etc, make sure you disable battery optimization for the Vanced and microG app. \n\nInstructions to do so vary on your device manufacturer. You can follow guides like https://dontkillmyapp.com or search it up."
+					"title": "اگر در ارتباط با ورود به سیستم با مشکلاتی روبرو هستید که می‌گویید: \"شما آفلاین هستید، دانلودها را کاوش کنید\"",
+					"content": "1. داده های هر دو سرویس microG و گوگل پلی را پاک کنید\n2. هم « microG» و هم یوتیوب اصلاح شده را حذف نصب کنید.\n\n3. در هر صورت راه اندازی مجدد کنید.\n\n4. هر دو برنامه [microG و یوتیوب) را دوباره نصب کنید، اما مطمئن شوید که microG را قبل از نصب یوتیوب اصلاح شده نصب کرده اید. از طریق مدیریت کننده یوتیوب یا با استفاده از فایل های ارائه شده در یادداشت های نصب ، به صورت گروهی نصب کنید\n\n5. حالا لاگین کنید\n\nتوجه: اگر همچنان با خطاهای اتصال یوتیوب (حتی پس از نصب microG در ابتدا)، دریافت اعلان‌ها و غیره مشکل دارید، مطمئن شوید که بهینه‌سازی باتری را برای یوتیوب را غیرفعال کرده‌اید.\n\nدستورالعمل های انجام این کار در سازنده دستگاه شما متفاوت است. شما می توانید از راهنمایی مانند https://dontkillmyapp.com استفاده کنید."
 				},
 				{
-					"title": "If you are getting an error that says \"Trouble connecting to Google servers\", please do either of the following to fix the issue.",
-					"content": "1. Uninstall vanced microG and reinstall it again.\n\n2. Use the Huawei spoof button within microG sign-in page."
+					"title": "اگر خطایی دریافت می‌کنید که می‌گوید «مشکل در اتصال به سرورهای گوگل است»، لطفاً یکی از موارد زیر را برای رفع مشکل انجام دهید.",
+					"content": "1. microG را حذف کنید و دوباره آن را نصب کنید.\n\n2. از دکمه جعلی هواوی در صفحه ورود به سیستم microG استفاده کنید."
 				},
 				{
-					"title": "If Vanced logs out of your Google account",
-					"content": "It happens because your device OS' heavy battery optimization killing microG services/activities which are responsible for logins.\n\nTo fix this, disable battery optimization for microG using https://dontkillmyapp.com OR searching it up"
+					"title": "اگر یوتیوب از حساب گوگل شما خارج شود",
+					"content": "این به این دلیل است که بهینه سازی باتری سنگین سیستم عامل دستگاه شما ، خدمات/فعالیت های microG را که مسئول ورود به سیستم هستند، از بین می برد\n\nبرای حل این مشکل بهینه‌سازی باتری را برایmicroG غیرفعال کنید https://dontkillmyapp.com یا روش های دیگر"
 				},
 				{
-					"title": "For users who are using Gsuite account on Non-Root version of vanced and facing connection issues frequently (errors like \"You are offline\", \"Please check your internet\", etc)",
-					"content": "1. Log into your Gsuite account [admin console](https://admin.google.com/)\n\n2. Search for device management\n\n3. Go to setup and disable \"Mobile Management\"\n\n4. That's it and it will get fixed."
+					"title": "برای کاربرانی که از حساب گوگل سویت در نسخه بدون روت استفاده می‌کنند و اغلب با مشکلات اتصال روبرو هستند (خطاهایی مانند \"شما آفلاین هستید\"، \"لطفاً اینترنت خود را بررسی کنید\" و غیره)",
+					"content": "1. وارد حساب گوگل سویت خود [کنسول مدیریت] (https://admin.google.com/) شوید\n\n2. مدیریت دستگاه را جستجو کنید\n\n3. به تنظیمات بروید و «مدیریت تلفن همراه» را غیرفعال کنید\n\n4. همین است، الان مشکل درست می شود."
 				},
 				{
-					"title": "Huawei workaround 1",
-					"content": "Use the Huawei spoof button when signing in with latest available vanced microG using vanced manager."
+					"title": "راه حل هواوی 1",
+					"content": "هنگام ورود به سیستم با جدیدترین نسخه microG موجود ، با استفاده از مدیر پیشرفته، از دکمه جعل هوآوی استفاده کنید."
 				},
 				{
-					"title": "Huawei workaround 2",
-					"content": "For those who updated microG to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microG.\n\n2. Download \"Vanced microG 0.2.12 version\" from [vanced microG GitHub page](https://github.com/YTVanced/VancedMicroG/releases/download/v0.2.12/microg.apk)\n\n3. You should be able to login now."
+					"title": "راه حل هواوی 2",
+					"content": "برای کسانی که microG را به آخرین نسخه بروز کرده اند اما اکنون با مشکلات ورود مواجه هستند\n\n1. microG فعلی نصب شده را حذف نصب کنید.. \"نسخه microG 0.2.12\" را از [صفحه microG گیت هاپ] (https://github.com/YTVanced/VancedMicroG/releases/download/v0.2.12/microg.apk) دانلود کنید\n\n3. اکنون باید بتوانید وارد شوید."
 				},
 				{
-					"title": "Huawei workaround 3",
-					"content": "1. Uninstall both vanced and microG if you already installed. Then reinstall only microG(latest available)\n\n2. Then open microG app settings\n\n3. Turn off both \"Google Cloud Messaging\" and \"Google device registration\".\n\n4. Add your account through microG itself.\n\n5. Then install Vanced."
+					"title": "راه حل هواوی 3",
+					"content": "1. اگر قبلاً نصب کرده اید، هم یوتیوب و هم microG را حذف نصب کنید. سپس فقط microG را دوباره نصب کنید (آخرین نسخه موجود)\n\n2. سپس تنظیمات برنامه microG را باز کنید\n\n3. « پیام های ابری گوگل» و « ریجستری دستگاه با گوگل » را خاموش کنید\n\n4. حساب خود را از طریق خود microG اضافه کنید.\n\n5. سپس یوتیوب اصلاح شده را نصب کنید."
 				},
 				{
-					"title": "Huawei workaround 4",
-					"content": "1. First, install the old Vanced microG version{particularly microg_YouTube_Vanced_0.2.4-105_16052019_2.apk using [this link](https://www.mediafire.com/file/4mw2q6ajq85g2io/microg_YouTube_Vanced_0.2.4-105_16052019_2.apk/file)}. Make sure to uninstall the current version to install the above version and save the latest APK file as you will be needing it later.\n\n2. Then open YouTube Vanced and try logging in again until it shows the error message. Try to reload it by tapping the error message. \n\n3. Now install the newer microG version again and restart vanced. It should be logged in again and everything should work again.\n\nNOTE: Now make sure u disable battery optimization for both microG and vanced using https://dontkillmyapp.com otherwise your device software might kill microG and you might have to repeat all above steps again to fix login."
+					"title": "راه حل هواوی 4",
+					"content": "1. ابتدا نسخه قدیمی microG{به خصوص microg_YouTube_Vanced_0.2.4-105_16052019_2.apk را با استفاده از [این پیوند] نصب کنید. (https://www.mediafire.com/file/4mw2q6ajq85g2io/microg_YouTube_Vanced_0.2.4-105_16052019_2.apk/file)}.\nمطمئن شوید که نسخه فعلی را حذف نصب کنید تا نسخه فوق را نصب کنید و آخرین فایل نصبی را ذخیره کنید زیرا بعداً به آن نیاز خواهید داشت.\n\n2. سپس یوتیوب اصلاح شده را باز کنید و دوباره وارد سیستم شوید تا پیام خطا را نشان دهد. سعی کنید با ضربه زدن روی پیام خطا آن را دوباره بارگیری کنید.\n\n3. حالا نسخه جدیدتر microG را دوباره نصب کنید و یوتیوب را ریستارت کنید\n\nتوجه: اکنون مطمئن شوید که با استفاده از https://dontkillmyapp.com بهینه سازی باتری را هم برای microG و هم برای یوتیوب غیرفعال کرده اید، در غیر این صورت سیستم دستگاه شما ممکن است microG را از بین ببرد و ممکن است مجبور شوید همه موارد بالا را تکرار کنید."
 				}
 			]
 		},
 		{
-			"title": "Vanced Manager",
+			"title": "مدیریت یوتیوب",
 			"fields": [
 				{
-					"title": "For Vanced manager stuck on logo/crash issue",
-					"content": "There are 2 solutions available. \n\n 1. Clear app data of manager > Turn internet off > Open manager app > Turn the internet on. \n\n2. For users with RTL languages set on the device, please update your vanced manager to 2.6.0 from our official vanced website."
+					"title": "برای رفع مشکل مدیریت کننده یوتیوب که روی لگو ایستاده و پاسخ نمی‌دهد",
+					"content": "2 راه حل موجود است.\n\n 1. داده های برنامه مدیریت یوتیوب را پاک کنید > اینترنت را خاموش کنید > برنامه مدیر را باز کنید > اینترنت را روشن کنید.\n\n2. برای کاربرانی که زبان های RTL روی دستگاه تنظیم شده اند، لطفاً زبان خود را بروز کنید."
 				},
 				{
-					"title": "INSTALL_FAILED_INVALID_APK: No packages staged or vanced manager gets stuck at \"Please be patient\" screen, do this",
-					"content": "Install the stock YouTube app from the play store then update vanced over it using vanced manager. Make sure you have the latest release of vanced manager from our [official website](https://vancedapp.com) and 21.4+ of magisk"
+					"title": "نصب شکست خورد برنامه بی اعتبار: هیچ فایل نصبی مرحله‌بندی نشده یا مدیریت کننده یوتیوب در صفحه «لطفا صبور باشید» گیر می‌کند، انجام هیچ فایل نصبی و مرحله‌ای در مدیریت کننده یوتیوب کار نمیکند و می‌نویسد «لطفا صبور باشید»، این کار را انجام دهید",
+					"content": "برنامه اصلی یوتیوب را از فروشگاه گوگل پلی نصب کنید و سپس با استفاده از مدیریت کننده یوتیوب آن بروزرسانی کنید. مطمئن شوید که آخرین نسخه مدیریت کننده یوتیوب را از [وب‌سایت رسمی] ما دارید (https://vancedapp) و همچنین نسخه 21.4 و یا بالاتر از مجیسک را دارید"
 				},
 				{
-					"title": "If you face \"Error downloading microG/Vanced\" or installation got stuck while installing microG/vanced app",
-					"content": "Clear manager app data then continue installing and DON'T SWITCH TO OTHER APPS UNTIL IT COMPLETES THE PROCESS."
+					"title": "اگر هنگام نصب microG/یوتیوب با «خطا در دانلود microG/یوتیوب» مواجه شدید یا نصب گیر کرده است",
+					"content": "داده‌های برنامه مدیر یوتیوب را پاک کنید، سپس به نصب ادامه دهید و تا زمانی که فرآیند کامل نشده است، به برنامه‌های دیگر نروید."
 				},
 				{
-					"title": "If you face errors like \"Operation failed because apk files are invalid/corrupt\"",
-					"content": "1. Head to manager settings and clear downloaded files. \n\n2. Then clear manager app data then continue installing vanced."
+					"title": "اگر با خطاهایی مانند \"عملیات نصب شکست خورد زیرا فایل های نصبی نامعتبر/خراب هستند\" مواجه شدید",
+					"content": "1. به تنظیمات مدیریت کننده یوتیوب بروید و فایل های دانلود شده را پاک کنید.\n\n2. سپس داده های برنامه مدیریت کننده یوتیوب را پاک کنید سپس به نصب یوتیوب اصلاح شده ادامه دهید."
 				}
 			]
 		},
 		{
-			"title": "Package conflict error after updating to Android 11 (INSTALL_FAILED_UPDATE_INCOMPATIBLE)",
-			"description": "This happens to users with OneUI and Oxygen OS when they update their system from android 10 to android 11, some custom ROMs faced it too,\n\nHence we have 3 solutions available for you",
+			"title": "خطای تداخل بسته پس از به‌روزرسانی به اندروید 11\n(نصب شکست خورد، بروزرسانی ناسازگار)",
+			"description": "این اتفاق برای کاربرانی با رابط کاربری سامسونگ و اکسیژن ٱس کار می‌کنند می افتد که سیستم خود را از اندروید 10 به اندروید 11 بروز کرده اند، برخی از کاستوم رام ها نیز با آن مواجه هستند.\n\nاز این رو ما 3 راه حل برای شما در دسترس داریم",
 			"fields": [
 				{
-					"title": "If you are not rooted, use ADB",
-					"content": "1. Install Android Debug Bridge using this [Guide](https://www.xda-developers.com/install-adb-windows-macos-linux). \n\n2. Unlock your phone. \n\n3. Enable Developer Mode (tap 10 times on Build number in Settings - About phone -Software information). \n\n4. Enable USB debugging in Settings - Developer options. \n\n5. Connect your phone to PC. \n\n6. Open Command Prompt (CMD) and change directory: \"cd C:/Windows/adb/\" and press Enter. \n\n7. As your phone is connected and CMD is open, in CMD run command \"adb devices\". There will be a prompt on your phone, something like \"Would you like to connect your phone to PC?\" Press Yes. \n\n8. Run cmd command \"adb uninstall com.vanced.android.youtube\". \n\n9. After this you may install Vanced Manager and install the latest version of YouTube Vanced"
+					"title": "اگر دستگاه شما روت نشده ، از ADB استفاده کنید",
+					"content": "1. اشکال زدایی اندروید را با استفاده از این [راهنما] نصب کنید\n(https://www.xda-developers.com/install-adb-windows-macos-linux). \n\n2. گوشی خود را آنلاک کنید\n\n3. حالت توسعه دهندگان را فعال کنید (10 بار روی شماره ساخت در تنظیمات - درباره تلفن - اطلاعات نرم افزار ضربه بزنید). \n\n4.اشکال زدایی یو اس بی را در تنظیمات توسعه دهندگان فعال کنید\n\n5. گوشی خود را به کامپیوتر وصل کنید\n\n6. عبارت cmd را در کامپیوتر سرچ کنید و برنامه اش را باز کنید ،سپس این عبارت \"cd C:/Windows/adb/\" را بدون آن دو خط اول و آخرش بنویسید، سپس کلید اینتر را بزنید\n\n7. بعدش عبارت \"adb devices\" را بنویسید تا دستگاه شما تشخیص داده شود، بعد آن یک پیام آنی روی گوشی شما ارسال میشود که نوشته \"آیا می خواهید به این دستگاه اجازه اشکال زدایی را بدهید؟\" یا همچین عبارتی شما باید گزینه بله را بزنید\n\n8. بعد از آن دستور \"adb uninstall com.vanced.android.youtube\" تایپ کنید و اینتر را بزنید\n\n9. بعد از اینکار برنامه یوتیوب از گوشی شما حذف میشود و شما میتوانید مدیریت کننده یوتیوب و با یوتیوب اصلاح شده را از دوباره نصب کنید"
 				},
 				{
-					"title": "If you are rooted,",
-					"content": "1. Use root explorer and navigate to root storage. \n\n2. Then find this folder when you are installing YT Vanced  \"data/app/com.vanced.android.youtube-....\" or when you are installing YT Music \"com.vanced.android.apps.youtube.music-....\"  \n\n3. If you found such folders, just delete them then continue installing YT Vanced or YT music via Vanced Manager."
+					"title": "اگر گوشی شما روت است",
+					"content": "1. از برنامه روت اکسپلورر استفاده کنید و به محل  روت بروید. \n\n 2. سپس این پوشه را هنگام نصب یوتیوب اصلاح شده  \"data/app/com.vanced.android.youtube-...\" یا زمانی که یوتیوب موزیک   \"com.vanced.android.apps.youtube.music- را نصب می کنید پیدا کنید. \n\n3. اگر چنین پوشه هایی را پیدا کردید، فقط آنها را حذف کنید و سپس به نصب  یوتیوب اصلاح شده و یا یوتیوب موزیک  از طریق  مدیریت کننده یوتیوب اقدام کنید."
 				},
 				{
-					"title": "This solution is for YouTube Music Vanced only, not for YouTube Vanced",
-					"content": "Try manually updating YouTube Music Vanced through the APK file using [this link](https://mega.nz/folder/QRcy1byC#44ZDhjXm9iLr-PlCIEYtqg)."
+					"title": "این راه حل فقط برای یوتیوب موزیک است، نه برای یوتیوب اصلاح شده",
+					"content": "سعی کنید یوتیوب موزیک را به صورت دستی از طریق فایل نصبی آم با استفاده از [این پیوند] بروزرسانی کنید.\n(https://mega.nz/folder/QRcy1byC#44ZDhjXm9iLr-PlCIEYtqg)."
 				},
 				{
-					"title": "If both of the above methods fail",
-					"content": "Apparently, doing a factory reset can fix this error. Do this at last resort."
+					"title": "اگر هر دو روش فوق با شکست مواجه شوند",
+					"content": "ظاهراً با انجام ریست فکتوری (تنظیمات کارخانه) می‌توان این خطا را برطرف کرد. در نهایت این کار را انجام دهید."
 				}
 			]
 		},
 		{
-			"title": "Notification fix",
-			"description": "For fixing notification on both non-root or root varaints, see below",
+			"title": "مشکل اعلانات",
+			"description": "برای رفع اعلان در هر دو نوع کاربران بدون روت یا روت، به راه حل های زیر مراجعه کنید",
 			"fields": [
 				{
-					"title": "For Non-Root variant",
-					"content": "1. Install Vanced microG first then YouTube Vanced.\n\n2. Login with your Google account\n\n3. Disable battery optimization for Vanced microG(the guide dontkillmyapp.com is suggested).\n\n4. Open \"Vanced microG\" additional settings either using vanced manager or by going into application info.\n\n5. Then continue on with this [guide](https://youtu.be/Q-5YFmFWVok)."
+					"title": "برای کاربران بدون روت",
+					"content": "1. ابتدا microG و سپس یوتیوب اصلاح شده را نصب کنید. \n\n2. با حساب گوگل خود وارد شوید \n\n3. بهینه سازی باتری برای microG را غیرفعال کنید (راهنمای dontkillmyapp.com پیشنهاد می شود). \n\n4. تنظیمات اضافی \"Vanced microG\" را با استفاده از مدیریت یوتیوب یا با رفتن به اطلاعات برنامه باز کنید. \n\n5. سپس با این [راهنما] (https://youtu.be/Q-5YFmFWVok) ادامه دهید."
 				},
 				{
-					"title": "For Root variant",
+					"title": "برای کاربران روت",
 					"content": "Make sure \"Scheduled Digest\" is off in youtube settings and your notifications sounds are correct and set.\n\nYou can try using \"notification manager\" app which keeps track of all your notification at one place so in case if you are dismissing your notifications, you can access the same again from that app."
 				}
 			]
