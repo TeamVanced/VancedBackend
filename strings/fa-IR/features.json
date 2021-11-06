@@ -6,27 +6,27 @@
     },
     {
       "title": "YouTube Music Vanced",
-      "description": "YouTube Music Vanced has the same aim as YouTube Vanced, but this app focuses on YouTube Music. This is relatively less feature-rich compared to Vanced but still features many things you come to expect like adblocking and background playback, all inside YouTube Music Vanced!"
+      "description": "یوتیوب موزیک اصلاح شده همان هدف یوتیوب اصلاح شده را دارد، اما این برنامه روی یوتیوب موزیک تمرکز دارد. این نسبتاً در مقایسه با یوتیوب از ویژگی‌های غنی‌تری برخوردار است، اما همچنان موارد زیادی را دارد که شما انتظارش را دارید!"
     },
     {
-      "title": "YouTube Vanced main features",
-      "description": "- OLED friendly black theme and dark theme _(aka dark gray)_ besides white theme.\n- Blocks all ads\n- Allows you to play videos in the background or in the Picture in Picture (PiP) mode (only on Android 8+)\n- Swipe controls allow you to control brightness and volume with up-and-down gestures (with configurable padding).\n- Auto-repeat feature allowing you to loop videos on repeat.\n- New comment/tablet mini-player layout can be toggled to the tablet versions which are very similar to the old version (however, it's a bit buggy)."
+      "title": "ویژگی های اصلی یوتیوب اصلاح شده",
+      "description": "تم مشکی مناسب صفحه های اولد و تم تیره _(معروف به خاکستری تیره)_ علاوه بر تم سفید.\n- تمام تبلیغات را مسدود می کند\n- به شما امکان می دهد فیلم ها را در پس زمینه یا در حالت تصویر در تصویر (فقط در اندروید ۸ به بالا) پخش کنید. \n- کنترل‌های کشیدن به شما این امکان را می‌دهند که روشنایی و صدا را با حرکات بالا و پایین (با پد قابل تنظیم) کنترل کنید.\n- قابلیت تکرار خودکار که به شما امکان می دهد ویدیوها را در حالت تکرار نگه دارید.\n- تنظیم کیفیت پخش ویدیو ها می توانید در وضوح یک تبلت ویدیو ها را تماشا کنید."
     },
     {
-      "title": "Customization",
-      "description": "- Allows you to override Codec options such as forcing H264 for old devices or VP9, this also allows you to force HDR playback or turn off 60fps if you prefer a cinematic experience. (Custom device configs for these features can be found on our [Discord server](https://discord.gg/Vanced) or XDA)\n- Force the default video resolution as high or low as you want and even override your screen resolution for that sharp 4k playback on any device. It also allows you to change default playback speed to anywhere between 0.25x to 2x (assuming your device is powerful enough)\n- Allows you to toggle home ads, most UI ads, Merchandise ads, Community posts, Movie upselling, compact banner info (such as the COVID-19 info), remove comments entirely, compact movie, movie shelf removal and many more!"
+      "title": "شخصی سازی",
+      "description": "- به شما امکان می دهد گزینه های کدک مانند اجبار کردن H264 برای دستگاه های قدیمی یا VP9 را نادیده بگیرید، همچنین به شما امکان می دهد اگر یک تجربه سینمایی را ترجیح می دهید، پخش HDR را مجبور کنید یا 60 فریم در ثانیه را خاموش کنید. (پیکربندی‌های دستگاه سفارشی برای این ویژگی‌ها را می‌توانید در [سرور دیسکورد] (https://discord.gg/Vanced) یا XDA ما پیدا کنید.\n\n- وضوح تصویر پیش‌فرض را تا جایی که می‌خواهید بالا یا پایین کنید و حتی رزولوشن صفحه‌تان را لغو کنید. پخش واضح 4k در هر دستگاهی. همچنین به شما امکان می دهد سرعت پخش پیش فرض را بین 0.25x تا 2x تغییر دهید (با فرض اینکه دستگاه شما به اندازه کافی قدرتمند است) - به شما امکان می دهد تبلیغات خانگی، اکثر تبلیغات رابط کاربری، تبلیغات کالاها، پست های انجمن، فروش فیلم، اطلاعات بنر و غیره را غیرفعال کنید (مانند اطلاعات -کرونا)، نظرات را به طور کامل حذف کنید، فیلم فشرده، حذف قفسه فیلم و بسیاری موارد دیگر!"
     },
     {
       "title": "SponsorBlock",
-      "description": "- Features the ability to skip sponsor segments (where a [YouTuber](https://en.wikipedia.org/wiki/YouTuber) advertises a service or product in the middle of a video)\n- It also supports skipping other categories, such as intros, outros and self-promotion.\n- Uses the API [found here](https://sponsor.ajay.app). You can find more information on how it works\n- It also allows you to submit your own segments to the API and contribute to the wider community\n- Complete control over whether to automatically skip a segment category or show a button for skipping, or simply just not skipping it at all.\n- Highlights the segment in the specific colour based on its category in the playback timeline."
+      "description": "قابلیت رد شدن از بخش‌های حامی را دارد (جایی که یک [YouTuber](https://en.wikipedia.org/wiki/YouTuber) یک سرویس یا محصول را در وسط یک ویدیو تبلیغ می‌کند)\n - همچنین رد شدن از دسته‌های دیگر، مانند، خود تبلیغی و غیره... [در اینجا یافت می شود] (https://sponsor.ajay.app) یوتیوب از APIاستفاده می کند. می‌توانید اطلاعات بیشتری در مورد نحوه عملکرد آن بیابید\n - همچنین به شما امکان می‌دهد بخش‌های خود را به API ارسال کنید و در جامعه گسترده‌تر مشارکت کنید\n - کنترل کامل بر روی رد کردن خودکار دسته‌بندی یا نمایش دکمه‌ای برای پرش، یا نه اصلا رد شدن از آن\n - رنگ را در بخشی خاص بر اساس دسته بندی آن در جدول زمانی پخش برجسته می کند."
     },
     {
-      "title": "Platforms",
-      "description": "Apps are available only for Android devices and there are no plans to support any other platforms at the moment"
+      "title": "پلتفرم ها",
+      "description": "برنامه‌ها فقط برای دستگاه‌های اندرویدی در دسترس هستند و در حال حاضر برنامه‌ ما برای پشتیبانی از هیچ پلتفرم دیگری وجود ندارد"
     },
     {
-      "title": "Difference between Root and Non-Root",
-      "description": "#### Root:\nThe root variant of Vanced seamlessly replaces the official YouTube app. As a result, you can directly open YouTube links or call them using Google Assistant through the modded Vanced app.\n\n#### Non-Root:\n- If you have a device that is difficult to root, or you don’t want to root your daily device on first hand, you should opt for the non-root variant.\n- Since the package name of the non-root variant is different from the stock YouTube app, they can co-exist. Note that you need to install an additional companion app (Vanced microG) to be able to log in with your YouTube/Google account.\n- Moreover, you have to manually set Vanced as the default app for opening YouTube links.\n- However, the non-root variant is much simpler to install and use, so we recommend you stick with the non-root variant unless you really need to replace the stock YouTube app on your phone."
+      "title": "تفاوت بین کاربران روت و بدون روت",
+      "description": "#### روت:\nنوع اصلی یوتیوب اصلاح شده به طور یکپارچه جایگزین برنامه اصلی یوتیوب می شود. در نتیجه، می‌توانید مستقیماً پیوندهای یوتیوب را باز کنید یا با استفاده از دستیار گوگل از طریق برنامه اصلاح‌شده یوتیوب با آنها تماس بگیرید.\n\n#### بدون روت:\n - اگر دستگاهی دارید که روت کردن آن دشوار است یا نمی‌خواهید دستگاه روزانه خود را از ابتدا روت کنید، باید نوع غیر روت را انتخاب کنید. \n- از آنجایی که نام برنامه در کاربران بدون روت با برنامه اصلی یوتیوب متفاوت است، آنها می توانند با هم وجود داشته باشند. توجه داشته باشید که باید یک برنامه همراه اضافی ( microG) نصب کنید تا بتوانید با حساب یوتیوب/گوگل خود وارد شوید. \n - علاوه بر این، باید به صورت دستی یوتیوب اصلاح شده را به عنوان برنامه پیش فرض برای باز کردن پیوندهای یوتیوب تنظیم کنید. \n- با این حال، نصب و استفاده از نوع غیر روت بسیار ساده‌تر است، بنابراین توصیه می‌کنیم از نوع غیر روت استفاده کنید، مگر اینکه واقعاً نیاز به جایگزینی برنامه اصلی یوتیوب در تلفن خود داشته باشید."
     }
   ]
 }
