@@ -187,109 +187,109 @@
 			"fields": [
 				{
 					"title": "اگر در دانلود فایل های پیشرفته با استفاده از vancedapp.com مشکل دارید یا به دلیل محدودیت های سرور/منطقه نمی توانید سایت ما را باز کنید",
-					"content": "You can get our new manager right [here](https://github.com/YTVanced/VancedManager/releases/)\n\nNOTE: Here you have to choose \"manager.apk\" in latest release > assets. Don't choose zips or anything else as they are not apks."
+					"content": "شما می توانید برنامه مدیریت یوتیوب جدید ما را درست در [اینجا] دریافت کنید\n(https://github.com/YTVanced/VancedManager/releases/)\n\nتوجه: در اینجا باید \"manager.apk\" را در آخرین نسخه > دارایی ها انتخاب کنید. فایل زیپ یا هر چیز دیگری را انتخاب نکنید زیرا آنها قابل نصب نیستند."
 				},
 				{
-					"title": "If you are having trouble downloading and installing vanced via manager, you can still use SAI/manual method to install vanced.",
-					"content": "• Use the MediaFire mirror to download the required files.\n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled\n\n• Use the AFH Mirror to download the required files.\n>https://androidfilehost.com/?w=files&flid=170196\n\nNOTES:\n\nA) Since we have all separate apk files on Mediafire and android file host(AFH) now, you have to zip all \"base, architecture and language\" apk's & install it via SAI. All 3 apk are must.\n\nB) Manual installation can only be done either via root since it requires accessing root storage."
+					"title": "اگر در دانلود و نصب یوتیوب اصلاح شده از طریق مدیریا یوتیوب مشکل دارید، همچنان می توانید از روش برنامه های تقسیم شده/نصب دستی برای نصب یوتیوب استفاده کنید.",
+					"content": "• از طریق فضای ابری MediaFire برای دانلود فایل های مورد نیاز استفاده کنید. \n>https://www.mediafire.com/folder/773e97cz2ezx1/AddFree_Youtube_BackgroundPlay_Enabled \n\n• از طریق فضای ابریAFH برای دانلود فایل های مورد نیاز استفاده کنید. \n >https://androidfilehost.com/?w=files&flid=170196\n\n نکات: \n\nالف) از آنجایی که اکنون همه فایل‌های نصبی مجزا در Mediafire و میزبان فایل اندروید (AFH) داریم، باید همه فایل های نصبی \"پایه، معماری و زبان ها\" را زیپ کنید. و آن را از طریق SAI نصب کنید. همه 3 قسمت باید نصب شوند. \n\n ب) نصب دستی فقط از طریق روت انجام می شود زیرا نیاز به دسترسی محل روت دارد."
 				}
 			]
 		},
 		{
-			"title": "Detach from market",
-			"description": "You can use any of the workarounds listed below to remove the YouTube app from the market.",
+			"title": "جدا شدن از بازار",
+			"description": "می توانید از هر یک از راه حل های ذکر شده در زیر برای حذف برنامه یوتیوب از بازار استفاده کنید.",
 			"fields": [
 				{
-					"title": "Workaround 1(Recommended)",
-					"content": "\n\nUsing [TeMiFi app](https://forum.xda-developers.com/t/app-tool-temefi-comprehensive-system-administration.3806260), Make sure the YouTube Vanced is a user app as this method won't work if Vanced is installed as a system app.\n\n1. Open TeMiFi app and Give root permissions. \n\n2. Tap on Application info and tap on Detach package from play store option. \n\n3. Tap on DETACH: Select package then protection level v5 \n\n4. Select YouTube with package name \"com.google.android.youtube\" \n\n5. Tap on 3. Invalidate the data, block any attempt.... \n\n6. Yes, I accept full responsibility \n\n7. Proft!"
+					"title": "راه حل ۱ (پیشنهادی)",
+					"content": "\n\nبا استفاده از [برنامه TeMiFi]\n(https://forum.xda-developers.com/t/app-tool-temefi-comprehensive-system-administration.3806260)،\n مطمئن شوید که یوتیوب اصلاح شده یک برنامه کاربر است، زیرا این روش این کار را نمی کند. اگر یوتیوب اصلاح شده به عنوان یک برنامه سیستمی نصب شده باشد، کار می کند. \n\n 1. برنامه TeMiFi را باز کنید و مجوزهای روت را بدهید. \n\n 2. روی اطلاعات برنامه ضربه بزنید و روی گزینه( بسته را از فروشگاه گوگل پلی جدا کنید) ضربه بزنید. \n\n 3. روی (جدا) ضربه بزنید: بسته را انتخاب کنید سپس سطح حفاظت نسخه ۵ را انتخاب کنید.\n\n 4. یوتیوب را با نام بسته \"com.google.android.youtube\" انتخاب کنید.\n\n 5. روی (3)ضربه بزنید. داده ها را باطل کنید، هرگونه تلاشی را مسدود کنید... \n\n6.قبول مسئولیت به صورت کامل \n\n7. تامام!"
 				},
 				{
-					"title": "Workaround 2",
-					"content": "\n\nUsing Titanium backup app(needs pro version)\n\n1. Open titanium backup \n\n2. Search for youtube and Click on it \n\n3. Swipe left to access special features \n\n4. Click on Attach to market \n\n5. Then again go to special features \n\n6. Click on \"detach from market\" \n\n7. Done"
+					"title": "راه‌حل‌2",
+					"content": "\n\nاستفاده از برنامه پشتیبان گیری تیتانیوم (نیاز به نسخه حرفه ای)\n\n1. نسخه پشتیبان تیتانیوم را باز کنید\n\n2. یوتیوب را جستجو کنید و روی آن کلیک کنید\n\n3. برای دسترسی به ویژگی های خاص، انگشت خود را به چپ بکشید\n\n4. بر روی) به بازار وصل کنید) کلیک کنید\n \n5. سپس دوباره به ویژگی های خاص بروید\n\n6. بر روی \"جدا شدن از بازار\" کلیک کنید\n\n7. تامام"
 				},
 				{
-					"title": "Workaround 3",
-					"content": "NOTE: Auto-Updates must be disabled in play store before doing this.\n\n1. Create \"Detach.txt\" in the following location /sdcard/ (equivalent to /storage/emulated/0/) write \"YouTube\" in that text file without quotes. You can also download the Detach.txt from Magisk module name Detach and remove the # in front of YouTube.\n\n2. Flash Detach module in Magisk manager.\n\n3. Flash Daily Job Scheduler (djs) in Magisk manager.\n\n4. Reboot\n\n5. Open Terminal and type \"su -c detach -t\" and set it to run once every hour.\n\n6. Done!\n\nPlay Store updates its database file on a random rhythm, sometimes several times a day. Once in a while (like once every two weeks), Play Store will show an update for Youtube, but it will go away when the script has run again by djs."
+					"title": "راه‌حل‌3",
+					"content": "توجه: قبل از انجام این کار، بروز رسانی خودکار باید در فروشگاه گوگل پلی غیرفعال شود. \n\n1. \"Detach.txt\" را در مکان زیر ایجاد کنید /کارت حافظه/ (معادل /محل ذخیره سازی /تقلید شده است/0/) در آن فایل متنی \"YouTube\" را بدون نقل قول بنویسید. همچنین می‌توانید Detach.txt را از ماژول مجیسک با نام Detach دانلود کنید و # را در مقابل YouTube حذف کنید. \n\n 2. ماژول Flash Detach را در مجیسک منیجر فلش کنید\n\n3.ماژول Daily Job Scheduler را در مجیسک منیجر فلش کنید\n\n4.راه اندازی مجدد\n\n5.برنامه ترمینال را باز کنید و بنویسید \"su -c detach -t\" و تنظیم کنید تا هر ساعت یک بار اجرا شود.\n\n6. تامام!\n\n گوگل پلی فایل پایگاه داده خود را با ریتمی تصادفی، گاهی اوقات چندین بار در روز به روز می کند. هر چند وقت یکبار (مثل هر دو هفته یک بار)، فروشگاه گوگل پلی یک بروزرسانی برای یوتیوب نشان می‌دهد، اما وقتی اسکریپت دوباره اجرا شود، از بین می‌رود.\n\n"
 				},
 				{
-					"title": "Workaround 4",
-					"content": "Switch to Non-Root variant of Vanced. This workaround should only be used as a last resort if all of the other options fail!"
+					"title": "راه‌حل‌4",
+					"content": "به نوع یوتیوب بدون روت بروید. این راه حل تنها در صورتی باید به عنوان آخرین راه حل مورد استفاده قرار گیرد که همه گزینه های دیگر شکست بخورند!"
 				}
 			]
 		},
 		{
-			"title": "Fix For SAI/Vanced Manager errors",
-			"description": "Below are some known reasons you might face when you don't follow instructions, so read the appropriate cause with its solution and fix your problem.",
+			"title": "حل مشکل نصب یوتیوب به صورت اسپلیت",
+			"description": "در زیر دلایل شناخته شده ای وجود دارد که ممکن است در صورت رعایت نکردن دستورالعمل ها با آن مواجه شوید، بنابراین علت مناسب را همراه با راه حل آن بخوانید و مشکل خود را برطرف کنید.",
 			"fields": [
 				{
-					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
-					"content": "Uninstall stock yt updates. Make sure Stock YouTube version is lower than vanced version you are installing now."
+					"title": "خطا در نصب به خاطر برگشتن به نسخه قبلی",
+					"content": "بروز رسانی یوتیوب اصلی را حذف نصب کنید. مطمئن شوید که نسخه اصلی یوتیوب از نسخه اصلاح شده ای که اکنون نصب می کنید پایین تر است."
 				},
 				{
-					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
-					"content": "Just uninstall any vanced app that you have installed from any other source then install vanced.  Otherwise uninstall \"vanced microG\" > reboot device > then install vanced microG first then Vanced. If error still comes, use SAI to install the vanced split apks manually. These apk files are located in \n\"android / data / com.vanced.manager / files / vanced / nonroot / \""
+					"title": "نصب ناموفق بود به خاطر بروزرسانی ناسازگار",
+					"content": "فقط کافی است هر برنامه اصلاح شده ای را که نصب کرده اید از هر منبع دیگری حذف نصب کنید سپس یوتیوب را نصب کنید.  در غیر این صورت، \" microG\" > دستگاه را راه اندازی مجدد کنید > سپس microG را ابتدا و سپس یوتیوب را نصب کنید.  اگر باز هم خطا وجود داشت، از برنامه SAI برای نصب دستی برنامه های تقسیم یوتیوب استفاده کنید.  این فایل های نصبی در \"اندرویدفقط کافی است هر برنامه پیشرفته ای را که نصب کرده اید از هر منبع دیگری حذف نصب کنید سپس vanced را نصب کنید.  در غیر این صورت، \"vanced microG\" > دستگاه را راه اندازی مجدد کنید > سپس microG را ابتدا و سپس Vanced را نصب کنید.  اگر باز هم خطا وجود داشت، از SAI برای نصب دستی apk های تقسیم پیشرفته استفاده کنید.  این فایل های نصبی در \"اندروید / دیتا / com.vanced.manager / فایل ها  / یوتیوب اصلاح شده / بدون روت /\" قرار دارند"
 				},
 				{
-					"title": "INSTALL_PARSE_FAILED_NOT_APK",
-					"content": "Change the language of your phone from Indonesian to English then install vanced. After installing, you can change language back to Indonesian. If your device isn't using Indonesian language, make sure language is properly selected in Vanced manager which you wanna install with YouTube Vanced."
+					"title": "تجزیه برنامه ناموفق بود",
+					"content": "زبان گوشی خود را از فارسی به انگلیسی تغییر دهید سپس یوتیوب را نصب کنید. پس از نصب، می توانید زبان انگلیسی را به فارسی تغییر دهید. اگر دستگاه شما از زبان فارسی استفاده نمی‌کند، مطمئن شوید که زبان در مدیریت یوتیوب که می‌خواهید با آن یوتیوب اصلاح شده را نصب کنید، به درستی انتخاب شده باشد."
 				},
 				{
-					"title": "INSTALL_FAILED_NO_MATCHING_ABIS",
-					"content": "Download legacy version instead of default"
+					"title": "نصب ناموفق بود زیرا کد ها مطابقت ندارند",
+					"content": "نسخه قدیمی را به جای پیش فرض دانلود کنید"
 				},
 				{
-					"title": "INSTALL_FAILED_INVALID_APK: Split config.en was defined multiple times",
-					"content": "Try removing one split_config.en apk from apks file then install\n(Apks file is just a zip file so you can easily remove the apk from it)"
+					"title": "نصب ناموفق بود زیرا زبان انگلیسی چندین بار تعریف شده است",
+					"content": "سعی کنید برنامه split_config.en را از Apks حذف کنید و سپس نصب کنید\n(فایل Apks فقط یک فایل فشرده است تا بتوانید به راحتی فایل نصبی را از درون آن حذف کنید)"
 				},
 				{
-					"title": "INSTALL_FAILED_DUPLICATE_PERMISSION",
-					"content": "Uninstall microG > reboot > install vanced via sai > install microG\n\nIf microG doesn't install, install microG too via SAI."
+					"title": "نصب ناموفق بود زیرا مجوزهای تکراری یافت شده است",
+					"content": "حذف نصب microG > راه اندازی مجدد > نصب یوتیوب از طریق برنامه sai > نصب microG\n\nاگر microG نصب نشد, microG را نیز از طریق برنامه Sia نصب کنید."
 				},
 				{
-					"title": "Unable to install the app because it conflicts with an already installed app with same package name",
-					"content": "Uninstall microG > reboot > install vanced via sai > install microG via apk package installer\nIf microG doesn't install, install microG too via SAI."
+					"title": "نصب برنامه امکان پذیر نیست زیرا با یک برنامه از قبل نصب شده با همان نام بسته تداخل دارد",
+					"content": "حذف نصب microG > راه اندازی مجدد > نصب یوتیوب از طریق برنامه sai > نصب microG\n\nاگر microG نصب نشد, microG را نیز از طریق برنامه Sia نصب کنید."
 				},
 				{
-					"title": "APP IS INCOMPATIBLE WITH THIS DEVICE",
-					"content": "Download the legacy architecture files when downloading vanced files from official vanced mirrors instead of default architecture."
+					"title": "برنامه با دستگاه سازگاری ندارد",
+					"content": "فایل‌های معماری قدیمی را هنگام دانلود فایل‌های یوتیوب از راه یوتیوب به جای معماری پیش‌فرض، دانلود کنید."
 				},
 				{
-					"title": "INSTALL_PARSE_FAILED_NO_CERTIFICATES",
-					"content": "It seems like you didn't read instructions properly and installed vanced without disabling signature verification. or you tried some method which didn't give any positive result, so the solution to both is to disable signature verification using the best method/alternative to what you used before or just use our [vanced manager](https://vancedapp.com) which doesn't require you to disable signature verification."
+					"title": "نصب ناموفق بود زیرا گواهی ها یافت نشدند",
+					"content": "به نظر می‌رسد دستورالعمل‌ها را به درستی نخوانده‌اید و بدون غیرفعال کردن تأیید امضا، یوتیوب را نصب کرده‌اید. یا روشی را امتحان کردید که هیچ نتیجه مثبتی نداشت، بنابراین راه حل هر دو این است که تأیید امضا را با استفاده از بهترین روش/جایگزینی که قبلا استفاده می‌کردید غیرفعال کنید یا فقط از [مدیریت کننده یوتیوب] ما استفاده کنید (https://vancedapp. com) که نیازی به غیرفعال کردن تأیید امضا ندارد."
 				},
 				{
-					"title": "INSTALL_FAILED_INVALID_INSTALL_LOCATION",
-					"content": " Please head to your device settings > developer options and turn off \"force allow apps on external\" then install the Vanced app in SAI."
+					"title": "نصب ناموفق بود زیرا محل نصب پیدا نشد",
+					"content": " لطفاً به تنظیمات دستگاه خود > گزینه‌های توسعه‌دهنده بروید و «اجبار اجازه دادن به برنامه‌ها در خارجی» را خاموش کنید سپس برنامه یوتیوب را در برنامه SAI نصب کنید."
 				},
 				{
-					"title": "INSTALL_FAILED_USER_RESTRICTED: Install canceled by user",
-					"content": "Unknown sources install is protected per service in your MIUI devices Please go to your device settings and enable unknown sources for SAI and issue will get solved and you will be able go install Vanced."
+					"title": "نصب ناموفق بود زیرا از طریق کاربر لغو شد",
+					"content": "نصب منابع ناشناس برای هر سرویس در دستگاه های با رابط کاربری شیائومی از شما محافظت می شود لطفاً به تنظیمات دستگاه خود بروید و منابع ناشناس را برای SAI فعال کنید و مشکل حل می شود و می توانید یوتیوب را نصب کنید."
 				},
 				{
-					"title": "INSTALL_FAILED_INTERNAL_ERROR: Permission Denied",
-					"content": "Disable MIUI optimization from your device developer options."
+					"title": "نصب ناموفق بود زیرا اجازه دسترسی رد شد",
+					"content": "غیرفعال کردن بهینه سازی می یو آی از طریق تنظیمات توسعه دهندگان."
 				}
 			]
 		},
 		{
-			"title": "Live-Stream issues",
-			"description": "Solution: Follow this guide > https://youtu.be/R9asMVCQkAU. Also, disable your external ad-blockers/vpn/proxy/custom settings in vanced. Keep stock settings if you don't wanna see any issues."
+			"title": "مشکلات پخش زنده",
+			"description": "راه حل: این راهنما را دنبال کنید > https://youtu.be/R9asMVCQkAU \nهمچنین، تنظیمات مسدودکننده های تبلیغات خارجی/فیلترشکن/پراکسی/سفارشی خود را در یوتیوب غیرفعال کنید. اگر نمی‌خواهید مشکلی را مشاهده کنید، تنظیمات اصلی را حفظ کنید."
 		},
 		{
-			"title": "Black screen video fix",
-			"description": "Solution: clearing data of Youtube Vanced and subsequently reinstalling it should fix the issue. If it doesn't, try a Reboot &\nCheck if black screen issue solves. \n\nIf problem persist, factory reset your device or change the ROM."
+			"title": "مشکل صفحه سیاه هنگام پخش ویدیو",
+			"description": "راه حل: پاک کردن داده های یوتیوب و متعاقباً نصب مجدد آن باید مشکل را برطرف کند. اگر نشد، راه اندازی مجدد و\nبررسی کنید که آیا مشکل صفحه سیاه حل شده یا نه.\n\nاگر مشکل همچنان ادامه داشت، گوشی خود را به تنظیمات کارخانه بازنشانی کنید و یا رام خود را تغییر دهید."
 		},
 		{
-			"title": "Content Restrictions",
-			"description": "In English it is callled \"restricted mode\"\nIn arabic it is called \"وضع تقييد المحتوى\"\n\nTo solve issue of lesser search results, do this\n\n1. Go to settings > General\n\n2. Find \"restricted mode\" and turn it off.\n\nIf you're in a country that Google hates, use a vpn."
+			"title": "محدودیت های محتوا",
+			"description": "محدودیت های محتوا\n\nبرای حل مشکل نتایج جستجوی کمتر، این کار را انجام دهید\n\n1. به تنظیمات > عمومی بروید\n\n2. «حالت محدود» را پیدا کنید و آن را خاموش کنید.\n\nاگر در کشوری هستید که گوگل آن را تحریم کرده است، از فیلترشکن استفاده کنید."
 		},
 		{
-			"title": "View count change",
-			"description": "To change the view count from crores/lakhs to millions, do this:\n\n\nSolution:\n\n1. Go to settings (of your phone)\n\n2. Go to system \n\n3. Go to language preferences\n\n4. Add a language as English (US) \n\n5. Drag this language above your current one.\n\n6. Go to youtube and enjoy ⚡\n\nThanks to @ROG_OK from telegram Vanced group for finding the fix."
+			"title": "تغییر تعداد مشاهده",
+			"description": "برای تغییر تعداد بازدید از یکی/دوتا به میلیون، این کار را انجام دهید:\nراه حل:\n\n1. به تنظیمات (تلفن خود) بروید\n\n2. به سیستم بروید\n\n3. به تنظیمات زبان بروید\n\n4. یک زبان به عنوان انگلیسی (ایالات متحده) اضافه کنید\n\n5. این زبان را به بالای زبان فعلی خود بکشید.\n\n6. به یوتیوب بروید و لذت ببرید⚡\n\nتشکر از شخصی که این راه حل را یافت."
 		},
 		{
-			"title": "Captions",
-			"description": "\n\n If you face caption issues such as random subtitles of different languages on an english video, here's what you have to do; \n\n1. Open browser and go to youtube desktop site. If you are on a mobile, tap on \"Request desktop website\". \n\n2. Now tap on your profile icon from top right corner and tap on Settings. \n\n3. Then head to \"Playback and performance\" and uncheck the \"Always show captions\" box. \n\n4. Close browser and go to YouTube Vanced app info and clear cache(not data) [not sure if this is necessary, just writing what i did to fix it for myself] \n\n5. Then open YouTube app and go to settings > captions > set Language to default if it's not. Otherwise skip this step. \n\n6. Auto captions will be fixed"
+			"title": "زیرنویس ها",
+			"description": "\n\nاگر با مشکلات زیرنویس مانند زیرنویس‌های تصادفی زبان‌های مختلف در یک ویدیوی انگلیسی مواجه هستید، این کاری است که باید انجام دهید. \n\n1. مرورگر را باز کنید و به سایت دسکتاپ یوتیوب بروید. اگر از تلفن همراه استفاده می کنید، روی «نصب وب سایت دسکتاپ» ضربه بزنید.\n\n 2. حالا از گوشه بالا سمت راست روی نماد نمایه خود ضربه بزنید و روی تنظیمات ضربه بزنید.\n\n 3. سپس به «پخش و اجرا» بروید و تیک کادر « همیشه زیرنویس ها را نشان بده » را بردارید. \n\n4. مرورگر را ببندید و به اطلاعات برنامه یوتیوب اصلاح شده بروید و حافظه پنهان (نه داده ها) را پاک کنید [مطمئن نیستم که لازم باشد، فقط کاری را که نوشتم انجام دهید تا آن را برای خود درست کنید] \n\n5. سپس برنامه یوتیوب را باز کنید و به تنظیمات > زیرنویس ها > بروید اگر اینطور نیست زبان را روی پیش فرض قرار دهید. در غیر این صورت از این مرحله بگذرید. \n\n 6. زیرنویس خودکار درست خواهد شد"
 		},
 		{
 			"title": "HDR brightness Workaround",
