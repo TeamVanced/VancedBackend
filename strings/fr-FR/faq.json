@@ -79,8 +79,8 @@
       "description": "1. Vous devez avoir au moins [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package), alternative de Google Apps pour exécuter Vanced.\n\n2. Vous ne pouvez pas exécuter Vanced avec microG Core sans les Google Play Services Framework qui sont disponibles dans tous les paquets Google Apps et qui sont des bibliothèques requises.\n\n3. Si vous êtes inquiet pour votre vie privée et que vous ne voulez pas utiliser Google Apps mais que vous voulez quand même regarder YouTube sans publicité, alors la [version web](https://youtube.com) est toujours disponible."
     },
     {
-      "title": "Pourquoi le casting ne fonctionne pas ?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "Pourquoi Google Cast ne fonctionne pas ?",
+      "description": "Pour les utilisateurs de la v16.16.38 et toutes les variantes non-root et variantes root supérieures qui utilisent des ROMs basées sur microG, il y a un bug dans l'upstream microG. Jusqu'à ce que cela soit résolu, veuillez attendre les mises à jour ou revenir aux versions v15. Si vous utilisez les services Google Play avec les variantes root, vous n'aurez aucun problème avec Google Cast."
     },
     {
       "title": "Qu'est-ce que la signature d'un APK ?",
