@@ -17,7 +17,7 @@
       "description": "Vanced nu include nicio funcție de descărcare video și nu o va face niciodată.\n\nMulte videoclipuri sunt disponibile pentru a fi descărcate gratuit în [țările selectate](https://support. oogle.com/youtube/answer/6141269). Pentru restul lumii, te rugăm să obții YouTube Premium sau să folosești un alt download.\n\nDin nou, Vanced nu va adăuga niciodată un downloader video aplicației sau orice altceva similar.\n\nAcesta a fost motivul pentru care multe moduri YouTube au fost închise în trecut, deoarece Google nu le place oamenilor să descarce conținut protejat de drepturi de autor de pe platforma lor, așa că nu îl solicita!!!"
     },
     {
-      "title": "Why don't the swipe gestures work?",
+      "title": "De ce nu funcționează gesturile de glisare?",
       "description": "Dacă aveți comentarii afișate în partea de jos (locul vechi) în Setări Vanced > Setări Layout, dezactivați și reporniți aplicația. Dacă acest lucru nu funcționează, opriți aplicația și ștergeți datele."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Deoarece:\n\n1. Aplicația stoc o folosește așa încât Vanced o folosește de asemenea.\n2. Acesta instalează doar limbile pe care le specificați pentru a reduce consumul stocării.\n3. Are singura versiune de bază APK de care are nevoie dispozitivul.\n\nDesigur, Vanced Manager sau dezvoltatori îl pot converti într-un singur fișier APK, dar suntem atât de leneși să îl facem. Trebuie doar să te folosești cu ceea ce avem...\n\nNu vă faceți însă griji, Vanced Manager face tot ce ne stă în putere, așa că apăsați pe butonul `Install`."
     },
     {
-      "title": "Why does the color in the startup screen not match the theme? ",
+      "title": "De ce culoarea din ecranul de pornire nu se potrivește cu tema? ",
       "description": "Culoarea de fundal a ecranului de pornire este luată din Android framework pentru a se asigura că se modifică în funcție de tema sistemului. Puteți folosi teme Substratum/Swift pentru a schimba culoarea."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Fişierele pot fi corupte din diverse motive şi pot cauza probleme ulterior. Pentru a evita acest lucru, puteţi alege să-l descărcaţi din nou pentru a vă asigura că instalarea se desfăşoară fără probleme."
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
+      "title": "De ce versiunea rădăcină nu are permisiuni Microfon? ",
       "description": "În cazul în care Vanced este actualizat."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Cum să setezi YouTube Vanced ca aplicaţie implicită?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "După cum spune titlul, mulți utilizatori au întrebat de multe ori cum pot face YouTube Vanced ca implicit pentru a deschide link-uri YouTube din alte aplicații (cum ar fi browserele, aplicații de mesagerie și orice altă aplicație).\n\nPentru varianta cu root, nu trebuie să vă faceţi griji, deoarece este deja setat în mod implicit, deoarece YouTube Vanced este înlocuit cu YouTube stoc.\n\nPentru varianta non-root, soluţiile au fost diferite între OneUI, MIUI şi restul. Nu putem oferi soluții pentru fiecare sistem de operare și este posibil să trebuiască să căutati pe Google.",
       "fields": [
         {
           "title": "Utilizatori OneUI:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why doesn't the root variant work with the microG core? ",
+      "title": "De ce nu funcționează varianta rădăcinii cu nucleul microG? ",
       "description": "1. Trebuie să aveți cel puțin varianta de GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) pentru a rula Vanced.\n\n2. Nu poți rula Vanced cu microG Core fără Google Play Services Framework disponibil în toate pachetele GApps și este o bibliotecă necesară.\n\n3 Dacă ești îngrijorat în legătură cu confidențialitatea ta și nu vrei să folosești GApps, dar vrei totuși să folosești YouTube Vanced fără anunțuri, atunci [versiunea web](https://youtube.com) este întotdeauna disponibilă."
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "De ce nu se rotește?",
+      "description": "Pentru utilizatorii cu v16.16.16.38 și toate peste variantele non-root și variantele rădăcină care folosesc ROM-uri bazate pe microG, există o eroare în microG în amonte. Până când acest lucru se rezolvă, vă rugăm să aşteptaţi actualizări sau să reveniţi la versiunile v15. Dacă folosiți serviciile Google Play cu variante root, nu veți avea probleme cu redarea."
     },
     {
       "title": "Ce este semnare APK?",
