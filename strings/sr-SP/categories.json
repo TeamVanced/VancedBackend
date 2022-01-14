@@ -5,15 +5,15 @@
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "Честа питања",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Могућности",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Решавање проблема",
       "json": "troubleshooting.json"
     }
   ]
