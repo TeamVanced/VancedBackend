@@ -13,7 +13,7 @@
           "content": "Pour les utilisateurs non-root&#160;:\nVous aurez besoin d'un PC pour prendre des sorties `logcat`. Voici un [guide texte](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) et un [guide vidéo] (https://youtu.be/ICLpwgsJJP0).\n\nPour les utilisateurs root&#160;:\nVous n'avez pas besoin d'un PC pour cela. Vous pouvez suivre [les instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
-          "title": "Votre bogue est liée à l'interface utilisateur&#160;?",
+          "title": "Votre bug est liée à l'interface utilisateur&#160;?",
           "content": "Pour les bugs par rapport à l'interface utilisateur, vous aurez des étapes supplémentaires.\n\nVeuillez installer et configurer [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAprès ça, allez dans Vanced et reproduisez le bug, puis ouvrez la visionneuse de mise en page en déclenchant Developer Assistant.\n\nMaintenant, suivez ces étapes&#160;:\n1. Assurez-vous que le bogue s'affiche à l'écran.\n2. Tapez sur l'élément que vous pensez être affecté par le bogue.\n3. Allez dans les onglets `Élément` et `Hiérarchie` et prenez des captures d'écran de l'affichage.\n4. Ajoutez ces captures d'écran dans votre ticket."
         }
       ]
