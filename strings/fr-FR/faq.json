@@ -14,11 +14,11 @@
     },
     {
       "title": "Vanced peut-il télécharger des vidéos&#160;?",
-      "description": "Vanced n'inclut aucune fonctionnalité de téléchargement de vidéos et ne le fera jamais.\n\nDe nombreuses vidéos sont disponibles gratuitement dans [certains pays](https://support. oogle.com/youtube/answer/6141269). Pour le reste du monde, veuillez obtenir YouTube Premium ou utiliser un téléchargeur tiers.\n\nEncore une fois, Vanced N'AJOUTERA JAMAIS de téléchargeur de vidéo ou quelque chose de similaire à l'application.\n\nCela a été la raison de l'arrêt de nombreux mods YouTube par le passé, car Google n'aime pas les gens qui téléchargent du contenu protégé par le droit d'auteur depuis leur plateforme, alors ne le demandez pas&#160;!!!"
+      "description": "Vanced n'inclut aucune fonctionnalité de téléchargement de vidéos et ne le fera jamais.\n\nDe nombreuses vidéos sont disponibles gratuitement dans [certains pays](https://support.google.com/youtube/answer/6141269). Pour le reste du monde, utilisez YouTube Premium.\n\nEncore une fois, Vanced NE PERMETTRA JAMAIS de télécharger des vidéos depuis l'application.\n\nCela a été la raison de l'arrêt de nombreux mods YouTube par le passé, car Google n'aime pas les gens qui téléchargent du contenu protégé par le droit d'auteur depuis leur plateforme, alors ne le demandez pas&#160;!!!"
     },
     {
-      "title": "Pourquoi les gestes de balayage ne fonctionnent pas ?",
-      "description": "Si vous avez les commentaires affichés en bas (ancienne place) dans Paramètres Vanced > Paramètres de mise en page, désactivez le et redémarrez l'application. Si cela ne fonctionne pas, forcez l'arrêt de l'application et effacez ces données."
+      "title": "Pourquoi les gestes de balayage ne fonctionnent pas ?",
+      "description": "Si vous avez les commentaires affichés en bas (ancien emplacement) dans Paramètres Vanced > Paramètres de mise en page, désactivez le et redémarrez l'application. Si cela ne fonctionne pas, forcez l'arrêt de l'application et effacez ces données."
     },
     {
       "title": "Sous-titres non disponibles&#160;?",
@@ -26,14 +26,14 @@
     },
     {
       "title": "Acceptez-vous les dons&#160;?",
-      "description": "Nous n'acceptons pas les dons!\n\nTout type de don en toute circonstance et tout site ou lien ou message qui demandent des dons est tout simplement faux.\n\nMais si vous voulez soutenir les développeurs de Vanced, vous pouvez télécharger Brave en utilisant ce lien(https://brave.com/kev231) et AdGuard en utilisant ce lien(https://adguard.com/fr/welcome.html?aid=31141)."
+      "description": "Nous n'acceptons pas les dons!\n\nTout type de don en toute circonstance et tout site ou lien ou message qui demandent des dons est tout simplement faux.\n\nMais si vous voulez soutenir les développeurs de Vanced, vous pouvez télécharger Brave en utilisant [ce lien](https://brave.com/kev231) et AdGuard en utilisant [ce lien](https://adguard.com/fr/welcome.html?aid=31141)."
     },
     {
-      "title": "Comment masquer automatiquement la disposition du lecteur ?",
+      "title": "Comment masquer automatiquement la disposition du lecteur ?",
       "description": "Vous pouvez le configurer dans Paramètres YouTube Vanced> Accessibilité. Si les paramètres ne s'ouvrent pas ou ne fonctionnent pas, accédez aux paramètres d'accessibilité de votre appareil et désactivez l'amplificateur de son, basculez l'accès, la légende en direct."
     },
     {
-      "title": "Pourquoi utiliser des APK séparés ?",
+      "title": "Pourquoi utiliser des APK séparés ?",
       "description": "Parce que :\n\n1. L'application de base l'utilise donc Vanced l'utilise aussi.\n2. Il n'installe que le langage que vous avez spécifié pour réduire la consommation du stockage.\n3. Il a la seule version d'APK de base dont votre appareil a besoin.\n\nBien sûr, le Manager Vanced ou les développeurs peuvent le convertir en un seul fichier APK, mais on est trop flemmards pour le faire. Vous devrez faire avec ce qu'on vous donne..\n\nNe vous inquiétez pas, le Manager Vanced fais tout le travail pour vous, vous n'avez qu'a appuyer sur le bouton \"Installer\"."
     },
     {
