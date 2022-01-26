@@ -10,11 +10,11 @@
         },
         {
           "title": "Como eu faço um logcat?",
-          "content": "Para usuários sem root:\nVocê precisará de um PC para obter a saída do `logcat`. Aqui está um [guia de texto](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) e um [guia de vídeo](https://youtu.e/ICLpwgsJP0).\n\nPara usuários com root:\nVocê não precisa de um PC para isso. Você pode seguir essas instruções [aqui](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Para usuários sem root:\nVocê precisará de um PC para obter a saída do `logcat`. Aqui está um [guia de texto (em Inglês)](https://telegra.ph/Bug-Reports-10-17#Method-1:--Needs-a-pc/laptop-with-adb-installed.) e um [guia de vídeo](https://youtu.e/ICLpwgsJP0).\n\nPara usuários com root:\nVocê não precisa de um PC para isso. Você pode seguir essas instruções [aqui (em Inglês)](https://telegra.ph/Bug-Reports-10-17#Method-2:--Using-logcat-reader-apps(Need-root))."
         },
         {
           "title": "Seu erro é relacionado a interface?",
-          "content": "Para erros relacionados à interface, você terá passos extras a dar.\n\nPor favor, instale e configure o [Assistente de Desenvolvedor](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nDepois disso, vá para Vanced e reproduza o erro, então abra o visualizador de layout ativando o Assistente de Desenvolvedor.\n\nAgora siga estes passos:\n1. Certifique-se de que o erro esteja exibindo na tela.\n2. Toque no elemento que você acha que é afetado pelo erro.\n3. Vá para as guias `Element` e `Hierarchy` e captura a tela de saída.\n4. Inclua essas capturas de tela no seu problema."
+          "content": "Para erros relacionados à interface, você terá passos extras a dar.\n\nPor favor, instale e configure o [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nDepois disso, vá para Vanced e reproduza o erro, então abra o visualizador de layout ativando o Assistente de Desenvolvedor.\n\nAgora siga estes passos:\n1. Certifique-se de que o erro esteja exibindo na tela.\n2. Toque no elemento que você acha que é afetado pelo erro.\n3. Vá para as guias `Element` e `Hierarchy` e captura a tela de saída.\n4. Inclua essas capturas de tela no seu problema."
         }
       ]
     }
