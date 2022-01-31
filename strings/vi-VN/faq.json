@@ -33,12 +33,12 @@
       "description": "Bạn có thể chỉnh nó ở cài đặt Youtube Vanced > Cài đặt > Trợ năng. Nếu cài đặt không mở hoặc không hoạt động, hãy vào cài đặt trợ năng của máy bạn và tắt Khuếch đại âm thanh, Thay đổi truy cập, Phụ đề trực tiếp."
     },
     {
-      "title": "Tại sao lại sử dụng APK tách rời?",
-      "description": "Bởi vì:\n\n 1. Ứng dụng gốc sử dụng nó nên Vanced cũng sử dụng nó.\n 2. Nó chỉ cài đặt ngôn ngữ bạn chỉ định để giảm tiêu thụ bộ nhớ.\n 3. Nó có phiên bản APK cốt lõi duy nhất mà thiết bị của bạn yêu cầu.\n\n Tất nhiên, Vanced Manager hoặc các nhà phát triển có thể chuyển đổi nó thành một tệp APK bình thường, nhưng chúng tôi rất lười làm điều đó. Bạn chỉ cần hòa hợp với những gì chúng tôi có...\n\n Tuy nhiên, đừng lo lắng, Vanced Manager sẽ thực hiện tất cả công việc khó khăn cho bạn vì vậy chỉ cần nhấn vào nút `Cài đặt`."
+      "title": "Tại sao lại sử dụng APK tách rời (.apks)?",
+      "description": "Bởi vì:\n\n 1. Ứng dụng gốc sử dụng nó nên Vanced cũng sử dụng nó.\n 2. Nó chỉ cài đặt ngôn ngữ bạn chọn để tối ưu bộ nhớ.\n 3. Nó chỉ có APK lõi mà thiết bị của bạn cần.\n\nĐương nhiên, Vanced Manager hoặc các nhà phát triển có thể chuyển đổi nó thành một tệp APK bình thường, nhưng chúng tôi quá lười làm điều đó. Bạn chỉ cần hòa hợp với những gì chúng tôi có...\n\nNhưng đừng lo lắng, Vanced Manager làm hết phần việc khó khăn nên bạn chỉ cần nhấn nút `Cài đặt`."
     },
     {
       "title": "Tại sao màu sắc ở màn hình khởi động không khớp với chủ đề? ",
-      "description": "Màu nền màn hình khởi động được lấy từ màu khung Android để đảm bảo nó thay đổi theo chủ đề hệ thống. Bạn có thể sử dụng [Substratum] (https://play.google.com/store/apps/details?id=projekt.substratum) hoặc [Swift Installer] (https://play.google.com/store/apps/details? id = com.brit.swiftinstaller) hoặc một ứng dụng tương tự để thay đổi màu sắc."
+      "description": "Màu nền màn hình khởi động được lấy từ màu Android framework để đảm bảo nó thay đổi theo chủ đề hệ thống. Bạn có thể sử dụng [Substratum] (https://play.google.com/store/apps/details?id=projekt.substratum) hoặc [Swift Installer] (https://play.google.com/store/apps/details? id = com.brit.swiftinstaller) hoặc một ứng dụng tương tự để thay đổi nó."
     },
     {
       "title": "Tôi có nên tải lại các tệp cài đặt?",
