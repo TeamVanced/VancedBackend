@@ -1,6 +1,8 @@
 package plugins
 
 import data.Latest
+import getLatestMicrogRelease
+import getLatestManagerRelease
 import io.ktor.application.*
 import io.ktor.http.*
 import io.ktor.response.*
@@ -18,19 +20,8 @@ fun Application.configureRouting() {
 }
 
 private fun Route.apiV2() {
-    route("/v2") {
+        route("/v2") {
         route("/download") {
-            route("/stock") {
-                get("/youtube") {
-//                    val versionCode = call.request.queryParameters["versionCode"] ?: return@get
-//                    val arch = call.request.queryParameters["arch"] ?: return@get
-//                    val languages = call.request.queryParameters["langs"]?.split(",") ?: return@get
-
-                }
-                get("/youtube-music") {
-                    call.respondText("Test")
-                }
-            }
             route("/vanced") {
                 get("/youtube") {
                     val variant = call.request.queryParameters["variant"] ?: return@get
@@ -43,10 +34,10 @@ private fun Route.apiV2() {
                     val baseUrl = "$API_BASE/main/v$version/$variant"
 
                     call.respondApks {
-                        add("$baseUrl/Arch/split_config.$arch.apk")
-                        add("$baseUrl/Theme/$theme.apk")
+                        add("$baseUrl/Arch/split_config.$arch.bsdiff")
+                        add("$baseUrl/Theme/$theme.bsdiff")
                         languages.forEach { languageCode ->
-                            add("$baseUrl/Language/split_config.$languageCode.apk")
+                            add("$baseUrl/Language/split_config.$languageCode.bsdiff")
                         }
                     }
                 }
@@ -68,16 +59,24 @@ private fun Route.apiV2() {
         route("/latest") {
             route("/vanced") {
                 get("youtube") {
-
+                    //call.respondLatest() from db
                 }
                 get("youtube-music") {
 
                 }
                 get("/microg") {
-
+                    val microgRelease = getLatestMicrogRelease()
+                    val versionName = microgRelease.tagName.split("-")[0].substringAfter("v")
+                    val versionCode = microgRelease.tagName.split("-")[1].toLong()
+                    val changelog = microgRelease.changelog
+                    call.respondLatest(versionName, versionCode, changelog)
                 }
                 get("/manager") {
-
+                    val managerRelease = getLatestManagerRelease()
+                    val versionName = managerRelease.tagName.split("-")[0].substringAfter("v")
+                    val versionCode = managerRelease.tagName.split("-")[1].toLong()
+                    val changelog = managerRelease.changelog
+                    call.respondLatest(versionName, versionCode, changelog)
                 }
             }
         }

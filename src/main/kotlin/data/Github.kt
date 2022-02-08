@@ -10,6 +10,9 @@ data class GithubRelease(
 
     @SerialName("assets")
     val assets: List<GithubAsset>,
+
+    @SerialName("body")
+    val changelog: String,
 )
 
 @Serializable
