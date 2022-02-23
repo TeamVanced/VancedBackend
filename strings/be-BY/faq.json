@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "title": "What is YouTube Vanced?",
-      "description": "YouTube Vanced is a modified version of YouTube with extra features to make your YouTube experience better!\n\nSuch features include:\n- Background playback,\n- Picture in Picture (PiP),\n- Black theme (OLED friendly),\n- Ads removal (requires enabling),\n- Override max resolution (allow playback of video with a resolution higher than your screen),\n- ...and much more!\n\nFor more information, visit <https://vancedapp.com>"
+      "title": "Што такое Youtube Vanced?",
+      "description": "YouTube Vanced – мадыфіцыраваная версія YouTube з дадатковымі функцыямі і паляпшэннямі, каб зрабіць выкарыстоўванне YouTube крыху лепш!\n\nТакя функцыі ўключаюць:\n- Прайграванне ў фоне,\n- Карцінка ў карцінке (PiP),\n- Чорная тэма (OLED сумяшчальная),\n- Блакіроўка рэкламы (патрабуе ўключэння),\n- Змяненне максімальнай якасці відэа,\n- ...і многа іншага!\n\nКаб даведацца больш, перайдзіце на <https://vancedapp.com>"
     },
     {
-      "title": "Where is the Download button?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "title": "Дзе кнопка для спампоўвання?",
+      "description": "Канешне, Google не размяшчае мадыфіцыраванныя версіі сваей праграмы у сваёй краме, таму не шукайце яго ў Google Play Store, гэта падробныя праграмы.\n\nПраграмы Vanced спампуюцца праз Vanced Manager, які можна знайсці на нашам афіцыйнам сайце: <https://vancedapp.com>, але вы таксама можаце спампаваць іх праз [рэпазіторый GitHub](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
-      "title": "Does YouTube Vanced auto-update?",
+      "title": "Абнаўляецца лі YouTube Vanced аўтаматычна?",
       "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
     },
     {
