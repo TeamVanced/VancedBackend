@@ -10,111 +10,111 @@
     },
     {
       "title": "Абнаўляецца лі YouTube Vanced аўтаматычна?",
-      "description": "No, it doesn't.\n\nVanced Manager will send you a notification when there is one.\n\nYou can also join our [Discord Server](https://discord.gg/Vanced) or follow [Telegram channel](https://t.me/Vanced) for the latest news and update notices as well."
+      "description": "Не, гэта не так.\n\nVanced Manager адправе вам апавяшчэнне, калі абнаўленне выйдзе.\n\nТаксама вы можаце далучыцца да [серверу Discord](https://discord.gg/Vanced) ці к [Telegram каналу](https://t.me/Vanced)каб атрымліваць апошнія навіны і паведамленні аб абнаўленнях."
     },
     {
-      "title": "Can Vanced download videos?",
-      "description": "Vanced doesn't include any video downloading feature and never will.\n\nMany videos are available to download for free in [selected countries](https://support.google.com/youtube/answer/6141269). For the rest of the world, please get YouTube Premium.\n\nAgain, Vanced WILL NEVER add a video downloader to the app or anything similar.\n\nThis has been the reason for the shutdown of many YouTube mods in the past as Google doesn't like people downloading copyrighted content from their platform so don't ask for it!!!"
+      "title": "Ці можа Vanced спампоўуваць відэа?",
+      "description": "Vanced не ўключае ў сябе функцыі загрузкі відэа і ніколі не будзе.\n\nШмат відэа можна спампаваць бясплатна ў [выбраных краінах](https://support.google.com/youtube/answer/6141269). Для астатняга свету атрымайце YouTube Premium.\n\nЗноў жа, Vanced НІКОЛІ не будзе дадаваць праграму для запампоўкі відэа ў дадатак або нешта падобнае.\n\nГэта было прычынай адключэння многіх модов YouTube у мінулым, бо Google не любіць людзей, якія спампоўваюць абаронены аўтарскім правам кантэнт са сваёй платформы, таму не пытайце пра гэта!!!"
     },
     {
-      "title": "Why don't the swipe gestures work?",
-      "description": "If you have comments shown at the bottom (old place) in Vanced settings > Layout settings, disable it and restart the app. If that doesn't work, force stop the app and clear its data."
+      "title": "Чаму не працуюць жэсты свайпа?",
+      "description": "Калі ў вас ёсць каментарыі, паказаныя ўнізе (старое месца) у наладах Vanced > Налады макета, адключыце іх і перазапусціце праграму. Калі гэта не спрацуе, прымусова спыніце праграму і ачысціце яе даныя."
     },
     {
-      "title": "Captions not available?",
-      "description": "This is not a Vanced or YouTube related issue. Not all videos have captions."
+      "title": "Чаму субцітры недаступныя?",
+      "description": "Гэта не праблема Vance або YouTube. Не ўсе відэа маюць субцітры."
     },
     {
-      "title": "Do you take donations?",
-      "description": "We DO NOT accept donations!\n\nAny sort of donations under any circumstances and any sites or links or posts that ask for donations are simply fake.\n\nBut if you want to support Vanced developers, you can download Brave using [this link](https://brave.com/kev231) and AdGuard using [this link](https://adguard.com/en/welcome.html?aid=31141)."
+      "title": "Ці прымаеце вы ахвяраванні?",
+      "description": "Мы НЕ прымаем ахвяраванні!\n\nЛюбыя ахвяраванні пры любых абставінах і любыя сайты, спасылкі або паведамленні, якія просяць ахвяраванні, проста падробка.\n\nАле калі вы хочаце падтрымаць распрацоўшчыкаў Vanced, вы можаце спампаваць Brave з дапамогай [гэтай спасылкі](https://brave.com/kev231) і AdGuard па [гэтай спасылцы](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "How to make the player layout auto-hide?",
-      "description": "You can configure it in YouTube Vanced > Settings > Accessibility. If the settings fail to open or doesn't work, go to your device accessibility settings and disable sound amplifier, switch access, live caption."
+      "title": "Як зрабіць так, каб інтэрфейс плэера аўтаматычна хаваўся?",
+      "description": "Вы можаце наладзіць яго ў YouTube Vanced > Налады > Спецыяльныя магчымасці. Калі налады не адкрываюцца або не працуюць, перайдзіце ў налады спецыяльных магчымасцей прылады і адключыце ўзмацняльнік гуку, пераключальны доступ і субцітры ў прамым эфіры."
     },
     {
-      "title": "Why using split APKs?",
-      "description": "Because:\n\n1. The stock app uses it so Vanced uses it too.\n2. It only installs the languages you specify to reduce storage consumption.\n3. It has the only version of core APK that your device requires.\n\nOf course, the Vanced Manager or developers can convert it to a normal, single APK file, but we are so lazy to do it. You just need to get along with what we have...\n\nDon't worry though, Vanced Manager does all the hard work for you so just tap on the `Install` button."
+      "title": "Чаму праграма разбіта на некалькі частак?",
+      "description": "Таму што:\n\n1. Асноўная праграма выкарыстоўвае яго, так што Vanced таксама выкарыстоўвае яго.\n2. Ён усталёўвае толькі мовы, якія вы ўказалі, каб скараціць спажыванне памяці.\n3. Ён мае адзіную версію асноўнага APK, якая патрабуецца вашай прыладзе.\n\nВядома, Vanced Manager або распрацоўшчыкі могуць пераўтварыць яго ў звычайны адзін файл APK, але нам так лянота гэта рабіць. Вам проста трэба ладзіць з тым, што ў нас ёсць...\n\nАле не хвалюйцеся, Vanced Manager робіць усю цяжкую працу за вас, таму проста націсніце кнопку «Усталяваць»."
     },
     {
-      "title": "Why does the color in the startup screen not match the theme? ",
-      "description": "The startup screen background color is taken from the Android framework colour to make sure it changes according to the system theme. You can use [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) or [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) or a similar app to change the colour."
+      "title": "Чаму колер на экране запуску не адпавядае тэме? ",
+      "description": "Колер фону экрана запуску бярэцца з колеру платформы Android, каб пераканацца, што ён змяняецца ў адпаведнасці з тэмай сістэмы. Вы можаце выкарыстоўваць [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) або [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) або падобнае прыкладанне для змены колеру."
     },
     {
-      "title": "Should I re-download the installation files?",
-      "description": "Files can be corrupted because of various reasons and can cause problems afterward. To avoid this, you can choose to download it again to ensure your installation goes smoothly."
+      "title": "Ці павінен я спампоўваць файлы для усталявання зноў?",
+      "description": "Файлы могуць быць пашкоджаны з-за розных прычын і могуць выклікаць праблемы ў далейшым. Каб пазбегнуць гэтага, вы можаце спамппаваць яго яшчэ раз, каб гарантаваць, што ўсталёўка праходзіць гладка."
     },
     {
-      "title": "Why doesn't the root version have Microphone permissions? ",
-      "description": "It does if your Vanced is up-to-date."
+      "title": "Чаму root версія не мае дазволаў на мікрафон? ",
+      "description": "Усё ёсць, калі ваш Vanced актуальны."
     },
     {
-      "title": "What is ExoPlayer v1?",
-      "description": "It's an older version of the current media player used by YouTube. You might get better performance and stability when using it."
+      "title": "Што такое ExoPlayer v1?",
+      "description": "Гэта больш старая версія бягучага медыяплэера, які выкарыстоўваецца YouTube. Вы можаце атрымаць лепшую прадукцыйнасць і стабільнасць пры яго выкарыстанні."
     },
     {
-      "title": "How to enable hidden settings?",
-      "description": "In Vanced settings, tap on the `About` section 6-7 times to enable it. This only enables the additional video codec settings."
+      "title": "Як уключыць налады для распрачоўшчыкаў?",
+      "description": "У наладах Vanced націсніце на раздзел «Аб» 6-7 разоў, каб уключыць яго. Гэта ўключае толькі дадатковыя налады відэакодэка."
     },
     {
-      "title": "How to make YouTube Vanced as default app?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "title": "Як зрабіць YouTube Vanced праграмай па змаўчанні?",
+      "description": "Як сказана ў назве, многія карыстальнікі шмат разоў пыталіся, як зрабіць YouTube Vanced па змаўчанні для адкрыцця спасылак на YouTube з іншых прыкладанняў (напрыклад, браўзераў, праграм абмену паведамленнямі і любога іншага прыкладання).\n\nДля root вам не трэба турбавацца, таму што ён ужо ўсталяваны па змаўчанні, бо афіцыйны YouTube замяняецца на YouTube vanced.\n\nДля non-root рашэнні былі падзеленыя на OneUI, MIUI і астатнія. Мы не можам прапанаваць рашэнні для кожнай АС, і вам, магчыма, спатрэбіцца ў шукаць самастойна.",
       "fields": [
         {
-          "title": "OneUI users:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "title": "Карыстальнікі OneUI:",
+          "content": "1. Націсніце і ўтрымлівайце значок YouTube або YouTube Vanced з скрыні праграмы.\n2. Націсніце **Інфармацыя аб праграме**.\n3. Знайдзіце «**Усталяваць па змаўчанні**» і націсніце на яго\n4. Націсніце «**Адкрыць спасылкі, якія падтрымліваюцца**» і абярыце «**Адкрыць у гэтай праграме**»\n\nУ старых версіях OneUI назвы параметраў на 4-м этапе могуць крыху адрознівацца. Магчыма, вам спатрэбіцца націснуць «**Перайсці да падтрымоўваных URL**» і выбраць варыянт «**У гэтай праграме**».\nУ вельмі старой версіі OneUI 💩 вам, магчыма, спатрэбіцца перайсці ў **Настройкі** > **Прыкладанні** > *[націсніце тры кропкі ў правым куце]* > **Праграмы па змаўчанні** > **Усталяваць як па змаўчанні**. Пасля загрузкі праграм знайдзіце YouTube Vanced або YouTube і выканайце 4-ы крок..."
         },
         {
-          "title": "MIUI users:",
-          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "title": "Карыстальнікі MIUI:",
+          "content": "1. Адкрыйце Налады\n2. Перайдзіце ў **Праграмы**,\n3. **Кіраванне праграмамі**,\n4. Затым націсніце на тры кропкі ў правым куце,\n5. **Праграмы па змаўчанні**,\n6. **Адкрыццё спасылак**.\n7. Пачакайце, пакуль усе вашы праграмы не з'явяцца ў спісе…\n8. Знайдзіце YouTube або YouTube Vanced і націсніце на іх.\n9. Націсніце «**Адкрыць спасылкі, якія падтрымліваюцца**» і абярыце «**Адкрыць**»"
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "title": "AOSP і іншыя карыстальніцкія інтэрфэйсы (OOS, ColorOS, EMUI, і г.д.):",
+          "content": "1. Адкрыйце **Налады**\n2. Перайдзіце ў **Праграмы**\n3. Націсніце **Праграмы па змаўчанні**\n4. Знайдзіце **YouTube** або **YouTube Vanced**\n5. Націсніце «**Перайсці да падтрымоўваных URL**» і абярыце опцыю «**Адкрыць у гэтай праграме**».\n\nКалі вас усё яшчэ турбуе гэта, вам можа спатрэбіцца пашукаць некаторыя артыкулы/відэа \"як зрабіць\" на [Google] (https://www.google.com/search?q=%22android%22+how+to+ open+youtube+links+with+youtube), або вы можаце ўсталяваць праграму трэцяй распрацоўшчыка з [Play Store](https://play.google.com/store/search?q=open%20with), каб пазбавіць вас ад гэтых клопатаў…"
         }
       ]
     },
     {
-      "title": "Why doesn't the root variant work with the microG core? ",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "Чаму root варыянт не працуе з ядром microG? ",
+      "description": "1. Каб запусціць Vanced, вам трэба мець прынамсі варыянт [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) GApps.\n\n2. Вы не можаце запусціць Vance з microG Core без Google Play Services Framework, які даступны ва ўсіх пакетах GApps і з'яўляецца абавязковай бібліятэкай.\n\n3. Калі вы турбуецеся аб сваёй канфідэнцыяльнасці і не хочаце выкарыстоўваць GApps, але ўсё яшчэ хочаце глядзець YouTube без рэкламы, то [вэб-версія](https://youtube.com) заўсёды даступная."
     },
     {
-      "title": "Why doesn't casting work?",
-      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
+      "title": "Чаму не працуе трансляцыя?",
+      "description": "Для карыстальнікаў з версіяй 16.16.38 і ўсімі вышэйпералічанымі non-root варыянтамі і root варыянтамі, якія выкарыстоўваюць ПЗУ на аснове microG, існуе памылка ў вышэйстаячым microG. Пакуль гэта не вырашыцца, пачакайце абнаўленняў або адкаціцеся да версій v15. Калі вы карыстаецеся сэрвісамі Google Play з каранёвым варыянтам, у вас не ўзнікне праблем з трансляцыяй."
     },
     {
-      "title": "What is APK Signing?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Што такое подпіс apk?",
+      "description": "Вы чытаеце гэта, таму што вы не выкарыстоўваеце Vanced Manager або вы маглі ўсталяваць Vance з неафіцыйнай крыніцы.\nПроста выкарыстоўвайце Vanced Manager!\n\nВы можаце бяспечна спампаваць Vanced Manager з:\n- [Афіцыйны сайт](https://vancedapp.com)\n- [Рэпазіторый GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Is YouTube Vanced on Play Store?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+      "title": "Ёсць лі YouTube Vanced у Play Store?",
+      "description": "НЕ!\nЗноў, НЕ ЎСТАЛЁЎВАЙ і нават не шукайце любыя падробныя праграмы з назвай \"YouTube Vanced\" ці падобным у Play Store ці ў іншых крамах праграм для ўсталёўкі Vanced.\n\nУ Play Store ёсць толькі [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq) ігэта адзіная афіцыйная праграма.\n\nКалі вы сустрэнеце любую праграму с нашай іконкай і назвай, паведаміце пра гэта як выданне іншага і дадайце дрэнны водгук.\n\nНашы прграмы могут быць знойдзены толькі на [афіцыйнам сайце](https://vancedapp.com)."
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Чаму Vanced не відаць на галоўным экране ці ў меню прыкладанняў?",
+      "description": "Вы чытаеце гэта, таму што вы не выкарыстоўваеце Vanced Manager або вы маглі ўсталяваць Vance з неафіцыйнай крыніцы.\nПроста выкарыстоўвайце Vanced Manager!\n\nВы можаце бяспечна спампаваць Vanced Manager з:\n- Афіцыйны сайт <https://vancedapp.com>\n- [Рэпазіторый GitHub](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "Чаму не прайграваюцца відэа?",
+      "description": "Паспрабуйце перазапусціць праграму. Гэта таксама можа быць з-за вашага падключэння да Інтэрнэту або прылады."
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "Чаму я маю абмежаванне ў 480p?",
+      "description": "З-за COVID-19 Google абмяжоўвае выкарыстанне даных у некалькіх краінах. Гэта адбываецца на серверы і закранае як карыстальнікаў Vanced, так і карыстальнікаў YouTube.",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "Абходныя шляхі:",
+          "content": "1. Падключыцеся да VPN іншага рэгіёну.\n2. Выкарыстоўвайце [веб-версію](https://youtube.com)\n3. Паколькі абмежаванне 480p дзейнічае толькі для тэлефонаў, а не планшэтаў, вы можаце змяніць мадэль прылады ў YouTube Vanced, каб пераадолець гэта абмежаванне.\n\n#### Як змяніць мадэль прылады?\n1. Адкрыйце YouTube Vanced.\n2. Перайдзіце ў Налады\n3. Націсніце `Vanced Settings`\n4. Уключыце схаваныя налады:\n   - Пракруціце ўніз і націсніце на раздзел «Падрабязней», пакуль не з'явіцца паведамленне «Схаваныя налады ўключаны».\n5. Перайдзіце ў раздзел «Перавызначэнне кодэка».\n6. Усталюйце вытворцу на `Samsung`, а мадэль на `SM-T865`.\n7. Перазапусціце прыкладанне.\n\nПасля перазапуску абмежаванне 480p павінна знікнуць."
         }
       ]
     },
     {
-      "title": "How to hide the microG notification?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "title": "Як схаваць апавяшчэнне ад microG?",
+      "description": "Каб схаваць апавяшчэнне microG,\n\n1. Вы можаце адключыць аптымізацыю батарэі для Vanced microG і перазагрузіць прыладу.\n\n2. Калі вышэйзгаданы метад не працуе, адключыце апавяшчэнні microG, утрымліваючы апавяшчэнне, выключыце яго і націсніце Захаваць.\n\n> Адключэнне апавяшчэнняў прыкладанняў можна зрабіць рознымі спосабамі ў залежнасці ад карыстальніцкага інтэрфейсу Android. Калі вы не ведаеце, як яго адключыць, паспрабуйце выкарыстоўваць Google, каб даведацца, як адключыць яго."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "Ці выглядае 1440p лепш на маім экране 1080p?",
+      "description": "Так, але толькі ў тым выпадку, калі прапорцыя відэа складае прыкладна 18:9, 21:9, ... Вы можаце ўключыць «Статыстыку для батанікаў» у Наладах > Агульныя, каб пацвердзіць гэта.\n\nКаб уключыць больш высокія дазволы, перайдзіце ў налады Vanced > Налады відэа і ўключыце «Макс. дазвол», а затым перазапусціце праграму."
     }
   ]
 }
