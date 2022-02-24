@@ -94,11 +94,11 @@
 			"description": "For fixing notification on both non-root or root varaints, see below",
 			"fields": [
 				{
-					"title": "For Non-Root variant",
+					"title": "Для Non-Root варыянта",
 					"content": "1. Install Vanced microG first then YouTube Vanced.\n\n2. Login with your Google account\n\n3. Disable battery optimization for Vanced microG(the guide dontkillmyapp.com is suggested).\n\n4. Open \"Vanced microG\" additional settings either using vanced manager or by going into application info.\n\n5. Then continue on with this [guide](https://youtu.be/Q-5YFmFWVok)."
 				},
 				{
-					"title": "For Root variant",
+					"title": "Для Root варыянта",
 					"content": "Make sure \"Scheduled Digest\" is off in youtube settings and your notifications sounds are correct and set.\n\nYou can try using \"notification manager\" app which keeps track of all your notification at one place so in case if you are dismissing your notifications, you can access the same again from that app."
 				}
 			]
