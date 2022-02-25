@@ -54,7 +54,7 @@
 					"content": "There are 2 solutions available. \n\n 1. Clear app data of manager > Turn internet off > Open manager app > Turn the internet on. \n\n2. For users with RTL languages set on the device, please update your vanced manager to 2.6.0 from our official vanced website."
 				},
 				{
-					"title": "INSTALL_FAILED_INVALID_APK: No packages staged or vanced manager gets stuck at \"Please be patient\" screen, do this",
+					"title": "УСТАЛЁЎКА_СКОНЧАНА_НЯПРАВІЛЬНЫ_APK: Пакеты не усталёўваюцца ці vanced manager затрымліваецца на \"Калі ласка, будзьце цярплівыя\", зрабіце гэта",
 					"content": "Install the stock YouTube app from the play store then update vanced over it using vanced manager. Make sure you have the latest release of vanced manager from our [official website](https://vancedapp.com) and 21.4+ of magisk"
 				},
 				{
@@ -130,11 +130,11 @@
 			"description": "If the root version of YouTube Vanced/ YouTube Music Vanced is disappearing/uninstalling/reverting back to stock on reboot,\n\nWe have 2 solutions available for you:",
 			"fields": [
 				{
-					"title": "Solution 1",
-					"content": "Switch to the non-root version."
+					"title": "Рашэнне 1",
+					"content": "Пераключыцеся на non-root версію."
 				},
 				{
-					"title": "Solution 2",
+					"title": "Рашэнне 2",
 					"content": "REQUIREMENTS: Vanced Manager 2.2.0 or newer\n\n 1. Open Vanced manager and go to settings and find Root Script Sleep Time (you should be on root mode for this option to appear).\n\n2. Then set the value to 2 > hit save, reboot and see if Vanced/Music still disappear. If they still disappear try adjusting the value until they stick after reboot"
 				}
 			]
@@ -144,7 +144,7 @@
 			"description": "If you are using a Samsung device and facing huge battery drain/overheating issues, then you are at the right spot!\n The error is not caused by vanced but is caused by Samsung's built-in Game booster app and its services. It somehow detects vanced as a game and starts boosting it for better performance which it doesn't need.\n Sadly you can only fix this issue if you have root or a PC.\n",
 			"fields": [
 				{
-					"title": "Prerequisites",
+					"title": "Перадумовы",
 					"content": "You will need\n\n• EITHER a PC with adb set up OR\n • A rooted phone"
 				},
 				{
@@ -162,11 +162,11 @@
 			"description": "If you are seeing ads in YouTube Vanced or Vanced Music, please read this below:\n\nThe home screen and search ads (added by Google) are region-specific and will not be displayed if you are not in the region where they are active. Those advertisements were not added in any way by the Vanced team, so if you pointed a finger at us, we would laugh at you. \n\n With the v16 release, the advertisements have been fully removed. If you happen to see them in your app, please turn off any toggles you turned on mistake relating to ad removal from the vanced settings menu. You can also try clearing data and see if it resolves. When using the cast feature, note that vanced won't block ads while casting."
 		},
 		{
-			"title": "History",
+			"title": "Гісторыя",
 			"description": "If you are facing issues where videos watched/search results are not getting recorded by Vanced i.e., history being not working, this is how you get the history working:\n\n• For users who are rooted regardless of which variant (Non-Root or Root) you are using,\n\n Make sure you whitelist *s.youtube.com in your Ad-Blocker.\n\n> ⚠️NOTE for Adaway users: If whitelisting the URL didn't work for you, tap on \"host sources\" and untick \"stevenblack\" and apply, then reboot and your history will work.⚠️\n\n• For Non-Root users:\n\n Make sure you're on v14.10.53 or higher for the app to save your watch history. If history still doesn't update, then you need to merge your brand account in [YouTube Settings](https://www.youtube.com/account_advanced) to get history working. (Merging process will clean the current history.)\n\n> ⚠️NOTE for Adaway users using VPN Ad-Blocking instead of root based Ad-Blocking: If you are not using brand account, make sure to whitelist *s.youtube.com url in allowed list then apply the changes.⚠️"
 		},
 		{
-			"title": "APP loading issues",
+			"title": "Памылкі загрузкі праграмы",
 			"fields": [
 				{
 					"title": "If Vanced got stuck on splash screen, do this;",
@@ -179,11 +179,11 @@
 			]
 		},
 		{
-			"title": "Picture-in-Picture issues",
+			"title": "Памылкі \"Карцінка ў карцінке\" (PiP)",
 			"description": "⚠️Please don't report PIP related issues.⚠️\n\n• PIP is managed by the Android system because YouTube uses native PIP, and the same is true for YouTube Vanced. Other apps (such as MX Player, VLC, and others) make use of a custom-made PIP. As a result, any problems with PIP should be reported to Google instead.\n\n• PIP is available for android 8 and above only.\n\n• To enable PIP, Open YT app settings > general > enable pip\n\n> To enable pip in MIUI, you have to make sure this setting is on:\nPrivacy protection->manage->special app accesss->picture-in-picture"
 		},
 		{
-			"title": "App download issues",
+			"title": "Памылкі спампоўкі прыкладання",
 			"fields": [
 				{
 					"title": "If you are having trouble downloading vanced files using vancedapp.com or can't open our site due to server/region restrictions",
@@ -235,19 +235,19 @@
 				},
 				{
 					"title": "INSTALL_FAILED_NO_MATCHING_ABIS",
-					"content": "Download legacy version instead of default"
+					"content": "Спампуйце старэйшую версію, а не стандартную"
 				},
 				{
-					"title": "INSTALL_FAILED_INVALID_APK: Split config.en was defined multiple times",
-					"content": "Try removing one split_config.en apk from apks file then install\n(Apks file is just a zip file so you can easily remove the apk from it)"
+					"title": "УСТАЛЁЎКА_СКОНЧАНА_НЯВЕРНЫ_APK: Split config.en быў вызначаны некалькі разоў",
+					"content": "Паспрабуйце выдаліць адзін apk split_config.en з файла apks, а затым усталюйце\n(файл Apks - гэта проста файл zip, таму вы можаце лёгка выдаліць з яго APK)"
 				},
 				{
-					"title": "INSTALL_FAILED_DUPLICATE_PERMISSION",
-					"content": "Uninstall microG > reboot > install vanced via sai > install microG\n\nIf microG doesn't install, install microG too via SAI."
+					"title": "УСТАЛЁЎКА_СКОНЧАНА_ЗНОЙДЗЕНЫ_ДУБЛІКАТ",
+					"content": "Выдаліце microG > перазагрузка > усталюйце Vanced праз SAI > усталюйце microG. Калі microG не усталёўваецца, усталюйайце яго праз SAI."
 				},
 				{
-					"title": "Unable to install the app because it conflicts with an already installed app with same package name",
-					"content": "Uninstall microG > reboot > install vanced via sai > install microG via apk package installer\nIf microG doesn't install, install microG too via SAI."
+					"title": "Немагчыма ўсталяваць праграму, бо яна канфліктуе з ужо ўсталяванай праграмай у якой супадае назва пакета",
+					"content": "Выдаліце microG > перазагрузка > усталюйце Vanced праз SAI > усталюйце microG праз усталёўшчык. Калі microG не усталёўваецца, усталюйце яго праз SAI таксама."
 				},
 				{
 					"title": "ПРАГРАМА НЕСУМЯШЧАЛЬНАЯ З ГЭТАЙ ПРЫЛАДАЙ",
