@@ -2,22 +2,22 @@
 	"data": [
 		{
 			"title": "Базавыя праблемы",
-			"description": "A) Wipe data and cache of \n\n(I) Vanced/Vanced Music and microG for Non-Root Variant\n\n (II) Vanced/Vanced Music and Google Play Services for Root Variant\n\nB) Reinstall YouTube Vanced\n\n> IMPORTANT NOTICE: Reboot between processes"
+			"description": "A) Ачысціце даныя і кэш \n\n(I) Vanced/Vanced Music і microG для Non-Root варыянта\n\n (II) Vanced/Vanced Music і Google Play Services для Root варыянта\n\nB) Пераўсталюйце YouTube Vanced\n\n> ВАЖНАЯ ЗАЎВАГА: Перазагрузіце прыладу паміж працэсамі"
 		},
 		{
 			"title": "Праблемы з уваходам",
-			"description": "Below are some of the common errors with their screenshots so that you can get to know which solution you have to follow.",
+			"description": "Ніжэй прыведзены некаторыя з распаўсюджаных памылак з іх скрыншотамі, каб вы маглі даведацца, якое рашэнне вам трэба прытрымлівацца.",
 			"fields": [
 				{
-					"title": "If you're getting an error saying \"please check your internet connection\"",
-					"content": "Please follow this video guide: https://youtu.be/S5sTXRTrD5Y. Try clearing microG's app data too."
+					"title": "Калі з'яўляецца памылка \"Калі ласка, праверце падключэнне да інтэрнэту\"",
+					"content": "Калі ласка, прытрымлівайцеся гэтай інструкцыі: https://youtu.be/S5sTXRTrD5Y. Паспрабуйце таксама ачысціць даныя microG."
 				},
 				{
-					"title": "If you are facing issues relating to login saying, \"You're offline, explore downloads\"",
-					"content": "1. Clear DATA of both Vanced microG and Google Play services\n2. UNINSTALL both \"Vanced microG\" and Vanced.\n\n3. Reboot if you want.\n\n4. Reinstall both APKs[microG and Vanced) but make sure you install microG before you install Vanced. Install via Vanced Manager or sai using files provided in #installation note in group\n\n5. Now login.\n\nNOTE: If you're still having issues with Vanced giving connection errors (even after installing microG first), receiving notifications, etc, make sure you disable battery optimization for the Vanced and microG app. \n\nInstructions to do so vary on your device manufacturer. You can follow guides like https://dontkillmyapp.com or search it up."
+					"title": "Калі ў вас з'явілася памылка пры ўваходзе «Вы ў аўтаномным рэжыме, даследуйце загрузкі»",
+					"content": "1. Ачысціце ДАННЫЯ Vance microG і Google Play\n2. ВЫДАЛІЦЕ «Vanced microG» і Vanced.\n\n3. Перазагрузіце прыладу, калі жадаеце.\n\n4. Пераўсталюйце абодва APK [microG і Vanced), але пераканайцеся, што вы ўсталявалі microG перад устаноўкай Vanced. Усталюйце праз Vanced Manager або SAI, выкарыстоўваючы файлы, прадстаўленыя ў запісу #усталёўка ў групе\n\n5. Цяпер увайдзіце.\n\nУВАГА. Калі ў вас па-ранейшаму ўзнікаюць праблемы з Vanced, выдаючы памылкі падключэння (нават пасля першай устаноўкі microG), атрымліваць апавяшчэнні і г.д., пераканайцеся, што вы адключылі аптымізацыю батарэі для прыкладання Vanced і microG.\n\nІнструкцыі могуць адрозніваюцца ў залежнасці ад прылады. Вы можаце прытрымлівацца інструкцыям, такім як https://dontkillmyapp.com, або шукаць у ім."
 				},
 				{
-					"title": "If you are getting an error that says \"Trouble connecting to Google servers\", please do either of the following to fix the issue.",
+					"title": "Калі вы атрымліваеце памылку \"Праблема з падключэннем да сервераў Google\", выканайце адно з наступных дзеянняў, каб выправіць праблему.",
 					"content": "1. Uninstall vanced microG and reinstall it again.\n\n2. Use the Huawei spoof button within microG sign-in page."
 				},
 				{
@@ -29,20 +29,20 @@
 					"content": "1. Log into your Gsuite account [admin console](https://admin.google.com/)\n\n2. Search for device management\n\n3. Go to setup and disable \"Mobile Management\"\n\n4. That's it and it will get fixed."
 				},
 				{
-					"title": "Huawei workaround 1",
-					"content": "Use the Huawei spoof button when signing in with latest available vanced microG using vanced manager."
+					"title": "Акружэнне Huawei 1",
+					"content": "Выкарыстоўвайце кнопку падману Huawei пры ўваходзе ў сістэму з апошняй даступнай праграмай Vanced microG з дапамогай мэнэджара Vanced."
 				},
 				{
-					"title": "Huawei workaround 2",
-					"content": "For those who updated microG to most recent version but now are facing login issues\n\n1. Uninstall current installed Vanced microG.\n\n2. Download \"Vanced microG 0.2.12 version\" from [vanced microG GitHub page](https://github.com/YTVanced/VancedMicroG/releases/download/v0.2.12/microg.apk)\n\n3. You should be able to login now."
+					"title": "Акружэнне Huawei 2",
+					"content": "Для тых, хто абнавіў microG да апошняй версіі, але цяпер сутыкаецца з праблемамі ўваходу ў сістэму\n\n1. Выдаліце ўсталяваны Vanced microG.\n\n2. Спампуйце «Vanced microG 0.2.12 версію» са [старонкі Vanced microG GitHub] (https://github.com/YTVanced/VancedMicroG/releases/download/v0.2.12/microg.apk)\n\n3. Зараз вы можаце увайсці ў сістэму."
 				},
 				{
-					"title": "Huawei workaround 3",
-					"content": "1. Uninstall both vanced and microG if you already installed. Then reinstall only microG(latest available)\n\n2. Then open microG app settings\n\n3. Turn off both \"Google Cloud Messaging\" and \"Google device registration\".\n\n4. Add your account through microG itself.\n\n5. Then install Vanced."
+					"title": "Акружэнне Huawei 3",
+					"content": "1. Выдаліце ўсталёванныя Vanced і microG. Затым пераўсталюйце толькі microG (апошняя даступная)\n\n2. Затым адкрыйце налады праграмы microG\n\n3. Выключыце «Google Cloud Messaging» і «рэгістрацыю прылады Google».\n\n4. Дадайце ўліковы запіс праз сам microG.\n\n5. Затым усталюйце Vanced."
 				},
 				{
-					"title": "Huawei workaround 4",
-					"content": "1. First, install the old Vanced microG version{particularly microg_YouTube_Vanced_0.2.4-105_16052019_2.apk using [this link](https://www.mediafire.com/file/4mw2q6ajq85g2io/microg_YouTube_Vanced_0.2.4-105_16052019_2.apk/file)}. Make sure to uninstall the current version to install the above version and save the latest APK file as you will be needing it later.\n\n2. Then open YouTube Vanced and try logging in again until it shows the error message. Try to reload it by tapping the error message. \n\n3. Now install the newer microG version again and restart vanced. It should be logged in again and everything should work again.\n\nNOTE: Now make sure u disable battery optimization for both microG and vanced using https://dontkillmyapp.com otherwise your device software might kill microG and you might have to repeat all above steps again to fix login."
+					"title": "Акружэнне Huawei 4",
+					"content": "1. Спачатку ўсталюйце старую версію Vanced microG {напрыклад, microg_YouTube_Vanced_0.2.4-105_16052019_2.apk з дапамогай [гэтай спасылкі](https://www.mediafire.com/file/4mw2q6ajq85g2io/microg_YouTube_0.2.5k). Абавязкова выдаліце бягучую версію, каб усталяваць вышэйпаказаную версію, і захавайце апошні файл APK, бо ён вам спатрэбіцца пазней.\n\n2. Затым адкрыйце YouTube Vanced і паспрабуйце ўвайсці яшчэ раз, пакуль не з'явіцца паведамленне пра памылку. Паспрабуйце перазагрузіць яго, націснуўшы на паведамленне пра памылку.\n\n3. Цяпер зноў усталюйце новую версію microG і перазапусціце Vanced. Ён павінен быць зарэгістраваны зноў, і ўсё павінна працаваць зноў.\n\nУВАГА: Цяпер пераканайцеся, што вы адключылі аптымізацыю батарэі як для microG і Vanced з дапамогай https://dontkillmyapp.com, інакш праграмнае забеспячэнне прылады можа забіць microG, і вам, магчыма, прыйдзецца паўтарыць усе крокі яшчэ раз, каб выправіць уваход."
 				}
 			]
 		},
@@ -72,11 +72,11 @@
 			"description": "This happens to users with OneUI and Oxygen OS when they update their system from android 10 to android 11, some custom ROMs faced it too,\n\nHence we have 3 solutions available for you",
 			"fields": [
 				{
-					"title": "If you are not rooted, use ADB",
+					"title": "Калі ў вас няма root, выкарыстоўвайце ADB",
 					"content": "1. Install Android Debug Bridge using this [Guide](https://www.xda-developers.com/install-adb-windows-macos-linux). \n\n2. Unlock your phone. \n\n3. Enable Developer Mode (tap 10 times on Build number in Settings - About phone -Software information). \n\n4. Enable USB debugging in Settings - Developer options. \n\n5. Connect your phone to PC. \n\n6. Open Command Prompt (CMD) and change directory: \"cd C:/Windows/adb/\" and press Enter. \n\n7. As your phone is connected and CMD is open, in CMD run command \"adb devices\". There will be a prompt on your phone, something like \"Would you like to connect your phone to PC?\" Press Yes. \n\n8. Run cmd command \"adb uninstall com.vanced.android.youtube\". \n\n9. After this you may install Vanced Manager and install the latest version of YouTube Vanced"
 				},
 				{
-					"title": "If you are rooted,",
+					"title": "Калі ў вас ёсць root,",
 					"content": "1. Use root explorer and navigate to root storage. \n\n2. Then find this folder when you are installing YT Vanced  \"data/app/com.vanced.android.youtube-....\" or when you are installing YT Music \"com.vanced.android.apps.youtube.music-....\"  \n\n3. If you found such folders, just delete them then continue installing YT Vanced or YT music via Vanced Manager."
 				},
 				{
@@ -90,7 +90,7 @@
 			]
 		},
 		{
-			"title": "Notification fix",
+			"title": "Выпраўленне апавяшчэнняў",
 			"description": "For fixing notification on both non-root or root varaints, see below",
 			"fields": [
 				{
