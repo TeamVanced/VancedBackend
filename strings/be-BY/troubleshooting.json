@@ -1,11 +1,11 @@
 {
 	"data": [
 		{
-			"title": "Basic troubleshooting",
+			"title": "Базавыя праблемы",
 			"description": "A) Wipe data and cache of \n\n(I) Vanced/Vanced Music and microG for Non-Root Variant\n\n (II) Vanced/Vanced Music and Google Play Services for Root Variant\n\nB) Reinstall YouTube Vanced\n\n> IMPORTANT NOTICE: Reboot between processes"
 		},
 		{
-			"title": "Login issues",
+			"title": "Праблемы з уваходам",
 			"description": "Below are some of the common errors with their screenshots so that you can get to know which solution you have to follow.",
 			"fields": [
 				{
