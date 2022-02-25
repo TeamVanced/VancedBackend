@@ -29,19 +29,19 @@
 					"content": "1. Увайдзіце ў свой уліковы запіс Gsuite [кансоль адміністратара](https://admin.google.com/)\n\n2. Пошук кіравання прыладамі\n\n3. Перайдзіце да наладжвання і адключыце «Кіраванне прыладай»\n\n4. Гэта ўсё."
 				},
 				{
-					"title": "Акружэнне Huawei 1",
+					"title": "Шлях для Huawei 1",
 					"content": "Выкарыстоўвайце кнопку падману Huawei пры ўваходзе ў сістэму з апошняй даступнай праграмай Vanced microG з дапамогай мэнэджара Vanced."
 				},
 				{
-					"title": "Акружэнне Huawei 2",
+					"title": "Шлях для Huawei 2",
 					"content": "Для тых, хто абнавіў microG да апошняй версіі, але цяпер сутыкаецца з праблемамі ўваходу ў сістэму\n\n1. Выдаліце ўсталяваны Vanced microG.\n\n2. Спампуйце «Vanced microG 0.2.12 версію» са [старонкі Vanced microG GitHub] (https://github.com/YTVanced/VancedMicroG/releases/download/v0.2.12/microg.apk)\n\n3. Зараз вы можаце увайсці ў сістэму."
 				},
 				{
-					"title": "Акружэнне Huawei 3",
+					"title": "Шлях для Huawei 3",
 					"content": "1. Выдаліце ўсталёванныя Vanced і microG. Затым пераўсталюйце толькі microG (апошняя даступная)\n\n2. Затым адкрыйце налады праграмы microG\n\n3. Выключыце «Google Cloud Messaging» і «рэгістрацыю прылады Google».\n\n4. Дадайце ўліковы запіс праз сам microG.\n\n5. Затым усталюйце Vanced."
 				},
 				{
-					"title": "Акружэнне Huawei 4",
+					"title": "Шлях для Huawei 4",
 					"content": "1. Спачатку ўсталюйце старую версію Vanced microG {напрыклад, microg_YouTube_Vanced_0.2.4-105_16052019_2.apk з дапамогай [гэтай спасылкі](https://www.mediafire.com/file/4mw2q6ajq85g2io/microg_YouTube_0.2.5k). Абавязкова выдаліце бягучую версію, каб усталяваць вышэйпаказаную версію, і захавайце апошні файл APK, бо ён вам спатрэбіцца пазней.\n\n2. Затым адкрыйце YouTube Vanced і паспрабуйце ўвайсці яшчэ раз, пакуль не з'явіцца паведамленне пра памылку. Паспрабуйце перазагрузіць яго, націснуўшы на паведамленне пра памылку.\n\n3. Цяпер зноў усталюйце новую версію microG і перазапусціце Vanced. Ён павінен быць зарэгістраваны зноў, і ўсё павінна працаваць зноў.\n\nУВАГА: Цяпер пераканайцеся, што вы адключылі аптымізацыю батарэі як для microG і Vanced з дапамогай https://dontkillmyapp.com, інакш праграмнае забеспячэнне прылады можа забіць microG, і вам, магчыма, прыйдзецца паўтарыць усе крокі яшчэ раз, каб выправіць уваход."
 				}
 			]
@@ -197,23 +197,23 @@
 		},
 		{
 			"title": "Detach from market",
-			"description": "You can use any of the workarounds listed below to remove the YouTube app from the market.",
+			"description": "Вы можаце выкарыстоўваць адзін з абыходных шляхоў з спісу ніжэй, каб выдаліць прыкладанне YouTube з крамы.",
 			"fields": [
 				{
-					"title": "Workaround 1(Recommended)",
+					"title": "Аьыходны шлях 1 (Рэкамендаваны)",
 					"content": "\n\nUsing [TeMiFi app](https://forum.xda-developers.com/t/app-tool-temefi-comprehensive-system-administration.3806260), Make sure the YouTube Vanced is a user app as this method won't work if Vanced is installed as a system app.\n\n1. Open TeMiFi app and Give root permissions. \n\n2. Tap on Application info and tap on Detach package from play store option. \n\n3. Tap on DETACH: Select package then protection level v5 \n\n4. Select YouTube with package name \"com.google.android.youtube\" \n\n5. Tap on 3. Invalidate the data, block any attempt.... \n\n6. Yes, I accept full responsibility \n\n7. Proft!"
 				},
 				{
-					"title": "Workaround 2",
+					"title": "Абходны шлях 2",
 					"content": "\n\nUsing Titanium backup app(needs pro version)\n\n1. Open titanium backup \n\n2. Search for youtube and Click on it \n\n3. Swipe left to access special features \n\n4. Click on Attach to market \n\n5. Then again go to special features \n\n6. Click on \"detach from market\" \n\n7. Done"
 				},
 				{
-					"title": "Workaround 3",
+					"title": "Абходны шлях 3",
 					"content": "NOTE: Auto-Updates must be disabled in play store before doing this.\n\n1. Create \"Detach.txt\" in the following location /sdcard/ (equivalent to /storage/emulated/0/) write \"YouTube\" in that text file without quotes. You can also download the Detach.txt from Magisk module name Detach and remove the # in front of YouTube.\n\n2. Flash Detach module in Magisk manager.\n\n3. Flash Daily Job Scheduler (djs) in Magisk manager.\n\n4. Reboot\n\n5. Open Terminal and type \"su -c detach -t\" and set it to run once every hour.\n\n6. Done!\n\nPlay Store updates its database file on a random rhythm, sometimes several times a day. Once in a while (like once every two weeks), Play Store will show an update for Youtube, but it will go away when the script has run again by djs."
 				},
 				{
-					"title": "Workaround 4",
-					"content": "Switch to Non-Root variant of Vanced. This workaround should only be used as a last resort if all of the other options fail!"
+					"title": "Абходны шлях 4",
+					"content": "Пераключыцеся на Non-Root варыянт Vanced. Гэты абыходны шлях варта выкарыстоўваць толькі ў крайнім выпадку, калі ўсе іншыя варыянты не працуюць!"
 				}
 			]
 		},
@@ -223,7 +223,7 @@
 			"fields": [
 				{
 					"title": "INSTALL_FAILED_VERSION_DOWNGRADE",
-					"content": "Uninstall stock yt updates. Make sure Stock YouTube version is lower than vanced version you are installing now."
+					"content": "Выдаліце стокавыя YT абнаўленні. Убядзіцеся, што стандартнае прыкладанне YouTube меньш, чым версія Vanced, якую вы усталёўваеце зараз."
 				},
 				{
 					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
@@ -250,7 +250,7 @@
 					"content": "Uninstall microG > reboot > install vanced via sai > install microG via apk package installer\nIf microG doesn't install, install microG too via SAI."
 				},
 				{
-					"title": "APP IS INCOMPATIBLE WITH THIS DEVICE",
+					"title": "ПРАГРАМА НЕСУМЯШЧАЛЬНАЯ З ГЭТАЙ ПРЫЛАДАЙ",
 					"content": "Download the legacy architecture files when downloading vanced files from official vanced mirrors instead of default architecture."
 				},
 				{
@@ -284,20 +284,20 @@
 			"description": "У англейскай гэта завецца \"restricted mode\"\nУ арабскай гэта завецца \"وضع تقييد المحتوى\"\n\nTo solve issue of lesser search results, do this\n\n1. Перайдзіце ў налады > Агульныя\n\n2. Знайдзіце \"restricted mode\" і адключыце яго.\n\nКалі вы з адной з краін, якія Google не падабаюцца, выкарыстоўвайце VPN."
 		},
 		{
-			"title": "View count change",
-			"description": "To change the view count from crores/lakhs to millions, do this:\n\n\nSolution:\n\n1. Go to settings (of your phone)\n\n2. Go to system \n\n3. Go to language preferences\n\n4. Add a language as English (US) \n\n5. Drag this language above your current one.\n\n6. Go to youtube and enjoy ⚡\n\nThanks to @ROG_OK from telegram Vanced group for finding the fix."
+			"title": "Змяненне колькасці праглядаў",
+			"description": "Каб змяніць колькасць праглядаў з крор/лакхаў на мільёны, зрабіце гэта:\n\n\nРашэнне:\n\n1. Перайдзіце ў налады (свайго тэлефона)\n\n2. Перайсці ў сістэму\n\n3. Перайсці да моўных налад\n\n4. Дадайце мову як англійскую (ЗША)\n\n5. Перацягніце гэтую мову вышэй за бягучую.\n\n6. Зайдзіце на youtube і атрымлівайце асалоду ад прагляду⚡\n\nДзякуй @ROG_OK з Telegram суполкі Vanced за пошук выпраўлення."
 		},
 		{
 			"title": "Субцітры",
 			"description": "\n\n If you face caption issues such as random subtitles of different languages on an english video, here's what you have to do; \n\n1. Open browser and go to youtube desktop site. If you are on a mobile, tap on \"Request desktop website\". \n\n2. Now tap on your profile icon from top right corner and tap on Settings. \n\n3. Then head to \"Playback and performance\" and uncheck the \"Always show captions\" box. \n\n4. Close browser and go to YouTube Vanced app info and clear cache(not data) [not sure if this is necessary, just writing what i did to fix it for myself] \n\n5. Then open YouTube app and go to settings > captions > set Language to default if it's not. Otherwise skip this step. \n\n6. Auto captions will be fixed"
 		},
 		{
-			"title": "HDR brightness Workaround",
+			"title": "Шлях для HDR яркасці",
 			"description": "Use the swiping features to turn the brightness to its maximum."
 		},
 		{
 			"title": "Памылкі налад",
-			"description": "Turn off your fingerprint scanner and go to the settings to configure it; once finished, turn it back on. It will not crash again unless you restart your device."
+			"description": "Адключыце сканер адбітку пальца і перайдзіце ў налады, каб змяніць. Як толькі скончыце, уключыце яго зноў. Ён не будзе зноў выходзіць з ладу, пакуль вы не перазагрузіце прыладу."
 		}
 	]
 }
