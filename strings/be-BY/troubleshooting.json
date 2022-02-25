@@ -18,15 +18,15 @@
 				},
 				{
 					"title": "Калі вы атрымліваеце памылку \"Праблема з падключэннем да сервераў Google\", выканайце адно з наступных дзеянняў, каб выправіць праблему.",
-					"content": "1. Uninstall vanced microG and reinstall it again.\n\n2. Use the Huawei spoof button within microG sign-in page."
+					"content": "1. Выдаліце Vanced microG і ўсталюйце іх зноў.\n\n2. Выкарытсоўвайце Huawei spoof кнопку на старонцы ўваходу microG."
 				},
 				{
-					"title": "If Vanced logs out of your Google account",
-					"content": "It happens because your device OS' heavy battery optimization killing microG services/activities which are responsible for logins.\n\nTo fix this, disable battery optimization for microG using https://dontkillmyapp.com OR searching it up"
+					"title": "Калі Vanced не захоўвае ваш уліковы запіс Google",
+					"content": "Гэта адбываецца таму, што моцная аптымізацыя акумулятара вашай АС прылады забівае паслугі/дзеянні microG, якія адказваюць за ўваход у сістэму.\n\nКаб выправіць гэта, адключыце аптымізацыю батарэі для microG з дапамогай https://dontkillmyapp.com ці з дапамогай пошуку"
 				},
 				{
-					"title": "For users who are using Gsuite account on Non-Root version of vanced and facing connection issues frequently (errors like \"You are offline\", \"Please check your internet\", etc)",
-					"content": "1. Log into your Gsuite account [admin console](https://admin.google.com/)\n\n2. Search for device management\n\n3. Go to setup and disable \"Mobile Management\"\n\n4. That's it and it will get fixed."
+					"title": "Для карыстальнікаў, якія выкарыстоўваюць уліковы запіс Gsuite у Non-Root версіі Vanced і часта сутыкаюцца з праблемамі з падключэннем (памылкі «Вы па-за сеткай», «Праверце свой Інтэрнэт» і г. д.)",
+					"content": "1. Увайдзіце ў свой уліковы запіс Gsuite [кансоль адміністратара](https://admin.google.com/)\n\n2. Пошук кіравання прыладамі\n\n3. Перайдзіце да наладжвання і адключыце «Кіраванне прыладай»\n\n4. Гэта ўсё."
 				},
 				{
 					"title": "Акружэнне Huawei 1",
@@ -73,47 +73,47 @@
 			"fields": [
 				{
 					"title": "Калі ў вас няма root, выкарыстоўвайце ADB",
-					"content": "1. Install Android Debug Bridge using this [Guide](https://www.xda-developers.com/install-adb-windows-macos-linux). \n\n2. Unlock your phone. \n\n3. Enable Developer Mode (tap 10 times on Build number in Settings - About phone -Software information). \n\n4. Enable USB debugging in Settings - Developer options. \n\n5. Connect your phone to PC. \n\n6. Open Command Prompt (CMD) and change directory: \"cd C:/Windows/adb/\" and press Enter. \n\n7. As your phone is connected and CMD is open, in CMD run command \"adb devices\". There will be a prompt on your phone, something like \"Would you like to connect your phone to PC?\" Press Yes. \n\n8. Run cmd command \"adb uninstall com.vanced.android.youtube\". \n\n9. After this you may install Vanced Manager and install the latest version of YouTube Vanced"
+					"content": "1. Усталюйце Android Debug Bridge з дапамогай гэтага [Guide] (https://www.xda-developers.com/install-adb-windows-macos-linux).\n\n2. Разблакіруйце вашу прыладу.\n\n3. Уключыце рэжым распрацоўшчыка (націсніце 10 разоў на Нумар зборкі ў Наладах - Аб прыдзе - Інфармацыя аб праграмным забеспячэнні).\n\n4. Уключыце адладку USB у Наладах - Параметры распрацоўшчыка.\n\n5. Падключыце тэлефон да ПК.\n\n6. Адкрыйце камандны радок (CMD) і змяніце каталог: «cd C:/Windows/adb/» і націсніце Enter.\n\n7. Калі ваш тэлефон падлучаны і CMD адкрыты, у CMD запусціце каманду «adb devices». На вашым тэлефоне з'явіцца падказка накшталт \"Ці хочаце вы падключыць вашу прыладу да ПК?\" Націсніце Так.\n\n8. Выканайце каманду cmd «adb uninstall com.vanced.android.youtube»"
 				},
 				{
 					"title": "Калі ў вас ёсць root,",
-					"content": "1. Use root explorer and navigate to root storage. \n\n2. Then find this folder when you are installing YT Vanced  \"data/app/com.vanced.android.youtube-....\" or when you are installing YT Music \"com.vanced.android.apps.youtube.music-....\"  \n\n3. If you found such folders, just delete them then continue installing YT Vanced or YT music via Vanced Manager."
+					"content": "1. Выкарыстоўвайце root explorer і перайдзіце да root сховішча.\n\n2. Затым знайдзіце гэтую папку, калі вы ўсталюеце YT Vanced \"data/app/com.vanced.android.youtube-...\" або калі для YT Music \"com.vanced.android.apps.youtube.music-....\"\n\n3. Калі вы знайшлі такія папкі, проста выдаліце іх, а затым працягвайце ўсталёўваць YT Vanced або музыку YT праз Vanced Manager."
 				},
 				{
-					"title": "This solution is for YouTube Music Vanced only, not for YouTube Vanced",
-					"content": "Try manually updating YouTube Music Vanced through the APK file using [this link](https://mega.nz/folder/QRcy1byC#44ZDhjXm9iLr-PlCIEYtqg)."
+					"title": "Гэта рашэнне толькі для YouTube Music Vanced, не для YouTube Vanced",
+					"content": "Паспрабуйце ўручную абнавіць YouTube Music Vanced праз файл APK з дапамогай [гэтай спасылкі](https://mega.nz/folder/QRcy1byC#44ZDhjXm9iLr-PlCIEYtqg)."
 				},
 				{
-					"title": "If both of the above methods fail",
-					"content": "Apparently, doing a factory reset can fix this error. Do this at last resort."
+					"title": "Калі абодва метаду не ўдаюцца",
+					"content": "Мабыць, скід да заводскіх налад можа выправіць гэтую памылку. Зрабіце гэта ў крайнім выпадку."
 				}
 			]
 		},
 		{
 			"title": "Выпраўленне апавяшчэнняў",
-			"description": "For fixing notification on both non-root or root varaints, see below",
+			"description": "Для выпраўлення апавяшчэнняў на абодвух варыянтах, глядзіце ніжэй",
 			"fields": [
 				{
 					"title": "Для Non-Root варыянта",
-					"content": "1. Install Vanced microG first then YouTube Vanced.\n\n2. Login with your Google account\n\n3. Disable battery optimization for Vanced microG(the guide dontkillmyapp.com is suggested).\n\n4. Open \"Vanced microG\" additional settings either using vanced manager or by going into application info.\n\n5. Then continue on with this [guide](https://youtu.be/Q-5YFmFWVok)."
+					"content": "1. Спачатку ўсталюйце Vanced microG, а потым YouTube Vanced.\n\n2. Увайдзіце са сваім уліковым запісам Google\n\n3. Адключыце аптымізацыю батарэі для Vanced microG (прапануецца кіраўніцтва dontkillmyapp.com).\n\n4. Адкрыйце дадатковыя налады «Vanced microG» з дапамогай мэнэджара vanced або ў раздзеле «Інфармацыя аб прылажэнні».\n\n5. Затым працягвайце з гэтым [guide] (https://youtu.be/Q-5YFmFWVok)."
 				},
 				{
 					"title": "Для Root варыянта",
-					"content": "Make sure \"Scheduled Digest\" is off in youtube settings and your notifications sounds are correct and set.\n\nYou can try using \"notification manager\" app which keeps track of all your notification at one place so in case if you are dismissing your notifications, you can access the same again from that app."
+					"content": "Пераканайцеся, што «Запланаваны дайджэст» выключаны ў наладах Youtube, а гукі апавяшчэнняў правільныя і настроены.\n\nВы можаце паспрабаваць выкарыстоўваць праграму «менеджэр апавяшчэнняў», якое адсочвае ўсе вашы апавяшчэнні ў адным месцы, так што ў выпадку, калі вы адхіляеце апавяшчэнні, вы можаце зноўку атрымаць доступ да гэтага прыкладання."
 				}
 			]
 		},
 		{
-			"title": "If YouTube Vanced is not showing up under Google Cloud Messaging(GCM) or it shows up as unregistered",
-			"description": "Try EITHER of the following:\n\n1. Remove your microg account from account settings. The account used by vanced has a dark grey background with G logo on it. \n\n2. Clear data of microG then login. \n\nOR\n\nIf above workaround doesn't work, reinstall vanced."
+			"title": "Калі YouTube Vancedне паказваецца ў Google Cloud Messaging(GCM) альбо паказваецца як незарэгістраваны",
+			"description": "Паспрабуйце ЛЮБОЕ з наступнага:\n\n1. Выдаліце свой уліковы запіс microG з налад уліковага запісу. Уліковы запіс, якім карыстаецца Vanced, мае цёмна-шэры фон з лагатыпам G.\n\n2. Ачысціце дадзеныя microG, затым увайдзіце ў сістэму.\n\nАБО\n\nКалі вышэйзгаданы шлях не працуе, пераўсталюйце Vanced."
 		},
 		{
-			"title": "Force closing issues",
-			"description": "If Vanced app is crashing/force closing on startup",
+			"title": "Памылка прымусовага закрыцця",
+			"description": "Калі Vanced выходзіць з ладу/прымусовае закрывацца пры запуску",
 			"fields": [
 				{
 					"title": "Nonroot",
-					"content": "1) If you installed YouTube vanced before vanced microG app, uninstall both YouTube vanced and vanced microG. Then install vanced microG first, then Vanced and vanced will stop force closing.\n\n2) If you didn't install vanced microG, please install it and force closing will stop. [Don't log in if you don't want to]"
+					"content": "1) Калі вы ўсталявалі YouTube Vanced перад праграмай Vanced microG, выдаліце YouTube Vanced і Vanced microG. Потым спачатку ўсталюеце Vanced microG, а потым Vanced і прымусовае закрыццё спыніцца.\n\n2) Калі вы не ўсталявалі Vanced microG, калі ласка, усталюйце яго,. [Не ўваходзьце ў сістэму, калі не хочаце]"
 				},
 				{
 					"title": "Root",
@@ -272,23 +272,23 @@
 			]
 		},
 		{
-			"title": "Live-Stream issues",
-			"description": "Solution: Follow this guide > https://youtu.be/R9asMVCQkAU. Also, disable your external ad-blockers/vpn/proxy/custom settings in vanced. Keep stock settings if you don't wanna see any issues."
+			"title": "Памылкі з жывымі трансляцыямі",
+			"description": "Рашэнне: Прытрымлівайцеся гэтага кіраўніцтва > https://youtu.be/R9asMVCQkAU. Таксама, адключыце знешнія блакіроўшчыкі рэкламы/vpn/проксі/карыстальніцкія налады ў Vanced. Захоўвайце стандартныя налады, калі вы не жадаеце новых памылак."
 		},
 		{
-			"title": "Black screen video fix",
+			"title": "Памылка чорнага экрану",
 			"description": "Solution: clearing data of Youtube Vanced and subsequently reinstalling it should fix the issue. If it doesn't, try a Reboot &\nCheck if black screen issue solves. \n\nIf problem persist, factory reset your device or change the ROM."
 		},
 		{
-			"title": "Content Restrictions",
-			"description": "In English it is callled \"restricted mode\"\nIn arabic it is called \"وضع تقييد المحتوى\"\n\nTo solve issue of lesser search results, do this\n\n1. Go to settings > General\n\n2. Find \"restricted mode\" and turn it off.\n\nIf you're in a country that Google hates, use a vpn."
+			"title": "Абмежаванні зместу",
+			"description": "У англейскай гэта завецца \"restricted mode\"\nУ арабскай гэта завецца \"وضع تقييد المحتوى\"\n\nTo solve issue of lesser search results, do this\n\n1. Перайдзіце ў налады > Агульныя\n\n2. Знайдзіце \"restricted mode\" і адключыце яго.\n\nКалі вы з адной з краін, якія Google не падабаюцца, выкарыстоўвайце VPN."
 		},
 		{
 			"title": "View count change",
 			"description": "To change the view count from crores/lakhs to millions, do this:\n\n\nSolution:\n\n1. Go to settings (of your phone)\n\n2. Go to system \n\n3. Go to language preferences\n\n4. Add a language as English (US) \n\n5. Drag this language above your current one.\n\n6. Go to youtube and enjoy ⚡\n\nThanks to @ROG_OK from telegram Vanced group for finding the fix."
 		},
 		{
-			"title": "Captions",
+			"title": "Субцітры",
 			"description": "\n\n If you face caption issues such as random subtitles of different languages on an english video, here's what you have to do; \n\n1. Open browser and go to youtube desktop site. If you are on a mobile, tap on \"Request desktop website\". \n\n2. Now tap on your profile icon from top right corner and tap on Settings. \n\n3. Then head to \"Playback and performance\" and uncheck the \"Always show captions\" box. \n\n4. Close browser and go to YouTube Vanced app info and clear cache(not data) [not sure if this is necessary, just writing what i did to fix it for myself] \n\n5. Then open YouTube app and go to settings > captions > set Language to default if it's not. Otherwise skip this step. \n\n6. Auto captions will be fixed"
 		},
 		{
@@ -296,7 +296,7 @@
 			"description": "Use the swiping features to turn the brightness to its maximum."
 		},
 		{
-			"title": "Settings crashes",
+			"title": "Памылкі налад",
 			"description": "Turn off your fingerprint scanner and go to the settings to configure it; once finished, turn it back on. It will not crash again unless you restart your device."
 		}
 	]
