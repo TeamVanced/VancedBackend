@@ -226,12 +226,12 @@
 					"content": "Выдаліце стокавыя YT абнаўленні. Убядзіцеся, што стандартнае прыкладанне YouTube меньш, чым версія Vanced, якую вы усталёўваеце зараз."
 				},
 				{
-					"title": "INSTALL_FAILED_UPDATE_INCOMPATIBE",
-					"content": "Just uninstall any vanced app that you have installed from any other source then install vanced.  Otherwise uninstall \"vanced microG\" > reboot device > then install vanced microG first then Vanced. If error still comes, use SAI to install the vanced split apks manually. These apk files are located in \n\"android / data / com.vanced.manager / files / vanced / nonroot / \""
+					"title": "УСТАЛЁЎКА_СКОНЧАНА_АБНАЎЛЕННЕ_НЕСУМЯШЧАЛЬНА",
+					"content": "Проста выдаліце любую праграму Vanced, якую вы ўсталявалі з любой іншай крыніцы, а потым усталюйце Vanced. У іншым выпадку выдаліце \"Vanced microG\" > перазагрузіце прыладу > потым спачатку ўсталюйце Vanced microG, а потым Vanced. Калі памылка яшчэ з'яўляецца, выкарыстоўвайце SAI, каб усталяваць пашыраныя apks ўручную. Гэтыя APK файлы знаходзяцца ў \"android / data / com.vanced.manager / файлы / vanced / nonroot / \""
 				},
 				{
-					"title": "INSTALL_PARSE_FAILED_NOT_APK",
-					"content": "Change the language of your phone from Indonesian to English then install vanced. After installing, you can change language back to Indonesian. If your device isn't using Indonesian language, make sure language is properly selected in Vanced manager which you wanna install with YouTube Vanced."
+					"title": "УСТАЛЁЎКА_PARSE_СКОНЧАНА_ПАМЫЛКА",
+					"content": "Змяніце мову вашай прылады з інданэзійскай на англейскую, а потым усталюйце Vanced. Пасля усталёўкі, вы можаце змяніць мову назад. Калі ваша прылада не выкарыстоўвае інданэзійскую мову, упэўніцеся ў мове, якую вы выбралі ў Vanced Manager пры ўсталёўцы YouTube Vanced."
 				},
 				{
 					"title": "INSTALL_FAILED_NO_MATCHING_ABIS",
@@ -251,7 +251,7 @@
 				},
 				{
 					"title": "ПРАГРАМА НЕСУМЯШЧАЛЬНАЯ З ГЭТАЙ ПРЫЛАДАЙ",
-					"content": "Download the legacy architecture files when downloading vanced files from official vanced mirrors instead of default architecture."
+					"content": "Спампуйце файлы састарэлай архітэктуры пры загрузцы файлаў Vanced з афіцыйных люстэрак Vanced замест архітэктуры па змаўчанні."
 				},
 				{
 					"title": "INSTALL_PARSE_FAILED_NO_CERTIFICATES",
@@ -267,7 +267,7 @@
 				},
 				{
 					"title": "INSTALL_FAILED_INTERNAL_ERROR: Permission Denied",
-					"content": "Disable MIUI optimization from your device developer options."
+					"content": "Адключыце аптымізацыю MIUI у наладах распрацоўшчыка вашай прылады."
 				}
 			]
 		},
@@ -277,7 +277,7 @@
 		},
 		{
 			"title": "Памылка чорнага экрану",
-			"description": "Solution: clearing data of Youtube Vanced and subsequently reinstalling it should fix the issue. If it doesn't, try a Reboot &\nCheck if black screen issue solves. \n\nIf problem persist, factory reset your device or change the ROM."
+			"description": "Рашэнне: адчысціце даныя Youtube Vanced і наступная ўсталёўка павінна вырашыць праблему. Калі гэтага не адбываецца, паспрабуйце перазагрузіць і\nПраверыць, ці вырашаецца праблема з чорным экранам.\n\nКалі праблема не знікне, скіньце прыладу да заводскіх налад або змяніце ПЗУ."
 		},
 		{
 			"title": "Абмежаванні зместу",
@@ -289,11 +289,11 @@
 		},
 		{
 			"title": "Субцітры",
-			"description": "\n\n If you face caption issues such as random subtitles of different languages on an english video, here's what you have to do; \n\n1. Open browser and go to youtube desktop site. If you are on a mobile, tap on \"Request desktop website\". \n\n2. Now tap on your profile icon from top right corner and tap on Settings. \n\n3. Then head to \"Playback and performance\" and uncheck the \"Always show captions\" box. \n\n4. Close browser and go to YouTube Vanced app info and clear cache(not data) [not sure if this is necessary, just writing what i did to fix it for myself] \n\n5. Then open YouTube app and go to settings > captions > set Language to default if it's not. Otherwise skip this step. \n\n6. Auto captions will be fixed"
+			"description": "Калі вы сутыкаецеся з такімі праблемамі, як выпадковыя субтытры на розных мовах на англійскай відэа, вось што вам трэба зрабіць;\n\n1. Адкрыйце браўзер і перайдзіце на настольны сайт YouTube. Калі вы карыстаецеся мабільным тэлефонам, націсніце «Паказаць вэб-сайт для камп'ютара».\n\n2. Цяпер націсніце на значок вашага профілю ў правым верхнім куце і націсніце на Налады.\n\n3. Затым перайдзіце да «Прайграванне і прадукцыйнасць» і зніміце сцяжок «Заўсёды паказваць субцітры».\n\n4. Закрыйце браўзер і перайдзіце да інфармацыі пра праграму YouTube Vanced і ачысціце кэш (не даныя) [не ўпэўнены, ці трэба гэта, проста напісаў, што я зрабіў, каб выправіць гэта для сябе]\n\n5. Затым адкрыйце прыкладанне YouTube і перайдзіце ў налады > субцітры > усталюйце мову па змаўчанні, калі гэта не так. У адваротным выпадку прапусціце гэты крок."
 		},
 		{
 			"title": "Шлях для HDR яркасці",
-			"description": "Use the swiping features to turn the brightness to its maximum."
+			"description": "Выкарыстоўвайце жэсты, каб павярнуць яркасць на максімум."
 		},
 		{
 			"title": "Памылкі налад",
