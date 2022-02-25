@@ -254,19 +254,19 @@
 					"content": "Спампуйце файлы састарэлай архітэктуры пры загрузцы файлаў Vanced з афіцыйных люстэрак Vanced замест архітэктуры па змаўчанні."
 				},
 				{
-					"title": "INSTALL_PARSE_FAILED_NO_CERTIFICATES",
-					"content": "It seems like you didn't read instructions properly and installed vanced without disabling signature verification. or you tried some method which didn't give any positive result, so the solution to both is to disable signature verification using the best method/alternative to what you used before or just use our [vanced manager](https://vancedapp.com) which doesn't require you to disable signature verification."
+					"title": "УСТАЛЁЎКА_PARSE_СКОНЧАНА_НЯМА_СЕРТЫФІКАТАЎ",
+					"content": "Здаецца, вы няправільна прачыталі інструкцыі і ўсталявалі Vanced, не адключыўшы праверку подпісы. ці вы спрабавалі нейкі метад, які не даў ніякага станоўчага выніку, таму рашэнне абодвух - адключыць праверку подпісы з дапамогай найлепшага метаду/альтэрнатывы таму, што вы выкарыстоўвалі раней, або проста скарыстайцеся нашым [менеджарам] (https://vancedapp. com), які не патрабуе ад вас адключаць праверку подпісаў."
 				},
 				{
-					"title": "INSTALL_FAILED_INVALID_INSTALL_LOCATION",
-					"content": " Please head to your device settings > developer options and turn off \"force allow apps on external\" then install the Vanced app in SAI."
+					"title": "УСТАЛЁЎКА_СКОНЧАНА_НЯПРАВІЛЬНАЕ_МЕСЦА_УСТАЛЁЎКІ",
+					"content": "Перайдзіце ў Налады прылады > Налады распрацоўшчыка і адключыце «прымусовы дазвол на знешнія праграмы», а затым усталюйце дадатак Vanced у SAI."
 				},
 				{
-					"title": "INSTALL_FAILED_USER_RESTRICTED: Install canceled by user",
-					"content": "Unknown sources install is protected per service in your MIUI devices Please go to your device settings and enable unknown sources for SAI and issue will get solved and you will be able go install Vanced."
+					"title": "УСТАЛЁЎКА_СКОНЧАНА_ПАМЫЛКА: Усталёўка скончана карыстальнікам",
+					"content": "Усталёўка з невядомых крыніц абаронена для кожнай службы ў вашых прыладах MIUI. Калі ласка, перайдзіце ў налады прылады і ўключыце невядомыя крыніцы для SAI, і праблема будзе вырашана, і вы зможаце ўсталяваць Vanced."
 				},
 				{
-					"title": "INSTALL_FAILED_INTERNAL_ERROR: Permission Denied",
+					"title": "УСТАЛЁЎКА_СКОНЧАНА_ПАМЫЛКА: У доступе адмоўлена",
 					"content": "Адключыце аптымізацыю MIUI у наладах распрацоўшчыка вашай прылады."
 				}
 			]
