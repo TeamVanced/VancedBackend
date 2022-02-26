@@ -37,7 +37,7 @@
       "description": "Weil:\n\n1. Die normale App verwendet sie, also benutzt sie Vanced auch.\n2. Es installiert nur die Sprachen, die Sie angeben, um den Speicherverbrauch zu senken.\n3. Es verfügt über die einzige Version der Kern-APK, die Ihr Gerät benötigt.\n\nNatürlich könnten der Vanced Manager oder die Entwickler diese in eine normale, einzelne APK-Datei konvertieren, aber wir sind zu faul, das zu tun. Sie müssen nur mit dem fertig werden, was wir haben...\n\nKeine Sorge, Vanced Manager erledigt die harte Arbeit für Sie, also tippen Sie einfach auf den `Installieren` Button."
     },
     {
-      "title": "Warum ist die Farbe des Startbildschirms anders als die des dargestellten Theme?",
+      "title": "Warum passt sich die Farbe des Bildschirms beim Starten nicht dem Theme an?",
       "description": "Die Hintergrundfarbe des Startbildschirms wird aus der Android-Framework-Farbe entnommen, um sicherzustellen, dass sie sich entsprechend dem System-Theme ändert. Sie können Substratum/Swift Themes verwenden, um die Farbe zu ändern."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Dateien können aus verschiedenen Gründen beschädigt werden und können danach zu Problemen führen. Um dies zu vermeiden, können Sie sie erneut herunterladen, um sicherzustellen, dass Ihre Installation reibungslos läuft."
     },
     {
-      "title": "Warum hat die Root-Version keine Berechtigung für das Mikrofon?",
+      "title": "Warum hat die Root-Version keine Berechtigung für das Mikrofon? ",
       "description": "Hat sie schon, wenn Ihr Vanced auf dem neuesten Stand ist."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Wie setze ich YouTube Vanced als Standard-App?",
-      "description": "Wie der Titel schon sagt, haben viele Benutzer schon oft gefragt, wie man YouTube Vanced als Standard-App fürs öffnen von YouTube Links von anderen Apps (wie Internet Browsern, Kommunikations-Apps und anderen) setzt.\n\nFür die root Variante brauchen Sie sich keine Sorgen zu machen, da alles bereits schon richtig eingestellt ist, da die Stock YouTube-App durch YouTube Vanced ersetzt wird.\n\nFür die non-root Variante haben wir die Lösungen aufgeteilt in OneUI, MIUI und andere. Wir können nicht für jedes Betriebssystem eine Lösung bereitstellen, weswegen du möglicherweise selbst nach einer Lösung Googeln musst.",
+      "description": "Wie der Titel schon verrät, haben einige Nutzer die Frage, wie man YouTube Vanced as Standard-App zum Öffnen von YouTube-Links festlegen kann.\n\nRoot-Variante: Keine Sorge, YouTube Vanced ist bereits als Standard gesetzt, da es die offizielle YouTube-App ersetzt.\n\nNicht-Root-Variante: Leider unterscheidet sich die Lösung je nach Android-Variante. Im Zweifelsfall die Lösung bitte selbst ergoogeln.",
       "fields": [
         {
           "title": "OneUI Benutzer:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Warum funktioniert die root Variante nicht mit dem microG Core?",
+      "title": "Warum funktioniert die Root-Variante nicht mit microG-Core?",
       "description": "1. Sie benötigen mindestens die [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) Variante von GApps um Vanced benutzen zu können.\n\n2. Sie können Vanced mit microG nicht benutzen, ohne das Google Play Service Framework installiert zu haben, welches in allen GApps Varianten inkludiert ist, da es eine erforderliche Bibliothek ist.\n\n3. Wenn Sie besorgt sind wegen Ihrer Privatsphäre und nicht GApps verwenden wollen aber trotzdem YouTube schauen wollen ohne Werbeanzeigen, dann ist die Web Version (https://youtube.com) immer verfügbar."
     },
     {
-      "title": "Warum funktioniert Casten/Streamen nicht?",
-      "description": "Für Benutzer mit der neusten v16.16.38 Version non-root Variante gibt es einen Bug in upstream microG. Bis dieser behoben ist, warten Sie bitte auf ein Update oder installieren Sie eine v15 Version. Root Benutzer werden keine Probleme haben, solange diese die Google Play-Dienste benutzen."
+      "title": "Warum funktioniert Screencasting nicht?",
+      "description": "Für Nutzer von Version 16.16.38 und höher (sowohl Nicht-Root- als auch Root-Varianten), die Roms auf microG-Basis verwenden: Es gibt einen Fehler im microG-Upstream. Bis zur Behebung bitte auf ein Update warten oder auf ältere 15er Versionen ausweichen. Bei Nutzung von originalen Google-Play-Diensten in Verbindung mit Root-Varianten kommt es zu keinen Problemen beim Screencasting."
     },
     {
       "title": "Was ist APK Signing?",

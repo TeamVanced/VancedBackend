@@ -37,7 +37,7 @@
       "description": "大きく3つの理由があります:\n\n1. 通常版のアプリが分割 APK を使用しているため\n2. 必要な言語のみインストールするのでストレージの使用量を削減できるため\n3. デバイスが必要とする core APK は 1 種類であるため\n\nもちろん、通常の APK に変換することも技術的には可能ですが Vanced 開発者は行わないことにしています。今あるものをご活用ください。\n\nVanced Manager が手間のかかる作業をすべて行い、あなたは`Install`ボタンを押すだけでアプリをご利用いただけます。"
     },
     {
-      "title": "起動画面の色がテーマと異なるのはなぜですか？",
+      "title": "スタートアップ画面とテーマが一致しないのはなぜですか? ",
       "description": "起動画面の背景色はシステムのテーマによって決定される Android フレームワークの色が反映されています。[Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) や [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) などのアプリを利用して変更することができます。"
     },
     {
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "root 版で microG が動作しないのはなぜですか？",
+      "title": "root 版で MicroG Core が動作しないのはなぜですか？",
       "description": "1. Vanced を使用するには、GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 以上が必要です。\n\n2. GApps パッケージで利用可能な Google Play サービスフレームワークがない場合には、Vanced で microG Core を利用できません。また、ライブラリーが必要です。\n\n3. プライバシーに関する懸念があり GApps を使わずに YouTube をご覧になりたい場合は、[ウェブ版](https://youtube.com)をご利用ください。"
     },
     {
-      "title": "なぜ Cast できないのですか？",
-      "description": "最新の v16.16.38 non-root 版をお使いの場合、microG にバグがあります。 それが解決されるまでアップデートをお待ちいただくか、バージョン15にロールバックしてください。root 版ユーザーは Google Play サービスを使用している場合、Cast に問題はありません。"
+      "title": "なぜ Cast が動作しないのですか？",
+      "description": "v16.16.38 以上にアップデートすると、non-root 版ユーザーと MicroG ベースの ROM で使用している root 版のユーザーは、MicroG のバグの影響を受けます。それが解決されるまで、アップデートをお待ちいただくか、v15 にロールバックしてください。root 版 で Google Play 開発者サービスを使用している場合、Cast に問題はありません。"
     },
     {
       "title": "APK 署名とは何ですか？",

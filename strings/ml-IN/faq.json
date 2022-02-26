@@ -17,7 +17,7 @@
       "description": "വീഡിയോ ഡ download ൺ‌ലോഡുചെയ്യുന്ന സവിശേഷതകളൊന്നും വാൻ‌സിൽ‌ ഉൾ‌പ്പെടുന്നില്ല, ഒരിക്കലും ചെയ്യില്ല.\n\n[തിരഞ്ഞെടുത്ത രാജ്യങ്ങളിൽ] നിരവധി വീഡിയോകൾ സ download ജന്യമായി ഡ download ൺലോഡ് ചെയ്യാൻ ലഭ്യമാണ് (https://support.google.com/youtube/answer/6141269). ലോകത്തിന്റെ മറ്റു ഭാഗങ്ങളിൽ, ദയവായി YouTube പ്രീമിയം നേടുക.\n\nവീണ്ടും, വാൻ‌സ്ഡ് ഒരു വീഡിയോ ഡ download ൺ‌ലോഡറെ അപ്ലിക്കേഷനിലേക്കോ സമാനമായ മറ്റെന്തെങ്കിലുമോ ചേർക്കില്ല.\n\nആളുകൾ‌ അവരുടെ പ്ലാറ്റ്‌ഫോമിൽ‌ നിന്നും പകർ‌പ്പവകാശമുള്ള ഉള്ളടക്കം ഡ download ൺ‌ലോഡുചെയ്യുന്നത് Google ഇഷ്ടപ്പെടാത്തതിനാൽ‌ മുമ്പ്‌ നിരവധി YouTube മോഡുകൾ‌ ഷട്ട്ഡ to ൺ‌ ചെയ്യുന്നതിന് ഇത് കാരണമായി!!!"
     },
     {
-      "title": "സ്വൈപ്പ് സവിശേഷതകൾ പ്രവർത്തിക്കാത്തത് എന്തുകൊണ്ട്?",
+      "title": "Why don't the swipe gestures work?",
       "description": "വാൻ‌സ്ഡ് ക്രമീകരണങ്ങൾ> ലേ Layout ട്ട് ക്രമീകരണങ്ങളിൽ ചുവടെ (പഴയ സ്ഥലത്ത്) അഭിപ്രായങ്ങൾ കാണിച്ചിട്ടുണ്ടെങ്കിൽ, അത് അപ്രാപ്തമാക്കി അപ്ലിക്കേഷൻ പുനരാരംഭിക്കുക. അത് പ്രവർത്തിക്കുന്നില്ലെങ്കിൽ, അപ്ലിക്കേഷൻ നിർത്തി അതിന്റെ ഡാറ്റ മായ്‌ക്കുക."
     },
     {
@@ -37,7 +37,7 @@
       "description": "കാരണം:\n\n1. സ്റ്റോക്ക് അപ്ലിക്കേഷൻ ഇത് ഉപയോഗിക്കുന്നതിനാൽ വാൻസെഡ് അതും ഉപയോഗിക്കുന്നു.\n2. സംഭരണ ഉപഭോഗം കുറയ്ക്കുന്നതിന് നിങ്ങൾ വ്യക്തമാക്കിയ ഭാഷകൾ മാത്രമേ ഇത് ഇൻസ്റ്റാൾ ചെയ്യുകയുള്ളൂ.\n3. നിങ്ങളുടെ ഉപകരണത്തിന് ആവശ്യമായ കോർ APK- യുടെ ഏക പതിപ്പ് ഇതിന് ഉണ്ട്.\n\nതീർച്ചയായും, വാൻ‌സ്ഡ് മാനേജർ‌ അല്ലെങ്കിൽ‌ ഡവലപ്പർ‌മാർ‌ക്ക് ഇത് ഒരു സാധാരണ, ഒറ്റ APK ഫയലിലേക്ക് പരിവർത്തനം ചെയ്യാൻ‌ കഴിയും, പക്ഷേ ഞങ്ങൾ‌ അത് ചെയ്യാൻ‌ മടിയാണ്. ഞങ്ങളുടെ പക്കലുള്ളവയുമായി നിങ്ങൾ പൊരുത്തപ്പെടേണ്ടതുണ്ട്...\n\nഎന്നിരുന്നാലും വിഷമിക്കേണ്ട, വാൻ‌സ്ഡ് മാനേജർ‌ നിങ്ങൾ‌ക്കായി കഠിനാധ്വാനം ചെയ്യുന്നു, അതിനാൽ‌ `ഇൻ‌സ്റ്റാൾ‌` ബട്ടൺ‌ ടാപ്പുചെയ്യുക."
     },
     {
-      "title": "സ്റ്റാർട്ടപ്പ് സ്ക്രീനിലെ നിറം തീമിൽ നിന്ന് വ്യത്യസ്തമായിരിക്കുന്നത് എന്തുകൊണ്ട്?",
+      "title": "Why does the color in the startup screen not match the theme? ",
       "description": "സിസ്റ്റം തീം അനുസരിച്ച് മാറുന്നുവെന്ന് ഉറപ്പാക്കുന്നതിന് സ്റ്റാർട്ടപ്പ് സ്ക്രീൻ പശ്ചാത്തല വർണ്ണം Android ഫ്രെയിംവർക്ക് നിറത്തിൽ നിന്ന് എടുത്തിട്ടുണ്ട്. നിങ്ങൾക്ക് [Substratum] (https://play.google.com/store/apps/details?id=projekt.substratum) അല്ലെങ്കിൽ [സ്വിഫ്റ്റ് ഇൻസ്റ്റാളർ] (https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) അല്ലെങ്കിൽ നിറം മാറ്റുന്നതിന് സമാനമായ അപ്ലിക്കേഷൻ."
     },
     {
@@ -45,7 +45,7 @@
       "description": "വിവിധ കാരണങ്ങളാൽ ഫയലുകൾ കേടാകുകയും അതിനുശേഷം പ്രശ്നങ്ങൾ സൃഷ്ടിക്കുകയും ചെയ്യും. ഇത് ഒഴിവാക്കാൻ, നിങ്ങളുടെ ഇൻസ്റ്റാളേഷൻ സുഗമമായി നടക്കുന്നുവെന്ന് ഉറപ്പാക്കുന്നതിന് നിങ്ങൾക്ക് ഇത് വീണ്ടും ഡ download ൺലോഡ് ചെയ്യാൻ തിരഞ്ഞെടുക്കാം."
     },
     {
-      "title": "റൂട്ട് പതിപ്പിന് മൈക്രോഫോൺ അനുമതി ഇല്ലാത്തത് എന്തുകൊണ്ട്?",
+      "title": "Why doesn't the root version have Microphone permissions? ",
       "description": "നിങ്ങളുടെ വാൻ‌സ്ഡ് കാലികമാണെങ്കിൽ ഇത് ചെയ്യും."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "How to make YouTube Vanced as default app?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since official YouTube gets replaced with YouTube vanced.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
       "fields": [
         {
           "title": "OneUI users:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
+      "title": "Why doesn't the root variant work with the microG core? ",
       "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "Why doesn't casting work?",
+      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
       "title": "What is APK Signing?",

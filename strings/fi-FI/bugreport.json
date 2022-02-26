@@ -10,11 +10,11 @@
         },
         {
           "title": "Miten käytän logcatia?",
-          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Ei-root-käyttäjille:\nTarvitset tietokoneen ottaaksesi `logcat`-tulosteita. Tässä on [tekstiopas](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) ja [video-opas](https://youtu.be/ICLpwgsJJP0).\n\nRoot-käyttäjille:\nEt tarvitse tietokonetta tähän. Seuraa [ohjeita](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android) kiitos."
         },
         {
           "title": "Liittyykö bugisi käyttöliittymään?",
-          "content": "For UI-related bugs, you will have extra steps to take.\n\nPlease install and setup [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nAfter that, go to Vanced and reproduce the bug, then open the Layout viewer by triggering the Developer Assistant.\n\nNow follow these steps:\n1. Make sure the bug is showing on the screen.\n2. Tap on the element that you think is affected by the bug.\n3. Go to the `Element` and `Hierarchy` tabs and screenshot the outputs.\n4. Include those screenshots in your issue."
+          "content": "Käyttöliittymään liittyviä vikoja varten sinulla on lisäaskelia.\n\nAsenna ja määritä [Kehittäjäavustaja](https://play.google.com/store/apps/details?id=com. ppsisle.developerassistant).\nTämän jälkeen mene Vancediin ja jäljennä vika, sitten avaa Layout-katselin käynnistämällä Kehittäjäavustajan. \n\nSeuraa nyt näitä ohjeita:\n1. Varmista, että vika näkyy näytöllä.\n2. Napauta elementtiä, johon luulet vian vaikuttavan.\n3. Mene `Element`- ja `Hierarchy`-välilehdille ja kuvakaappaa tulostukset.\n4. Sisällytä nämä kuvakaappaukset ongelmassasi."
         }
       ]
     }

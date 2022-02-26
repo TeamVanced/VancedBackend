@@ -6,7 +6,7 @@
     },
     {
       "title": "Nút Tải xuống ở đâu?",
-      "description": "Đương nhiên Google sẽ không cho một phiên bản ứng dụng của chính mình đã được chỉnh sửa xuất hiện trên cửa hàng của hộ nên đừng tìm nó trên Google Play Store, mấy cái đó đều là giả.\n\nCác ứng dụng Vanced có thể được tải về và cài đặt bằng Vanced Manager có thể được tìm thấy tại website chính thức của chúng tôi: <https://vancedapp.com> nhưng bạn cũng có thể tải ở Github:<https://github.com/YTVanced/VancedManager/releases/latest>."
+      "description": "Đương nhiên Google sẽ không cho phép một bản mod của ứng dụng họ làm trên cửa hàng của họ nên đừng tìm nó trên Cửa Hàng Play, những ứng dụng đó là giả.\n\nCác ứng dụng Vanced có thể được tải về và cài đặt bằng Vanced Manager, bạn có thể tải nó tại website chính thức của chúng tôi: <https://vancedapp.com> hoặc [GitHub](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
       "title": "Youtube Vanced có tự động cập nhật không?",
@@ -14,38 +14,38 @@
     },
     {
       "title": "Vanced có thể tải xuống video không?",
-      "description": "Vanced không bao gồm các tính năng tải xuống video và sẽ không bao giờ.\n\nRất nhiều video có sẵn để tải xuống miễn phí ở [các nước](https://support.google.com/youtube/answer/6141269). Với các nước còn lại, hãy sử dụng Youtube Premium.\n\nNhắc lại, Vanced SẼ KHÔNG BAO GIỜ thêm bộ tải xuống video hoặc bất cứ thứ gì liên quan vào ứng dụng.\n\nĐây là lý do mà trong quá khứ rất nhiều bản Youtube mods bị sập bởi vì Google không thích người dùng tải xuống các nội dung bản quyền từ nền tảng của họ nên đừng đòi hỏi về nó!!!"
+      "description": "Vanced không bao gồm bất cứ tính năng tải xuống video nào và sẽ không bao giờ tích hợp chúng.\n\nRất nhiều video có thể được tải xuống miễn phí ở [một số nước](https://support.google.com/youtube/answer/6141269). Với những nước còn lại, hãy mua Youtube Premium.\n\nNhắc lại, Vanced SẼ KHÔNG BAO GIỜ thêm tính năng tải xuống video hay bất cứ thứ gì tương tự.\n\nĐây là lí do khiến rất nhiều ứng dụng YouTube mod trước đây bị đánh sập bởi Google không muốn mọi người tải xuống nội dung bản quyền từ nền tảng của họ, vậy nên đừng hỏi về nó!!!"
     },
     {
-      "title": "Tại sao các cử chỉ vuốt không hoạt động?",
-      "description": "Nếu các bình luận của bạn ở dưới cùng (vị trí cũ) thì ở cài đặt Vanced > Cài đặt giao diện, tắt nó và khởi động lại ứng dụng. Nếu không được, buộc dừng ứng dụng và xoá dữ liệu của nó."
+      "title": "Tại sao cử chỉ vuốt không hoạt động?",
+      "description": "Nếu bình luận của bạn ở bên dưới (vị trí cũ) ở cài đặt Vanced > Cài đặt giao diện, tắt nó và khởi động lại ứng dụng. Nếu không được, buộc dừng ứng dụng và xoá dữ liệu của nó."
     },
     {
       "title": "Không có phụ đề?",
-      "description": "Đây không phải là một vấn đề. Không phải tất cả video đều có phụ đề."
+      "description": "Đây không phải là một vấn đề liên quan tới Vanced hay YouTube. Không phải tất cả video đều có phụ đề."
     },
     {
       "title": "Bạn có nhận ủng hộ không?",
-      "description": "Chúng tôi KHÔNG nhận ủng hộ!\n\nMọi loại quyên góp dưới bất kì hình hay trang web hoặc bài viết nào kêu gọi ủng hộ đều là giả.\n\nNhưng nếu bạn muốn ủng hộ đội ngũ phát triển Vanced, bạn có thể cài đặt Brave sử dụng [link này](https://brave.com/kev231) và AdGuard bằng [link này](https://adguard.com/en/welcome.html?aid=31141)."
+      "description": "Chúng tôi KHÔNG nhận ủng hộ!\n\nBất cứ dạng ủng hộ nào dưới bất cứ hoàn cảnh hoặc trang web hoặc bài viết nào kêu gọi ủng hộ đều là giả.\n\nNhưng nếu bạn muốn ủng hộ đội ngũ phát triển Vanced, bạn có thể cài tải về Brave với [link này](https://brave.com/kev231) và AdGuard với [link này](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "Cách để làm cho giao diện trình phát tự ẩn?",
-      "description": "Bạn có thể chỉnh nó ở cài đặt Youtube Vanced > Trợ năng. Nếu cài đặt không thể mở hay không hoạt động, hãy dùng cài đặt trợ năng của thiết bị và vô hiệu hoá bộ khuếch đại âm thanh, thay đổi truy cập, phụ đề."
+      "title": "Làm sao để khiến giao diện trình phát tự ẩn?",
+      "description": "Bạn có thể chỉnh nó ở cài đặt Youtube Vanced > Cài đặt > Trợ năng. Nếu cài đặt không mở hoặc không hoạt động, hãy vào cài đặt trợ năng của máy bạn và tắt Khuếch đại âm thanh, Thay đổi truy cập, Phụ đề trực tiếp."
     },
     {
-      "title": "Tại sao lại sử dụng APKs tách rời?",
-      "description": "Bởi vì:\n\n 1. Ứng dụng gốc sử dụng nó nên Vanced cũng sử dụng nó.\n 2. Nó chỉ cài đặt ngôn ngữ bạn chỉ định để giảm tiêu thụ bộ nhớ.\n 3. Nó có phiên bản APK cốt lõi duy nhất mà thiết bị của bạn yêu cầu.\n\n Tất nhiên, Vanced Manager hoặc các nhà phát triển có thể chuyển đổi nó thành một tệp APK bình thường, nhưng chúng tôi rất lười làm điều đó. Bạn chỉ cần hòa hợp với những gì chúng tôi có...\n\n Tuy nhiên, đừng lo lắng, Vanced Manager sẽ thực hiện tất cả công việc khó khăn cho bạn vì vậy chỉ cần nhấn vào nút `Cài đặt`."
+      "title": "Tại sao lại sử dụng APK tách rời (.apks)?",
+      "description": "Bởi vì:\n\n 1. Ứng dụng gốc sử dụng nó nên Vanced cũng sử dụng nó.\n 2. Nó chỉ cài đặt ngôn ngữ bạn chọn để tối ưu bộ nhớ.\n 3. Nó chỉ có APK lõi mà thiết bị của bạn cần.\n\nĐương nhiên, Vanced Manager hoặc các nhà phát triển có thể chuyển đổi nó thành một tệp APK bình thường, nhưng chúng tôi quá lười làm điều đó. Bạn chỉ cần hòa hợp với những gì chúng tôi có...\n\nNhưng đừng lo lắng, Vanced Manager làm hết phần việc khó khăn nên bạn chỉ cần nhấn nút `Cài đặt`."
     },
     {
-      "title": "Tại sao màu của màn hình khởi chạy lại khác với chủ đề giao diện?",
-      "description": "Màu nền màn hình khởi động được lấy từ màu khung Android để đảm bảo nó thay đổi theo chủ đề hệ thống. Bạn có thể sử dụng [Substratum] (https://play.google.com/store/apps/details?id=projekt.substratum) hoặc [Swift Installer] (https://play.google.com/store/apps/details? id = com.brit.swiftinstaller) hoặc một ứng dụng tương tự để thay đổi màu sắc."
+      "title": "Tại sao màu sắc ở màn hình khởi động không khớp với chủ đề? ",
+      "description": "Màu nền màn hình khởi động được lấy từ màu Android framework để đảm bảo nó thay đổi theo chủ đề hệ thống. Bạn có thể sử dụng [Substratum] (https://play.google.com/store/apps/details?id=projekt.substratum) hoặc [Swift Installer] (https://play.google.com/store/apps/details? id = com.brit.swiftinstaller) hoặc một ứng dụng tương tự để thay đổi nó."
     },
     {
       "title": "Tôi có nên tải lại các tệp cài đặt?",
       "description": "Các tập tin có thể bị hỏng vì nhiều lý do khác nhau và có thể gây ra sự cố sau đó. Để tránh điều này, bạn có thể chọn tải lại nó để đảm bảo quá trình cài đặt diễn ra suôn sẻ."
     },
     {
-      "title": "Tại sao phiên bản root có quyền Microphone?",
+      "title": "Tại sao phiên bản root không cần cấp quyền Microphone? ",
       "description": "Nó có nếu Vanced đã là bản mới nhất."
     },
     {
@@ -70,51 +70,51 @@
         },
         {
           "title": "AOSP và các giao diện người dùng tùy chỉnh khác (OOS, ColorOS, EMUI, v. v.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. Mở **Settings**\n2. Đi đến **Apps**\n3. Ấn **Default apps**\n4. Tìm **YouTube** hoặc **YouTube Vanced**\n5. Ấn \"**Go to Supported URLs**\" và chọn \"**Open in this app**\" tùy chọn\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
         }
       ]
     },
     {
-      "title": "Tại sao bản root lại không hoạt động với MicroG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "Why doesn't the root variant work with the microG core? ",
+      "description": "1. Bạn cần phải có tối thiểu bản [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) của GApps để chạy Vanced.\n\n2. Bạn không thể chạy Vanced với Nhân microG do nó cần Google Play Services Framework thứ mà bao gồm trong tất cả các gói của GApps.\n\n3. Nếu bạn lo lắng về sự riêng tự & không muốn sử dụng GApps những vấn muốn sử dụng Youtube không có quảng cáo, thì [phiên bản web](https://youtube.com) luôn có sẵn."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "Tại sao tính năng truyền phát lại không hoạt động?",
+      "description": "For users with v16.16.38 and all above non-root variants and root variants who are using microG based ROMs, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. If you use Google Play Services with root variants, you won't have any problems with casting."
     },
     {
       "title": "What is APK Signing?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "description": "Bạn đang đọc cái này là do bạn đang không sử dụng Vanced Manager hoặc bạn đã cài Vanced từ một nguồn không chính thức.\nHãy dùng Vanced Manager!\n\nBạn có thể tải xuống Vanced Manager an toàn từ:\n- Trang chính thức <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Is YouTube Vanced on Play Store?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+      "description": "KHÔNG!\nMột lần nữa, KHÔNG ĐƯỢC cài đặt hoặc thử tìm kiếm bất cứ một ứng dụng giả mạo nào có tên \"Youtube Vanced\" hoặc tương tự trên Play Store hay bất kì một cửa hàng nào để cài đặt Vanced.\n\nChúng tôi chỉ có [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq). và nó là ứng dụng chính thức duy nhất của chúng tôi có trên Play Store.\n\nNếu bạn tìm thấy bất kì ứng dụng nào khác với icon và tên của chúng tôi, báo cáo nó là giả mạo và review xấu về nó.\n\nCác ứng dụng của chúng tôi chỉ có tại <https://vancedapp.com>)."
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Tại sao Vanced không hiển thị trong màn hình chính hoặc ngăn kéo ứng dụng?",
+      "description": "Bạn đang đọc cái này là do bạn đang không sử dụng Vanced Manager hoặc bạn đã cài Vanced từ một nguồn không chính thức.\nHãy dùng Vanced Manager!\n\nBạn có thể tải xuống Vanced Manager an toàn từ:\n- Trang chính thức <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "Tại sao video không phát?",
+      "description": "Thử khởi động lại ứng dụng. Nó cũng có thể do kết nối internet hoặc thiết bị của bạn."
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "Tại sao tôi lại có giới hạn video là 480p?",
+      "description": "Do COVID-19, Google hạn chế một số quốc gia sử dụng dữ liệu. Nó xảy ra trên máy chủ và ảnh hưởng cả người dùng Vanced lẫn Youtube gốc.",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "Cách giải quyết:",
+          "content": "1. Kết nối với VPN của một khu vực khác.\n2. Sử dụng [phiên bản web](https://youtube.com)\n3. Vì giới hạn 480p chỉ dành cho điện thoại chứ không phải máy tính bảng, bạn có thể thay đổi kiểu thiết bị trong YouTube Vanced để khắc phục hạn chế.\n\n#### Làm cách nào để thay đổi model thiết bị?\n1. Mở YouTube Vanced.\n2. Đến Cài đặt\n3. Nhấn vào `Cài đặt Vanced`\n4. Kích hoạt cài đặt ẩn:\n  - Cuộn xuống và nhấn vào phần `Giới thiệu` cho đến khi nhận được thông báo `Đã kích hoạt cài đặt ẩn`.\n5. Đi tới `Ghi đè codec`\n6. Đặt nhà sản xuất thành `Samsung` và model thành `SM-T865`.\n7. Khởi động lại ứng dụng.\n\nSau khi khởi động lại, giới hạn 480p sẽ biến mất."
         }
       ]
     },
     {
       "title": "Làm sao để ẩn thông báo của microG?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Để ẩn thông báo của microG, bạn có thể tắt tính năng tối ưu hóa pin cho microG và khởi động lại thiết bị.\n\nNếu thông báo vẫn còn sau khi khởi động lại, hãy tắt thông báo microG bằng cách giữ vào thông báo, tắt nó và nhấn Lưu.\n\nViệc tắt thông báo ứng dụng có thể được thực hiện theo nhiều cách khác nhau tùy thuộc vào giao diện người dùng Android. Nếu bạn không biết cách tắt nó, hãy sử dụng Google để tìm cách tắt."
     },
     {
       "title": "1440p có trông đẹp hơn trên màn hình 1080p của tôi không?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "description": "Nếu thiết bị của bạn chỉ hỗ trợ độ phân giải 720p/1080p, bạn vẫn có thể phát video lên tới 4k nhưng chất lượng video của bạn sẽ bị hạ xuống độ phân giải gốc của thiết bị và không phải 4k thật. \n\nChất lượng 4k thật có thể xuất hiện trên các thiết bị flagship (SD8855).\n\nĐể bật độ phân giải cao, hãy tới cài đặt Vanced > cài đặt video và bật \"kiểm tra độ phân giải\" rồi khởi động lại ứng dụng."
     }
   ]
 }

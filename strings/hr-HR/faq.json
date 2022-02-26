@@ -2,119 +2,119 @@
   "data": [
     {
       "title": "Što je YouTube Vanced?",
-      "description": "YouTube Vanced modificirana je YouTube verzija sa značajkama i poboljšanjima kako bi vaše YouTube iskustvo bilo bolje!\n\nTakve značajke uključuju:\n- reprodukciju u pozadini,\n- sliku u slici (PiP),\n- crnu temu (OLED),\n- uklanjanje oglasa (potrebno je omogućiti),\n- nadjačavanje maksimalne rezolucije (omogućite reprodukciju videozapisa s rezolucijom većom od vašeg zaslona),\n- ...i mnogo više!\n\nZa više informacija, posjetite <https://vancedapp.com>"
+      "description": "YouTube Vanced je prilagođeno YouTube izdanje s dodatnim značajkama i poboljšanjima kako bi vaše YouTube iskustvo bilo bolje!\n\nTakve značajke uključuju:\n- reprodukciju u pozadini,\n- sliku u slici (PiP),\n- crnu temu (OLED),\n- uklanjanje oglasa (potrebno je omogućiti),\n- nadjačavanje najveće razlučivosti (omogućite reprodukciju videozapisa s razlučivosti većom od vašeg zaslona),\n- ...i još mnogo toga!\n\nZa više informacija, posjetite <https://vancedapp.com>"
     },
     {
       "title": "Gdje je tipka za preuzimanje?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "Naravno, Google neće dopustiti da promijenjeno izdanje vlastite aplikacije bude u njihovoj trgovini, stoga je ne tražite u Google Trgovini, to su lažne aplikacije.\n\nVanced aplikacije mogu se preuzeti i instalirati pomoću Vanced upravitelja koji se može pronaći na našoj službenoj web stranici: <https://vancedapp.com>ali možete ga preuzeti i s GitHub-a: <https://github.com/YTVanced/VancedManager/releases/latest>."
     },
     {
       "title": "Hoće li se YouTube Vanced automatski ažurirati?",
-      "description": "Ne, neće.\n\nVanced Manager će vam poslati obavijest kad bude dostupno ažuriranje.\n\nTakođer se možete pridružiti našem[Discord Server](https://discord.gg/wYrRPgv) ili zapratite [Telegram channel](https://t.me/Vanced) za najnovije vijesti i obavijesti o ažuriranjima."
+      "description": "Ne, neće.\n\nVanced upravitelj će vam poslati obavijest kada je ažuriranje dostupno.\n\nTakođer se možete pridružiti našem[Discord poslužitelju](https://discord.gg/wYrRPgv) ili zapratite [Telegram kanal](https://t.me/Vanced) za najnovije novosti i obavijesti o ažuriranjima."
     },
     {
       "title": "Može li Vanced preuzeti videozapise?",
-      "description": "Vanced ne uključuje nijednu značajku za preuzimanje videozapisa i nikada to neće biti dostupno.\n\nMnogi su videozapisi dostupni za besplatno preuzimanje u [selected countries](https://support.google.com/youtube/answer/6141269). Za ostatak svijeta nabavite YouTube Premium ili upotrijebite program za preuzimanje treće strane.\n\nOpet, Vanced NIKADA NEĆE dodati video downloader u aplikaciju ili bilo što slično.\n\nTo je bio razlog gašenja mnogih YouTube modova u prošlosti, jer Google ne voli ljude koji sa svoje platforme preuzimaju zaštićeni autorski sadržaj, pa nemojte to niti vi tražiti!!!"
+      "description": "Vanced ne uključuje nijednu značajku za preuzimanje videozapisa i nikada to neće biti dostupno.\n\nMnogi videozapisi su dostupni za besplatno preuzimanje u [određenim zemljama](https://support.google.com/youtube/answer/6141269). Za ostatak svijeta nabavite YouTube Premium pretplatu.\n\nJoš jednom, Vanced NIKADA NEĆE dodati video preuzimatelja u aplikaciju ili bilo što slično.\n\nTo je bio razlog gašenja mnogih YouTube modova u prošlosti, jer Google ne voli ljude koji sa svoje platforme preuzimaju zaštićeni autorski sadržaj, pa nemojte to niti vi tražiti!!!"
     },
     {
-      "title": "Zašto geste ne rade?",
-      "description": "Ako su komentari prikazani na dnu (staro mjesto) u postavkama Vanced > Postavke izgleda, onemogućite ih i ponovo pokrenite aplikaciju. Ako to ne uspije, prisilno zaustavite aplikaciju i izbrišite podatke."
+      "title": "Zašto geste prevlačenja ne rade?",
+      "description": "Ako su komentari prikazani na dnu (staro mjesto) u postavkama Vanced > Izgled, onemogućite ih i ponovo pokrenite aplikaciju. Ako to ne uspije, prisilno zaustavite aplikaciju i obrišite podatke."
     },
     {
       "title": "Podnaslovi nisu dostupni?",
-      "description": "To nije problem. Nemaju svi videozapisi podnaslove."
+      "description": "To nije problem povezan sa Vancedom ili YouTubom. Nemaju svi videozapisi podnaslove."
     },
     {
       "title": "Primate li donacije?",
-      "description": "Ne PRIHVAĆAMO donacije!\n\nBilo kakve donacije pod bilo kojim okolnostima i bilo koje web stranice ili podveznice ili postovi koji traže donacije jednostavno su lažni.\n\nAli ako želite podržati Vanced programere, možete preuzeti Brave ovdje [this link](https://brave.com/kev231) i AdGuard pomoću [this link](https://adguard.com/en/welcome.html?aid=31141)."
+      "description": "NE PRIHVAĆAMO donacije!\n\nBilo kakve donacije pod bilo kojim okolnostima i bilo koje web stranice ili poveznice ili objave koje traže donacije jednostavno su lažne.\n\nAli ako želite podržati Vanced razvijatelje, možete preuzeti Brave na [ovoj poveznici](https://brave.com/kev231) i AdGuard na [ovoj poveznici](https://adguard.com/en/welcome.html?aid=31141)."
     },
     {
-      "title": "Kako napraviti da se izgled playera automatski sakrije?",
+      "title": "Kako napraviti da se izgled reproduktora automatski sakrije?",
       "description": "Možete ga konfigurirati u YouTube Vanced postavke > Pristupačnost. Ako se postavke ne otvore ili ne rade, idite na postavke pristupačnosti uređaja i onemogućite pojačalo zvuka, prebacite pristup i podnaslove uživo."
     },
     {
       "title": "Zašto koristiti podijeljene APK-ove?",
-      "description": "Budući da:\n\n1. Koristi je zadana aplikacija pa je koristi i Vanced.\n2. Instalira samo jezike koje navedete kako bi se smanjila potrošnja pohrane.\n3. Ima jedinu verziju osnovnog APK-a koju vaš uređaj zahtijeva.\n\nNaravno, Vanced Manager ili programeri mogu ga pretvoriti u normalnu, jednu APK datoteku, ali toliko smo lijeni da to učinimo. Samo se trebaš složiti s onim što imamo...\n\nNe brinite se, Vanced Manager za vas obavlja sav naporan posao, pa samo dodirnite tipku `Instaliraj`."
+      "description": "Zato jer:\n\n1. Koristi ih zadana aplikacija pa ju koristi i Vanced.\n2. Instalira samo jezike koje navedete kako bi se smanjila potrošnja pohrane.\n3. Ima samo inačicu APK jezgre koju vaš uređaj zahtijeva.\n\nNaravno, Vanced Upravitelj ili razvijatelji mogu ga pretvoriti u normalnu, jednu APK datoteku, ali toliko smo lijeni to učiniti. Samo se morate složiti s onim što imamo...\n\nNe brinite se, Vanced Upravitelj za vas obavlja sav naporan posao, stoga samo dodirnite tipku `Instaliraj`."
     },
     {
-      "title": "Zašto se boja na početnom zaslonu razlikuje od teme?",
-      "description": "Boja pozadine početnog zaslona preuzeta je iz Androidove framework boje kako bi se osiguralo da se mijenja u skladu s temom sustava. Za promjenu boje možete koristiti teme Substratum/Swift."
+      "title": "Zašto se boja na početnom zaslonu ne podudara s temom? ",
+      "description": "Boja pozadine početnog zaslona preuzeta je iz Androidove framework boje kako bi se osiguralo da se mijenja u skladu s temom sustava. Možete koristiti [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) ili [Swift instalacijski program](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) ili sličnu aplikaciju za promjenu boje."
     },
     {
       "title": "Trebam li ponovno preuzeti instalacijske datoteke?",
-      "description": "Datoteke mogu biti oštećene iz različitih razloga, a kasnije mogu uzrokovati probleme. Da biste to izbjegli, možete ih ponovno preuzeti kako biste osigurali nesmetanu instalaciju."
+      "description": "Datoteke mogu biti oštećene iz različitih razloga i uzrokovati naknadne probleme. Kako biste to izbjegli, možete ih ponovno preuzeti za osiguranje nesmetane instalacije."
     },
     {
-      "title": "Zašto root verzija nema dopuštenje za mikrofon?",
-      "description": "Ima ako je vaš Vanced ažuran."
+      "title": "Zašto root izdanje nema dopuštenje za mikrofon? ",
+      "description": "Ima ako je vaš Vanced ažuriran."
     },
     {
       "title": "Što je ExoPlayer v1?",
-      "description": "To je starija verzija trenutnog medijskog reproduktora kojeg koristi YouTube. Možda ćete dobiti bolje performanse i stabilnost kada ga koristite."
+      "description": "To je starija inačica trenutnog medijskog reproduktora kojeg koristi YouTube. Možda ćete imati bolje performanse i stabilnost kada ga koristite."
     },
     {
       "title": "Kako omogućiti skrivene postavke?",
-      "description": "U Vanced postavkama, dodirnite odjeljak \"O aplikaciji\" 6-7 puta da biste ih omogućili. To omogućuje samo dodatne postavke video kodeka."
+      "description": "U Vanced postavkama, dodirnite odjeljak \"O aplikaciji\" 6-7 puta kako biste ih omogućili. To omogućuje samo dodatne postavke video kôdeka."
     },
     {
       "title": "Kako učiniti Youtube Vanced zadanom aplikacijom?",
-      "description": "As the title says, a lot of users have been asking many times how they can make YouTube Vanced as default for opening YouTube links from other apps(like browsers, messaging apps and any other app).\n\nFor root, you don't need to worry about because it is already set by default since YouTube Vanced gets replaced with Stock YouTube.\n\nFor non-root, solutions has been divided between as OneUI, MIUI and the rest.  We can't provide solutions for every OS out there, and you may need to Google it by yourself.",
+      "description": "Kao što naslov kaže, mnogi su se korisnici mnogo puta pitali kako mogu učiniti YouTube Vanced zadanim za otvaranje YouTube poveznica iz drugih aplikacija (poput preglednika, aplikacija za razmjenu poruka i bilo koje druge aplikacije).\n\nZa root, ne morate se brinuti jer je već zadano postavljen jer se službeni YouTube zamjenjuje s YouTube vanced.\n\nZa non-root, rješenja su podijeljena na OneUI, MIUI i ostale. Ne možemo ponuditi rješenja za svaki dostupan OS, stoga za rješenje sami pretražite Google.",
       "fields": [
         {
           "title": "OneUI korisnici:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. Dodirnite i držite ikonu aplikacije YouTube ili YouTube Vanced iz ladice aplikacije.\n2. Dodirnite ** Info. o apl. **.\n3. Pronađite \"** Postavi kao zadano **\" i dodirnite je\n4. Dodirnite \"** Otvori podržane poveznice **\" i odaberite \"** Otvori u ovoj aplikaciji **\"\n\nU starijim izdanjima OneUI-a naziv mogućnosti u 4. koraku mogao bi biti malo drugačiji. Možda ćete morati dodirnuti \"**Idi na podržane URL-ove**\" i odabrati mogućnosti \"**U ovoj aplikaciji**\".\nU vrlo starim izdanjima OneUI 💩 možda ćete morati otići na **Postavke** > **Aplikacije** > *[dodirnite tri točke u desnom kutu]* > **Zadane aplikacije** > **Postavi kao zadano**. Nakon učitavanja aplikacija Pronađite YouTube Vanced ili YouTube i slijedite četvrti korak..."
         },
         {
           "title": "MIUI korisnici:",
-          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Otvorite Postavke\n2. Idite na **Aplikacije**,\n3. **Upravljaj aplikacijama**,\n4. Zatim dodirnite tri točke u desnom kutu,\n5. **Zadane aplik.**,\n6. **Otvaranje veza**.\n7. Pričekajte da sve vaše aplikacije budu na popisu...\n8. Pronađite YouTube ili YouTube Vanced i dodirnite ga.\n9. Dodirnite \"**Otvori podržane veze**\" i odaberite \"**Otvori**\""
         },
         {
-          "title": "AOSP & other custom UIs (OOS, ColorOS, EMUI, etc.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "title": "AOSP i druga prilagođena korisnička sučelja (OOS, ColorOS, EMUI itd.):",
+          "content": "1. Otvorite **Postavke**\n2. Idite na **Aplikacije**\n3. Dodirnite **Zadane aplikacije**\n4. Pronađite **YouTube** ili **YouTube Vanced**\n5. Dodirnite \"**Idi na podržane URL -ove**\" i odaberite mogućnost \"**Otvori u ovoj aplikaciji**\"\n\nAko još imate problema s time, možda ćete morati potražiti neke članke/videozapise o tome kako i što učiniti na [Googlu](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) ili možete instalirati aplikaciju treće strane iz [Play Trgovine](https://play.google.com/store/search?q=open%20with) kako bi vas spasili od ove gnjavaže…"
         }
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "Zašto root izdanje ne radi s microG jezgrom? ",
+      "description": "1. Morate imati barem [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) izdanje kako biste pokrenuli Vanced.\n\n2. Ne možete pokrenuti Vanced s microG jezgrom bez Google Play Services Frameworka koji je dostupan u svim GApps paketima i potrebna je biblioteka.\n\n3. Ako ste zabrinuti za svoju privatnost i ne želite koristiti GApps, ali i dalje želite gledati YouTube bez oglasa, tada je [web izdanje](https://youtube.com) uvijek dostupno."
     },
     {
-      "title": "Why casting doesn't work?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "Zašto emitiranje ne radi?",
+      "description": "Za korisnike s v16.16.38 i novijim non-root izdanjima i root izdanjima koji koriste ROM-ove temeljene na microG-u, postoji greška u uzlaznom microG-u. Dok se to ne riješi, pričekajte ažuriranja ili se vratite na v15 inačice. Ako koristite Google Play usluge s root izdanjima, nećete imati problema s emitiranjem."
     },
     {
-      "title": "What is APK Signing?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Što je APK potpisivanje?",
+      "description": "Čitate ovo jer ne koristite Vanced Upravitelja ili ste Vanced možda instalirali iz neslužbenog izvora. \nKoristite samo Vanced Upravitelja!\n\nMožete sigurno preuzeti Vanced Upravitelja sa:\n- [Službene stranice](https://vancedapp.com)\n- [GitHub repozitorija](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Is YouTube Vanced on Play Store?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+      "title": "Je li YouTube Vanced u Trgovini Play?",
+      "description": "NE!\nPonovno, NEMOJTE instalirati niti čak pokušavati tražiti bilo koje lažne aplikacije pod nazivom \"YouTube Vanced\" ili slično u Trgovini Play ili bilo kojim trgovinama aplikacija kako biste instalirali Vanced.\n\nImamo samo[Vanced vodič](https://play.google.com/store/apps/details?id=com.vanced.faq), i to je jedina službena aplikacija objavljena na Trgovini Play.\n\nAko pronađete bilo koju drugu aplikaciju s našom ikonom i nazivom, prijavite je kao lažno predstavljanje i dajte joj lošu ocjenu.\n\nNaše aplikacije mogu se pronaći samo na [službenoj stranici](https://vancedapp.com)."
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Zašto se Vanced ne prikazuje na početnom zaslonu ili u ladici aplikacija?",
+      "description": "Čitate ovo jer ne koristite Vanced Upravitelja ili ste Vanced možda instalirali iz neslužbenog izvora. \nKoristite samo Vanced Upravitelja!\n\nMožete sigurno preuzeti Vanced Upravitelja sa:\n- Službene stranice <https://vancedapp.com> \n- [GitHub repozitorija](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
-      "title": "Why aren't videos playing?",
-      "description": "Try restarting the app. It might also because of your internet connection or your device."
+      "title": "Zašto se videozapisi ne reproduciraju?",
+      "description": "Pokušajte ponovo pokrenuti aplikaciju. Razlog može biti vaš pristup internetu ili vaš uređaj."
     },
     {
-      "title": "Why am I having the 480p limit?",
-      "description": "Due to the COVID-19, Google is restricting data usage of several countries. This happens on the server and affects both Vanced and stock YouTube users.",
+      "title": "Zašto imam ograničenje na 480p?",
+      "description": "Zbog pandemije COVID-19 Google ograničava upotrebu podataka u nekoliko zemalja. To se događa na poslužitelju i utječe na korisnike Vanceda i YouTubea.",
       "fields": [
         {
-          "title": "Workarounds:",
-          "content": "1. Connect to a VPN of a different region.\n2. Use the [web version](https://youtube.com)\n3. Since the 480p restriction is only for phones and not tablets, you can change the device model in YouTube Vanced to overcome the restriction.\n\n#### How to change the device model?\n1. Open YouTube Vanced.\n2. Go to Settings\n3. Tap the `Vanced Settings`\n4. Enable hidden settings:\n  - Scroll down and tap on the `About` section till you get a message saying `Hidden settings enabled`.\n5. Go to `Codec override`\n6. Set manufacturer to `Samsung` and model to `SM-T865`.\n7. Restart the app.\n\nAfter restarting, the 480p limit should be gone."
+          "title": "Rješenja:",
+          "content": "1. Povežite se sa VPN-om druge regije.\n2. Koristite [web izdanje](https://youtube.com)\n3. Budući da je 480p ograničenje samo za telefone a ne i tablete, možete promijeniti model uređaja u YouTube Vancedu kako bi zaobišli ograničenje.\n\n#### Kao promijeniti model uređaja?\n1. Otvorite YouTube Vanced.\n2. Idite u postavke\n3. Dodirnite `Vanced postavke`\n4. Omogući skrivene postavke:\n  - Pomičite prema dolje i dodirnite `O timu` odjeljak dok ne dobijete poruku `Skrivene postavke su omogućene`.\n5. Idite u `Promjena kôdeka`\n6. Promijenite proizvođača u `Samsung` i model u `SM-T865`.\n7. Ponovno pokrenite aplikaciju.\n\nNakon ponovnog pokretanja, 480p ograničenje bi trebalo nestati."
         }
       ]
     },
     {
-      "title": "How to hide the microG notification?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "title": "Kako sakriti microG obavijest?",
+      "description": "Kako biste sakrili microG obavijest,\n\n1. Možete onemogućiti optimizaciju baterije za Vanced microG i ponovno pokrenuti uređaj.\n\n2. Ako gornji način ne radi, onemogućite microG obavijesti pritiskom na obavijest, isključite ju i dodirnite Spremi.\n\n> Onemogućavanje obavijesti aplikacije može se učiniti na različite načine ovisno o Android korisničkom sučelju. Ako ih ne znate onemogućiti, potražite na Googlu i saznajte kako ih onemogućiti."
     },
     {
-      "title": "Does 1440p look better on my 1080p screen?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "title": "Izgleda li 1440p bolje na mom 1080p zaslonu?",
+      "description": "Da, ali samo ako je omjer slike nešto poput 18:9, 21:9, ... Možete omogućiti `Statistiku za štrebere` u Postavkama > Općenito kako bi provjerili razlučivost.\n\nZa omogućavanje veće razlučivosti, idite u Vanced postavke > Postavke video reprodukcije i uključite `Najveća razlučivost` zatim ponovno pokrenite aplikaciju."
     }
   ]
 }

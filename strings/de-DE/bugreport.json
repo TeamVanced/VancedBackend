@@ -10,7 +10,7 @@
         },
         {
           "title": "Wie mache ich einen Logcat?",
-          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Nicht-Root-Variante:\nFür Logcat-Outputs wird ein PC benötigt. Anleitung verfügbar in [Textform](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) und in [Videoform](https://youtu.be/ICLpwgsJJP0).\n\nRoot-Variante:\nEs wird kein PC benötigt. Link zur [Anleitung](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Ihr Fehler ist in der Benutzeroberfläche?",

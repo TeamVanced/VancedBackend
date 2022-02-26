@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "title": "Che cos’è Vanced",
+      "title": "Che cos’è YouTube Vanced?",
       "description": "YouTube Vanced è una versione modificata di YouTube con funzionalità e modifiche per migliorare la tua esperienza su YouTube!\n\nTali funzionalità includono:\n\nRiproduzione in secondo piano\nTemi personalizzati (normale scuro o OLED nero)\nBlocchi per la maggior parte degli annunci\nOverride risoluzione massima\nE molto altro ancora!\nPer un elenco completo, consulta il menu a discesa \"caratteristiche\" nel thread XDA. Il link al suddetto (e ad altre informazioni generali) è (https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)"
     },
     {
@@ -17,7 +17,7 @@
       "description": "Il download dei video è disponibile gratuitamente solo in questi paesi (https://support.google.com/youtube/answer/6141269). I video che necessitano di YouTube Premium non verranno mai scaricati, quindi se dovessi vedere il popup di YouTube Premium quando scarichi alcuni video, ACQUISTA YouTube PREMIUM.\n\nNota ancora una volta, \"VANCED NON È YOUTUBE PREMIUM\".\n\n⚠️⚠️Vanced non aggiungerà mai alcun tipo di download di terze parti all'applicazione. Non solo perché fastidioso da mantenere per noi, ma anche perchè darebbe a Google una ragione in più per inviare un avviso di rimozione, il che significa che lo sviluppo di Vanced cesserebbe.\n\nNessuno vuole questo, quindi il download da altre fonti/video di YouTube all'interno dell'app Vanced non sarà mai supportato. Quindi 0er favore non chiederci di aggiungere questa funzionalità. Se non puoi scaricare dall'app Vanced, acquista YouTube Premium.⚠️"
     },
     {
-      "title": "Problemi con i gesti a scorrimento",
+      "title": "Perché i gesti di scorrimento non funzionano?",
       "description": "Se hai attivato i \"vecchi commenti\" dalle impostazioni di youtube > impostazioni avanzate > layout, disattivali e riavvia l'app. Se questo non dovesse funzionare, prova a cancellare i dati e la cache dell'app. Se questo non dovesse nuovamente funzionare, apri una segnalazione bug sulla nostra repo github. Dai prima un'occhiata alle richieste già aperte prima di crearne di nuove."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Per iniziare:\n\n1. Cosa sono gli apk suddivisi?\nÈ un file zip contenente l'apk di base, l'apk di configurazione per l'architettura del dispositivo e l'apk della lingua.\n\nAd esempio, un normale apk possiede entrambe le librerie di supporto a 32 e 64 bit, un sacco di file di lingua e una base apk. Quindi, se il tuo dispositivo supportasse solo i 32 bit e volessi solo il file di lingua Inglese, installare dei file extra non avrebbe alcuna utilità se non quella di un maggiore consumo di memoria interna.\n\n**Vantaggi**:\n- La dimensione degli apk suddivisi è quasi la metà di quella di un normale apk.\n- Un apk suddiviso comprende solo quei file rilevanti per il tuo dispositivo e per la relativa architettura.\n\n**Svantaggi:**\n- Maggiore difficoltà per i neofiti o gli utenti non tecnici.\n\n2. Perché suddividere?\nGoogle, dopo la versione 14, ha iniziato a distribuire solo APK di YouTube suddivisi. Dunque per installare Vanced abbiamo bisogno di utilizzare SAI (Split APK Installer).\nIn precedenza, venivano forniti apk normali, rendendo più facile installare applicazioni su ogni dispositivo.\n\n3. Perché non modificate gli apk suddivisi, generandone uno singolo da essi?\nNon è un'operazione impossibile da portare a termine. Tuttavia questo comporta un aumento del tempo di lavoro. La conversione da apks ad apk aggiunge tempo che possiamo utilizzare in altri modi (per la correzione di bug ed il rilascio di aggiornamenti, personali o di vanced). Quindi non chiedere come ottenere apk normali. Utilizza la vecchia versione se sei davvero pigro o direttamente quella ufficiale di Google dal Play Store."
     },
     {
-      "title": "Colore Schermata App",
+      "title": "Perché il colore della schermata di avvio non corrisponde al tema? ",
       "description": "Il colore di sfondo della schermata iniziale è ora preso dal colore del framework Android (sistema Android) per avere la certezza che Vanced/Youtube si adatti al tema di sistema. Qualunque sia il colore del framework Android, lo stesso colore apparirà in vanced.\n\nÈ possibile utilizzare temi Substratum/Swift per cambiare il colore del tema."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Il motivo è piuttosto semplice: a volte un file scaricato può risultare danneggiato, e cercare di ottenerlo ed installarlo si tradurrebbe in un ciclo infinito di fallimenti. Per evitare ciò, manager riscarica i file ogni volta che il pulsante viene premuto.\n\nTuttavia, il programma di installazione Non-Root può ora utilizzare i file già scaricati per reinstallare Vanced."
     },
     {
-      "title": "Microfono",
+      "title": "Perché la versione root non ha i permessi per il microfono? ",
       "description": "Se ti stai chiedendo perché il permesso del microfono risulta mancante nella versione root di Vanced, è perché l'APK utilizzato per modificare Vanced (minAPI17) non integra il permesso per l'utilizzo del microfono. L'altro file APK, al contrario, lo possiede (minAPI21), ma non risulta tradotto. Perché? Chiedi a Google 🤷‍♂️\n\nAlternativa: utilizza la variante non-root o stock di YouTube.\n\nNOTA: Questi problemi esistono solo nella versione 14 o inferiore. I permessi sono stati corretti a partire dalla versione 15."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Come rendere YouTube Vanced una app predefinita?",
-      "description": "Come dice il titolo, molti utenti hanno chiesto molte volte come possono rendere YouTube Vanced come predefinito per l'apertura di link da altre applicazioni (come browser, applicazioni di messaggistica e qualsiasi altra applicazione).\n \nPer il root, non devi preoccuparti perché è già impostato per impostazione predefinita dal momento che YouTube Vanced viene sostituito con Stock YouTube. \n\nPer il non-root, le soluzioni sono state divise tra OneUI, MIUI e il resto. Non possiamo fornire soluzioni per ogni sistema operativo esistente, e potresti aver bisogno di cercare su Google da solo.",
+      "description": "Come dice il titolo, molti utenti hanno chiesto molte volte come possono rendere YouTube Vanced come predefinito per l'apertura di link da altre applicazioni (come browser, applicazioni di messaggistica e qualsiasi altra applicazione).\n \nPer il root, non devi preoccuparti perché è già impostato per impostazione predefinita dal momento che l'app ufficiale di YouTube viene sostituito con YouTube Vanced. \n\nPer il non-root, le soluzioni sono state divise tra OneUI, MIUI e il resto. Non possiamo fornire soluzioni per ogni sistema operativo esistente, e potresti aver bisogno di cercare su Google da solo.",
       "fields": [
         {
           "title": "Utenti OneUI:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Perché la variante root non funziona con microG Core?",
+      "title": "Perché la variante root non funziona con microG core? ",
       "description": "1. Devi avere almeno la variante [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) di GApps per eseguire Vanced.\n\n2. Non è possibile eseguire Vanced con microG Core senza il Framework di Google Play Services che è disponibile in tutti i pacchetti GApps ed è una libreria richiesta.\n\n3. Se sei preoccupato per la tua privacy e non vuoi usare GApps ma vuoi comunque guardare YouTube senza annunci, allora la [versione web](https://youtube.com) è sempre disponibile."
     },
     {
       "title": "Perché il casting non funziona?",
-      "description": "Per gli utenti con l'ultima variante non-root v16.16.38, c'è un bug nelle versioni più recenti di microG. Fino a che non si risolve, si prega di attendere gli aggiornamenti o tornare alle versioni v15. Gli utenti root non avranno problemi con il casting se stanno utilizzando Google Play Services."
+      "description": "Per gli utenti con la versione v16.16.38 e tutte le varianti non root e root che utilizzano ROM basate su microG, c'è un bug nella versione più recente di microG. Fino a che non viene risolto, si prega di attendere gli aggiornamenti o effettuare il roll back alle versioni v15. Se utilizzi Google Play Services con varianti root, non avrai problemi con il casting."
     },
     {
       "title": "Cos'è la firma APK?",

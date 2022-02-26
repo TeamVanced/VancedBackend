@@ -2,19 +2,19 @@
   "data": [
     {
       "title": "Kako prijaviti greške?",
-      "description": "Možete prijaviti greške koristeći naš [GitHub issue tracker](https://github.com/YTVanced/Vanced)\n\n*Obavezno pročitajte README i provjerite je li vaša greška već prijavljena prije prijavljivanja grešaka!**",
+      "description": "Možete prijaviti greške stvaranjem prijavka greške na [GitHub pratitelju grešaka](https://github.com/YTVanced/Vanced)\n\nPrije prijave vaše greške provjerite postojeće prijavke grešaka kako bi vidjeli je li vaš problem već prije prijavljen!",
       "fields": [
         {
-          "title": "Kada će moja greška biti pregledana?",
-          "content": "Razvijatelji troše vrijeme na stvaranje novih značajki i ispravljanje mnogih grešaka, što može potrajati duže vrijeme. \nSamo trebate pričekati. Vaše povratne informacije bit će pregledane u najkraćem mogućem roku."
+          "title": "Kada će moja greška biti provjerena?",
+          "content": "Razvijatelji troše vrijeme na stvaranje novih značajki i ispravljanje mnogih grešaka, što može potrajati duže vrijeme. \nSamo trebate biti strpljivi. Vaš prijavak greške bit će pregledan što je prije moguće."
         },
         {
           "title": "Kako mogu napraviti logcat?",
-          "content": "For non-root users:\nYou will need a PC to take `logcat` outputs. Here is a [text guide](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) and a [video guide](https://youtu.be/ICLpwgsJJP0).\n\nFor root users:\nYou don't need a PC for this, please follow [the instructions](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
+          "content": "Za non-root korisnike:\nTrebat će vam računalo za izvođenje `logcat` zapisa. Ovdje je [tekstni vodič](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc) i [video vodič](https://youtu.be/ICLpwgsJJP0).\n\nZa root korisnike:\nZa ovo vam ne treba računalo, samo slijedite [upute](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)."
         },
         {
           "title": "Vaša je greška povezana s korisničkim sučeljem?",
-          "content": "Za programske pogreške povezane s korisničkim sučeljem morat ćete poduzeti dodatne korake.\n\nMolimo instalirajte i postavite [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nNakon toga idite na Vanced i reproducirajte pogrešku, a zatim otvorite Layout viewer pokretanjem Developer Assistant-a.\n\nSada slijedite ove korake:\n1. Provjerite prikazuje li se programska pogreška na zaslonu.\n2. Dodirnite element na koji mislite da na njega utječe greška.\n3. Idite na kartice `Element` i` Hijerarhija` i snimite snimke zaslona.\n4. Uključite te snimke zaslona u svoj problem."
+          "content": "Za greške povezane s korisničkim sučeljem, morati ćete poduzeti dodatne korake.\n\nInstalirajte i postavite [Developer Assistant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant).\nNakon toga idite u Vanced i reproducirajte grešku, a zatim otvorite Layout viewer pokretanjem Developer Assistanta.\n\nSada slijedite ove korake:\n1. Provjerite prikazuje li se greška na zaslonu.\n2. Dodirnite element za koji mislite da na njega utječe greška.\n3. Idite na kartice `Element` i` Hijerarhija` i uslikajte snimku zaslona.\n4. Pridodajte te slike zaslona u svoj prijavak greške."
         }
       ]
     }

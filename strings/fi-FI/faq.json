@@ -6,7 +6,7 @@
     },
     {
       "title": "Missä on latauspainike?",
-      "description": "Of course, Google won't allow a modified version of its own app to be on their store so don't look for it on the Google Play Store, those are just fake apps.\n\nVanced apps can be downloaded and installed using Vanced Manager which can be found on our official website: <https://vancedapp.com> but you can also grab it from [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)."
+      "description": "Tietenkään Google ei salli oman sovelluksensa muokattua versiota olla heidän kaupassa, joten älä etsi sitä Google Play Kaupasta, ne ovat valesovelluksia.\n\nVanced-sovellukset voidaan ladata ja asentaa Vanced Managerilla, joka löytyy viralliselta sivustoltamme: <https://vancedapp.com> mutta voit myös napata sen [GitHub reposta](https://github.com/YTVanced/VancedManager/releases/latest)."
     },
     {
       "title": "Päivittyykö YouTube Vanced automaattisesti?",
@@ -17,7 +17,7 @@
       "description": "Vanced ei sisällä, eikä koskaan tule sisältämään minkäänlaista videoiden latausominaisuutta.\n\nMonet videot ovat ladattavissa ilmaiseksi [valituissa maissa](https://support.google.com/youtube/answer/6141269). Muualla maailmassa hanki YouTube Premium tai käytä kolmannen osapuolen lataajia.\n\nVielä kerran, Vanced ei tule KOSKAAN lisäämään videolataajaa tai mitään muuta vastaavaa.\n\nTämä on ollut syynä monien YouTube-modien sulkemiseen aiemmin, koska Google ei halua ihmisisten lataavan tekijänoikeudella suojattua sisältöä palvelustaan, joten älä pyydä sitä!!!"
     },
     {
-      "title": "Mikseivät pyyhkäisyeleet toimi?",
+      "title": "Miksi pyyhkäisyeleet eivät toimi?",
       "description": "Jos kommenttisi näkyvät alhaalla (vanhassa paikassa) Vancedin asetuksissa > Asettelun asetukset, poista se käytöstä ja käynnistä sovellus uudelleen. Jos se ei toimi, pakota sovelluksen lopetus ja tyhjennä sen data."
     },
     {
@@ -37,7 +37,7 @@
       "description": "Sillä:\n\n1. Tavallinen YouTube käyttää sitä joten niin Vancedkin.\n2. Se asentaa vain kielet jotka itse määrittelet säästääkseen tallennustilaa.\n3. Siinä on vain versio ydin APK:sta jonka laitteesi vaatii.\n\nToki Vanced Manager tai kehittäjät voivat muuttaa sen normaaliksi, yhdeksi APK-tiedostoksi, mutta olemme liian laiskoja tekemään niin. Sinun pitää vain tottua siihen mitä meillä on...\n\nÄlä kuitenkaan huoli, Vanced Manager tekee kaiken vaikean sinun puolestasi joten sinun on vain painettava \"Asenna\" painiketta."
     },
     {
-      "title": "Miksi aloitusnäytön väri on eri kuin teeman?",
+      "title": "Miksi käynnistysnäytön väri ei vastaa teemaa? ",
       "description": "Aloitusnäytön taustaväri on otettu Androidin frameworkin väristä varmistaakseen että se muuttuu järjestelmän teeman mukaan. Voit käyttää [Substratumia](https://play.google.com/store/apps/details?id=projekt.substratum) tai [Swift Installeria](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller)."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Tiedostot voivat korruptoitua monista eri syistä ja aiheuttaa ongelmia jälkikäteen. Välttääkseen tämän, voit valinnaisesti ladata sen uudelleen varmistaaksesi että asennus sujuu sulavasti."
     },
     {
-      "title": "Miksi root-versiolla ei ole Mikrofonin käyttöoikeutta?",
+      "title": "Miksi root-versiolla ei ole Mikrofonin käyttöoikeuksia? ",
       "description": "Se tekee jos Vancedisi on ajan tasalla."
     },
     {
@@ -58,41 +58,41 @@
     },
     {
       "title": "Kuinka asettaa YouTube Vanced oletussovellukseksi?",
-      "description": "Niin kuin otsikko sanoo, monet käyttäjät ovat kysyneet monesti kuinka he voisivat asettaa YouTube Vancedin oletussovellukseksi YouTube linkeille muista sovelluksista(kuten selaimet, viestintäsovellukset ja mitkä tahansa muut).\n\nRootilla, sinun ei tarvitse huolehtia sillä se on asetettu jo valmiiksi sillä YouTube Vanced korvaa tavallisen YouTuben.\n\nIlman rootia, ratkaisut ovat jaettu OneUIn, MIUIn ja muitten välillä. Me emme voi antaa ratkaisua jokaiselle käyttöjärjestelmälle ja sinun on ehkä Googletettava se itse.",
+      "description": "Niin kuin otsikko sanoo, monet käyttäjät ovat kysyneet monesti kuinka he voisivat asettaa YouTube Vancedin oletussovellukseksi YouTube linkeille muista sovelluksista (kuten selaimet, viestintäsovellukset ja mitkä tahansa muut sovellukset).\n\nRootilla, sinun ei tarvitse huolehtia sillä se on asetettu jo valmiiksi, sillä YouTube Vanced korvaa virallisen YouTube-sovelluksen.\n\nIlman rootia, ratkaisut ovat jaettu OneUIn, MIUIn ja muitten välillä. Me emme voi antaa ratkaisuja jokaiselle käyttöjärjestelmälle, ja sinun on ehkä Googletettava se itse.",
       "fields": [
         {
           "title": "OneUI käyttäjät:",
-          "content": "1. Tap and hold down on YouTube or YouTube Vanced app icon from your app drawer.\n2. Tap **App info**.\n3. Find \"**Set as default**\" and tap it\n4. Tap \"**Open supported links**\" and choose \"**Open in this app**\"\n\nIn older versions of OneUI, the name of the options in the 4th step might be slightly different. You may need to tap \"**Go to supported URLs**\" and choose \"**In this app**\" option.\nIn the very older version of OneUI 💩, you may need to go to **Settings** > **Apps** > *[tap three dots at the right corner]* > **Default apps** > **Set as default**. After apps loaded Find YouTube Vanced or YouTube and follow the 4th step..."
+          "content": "1. Napauta ja pidä alhaalla YouTube tai YouTube Vanced sovelluskuvaketta sovellusvalikostasi.\n2. Napauta **Sovelluksen tiedot**.\n3. Etsi \"**Avaa oletuksena**\" ja napauta sitä\n4. Napauta \"**Avaa tuetut linkit**\" ja valitse \"**Anna sovelluksen avata tuetut linkit**\"\n\nOneUIn vanhemmissa versioissa, neljännen vaiheen vaihtoehtojen nimet voivat olla hieman erilaisia. Saatat joutua napauttamaan \"**Mene tuettuihin URL-osoitteisiin**\" ja valitse \"**Tässä sovelluksessa**\" -vaihtoehto.\nOneUI:n hyvin vanhassa versiossa 💩, sinun on ehkä mentävä osoitteeseen **Asetukset** > **Sovellukset** > *[napauta oikean kulman kolmea pistettä]* > **Oletussovellukset** > **Aseta oletukseksi**. Kun sovellukset ovat latautuneet, etsi YouTube Vanced tai YouTube ja seuraa neljättä vaihetta..."
         },
         {
           "title": "MIUI käyttäjät:",
-          "content": "1. Open Settings\n2. Go to **Apps**,\n3. **Manage apps**,\n4. Then, tap the three dots at the right corner,\n5. **Default apps**,\n6. **Opening links**.\n7. Wait until all your apps gets listed…\n8. Find YouTube or YouTube Vanced and tap it.\n9. Tap \"**Open supported links**\" and choose \"**Open**\""
+          "content": "1. Avaa Asetukset\n2. Mene **Sovelluksiin**,\n3. **Hallitse sovelluksia**,\n4. Sitten, napauta kolmea pistettä oikeassa kulmassa,\n5. **Oletussovellukset**\n6. **Osoitteiden avaus**.\n7. Odota kunnes kaikki sovelluksesi ovat näkyvissä…\n8. Etsi YouTube tai YouTube Vanced ja napauta sitä.\n9. Napauta \"**Avaa tuetut linkit**\" ja valitse \"**Avaa**\""
         },
         {
           "title": "AOSP & muut mukautetut käyttöliittymät (OOS, ColorOS, EMUI jne.):",
-          "content": "1. Open **Settings**\n2. Go to **Apps**\n3. Tap **Default apps**\n4. Find **YouTube** or **YouTube Vanced**\n5. Tap \"**Go to Supported URLs**\" and choose \"**Open in this app**\" option\n\nIf you're still troubling with this, you may need to search some \"how to\" articles/videos on [Google](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) or you can install a 3rd party app from [Play Store](https://play.google.com/store/search?q=open%20with) to save you from this hassle…"
+          "content": "1. Avaa **Asetukset**\n2. Siirry **Sovellukset** osaan\n3. Napauta **Oletussovellukset**\n4. Etsi **YouTube** tai **YouTube Vankeutettu**\n5. Napauta \"**Siirry tuettuihin URL-osoitteisiin**\" ja valitse \"**Avaa tässä sovelluksessa**\" -vaihtoehto\n\nJos tämän kanssa on vielä ongelmia, saatat joutua etsimään \"how to \" artikkeleita/videoita [Googlesta](https://www.google.com/search?q=%22android%22+how+to+open+youtube+links+with+youtube) tai voit asentaa kolmannen osapuolen sovelluksen [Play Kaupasta](https://play.google.com/store/search?q=open%20with) pelastaaksesi sinut tältä hässäkältä…"
         }
       ]
     },
     {
-      "title": "Why the root variant doesn't work with microG Core?",
-      "description": "1. You need to have at least the [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variant of GApps to run Vanced.\n\n2. You can’t run Vanced with microG Core without Google Play Services Framework which is available in all GApps packages and it's a required library.\n\n3. If you are worried about your privacy & don’t want to use GApps but still want to use watch YouTube without ads, then the [web version](https://youtube.com) is always available."
+      "title": "Miksi root-variantti ei toimi MicroG coren kanssa? ",
+      "description": "1. Sinulla on oltava ainakin [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package)-variantti GAppseista jos haluat käyttää Vancedia.\n\n2. Et voi käyttää Vancedia microG Coren kanssa ilman Google Play Services Frameworkia, joka on saatavilla kaikissa GApps paketeissa, ja se on pakollinen kirjasto.\n\n3. Jos olet huolissasi yksityisyydestäsi ja et halua käyttää GAppsia mutta haluat silti käyttää YouTubea ilman mainoksia, sitten [web-versio](https://youtube.com) on aina saatavilla."
     },
     {
-      "title": "Miksi striimaus ei toimi?",
-      "description": "For users with latest v16.16.38 non-root variant, there's a bug in upstream microG. Until that resolves, please wait for updates or roll back to v15 versions. Root users will no issues with casting if they are using Google Play Services."
+      "title": "Miksi Cast-toiminto ei toimi?",
+      "description": "Käyttäjille, joilla on v16.16.38 ja kaikki ylemmät ei-root variantit ja root variantit, jotka käyttävät mikroG pohjaisia ROMeja, mikroG:ssä on vika. Kunnes se ratkaistaan, odota päivityksiä tai palaudu v15 versioihin. Jos käytät Google Play -palveluita root-varianteilla, sinulla ei ole ongelmia Cast-toiminnon kanssa."
     },
     {
-      "title": "What is APK Signing?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- [Official site](https://vancedapp.com)\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Mikä on APK Signing?",
+      "description": "Luet tätä, koska et käytä Vanced Manageria tai olet ehkä asentanut Vancedin epävirallisesta lähteestä.\nKäytä vain Vanced Manageria!\n\nVoit turvallisesti ladata Vanced Managerin osoitteesta:\n- [Virallinen sivusto](https://vancedapp.com)\n- [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Onko YouTube Vanced Play Kaupassa?",
-      "description": "NO!\nAgain, DO NOT install or even try to search for any fake apps named \"YouTube Vanced\" or similar on the Play Store or any app stores to install Vanced.\n\nWe only have [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), and it's the only official app published on Play Store.\n\nIf you find any other app with our icon and name, report it as impersonation and give it a bad review.\n\nOur apps can only be found at [official site](https://vancedapp.com)."
+      "description": "EI!\nJälleen, ÄLÄ asenna tai edes yritä etsiä väärennettyjä sovelluksia nimeltä \"YouTube Vanced\" tai vastaavia Play Kaupasta tai mistään sovelluskauppoista asentaaksesi Vancedin.\n\nMeillä on vain [Vanced Guide](https://play.google.com/store/apps/details?id=com.vanced.faq), ja se on ainoa virallinen sovellus julkaistu Play Kaupassa.\n\nJos löydät jonkin muun sovelluksen, jolla on kuvakkeemme ja nimemme, ilmoita se toisena henkilönä esiintymisenä ja anna sille huono arvostelu.\n\nSovelluksemme löytyvät vain [viralliselta sivustolta](https://vancedapp.com)."
     },
     {
-      "title": "Why is Vanced not showing up in home screen or app drawer?",
-      "description": "You are reading this because you are not using Vanced Manager or you may have installed Vanced from an unofficial source.\nJust use Vanced Manager!\n\nYou can safely download Vanced Manager from:\n- Official site <https://vancedapp.com>\n- [GitHub repository](https://github.com/YTVanced/VancedManager/releases/latest)"
+      "title": "Miksi Vanced ei näy kotinäytöllä tai sovellusvalikossa?",
+      "description": "Luet tätä, koska et käytä Vanced Manageria tai olet ehkä asentanut Vancedin epävirallisesta lähteestä.\nKäytä vain Vanced Manageria!\n\nVoit turvallisesti ladata Vanced Managerin osoitteesta:\n- Virallinen sivusto <https://vancedapp.com>\n- [GitHub repo](https://github.com/YTVanced/VancedManager/releases/latest)"
     },
     {
       "title": "Mikseivät videot toistu?",
@@ -110,11 +110,11 @@
     },
     {
       "title": "Kuinka piilottaa microG ilmoitus?",
-      "description": "To hide microG the notification,\n\n1. You can disable battery optimization for Vanced microG and reboot your device.\n\n2. If the above method doesn't work, disable microG notifications by holding on to the notification, toggle it off and tap Save.\n\n> Disabling app notifications can be done in different ways depending on the Android user interface. If you don't know how to disable it, try using Google for learning how to disable it."
+      "description": "Piilottaaksesi microG-ilmoituksen,\n\n1. Voit poistaa akun optimoinnin käytöstä Vanced microG:lle ja käynnistää laitteen uudelleen.\n\n2. Jos yllä mainittu menetelmä ei toimi, poista mikroG-ilmoitukset käytöstä pitämällä ilmoitusta painettuna, ota se pois käytöstä ja napauta Tallenna.\n\n> Sovellusilmoitusten poistaminen käytöstä voidaan tehdä eri tavoin Androidin käyttöliittymästä riippuen. Jos et tiedä miten se poistetaan käytöstä, yritä käyttää Googlea oppiaksesi kuinka se otetaan pois käytöstä."
     },
     {
       "title": "Näyttääkö 1440p paremmalta 1080p-näytölläni?",
-      "description": "Yes, but only if the video ratio is something like 18:9, 21:9, ... You can enable `Stats for nerds` in Settings > General to confirm it.\n\nTo enable higher resolutions, go to Vanced settings > Video settings and turn on `Max resolution` then restart the app."
+      "description": "Kyllä, mutta vain jos videosuhde on esimerkiksi 18:9, 21:9, ... Voit ottaa käyttöön `Ota tekniset tiedot käyttöön` Asetukset > Yleiset -valikosta vahvistaaksesi sen.\n\nOttaaksesi korkeampia resoluutioita käyttöön, siirry Vanced-asetuksiin > Videoasetukset ja ota `Enimmäistarkkuus` käyttöön ja käynnistä sovellus uudelleen."
     }
   ]
 }

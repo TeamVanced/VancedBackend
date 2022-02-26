@@ -17,7 +17,7 @@
       "description": "Vanced 不包含任何视频下载功能，而且永远不会添加此功能。\n\n在[某些国家或地区](https://support.google.com/youtube/answer/6141269)中，很多视频可以免费下载。对于其他国家或地区，请获取 YouTube Premium，或使用第三方下载器。\n\n再次声明，Vanced 永远不会在应用中加入视频下载器或类似的功能。\n\n因为 Google 不喜欢人们从他们的平台下载版权内容，这项功能曾经导致很多修改版 YouTube 被迫停止开发，所以不要要求添加这项功能！"
     },
     {
-      "title": "为什么滑动手势没有用？",
+      "title": "为什么滑动手势不起作用？",
       "description": "如果您在 Vanced 设置 > 布局设置 中启用了底部评论（旧版布局），将其关闭并重启应用。如果这不能解决问题，请将 Vanced 强制停止，并清除其应用数据。"
     },
     {
@@ -37,8 +37,8 @@
       "description": "因为：\n\n1. 原版应用使用 Split APK，所以 Vanced 也是。\n2. Split APK 仅安装您选择的语言，因此能够减少存储占用。\n3. Split APK 只包含您的设备需要的核心 APK 版本。\n\n当然，Vanced Manager 或开发者完全可以将其转化为一个正常的、单独的 APK 文件，只不过我们懒于这么做而已。您只需稍微适应一下……\n\n不过不要担心，Vanced Manager 包揽一切麻烦，您只要轻触`安装`按钮就好了。"
     },
     {
-      "title": "为什么启动屏的颜色和主题颜色不一样？",
-      "description": "启动屏背景颜色直接从 Android 框架中取色，以确保能依据系统主题改变。您可以用 Substratum 或 Swift 主题更改颜色。"
+      "title": "为什么启动屏幕的颜色与主题不同？ ",
+      "description": "启动屏背景颜色直接从 Android 框架中取色，以确保能依据系统主题改变。您可以用 [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) 或 [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller) 更改颜色。"
     },
     {
       "title": "我应该重新下载安装文件吗？",
@@ -46,7 +46,7 @@
     },
     {
       "title": "为什么 Root 版不具备麦克风权限？",
-      "description": "最新版Vanced 就会出现这种情况。"
+      "description": "最新版本的 Vanced 就会做到这一点。"
     },
     {
       "title": "ExoPlayer v1 是什么？",
@@ -79,8 +79,8 @@
       "description": "1. 您至少需要 GApps 的 [Pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) 版本才能运行 Vanced。\n\n2. 您无法使用 microG 核心来使用 Vanced，因为 Google Play 服务框架是 Vanced 必需的运行库。所有 GApps 安装包中均包含 Google Play 服务框架。\n\n3. 如果您担心您的隐私，不想使用 GApps，但还是想观看无广告的 YouTube，那么[网页版](https://youtube.com)更适合您。"
     },
     {
-      "title": "为什么投屏不起作用？",
-      "description": "对于使用最新版 v16.16.38 的无 Root 用户，microG 的缺陷可能影响您的正常使用。请等待新版本发布，或退回至 v15 版本。使用 Google Play 服务的 Root 用户不会遇到投屏问题。"
+      "title": "为什么无法投射屏幕？",
+      "description": "对于使用 v16.16.38 及以上版本的 Root 或非 Root 用户，如果您正在使用基于 microG 的 ROM，上游 microG 的漏洞会影响投屏功能。在解决之前，请等待更新，或回退至 v15 版本。如果您在具备 Google Play 服务的情况下使用 Root 版本，您将不会受此问题的影响。"
     },
     {
       "title": "什么是 APK 签名？",

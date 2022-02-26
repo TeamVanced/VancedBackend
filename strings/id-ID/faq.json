@@ -37,7 +37,7 @@
       "description": "Dikarenakan:\n\n1. Aplikasi bawaan menggunakan hal yang sama sehingga Vanced menggunakannya juga.\n2. Hanya memasang bahasa yang anda tentukan untuk mengurangi konsumsi penyimpanan.\n3. Memiliki satu-satunya versi core APK yang perangkat anda butuhkan.\n\nTentu saja, Vanced Manager atau para developer bisa mengkonversi split APK ke satu file APK biasa, akan tetapi kami sangat malas melakukannya. Anda hanya perlu untuk beradaptasi dengan apa yang kami miliki...\n\nTetapi jangan khawatir, Vanced Manager melakukan semuanya untuk anda sehingga anda hanya butuh menekan tombol `Pasang`."
     },
     {
-      "title": "Mengapa warna yang ada di layar startup berbeda dari tema?",
+      "title": "Mengapa warna yang ada pada layar startup tidak sama dengan tema? ",
       "description": "Warna latar belakang layar splash sekarang diambil dari warna Android framework untuk memastikan hal itu berubah sesuai dengan tema sistem. Anda dapat menggunakan tema Substratum/Swift untuk mengubah warnanya."
     },
     {
@@ -45,7 +45,7 @@
       "description": "File dapat rusak dikarenakan beberapa alasan dan dapat menyebabkan masalah. Untuk mencegah hal ini, Anda bisa memilih untuk mengunduh kembali agar pemasangan anda berjalan lancar."
     },
     {
-      "title": "Mengapa versi root tidak memiliki izin mikropon?",
+      "title": "Mengapa versi root tidak memiliki izin Mikropon? ",
       "description": "Vanced mempunyai izin mikropon apabila Vanced Anda merupakan versi terbaru."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Bagaimana cara untuk membuat YouTube Vanced menjadi aplikasi default?",
-      "description": "Seperti yang terbaca di judul, banyak pengguna yang sudah seringkali menanyakan bagaimana cara mereka untuk membuat YouTube Vanced menjadi aplikasi default untuk membuka tautan YouTube dari aplikasi lain(seperti browser, aplikasi pesan dan aplikasi lain)\n\nUntuk root, Anda tidak perlu khawatir tentang masalah ini karena sudah diatur menjadi default sejak YouTube terganti oleh YouTube Vanced.\n\nUntuk non-root, solusinya berbeda antara OneUI, MIUI, dan seterusnya. Kami tidak bisa memberikan semua solusi untuk setiap OS yang tersedia, dan Anda mungkin perlu mencari sendiri di Google.",
+      "description": "Seperti yang terbaca di judul, banyak pengguna yang sudah seringkali menanyakan bagaimana cara mereka untuk membuat YouTube Vanced menjadi aplikasi default untuk membuka tautan YouTube dari aplikasi lain(seperti browser, aplikasi pesan dan aplikasi lain)\n\nUntuk root, Anda tidak perlu khawatir tentang masalah ini karena sudah diatur menjadi default sejak YouTube resmi terganti oleh YouTube Vanced.\n\nUntuk non-root, solusinya berbeda antara OneUI, MIUI, dan seterusnya. Kami tidak bisa memberikan semua solusi untuk setiap OS yang tersedia, dan Anda mungkin perlu mencari sendiri di Google.",
       "fields": [
         {
           "title": "Pengguna OneUI:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "Mengapa varian root tidak bekerja dengan microG core?",
+      "title": "Mengapa varian root tidak bekerja dengan microG core? ",
       "description": "1. Anda membutuhkan setidaknya varian GApps [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) untuk menjalankan Vanced.\n\n2. Anda tidak bisa menjalankan Vanced dengan microG core dikarenakan Vanced membutuhkan Google Play Services Framework yang dimana tersedia di semua paket GApps.\n\n3. Apabila Anda khawatir dengan privasi Anda & dan tidak ingin menggunakan GApps tetapi masih ingin menonton YouTube tanpa iklan, maka [versi web](https://youtube.com) selalu tersedia."
     },
     {
-      "title": "Mengapa membagikan layar tidak bekerja?",
-      "description": "Untuk pengguna varian non-root dengan versi 16.16.38, ada sebuah bug di upstream microG. Sampai bug itu terselesaikan, mohon tunggu untuk pembaruan atau gunakan versi 15. Pengguna root tidak akan mempunyai masalah dengan casting apabila mereka menggunakan Google Play Services."
+      "title": "Mengapa membagikan layar tidak dapat bekerja?",
+      "description": "Untuk pengguna v16.16.38 keatas, semua varian non-root dan yang menggunakan varian root dengan ROM basis microG, ada sebuah bug di upstream microG. Sampai masalah itu terselesaikan, mohon tunggu untuk pembaruan atau kembali ke versi v15. Apabila Anda menggunakan Google Play Services dengan varian root, Anda tidak akan mempunyai masalah dengan membagikan layar."
     },
     {
       "title": "Apa itu APK Signing?",

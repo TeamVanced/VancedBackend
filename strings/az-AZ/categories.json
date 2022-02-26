@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "category": "Bugreport",
+      "category": "Xəta bildirmə",
       "json": "bugreport.json"
     },
     {
-      "category": "FAQ",
+      "category": "TSS",
       "json": "faq.json"
     },
     {
-      "category": "Features",
+      "category": "Özəlliklər",
       "json": "features.json"
     },
     {
-      "category": "Troubleshooting",
+      "category": "Problemlərin aradan qaldırılması",
       "json": "troubleshooting.json"
     }
   ]

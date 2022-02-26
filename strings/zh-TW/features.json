@@ -2,7 +2,7 @@
   "data": [
     {
       "title": "Vanced",
-      "description": "YouTube Vanced旨在成為原生YouTube的更好版本。它包括廣告阻擋，深色主題等等。使用Vanced Manager可以相對輕鬆地安裝YouTube Vanced。"
+      "description": "YouTube Vanced旨在成為更好版本的原生YouTube。它包括廣告阻擋，深色主題等等。使用Vanced Manager可以相對輕鬆地安裝YouTube Vanced。"
     },
     {
       "title": "Vanced Music",
@@ -10,7 +10,7 @@
     },
     {
       "title": "YouTube Vanced 主要特色",
-      "description": "- 對 OLED 友善的黑色主題和暗色主題_(aka 深灰色)_除了白色主題\n- 阻擋所有廣告\n- 允許您在背景或子母畫面(PiP)模式(只在 Android 8+) 中播放影片\n- 滑動控制允許您透過上下手勢控制亮度和音量(可調整設定)\n- 自動重播功能可讓您重複播放影片\n- 可以將新的 留言/平板迷你播放器 版面切換到與平板舊版非常相似的版本(但是，它有點問題)"
+      "description": "- 除了白色主題，還有對 OLED 友善的黑色主題和暗色主題_(aka 深灰色)_\n- 阻擋所有廣告\n- 允許您在背景或畫中畫(PiP)模式(只在 Android 8+) 中播放影片\n- 滑動控制允許您透過上下手勢控制亮度和音量(可調整設定)\n- 自動重播功能可讓您重複播放影片\n- 可以將新的留言/平板迷你播放器版面切換到與平板舊版非常相似的版本(但是，它有點問題)"
     },
     {
       "title": "個人化",
@@ -18,7 +18,7 @@
     },
     {
       "title": "SponsorBlock",
-      "description": "- 具有跳過贊助商部分的功能（[YouTuber](https://en.wikipedia.org/wiki/YouTuber) 在影片中間宣傳服務或產品的地方）\n- 它還支援略過像是介紹、結尾和自我宣傳\n- [此處](https://sponsor.ajay.app)是我們使用的API。您可以找到有關其運作原理的更多資訊\n- 它也允許您將自己的想法結晶納入到 API 並為更廣泛的社群做出貢獻\n- 控制是否自動跳過片段類型或顯示跳過按鈕，或者根本不跳過它\n- 根據播放時間線中的類型以特定顏色標記該片段"
+      "description": "- 具有跳過贊助商部分的功能（[YouTuber](https://en.wikipedia.org/wiki/YouTuber) 在影片中間宣傳服務或產品的地方）\n- 它還支援略過像是介紹、結尾和自我宣傳\n- [此處](https://sponsor.ajay.app)是我們使用的API。您可以找到有關其運作原理的更多資訊\n- 它也允許您將自己的片段納入到 API 並為更廣泛的社群做出貢獻\n- 控制是否自動跳過片段類型或顯示跳過按鈕，或者根本不跳過它\n- 根據播放時間線中的類型以特定顏色標記該片段"
     },
     {
       "title": "平台",

@@ -2,14 +2,14 @@
   "data": [
     {
       "title": "如何报告错误？",
-      "description": "您可以使用我们的 [Github issue tracker](https://github.com/YTVanced/Vanced) 报告错误\n\n**请务必阅读 README 并检查您的错误是否已经被报告过！**",
+      "description": "您可以使用我们的 [Github Issue Center](https://github.com/YTVanced/Vanced#vanced-issue-center) 报告错误\n\n请务必搜索现有错误以确定您的错误是否已经被报告过！",
       "fields": [
         {
           "title": "什么时候会审核我提交的错误？",
-          "content": "我们将尽快审核您的反馈"
+          "content": "开发者腾出时间来创建新功能和修复许多问题，每个错误都需要花点时间来完成修复。 \n你只需要耐心等候。你的问题将尽快被审阅。"
         },
         {
-          "title": "如何进行 logcat？",
+          "title": "如何获取日志？",
           "content": "对于非 Root 用户：\n您需要一台电脑来进行 `logcat` 输出。您可以参考此[文本教程](https://github.com/YTVanced/Vanced#creating-a-logcat-using-the-android-debug-bridge-adb-on-your-pc)和[视频教程](https://youtu.be/ICLpwgsJJP0)。\n\n对于 Root 用户：\n您不需要电脑来进行此操作，请参考[此教程](https://github.com/YTVanced/Vanced#creating-a-logcat-using-termux-on-your-rooted-android)。"
         },
         {

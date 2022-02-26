@@ -26,7 +26,7 @@
     },
     {
       "title": "Root 版与非 Root 版之间的区别",
-      "description": "- Root 版：\n可以无缝取代官方 YouTube 应用的 Root 版。因此，您可以直接打开 YouTube 链接，或通过 Google 助理打开 Vanced。\n- 非 Root版：\n- 如果您的设备难以 Root，或者您根本不想 Root 您的主力机，您应该选择非 Root 版本。\n- 它也可以安装在已 Root 的设备上。 由于非 Root 版的应用包名不同于官方 YouTube 应用，它们可以共存。 请注意，您需要安装一个附加的配套应用（Vanced microG）才能使用您的 YouTube/Google 帐户登录。\n- 此外，您必须手动设置 Vanced 为打开 YouTube 链接的默认应用程序。 \n- 然而，非 Root 版更易于使用，所以我们建议您使用非 Root 版，除非您真的需要替换您手机上的原版 YouTube 应用。"
+      "description": "#### Root 版：\n可以无缝取代官方 YouTube 应用的 Root 版。因此，您可以直接打开 YouTube 链接，或通过 Google 助理打开 Vanced。\n\n#### 非 Root版：\n- 如果您的设备难以 Root，或者您根本不想 Root 您的常用手机，您应该选择非 Root 版本。\n- 由于非 Root 版的应用包名不同于官方 YouTube 应用，它们可以共存。 请注意，您需要安装一个附加的配套应用（Vanced microG）才能登录您的 YouTube/Google 帐户。\n- 此外，您必须手动设置 Vanced 为默认打开 YouTube 链接的应用程序。 \n- 然而，非 Root 版更易于使用，所以我们建议您使用非 Root 版，除非您真的需要替换您手机上的原版 YouTube 应用。"
     }
   ]
 }

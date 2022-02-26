@@ -37,7 +37,7 @@
       "description": "Protože:\n\n1. Výchozí aplikace to používá, takže to používá i Vanced.\n2. Instaluje pouze jazyky, které určíte, abyste šetřili úložiště.\n3. Má jedinou verzi jádra APK, kterou vaše zařízení vyžaduje.\n\nSamozřejmě, že Vanced Manager nebo vývojáři to mohou převést na normální, jediný soubor APK, ale my jsme tak líní a nechce se nám. Musíte vyjít s tím, co máme...\n\nNebojte se, Vanced Manager za vás udělá veškerou tvrdou práci, stačí klepnout na tlačítko `Instalovat`."
     },
     {
-      "title": "Proč se barva na úvodní obrazovce liší od motivu?",
+      "title": "Proč barva úvodní obrazovky neodpovídá motivu? ",
       "description": "Barva pozadí úvodní obrazovky je převzata z barvy systému Android, aby se zajistilo, že se změní podle motivu systému. Ke změně barvy můžete použít motivy [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum) nebo [Swift Installer](https://play.google.com/store/apps/details?id=com.brit.swiftinstaller)."
     },
     {
@@ -45,7 +45,7 @@
       "description": "Soubory můžou být poškozeny z různých důvodů a můžou později způsobovat problémy. Chcete-li tomu zabránit, můžete se rozhodnout je znovu stáhnout, abyste zajistili bezproblémový průběh instalace."
     },
     {
-      "title": "Proč verze root nemá oprávnění přístupu k mikrofonu?",
+      "title": "Proč verze root nemá oprávnění přístupu k mikrofonu? ",
       "description": "Funguje, pokud je Vanced aktuální."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "Jak nastavit YouTube Vanced jako výchozí aplikaci?",
-      "description": "Jak název napovídá, spousta uživatelů se mnohokrát ptá, jak můžou nastavit YouTube Vanced jako výchozí pro otevírání odkazů YouTube z jiných aplikací (jako jsou prohlížeče, aplikace pro zasílání zpráv a jakékoli jiné aplikace).\n \nUživatelé root verze se nemusejí obávat, protože ve výchozím nastavení je aplikace YouTube nahrazena aplikací YouTube Vanced. \n\nPro užívatele non-root verze byla řešení rozdělena mezi OneUI, MIUI a ostatní.  Nemůžeme poskytnout řešení pro každý operační systém, který je k dispozici, a budete si je možná muset vyhledat sami.",
+      "description": "Jak název napovídá, spousta uživatelů se mnohokrát ptá, jak můžou nastavit YouTube Vanced jako výchozí pro otevírání odkazů YouTube z jiných aplikací (jako jsou prohlížeče, aplikace pro zasílání zpráv a jakékoli jiné aplikace).\n \nUživatelé root verze se nemusejí obávat, protože ve výchozím nastavení je aplikace YouTube nahrazena aplikací YouTube Vanced. \n\nPro uživatele non-root verze byla řešení rozdělena mezi OneUI, MIUI a ostatní.  Nemůžeme poskytnout řešení pro každý operační systém, který je k dispozici, a budete si je možná muset vyhledat sami.",
       "fields": [
         {
           "title": "Uživatelé OneUI:",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "title": "V čem spočívá problém ohledně microG Core?",
+      "title": "Proč nefunguje varianta root s jádrem microG? ",
       "description": "1. Abyste mohli spustit Vanced, musíte mít alespoň [pico](https://github.com/opengapps/opengapps/wiki/Pico-Package) variantu GApps\n\n2. Vanced s microG Core nelze spustit, protože potřebuje Google Play Services Framework, který je k dispozici ve všech balíčcích GApps.\n\n3. Pokud se obáváte o své soukromí a nechcete používat GApps, ale přesto chcete sledovat YouTube bez reklam, je vždy k dispozici [webová verze](https://youtube.com)."
     },
     {
-      "title": "Proč nefunguje Vysílání?",
-      "description": "Uživatelé verze 16.16.38 ve variantě bez root oprávnění se setkali s chybou nacházející se v microG, které je vyvíjeno nezávisle. Dokud nebude tato chyba opravena, vraťte se na některou z verzí v15 a počkejte prosím na aktualizaci. Uživatelé s oprávněním root nebudou mít s Vysíláním problémy, pokud používají Služby Google Play."
+      "title": "Proč nefunguje vysílání?",
+      "description": "Pro uživatele s verzí v16.16.38 a všemi výše uvedenými variantami bez root a variantami s root, kteří používají ROM založené na microG, je v upstreamu microG chyba. Dokud se to nevyřeší, vyčkejte na aktualizace nebo se vraťte k verzi v15. Pokud používáte služby Google Play s variantou root, nebudete mít s vysíláním žádné problémy."
     },
     {
       "title": "Co je to podepisování APK?",

@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "category": "Справаздача аб памылцы",
+      "json": "bugreport.json"
+    },
+    {
+      "category": "Частыя пытанні",
+      "json": "faq.json"
+    },
+    {
+      "category": "Асаблівасці",
+      "json": "features.json"
+    },
+    {
+      "category": "Выпраўленне непаладак",
+      "json": "troubleshooting.json"
+    }
+  ]
+}
